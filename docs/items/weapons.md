@@ -1,4 +1,8 @@
-# List of REQ weapons
+# Weapons
+
+Information about weapons.
+
+## List of REQ Weapons
 
 Regular = implemented
 

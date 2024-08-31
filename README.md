@@ -1,4 +1,3 @@
-
 # Warzone
 <img src="assets/icon.png" align="right"/>
 

@@ -1,4 +1,3 @@
-
 # Documentation
 
-Documentation about data for our mode.
+Documentation about data for the mode.
