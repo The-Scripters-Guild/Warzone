@@ -1,0 +1,8 @@
+# Purchases available at Gameplay Start
+
+| **REQ COST** |              **1**               |              **2**               |                      **3**                       |                 **4**                 |                **5**                |               **6**               | **7** | **8** | **9** |
+| :----------: | :------------------------------: | :------------------------------: | :----------------------------------------------: | :-----------------------------------: | :---------------------------------: | :-------------------------------: | :---: | :---: | :---: |
+|              | Threat Seeker, Max 4 [Equipment] | Shroud Screen, Max 4 [Equipment] |         Threat Sensor, Max 4 [Equipment]         |    Grappleshot, Max 5 [Equipment]     | Grappleshot, Leg, Max 5 [Equipment] | Drop Wall, Leg, Max 1 [Equipment] |       |       |       |
+|              |                                  |   Drop Wall, Max 3 [Equipment]   | Repair Field, Max 2, but only give 1 [Equipment] | Threat Sensor, Leg, Max 5 [Equipment] |                                     |                                   |       |       |       |
+|              |                                  |   Thruster, Max 3 [Equipment]    |           Repulsor, Max 5 [Equipment]            |   Thruster, Leg, Max 5 [Equipment]    |                                     |                                   |       |       |       |
+|              |                                  |                                  |                                                  |                                       |                                     |                                   |       |       |       |
