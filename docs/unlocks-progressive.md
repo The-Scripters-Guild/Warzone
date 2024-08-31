@@ -1,0 +1,11 @@
+# Progressive Unlocks
+
+| **Game State** |          **0**          |             **1**              |              **2**               |               **3**               |            **4**             |               **5**               |          **6**          |
+| :------------: | :---------------------: | :----------------------------: | :------------------------------: | :-------------------------------: | :--------------------------: | :-------------------------------: | :---------------------: |
+|                |    MA40 AR [Loadout]    | Longshot Sidekick #1 [Loadout] |       Bandit Evo [Loadout]       |        AR-SMG #4 [Loadout]        |        BR75 [Loadout]        |      VK78 Commando [Loadout]      | vkSentinel #9 [Loadout] |
+|                | MK50 Sidekick [Loadout] |                                |     arSentinel #3 [Loadout]      |       M392 Bandit [Loadout]       | Advanced Sensors [Armor Mod] |      brSentinel #5 [Loadout]      |                         |
+|                |                         |                                |      Grenadier [Armor Mod]       |      Auto Medic [Armor Mod]       |                              | Dynamo Grenade Expert [Armor Mod] |                         |
+|                |                         |                                |     Patrol Case [Armor Mod]      |      Speed Boost [Armor Mod]      |                              |                                   |                         |
+|                |                         |                                | Frag Grenade Expert [Armor Mod]  |   "Upgraded Sprint" [Armor Mod]   |                              |                                   |                         |
+|                |                         |                                | Spike Grenade Expert [Armor Mod] | Plasma Grenade Expert [Armor Mod] |                              |                                   |                         |
+|                |                         |                                |                                  |   Reflex Enhancers [Armor Mod]    |                              |                                   |                         |
