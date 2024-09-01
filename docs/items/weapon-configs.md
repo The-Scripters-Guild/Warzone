@@ -143,3 +143,449 @@ What values a Weapon Type can have:
 * REQ Tier: 3
 * Game State: 2
 * Notes: -
+  
+## [11] Boxer
+* Weapon Type: CQS48 Bulldog + BR75 Breacher
+* Trait Set: 11
+  * Weapon Damage: 1.0
+* Config: Combo
+* Ammo: Default
+  * 30+90
+* REQ Tier: 4
+* Game State: 3
+* Notes:-
+  
+## [12] Blaze Of Glory
+* Weapon Type: CQS48 Bulldog + Diminisher Of Hope
+* Trait Set: 12
+  * Weapon Damage: 2.90
+* Config: Combo
+* Ammo: Default
+  * 7+7
+* REQ Tier: 5
+* Game State: 4
+* Notes:-
+  
+## [13] Nornfang
+* Weapon Type: S7 Sniper + Diminisher Of Hope
+* Trait Set: 13
+  * Weapon Damage: 1.61
+* Config: Custom
+* Ammo: Boost (14)
+  * 4+6
+* REQ Teir: 7
+* Game State: 6
+* Notes:-
+  
+## [14] ppSentinel
+* Weapon Type: Plasma Pistol + Arcane Sentinel Beam
+* Trait Set: 14
+  * Weapon Damage: 1.9
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 4
+* Game State: 3
+* Notes:-
+
+## [15] FASTfire Pulse Carbine
+* Weapon Type: Pulse Carbine + Unbound Plasma Pistol
+* Trait Set: 15
+  * Weapon Damage: 3.0
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 6
+* Game State: 5
+* Notes:-
+  
+## [16] Pulse Launcher
+* Weapon Type: Pulse Carbine + Backdraft Cindershot
+* Trait Set: 16
+  * Weapon Damage: 0.54
+* Config: Combo
+* Ammo: Cut (25)
+  * 25%
+* REQ Teir: 5
+* Game State: 4
+* Notes:-
+  
+## [17] Heavy Stalker
+* Weapon Type: Stalker Rifle + Riven Mangler
+* Trait Set: 17
+  * Weapon Damage: 1.20
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 5
+* Game State: 4
+* Notes:-
+  
+## [18] FUStalker
+* Weapon Type: Stalker Rifle + Striker Sidekick
+* Trait Set: 18
+  * Weapon Damage: 2.70
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 7
+* Game State: 6
+* Notes:-
+
+## [19] Bayonet Ravager
+* Weapon Type: Ravager + Deulist Energy Sword
+* Trait Set: 19
+  * Weapon Damage: 1.0
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 5
+* Game State: 4
+* Notes:-
+
+## [20] Provoker
+* Weapon Type: Ravager + Elite Bloodblade
+* Trait Set: 20
+  * Weapon Damage: 1.61
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 7
+* Game State: 6
+* Notes:-
+
+## [21] Charged Disruptor
+* Weapon Type: Disruptor + Rushdown Hammer
+* Trait Set: 21
+  * Weapon damage: 1.87
+* Config: Combo
+* Ammo: Default
+  * 12+32
+* REQ Teir: 5
+* Game State: 4
+* Notes:-
+
+## [22] Charged Shock Rifle
+* Weapon Type: Shock Rifle + Diminisher Of Hope
+* Trait Set: 22
+  * Weapon Damage: 1.50
+* Config: Combo
+* Ammo: Cut (61)
+  * 12+17
+* REQ Teir: 7
+* Game State: 6
+* Notes:-
+
+## [23] H1 Mangler
+* Weapon Type: Mangler + Stalker Rifle Ultra
+* Trait Set: 23
+  * Weapon Damage: 0.9
+* Config: Combo
+* Ammo: Default
+  * 8+16
+* REQ Teir: 5
+* Game State: 4
+* Notes:-
+
+## [24] Binary Beam
+* Weapon Type: Sentinel Beam + Impact Commando
+* Trait Set: 24
+  * Weapon Damage: 0.46
+* Config: Combo
+* Ammo: Default
+  * 40+120
+* REQ Teir: 5
+* Game State: 4
+* Notes:-
+
+## [25] FUBeam
+* Weapon Type: Sentinel Beam + Striker Sidekick
+* Trait Set: 25
+  * Weapon Damage: 0.52
+* Config: Combo
+* Ammo: Default
+  * 14+42
+* REQ Teir: 7
+* Game State: 6
+* Notes:-
+
+## [26] Guidedshot
+* Weapon Type: Cindershot + M41 Tracker
+* Trait Set: 26
+  * Weapon Damage: 1.10
+* Config: Combo
+* Ammo: Default
+  * 6+3
+* REQ Teir: 7
+* Game State: 6
+* Notes:-
+
+## [27] Fast Skewer
+* Weapon Type: Skewer + Diminisher Of Hope
+* Trait Set: 27
+  * Weapon Damage: 1.05
+  * Movement Speed: 1.20
+  * Jump Height: 1.30
+  * Reload Speed
+    * Empty Reload Scalar: 3.00
+    * Tactical Reload Scalar: 3.00
+* Config: Combo
+* Ammo: Default
+  * 1+3
+* REQ Teir: 6
+* Game State: 5
+* Notes:-
+
+## [28] M247-Jumper
+* Weapon Type: M247 HMG + Rushdown Hammer
+* Trait Set: 28
+  * Weapon Damage: 1.0
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 4
+* Game State 3
+* Notes: Has a speed and jump boost from Rushdown Hammer
+
+## [29] M247-Striker
+* Weapon Type: M247 HMG + Striker Sidekick
+* Trait Set: 29
+  * Weapon Damage: 0.3
+  * Movement Speed With Turret: 1.20
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 5
+* Game State: 4
+* Notes:-
+  
+## [30] Jorge's Chaingun
+* Weapon Type: M247 HMG + MA40 Longshot
+* Trait Set: 30
+  * Weapon Damage: 1.2
+  * Movement Speed With Turret: 1.47
+  * Damage Resistance
+    * Direct Damage Scalar: 2.10
+    * Grenade Damage Scalar: 1.0
+    * Explosive Damage Scalar: 1.0
+* Config: Scripted
+* Ammo: Default
+  * 100%
+* REQ Teir: 7
+* Game State: 6
+* Notes:-
+  
+## [31] Scrap Cannon (Answer)
+* Weapon Type: Scrap Cannon + Diminisher Of Hope
+* Trait Set: 31
+  * Weapon Damage: 1.7
+  * Movement Speed With Turret: 1.6
+  * Jump Height: 1.13
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 5
+* Game State: 4
+* Notes:-
+
+## [32] Burst Cannon
+* Weapon Type: Plasma Cannon + Rapid Fire Pulse Carbine
+* Trait Set: 32
+  * Weapon Damage: 1.5
+  * Jump Height: 1.13
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 5
+* Game State: 4
+* Notes;-
+
+## [33] Barrage Cannon
+* Weapon Type: Plasma Cannon + Unbound Plasma Pistol
+* Trait Set: 33
+  * Weapon Damage: 1.0
+  * Movement Speed With Turret: 1.4
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 6
+* Game State: 5
+* Notes:-
+
+## [34] Pinpoint Cannon
+* Weapon Type: Plasma Cannon + Pinpoint Needler
+* Trait Set: 34
+  * Weapon Damage: 1.5
+  * Movement Speed With Turret: 1.2
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 7
+* Game State: 6
+* Notes:-
+
+## [35] adsDamageResistSword
+* Weapon Type: Energy Sword + Unbound Plasma Pistol
+* Trait Set: 35
+  * Weapon Damage: 1.0
+  * Movement Speed: 0.80
+  * Damage Resistance
+    * Direct Damage Scalar: 1.55
+    * Grenade Damage Scalar: 1.0
+    * Explosive Damage Scalar: 1.0
+* Config: Scripted
+* Ammo: Default
+  * 100%
+* REQ Teir: 4
+* Game State: 3
+* Notes:- Movement Speed reduction and Damage Resistance increase, only apply when grounded aiming down sights.
+
+## [36] Prophet's Bane
+* Weapon Type: Infected Energy Sword + MA40 Longshot
+* Trait Set: 36
+  * Weapon Damage: 1.0
+  * VFX - Active Camouflage
+    * Intensity Scalar: 0.80
+    * Interpolation Scalar: 1.00
+* Config: Combo
+* Ammo: Default
+  * 100%
+* REQ Teir: 6
+* Game State: 5
+* Notes: Has a never ending camo as long as the weapon has ammo. Makes audible noise that alerts the enemy team to a wielder's presence in close range
+
+## [37] Spike Hydra
+* Weapon Type: Hydra + S7 Flexfire
+* Trait Set: 37
+  * Weapon Damage: 0.01
+* Config: 1
+  * Shot Count: 1
+  * Shot Velocity: 400
+  * Projectile: Spike Grenade
+* Ammo: Default
+  * 6+12
+* REQ Teir: 5
+* Game State: 4 
+* Notes:-
+
+## [38] Blaze Hydra
+* Weapon Type: Hydra + Diminisher Of Hope
+* Trait Set: 38
+  * Weapon Damage: 0.9
+* Config: 1
+  * Shot Count: 1
+  * Shot Velocity: 950
+  * Projectile: Banished Hunter Shot
+* Ammo: Cut ()
+  * 6+6
+* REQ Teir: 7
+* Game State: 6
+* Notes:-
+
+## [39] Ad Victoriam
+* Weapon Types: M41 SPNKr + Diminisher Of Hope
+* Trait Set: 39
+  * Weapon Damage: 0.70
+* Config: 3
+  * Shot Count: 2
+  * Shot Velocity: 100
+  * Projectile: Rocket Hog Shot
+* Ammo: Boost ()
+  *  2+4
+* REQ Teir: 6
+* Game State: 5
+* Notes:-
+
+## [40] Fast Shock Rocket
+* Weapon Type: M41 SPNKr + Calcine Disruptor
+* Trait Set: 40
+  * Weapon Damage: 3.0
+* Config: 1
+  * Shot Count: 1
+  * Shot Velocity: 450
+  * Projectile: Gold Sentry Rocket
+* Ammo: Cut ()
+  * 7+7
+* REQ Teir: 8
+* Game State: 6
+* Notes:-
+
+## [41] The Agoat
+* Weapon Type: M41 SPNKr + S7 Flexfire
+* Trait Set: 41
+  * Weapon Damage: 0.01
+* Config: 1
+  * Shot Count: 1
+  * Shot Velocity: 100
+  * Projectile: Rocket Hog Shot
+* Ammo: Cut ()
+  * 40 total
+* REQ Teir: 3
+* Game State: 2
+* Notes:-
+
+## [42] Plasma Mangler
+* Weapon Type: Mangler + Striker Sidekick
+* Trait Set: 42
+  * Weapon Damage: 0.01
+* Config: 1
+  * Shot Count: 1
+  * Shot Velocity: 200
+  * Projectile: Plasma Grenade
+* Ammo: Cut ()
+  * 10 total
+* REQ Teir: 6
+* Game State: 5
+* Notes:-
+
+## [43] Skewer Ultra
+* Weapon Type: Skewer + Striker Sidekick
+* Trait Set: 43
+  * Weapon Damage: 3.0
+* Config: 1
+  * Shot Count: 1
+  * Shot Velocity: 2000
+  * Projectile: Volatile Skewer Shot
+* Ammo: Cut ()
+  * 10 total
+* REQ Teir: 9
+* Game State: 6
+* Notes:-
+
+## [44] Carpetbomb Heatwave
+* Weapon Type: Heatwave + Impact Commando
+* Trait Set: 44
+  * Weapon Damage: 0.01
+* Config: 4
+  * Shot Count: 3
+  * Shot Velocity: 300
+  * Projectile: Rocket Hog Shot
+* Ammo: Cut ()
+  * 30 Shots total
+* REQ Teir: 5
+* Game State: 4
+* Notes:-
+
+## [45] Fuelshot
+* Weapon Type: Cindershot + Striker Sidekick
+* Trait Set: 45
+  * Weapon Damage: 0.01
+* Config: 2
+  * Shot Count: 3
+  * Shot Velocity: 300
+  * Projectile: Hunter Shot
+* Ammo: Cut ()
+  * 7 Shots Total
+* REQ Teir: 6
+* Game State: 5
+  
+## [46] Riven Sniper
+* Weapon Type: S7 Sniper + Riven Mangler
+* Trait Set: 46
+  * Weapon Damage: 2.60
+* Config: Combo
+* Ammo: Boost ()
+  * 4+16
+* REQ Teir: 6
+* Game State: 5
+* Notes:-
