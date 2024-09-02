@@ -69,7 +69,7 @@ What values a Weapon Type can have:
 ## [4] AR-SMG
 * Weapon Type: MA40 Assault Rifle +  Impact Commando
 * Trait Set: 4
-  * Weapon Damage: 0.30
+  * Weapon Damage: 0.43
 * Config: Combo
 * Ammo: Boost (20)
   * 40+160
@@ -170,7 +170,15 @@ What values a Weapon Type can have:
 * Weapon Type: S7 Sniper + Diminisher Of Hope
 * Trait Set: 13
   * Weapon Damage: 1.61
-* Config: Custom
+* VFX: Infected Alpha
+* Config: Projectile
+  * Shot Count: 1
+  * Shot Velocity: 3000
+  * Projectile Config: 1
+  * Projectile: Banished Hunter Shot
+  * Scripted behavior: 
+    * This weapon will have the VFX "Infected Alpha" when wielded. 
+    * Will lose all added traits when out of ammo. 
 * Ammo: Boost (14)
   * 4+6
 * REQ Tier: 7
@@ -233,7 +241,7 @@ What values a Weapon Type can have:
 * Notes:-
 
 ## [19] Bayonet Ravager
-* Weapon Type: Ravager + Deulist Energy Sword
+* Weapon Type: Ravager + Duelist Energy Sword
 * Trait Set: 19
   * Weapon Damage: 1.00
 * Config: Combo
@@ -368,12 +376,16 @@ What values a Weapon Type can have:
     * Direct Damage Scalar: 2.10
     * Grenade Damage Scalar: 1.00
     * Explosive Damage Scalar: 1.00
+  * VFX: Infected Alpha
 * Config: Scripted
+  * Scripted Behavior: 
+    * This weapon will have the VFX "Infected Alpha" when wielded. 
+    * Will lose all added traits when out of ammo. 
 * Ammo: Default
   * 100%
 * REQ Tier: 7
 * Game State: 6
-* Notes:-
+* Notes:-  
   
 ## [31] Scrap Cannon (Answer)
 * Weapon Type: Scrap Cannon + Diminisher Of Hope
@@ -433,34 +445,42 @@ What values a Weapon Type can have:
     * Direct Damage Scalar: 1.55
     * Grenade Damage Scalar: 1.00
     * Explosive Damage Scalar: 1.00
+  * VFX: VIP
 * Config: Scripted
+  * Scripted Behavior: 
+    * The "Movement Speed" reduction and "Damage Resistance" increase will only apply when grounded aiming down sights. 
+    * Will have the VFX "VIP" when the wielder is aiming down sights to communicate when they are receiving their "Damage Resist" increase and "Movement Speed" reduction. 
+    * All added traits will be removed when out of ammo.
 * Ammo: Default
   * 100%
 * REQ Tier: 4
 * Game State: 3
-* Notes:- Movement Speed reduction and Damage Resistance increase, only apply when grounded aiming down sights.
+* Notes:-
 
 ## [36] Prophet's Bane
 * Weapon Type: Infected Energy Sword + MA40 Longshot
 * Trait Set: 36
   * Weapon Damage: 1.00
-  * VFX - Active Camouflage
+  * VFX: Active Camouflage
     * Intensity Scalar: 0.80
     * Interpolation Scalar: 1.00
-* Config: Combo
+* Config: Scripted
+  * Scripted Behavior:
+    * Has a never ending camo as long as the weapon has ammo. 
 * Ammo: Default
   * 100%
 * REQ Tier: 6
 * Game State: 5
-* Notes: Has a never ending camo as long as the weapon has ammo. Makes audible noise that alerts the enemy team to a wielder's presence in close range
+* Notes: Makes audible noise that alerts the enemy team to a wielder's presence in close range
 
 ## [37] Spike Hydra
 * Weapon Type: Hydra + S7 Flexfire
 * Trait Set: 37
   * Weapon Damage: 0.01
-* Config: 1
+* Config: Projectile
   * Shot Count: 1
   * Shot Velocity: 400
+  * Projectile Config: 1
   * Projectile: Spike Grenade
 * Ammo: Default
   * 6+12
@@ -472,11 +492,12 @@ What values a Weapon Type can have:
 * Weapon Type: Hydra + Diminisher Of Hope
 * Trait Set: 38
   * Weapon Damage: 0.90
-* Config: 1
+* Config: Projectile
   * Shot Count: 1
   * Shot Velocity: 950
+  * Projectile Config: 1
   * Projectile: Banished Hunter Shot
-* Ammo: Cut ()
+* Ammo: Cut (70)
   * 6+6
 * REQ Tier: 7
 * Game State: 6
@@ -486,11 +507,12 @@ What values a Weapon Type can have:
 * Weapon Types: M41 SPNKr + Diminisher Of Hope
 * Trait Set: 39
   * Weapon Damage: 0.70
-* Config: 3
+* Config: Projectile
   * Shot Count: 2
   * Shot Velocity: 100
+  * Projectile Config: 3
   * Projectile: Rocket Hog Shot
-* Ammo: Boost ()
+* Ammo: Boost (40)
   *  2+4
 * REQ Tier: 6
 * Game State: 5
@@ -500,11 +522,12 @@ What values a Weapon Type can have:
 * Weapon Type: M41 SPNKr + Calcine Disruptor
 * Trait Set: 40
   * Weapon Damage: 3.00
-* Config: 1
+* Config: Projectile
   * Shot Count: 1
   * Shot Velocity: 450
+  * Porjectile Config: 1
   * Projectile: Gold Sentry Rocket
-* Ammo: Cut ()
+* Ammo: Cut (35)
   * 7+7
 * REQ Tier: 8
 * Game State: 6
@@ -514,12 +537,13 @@ What values a Weapon Type can have:
 * Weapon Type: M41 SPNKr + S7 Flexfire
 * Trait Set: 41
   * Weapon Damage: 0.01
-* Config: 1
+* Config: Projectile
   * Shot Count: 1
   * Shot Velocity: 100
+  * Projectile Config: 1
   * Projectile: Rocket Hog Shot
-* Ammo: Cut ()
-  * 40 total
+* Ammo: Cut (75)
+  * 30 total
 * REQ Tier: 3
 * Game State: 2
 * Notes:-
@@ -528,11 +552,12 @@ What values a Weapon Type can have:
 * Weapon Type: Mangler + Striker Sidekick
 * Trait Set: 42
   * Weapon Damage: 0.01
-* Config: 1
+* Config: Projectile
   * Shot Count: 1
   * Shot Velocity: 200
+  * Projectile Config: 1
   * Projectile: Plasma Grenade
-* Ammo: Cut ()
+* Ammo: Cut (12)
   * 10 total
 * REQ Tier: 6
 * Game State: 5
@@ -542,11 +567,12 @@ What values a Weapon Type can have:
 * Weapon Type: Skewer + Striker Sidekick
 * Trait Set: 43
   * Weapon Damage: 3.00
-* Config: 1
+* Config: Projectile
   * Shot Count: 1
   * Shot Velocity: 2000
+  * Projectile Config: 1
   * Projectile: Volatile Skewer Shot
-* Ammo: Cut ()
+* Ammo: Cut (12)
   * 10 total
 * REQ Tier: 9
 * Game State: 6
@@ -556,11 +582,12 @@ What values a Weapon Type can have:
 * Weapon Type: Heatwave + Impact Commando
 * Trait Set: 44
   * Weapon Damage: 0.01
-* Config: 4
+* Config: Projectile
   * Shot Count: 3
   * Shot Velocity: 300
+  * Projectile Config: 4
   * Projectile: Rocket Hog Shot
-* Ammo: Cut ()
+* Ammo: Cut (15)
   * 30 Shots total
 * REQ Tier: 5
 * Game State: 4
@@ -570,11 +597,12 @@ What values a Weapon Type can have:
 * Weapon Type: Cindershot + Striker Sidekick
 * Trait Set: 45
   * Weapon Damage: 0.01
-* Config: 2
+* Config: Projectile
   * Shot Count: 3
   * Shot Velocity: 300
+  * Projectile Config: 2
   * Projectile: Hunter Shot
-* Ammo: Cut ()
+* Ammo: Cut (9)
   * 7 Shots Total
 * REQ Tier: 6
 * Game State: 5
@@ -585,7 +613,7 @@ What values a Weapon Type can have:
 * Trait Set: 46
   * Weapon Damage: 2.60
 * Config: Combo
-* Ammo: Boost ()
+* Ammo: Boost (60)
   * 4+16
 * REQ Tier: 6
 * Game State: 5
