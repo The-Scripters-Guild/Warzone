@@ -376,11 +376,10 @@ What values a Weapon Type can have:
     * Direct Damage Scalar: 2.10
     * Grenade Damage Scalar: 1.00
     * Explosive Damage Scalar: 1.00
-  * VFX: Infected Alpha
 * Config: Scripted
   * Scripted Behavior: 
     * This weapon will have the VFX "Infected Alpha" when wielded. 
-    * Will lose all added traits when out of ammo. 
+    * Will lose all added traits and VFX when out of ammo. 
 * Ammo: Default
   * 100%
 * REQ Tier: 7
@@ -445,12 +444,11 @@ What values a Weapon Type can have:
     * Direct Damage Scalar: 1.55
     * Grenade Damage Scalar: 1.00
     * Explosive Damage Scalar: 1.00
-  * VFX: VIP
 * Config: Scripted
   * Scripted Behavior: 
-    * The "Movement Speed" reduction and "Damage Resistance" increase will only apply when grounded aiming down sights. 
+    * The "Movement Speed" reduction and "Damage Resistance" increase will only apply when zoomed and not airborne. 
     * Will have the VFX "VIP" when the wielder is aiming down sights to communicate when they are receiving their "Damage Resist" increase and "Movement Speed" reduction. 
-    * All added traits will be removed when out of ammo.
+    * All added traits and VFX will be removed when out of ammo.
 * Ammo: Default
   * 100%
 * REQ Tier: 4
@@ -543,7 +541,7 @@ What values a Weapon Type can have:
   * Projectile Config: 1
   * Projectile: Rocket Hog Shot
 * Ammo: Cut (75)
-  * 30 total
+  * 10+20
 * REQ Tier: 3
 * Game State: 2
 * Notes:-
@@ -558,7 +556,7 @@ What values a Weapon Type can have:
   * Projectile Config: 1
   * Projectile: Plasma Grenade
 * Ammo: Cut (12)
-  * 10 total
+  * 10+0
 * REQ Tier: 6
 * Game State: 5
 * Notes:-
@@ -573,7 +571,7 @@ What values a Weapon Type can have:
   * Projectile Config: 1
   * Projectile: Volatile Skewer Shot
 * Ammo: Cut (12)
-  * 10 total
+  * 10+0
 * REQ Tier: 9
 * Game State: 6
 * Notes:-
@@ -588,7 +586,7 @@ What values a Weapon Type can have:
   * Projectile Config: 4
   * Projectile: Rocket Hog Shot
 * Ammo: Cut (15)
-  * 30 Shots total
+  * 30+0
 * REQ Tier: 5
 * Game State: 4
 * Notes:-
@@ -603,7 +601,7 @@ What values a Weapon Type can have:
   * Projectile Config: 2
   * Projectile: Hunter Shot
 * Ammo: Cut (9)
-  * 7 Shots Total
+  * 7+0
 * REQ Tier: 6
 * Game State: 5
 * Notes:-
