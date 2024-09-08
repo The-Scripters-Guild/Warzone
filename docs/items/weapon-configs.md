@@ -2,10 +2,7 @@
 
 The configurations that make up each of the custom weapons.
 
-## Syntax
-
-What values a Weapon Type can have:
-
+<!--
 ## [#] Weapon Name
 * Weapon Type: Base Weapon +  Config Weapon
 * Trait Set: #
@@ -31,6 +28,7 @@ What values a Weapon Type can have:
 * REQ Tier: #
 * Game State: #
 * Notes: -
+-->
 
 ## [1] Longshot Sidekick
 * Weapon Type: Mk50 Sidekick +  MA40 Longshot
