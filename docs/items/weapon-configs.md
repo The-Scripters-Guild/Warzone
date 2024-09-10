@@ -320,7 +320,7 @@ The configurations that make up each of the custom weapons.
 * Trait Set: 26
   * Weapon Damage: 1.00
 * Config: Combo
-* Ammo: Default
+* Ammo: Cut (25)
   * 4+0
 * REQ Tier: 6
 * Game State: 5
@@ -493,7 +493,7 @@ The configurations that make up each of the custom weapons.
   * Shot Velocity: 250
   * Projectile Config: 2
   * Projectile: Hunter Shot
-* Ammo: Cut (??)
+* Ammo: Cut (42)
   * 10+0
 * REQ Tier: 4
 * Game State: 3
@@ -598,7 +598,7 @@ The configurations that make up each of the custom weapons.
   * Shot Velocity: 310
   * Projectile Config: 2
   * Projectile: Banished Hunter Shot
-* Ammo: Cut (??)
+* Ammo: Boost (23)
   * 6+10
 * REQ Tier: 7
 * Game State: 6
