@@ -6,4 +6,4 @@
 
 * Halo 5 Warzone REQ Values (LukeTheNotable): https://www.dropbox.com/scl/fi/b1jlyu73husbuc7zar86i/REQ-Value.xlsx?rlkey=78emk6yhqr0z27vik3zcb925h
 
-* Markdown table creator: https://tableconvert.com/excel-to-markdown
+* Markdown table creator: https://tableconvert.com/markdown-to-markdown
