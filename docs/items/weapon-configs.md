@@ -620,8 +620,8 @@ The configurations that make up each of the custom weapons.
 * Trait Set: 47
   * Weapon Damage: 1.00
 * Config: Default
-* Ammo: Cut (??)
-  * ??% (6 shots)
+* Ammo: Cut (3.30)
+  * 03% (6 shots)
 * REQ Tier: 9
 * Game State: 6
 * Notes: -
