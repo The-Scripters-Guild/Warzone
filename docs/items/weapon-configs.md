@@ -484,20 +484,20 @@ The configurations that make up each of the custom weapons.
 * Game State: 4 
 * Notes:-
 
-## [38] Blaze Hydra
-* Weapon Type: Hydra + Diminisher Of Hope
+## [38] Fuel Rod
+* Weapon Type: Cindershot + Convergence Bulldog
 * Trait Set: 38
-  * Weapon Damage: 0.70
+  * Weapon Damage: 0.01
 * Config: Projectile
-  * Shot Count: 1
-  * Shot Velocity: 950
-  * Projectile Config: 1
-  * Projectile: Banished Hunter Shot
-* Ammo: Cut (70)
-  * 6+6
-* REQ Tier: 6
-* Game State: 5
-* Notes:-
+  * Shot Count: 2
+  * Shot Velocity: 250
+  * Projectile Config: 2
+  * Projectile: Hunter Shot
+* Ammo: Cut (??)
+  * 10+0
+* REQ Tier: 4
+* Game State: 3
+* Notes: -
 
 ## [39] Ad Victoriam
 * Weapon Types: M41 SPNKr + Diminisher Of Hope
@@ -615,24 +615,9 @@ The configurations that make up each of the custom weapons.
 * Game State: 5
 * Notes:-
 
-## [47] Fuel Rod
-* Weapon Type: Cindershot + Convergence Bulldog
-* Trait Set: 47
-  * Weapon Damage: 0.01
-* Config: Projectile
-  * Shot Count: 2
-  * Shot Velocity: 250
-  * Projectile Config: 2
-  * Projectile: Hunter Shot
-* Ammo: Cut (??)
-  * 10+0
-* REQ Tier: 4
-* Game State: 3
-* Notes: -
-
-## [48] Scorpion Tail
+## [47] Scorpion Tail
 * Weapon Type: Scorpion Tail
-* Trait Set: 48
+* Trait Set: 47
   * Weapon Damage: 1.00
 * Config: Default
 * Ammo: Cut (??)
