@@ -103,19 +103,19 @@ The configurations that make up each of the custom weapons.
 * Trait Set: 7
   * Weapon Damage: 1.41
 * Config: Combo
-* Ammo: Boost (67)
-  * 40+200
+* Ammo: Cut (27)
+  * 40+14
 * REQ Tier: 4
 * Game State: 3
 * Notes: -
 
 ## [8] Brutal Bandit
-* Weapon Type: M392 Bandit +  Stalker Rifle Ultra
+* Weapon Type: Bandit Evo +  Stalker Rifle Ultra
 * Trait Set: 8
   * Weapon Damage: 1.20
 * Config: Combo
-* Ammo: Boost (67)
-  * 15+45
+* Ammo: Cut (57)
+  * 15+10
 * REQ Tier: 6
 * Game State: 5
 * Notes: -
@@ -147,8 +147,8 @@ The configurations that make up each of the custom weapons.
 * Trait Set: 11
   * Weapon Damage: 1.00
 * Config: Combo
-* Ammo: Default
-  * 30+90
+* Ammo: Cut (50)
+  * 30+60
 * REQ Tier: 4
 * Game State: 3
 * Notes:-
@@ -165,7 +165,7 @@ The configurations that make up each of the custom weapons.
 * Notes:-
   
 ## [13] Nornfang
-* Weapon Type: S7 Sniper + Diminisher Of Hope
+* Weapon Type: S7 Sniper Rifle + Diminisher Of Hope
 * Trait Set: 13
   * Weapon Damage: 1.61
 * VFX: Infected Alpha
@@ -266,7 +266,7 @@ The configurations that make up each of the custom weapons.
   * Weapon damage: 1.87
 * Config: Combo
 * Ammo: Default
-  * 12+32
+  * 12+36
 * REQ Tier: 5
 * Game State: 4
 * Notes:-
@@ -276,8 +276,8 @@ The configurations that make up each of the custom weapons.
 * Trait Set: 22
   * Weapon Damage: 1.50
 * Config: Combo
-* Ammo: Cut (61)
-  * 12+17
+* Ammo: Boost (27)
+  * 12+36
 * REQ Tier: 7
 * Game State: 6
 * Notes:-
@@ -425,10 +425,9 @@ The configurations that make up each of the custom weapons.
 * Weapon Type: Plasma Cannon + Pinpoint Needler
 * Trait Set: 34
   * Weapon Damage: 1.50
-  * Movement Speed With Turret: 1.20
 * Config: Combo
-* Ammo: Default
-  * 100%
+* Ammo: Cut (75)
+  * 75%
 * REQ Tier: 7
 * Game State: 6
 * Notes:-
@@ -457,7 +456,7 @@ The configurations that make up each of the custom weapons.
 * Weapon Type: Infected Energy Sword + MA40 Longshot
 * Trait Set: 36
   * Weapon Damage: 1.00
-  * VFX: Active Camouflage
+  * VFX - Active Camouflage
     * Intensity Scalar: 0.80
     * Interpolation Scalar: 1.00
 * Config: Scripted
@@ -470,7 +469,7 @@ The configurations that make up each of the custom weapons.
 * Notes: Makes audible noise that alerts the enemy team to a wielder's presence in close range
 
 ## [37] Spike Hydra
-* Weapon Type: Hydra + S7 Flexfire
+* Weapon Type: MLRS-2 Hydra + S7 Flexfire
 * Trait Set: 37
   * Weapon Damage: 0.01
 * Config: Projectile
@@ -479,7 +478,7 @@ The configurations that make up each of the custom weapons.
   * Projectile Config: 1
   * Projectile: Spike Grenade
 * Ammo: Default
-  * 6+12
+  * 10+10
 * REQ Tier: 5
 * Game State: 4 
 * Notes:-
@@ -533,12 +532,13 @@ The configurations that make up each of the custom weapons.
 * Weapon Type: M41 SPNKr + S7 Flexfire
 * Trait Set: 41
   * Weapon Damage: 0.01
+  * Jump Height: 1.25
 * Config: Projectile
   * Shot Count: 1
   * Shot Velocity: 100
   * Projectile Config: 1
   * Projectile: Rocket Hog Shot
-* Ammo: Cut (75)
+* Ammo: Boost (25)
   * 10+20
 * REQ Tier: 3
 * Game State: 2
@@ -605,7 +605,7 @@ The configurations that make up each of the custom weapons.
 * Notes: -
   
 ## [46] Riven Sniper
-* Weapon Type: S7 Sniper + Riven Mangler
+* Weapon Type: S7 Sniper Rifle + Riven Mangler
 * Trait Set: 46
   * Weapon Damage: 2.60
 * Config: Combo
@@ -625,3 +625,17 @@ The configurations that make up each of the custom weapons.
 * REQ Tier: 9
 * Game State: 6
 * Notes: -
+
+## [48] ARC Hydra
+* Weapon Type: MLRS-2 Hydra +  Unbound Plasma Pistol
+* Trait Set: 48
+  * Weapon Damage: 0.70
+  * Reload Speed
+    * Empty Reload Scalar: 3.00
+    * Tactical Reload Scalar: 3.00
+* Config: Combo
+* Ammo: Boost (34)
+  * 6+18
+* REQ Tier: 7
+* Game State: 6
+* Notes: Damage output based off of secondary fire strength; primary fire is pretty useless.
