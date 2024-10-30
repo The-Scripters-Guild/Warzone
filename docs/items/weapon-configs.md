@@ -282,16 +282,16 @@ The configurations that make up each of the custom weapons.
 * Game State: 6
 * Notes:-
 
-## [23] H1 Mangler
-* Weapon Type: Mangler + Stalker Rifle Ultra
-* Trait Set: 23
-  * Weapon Damage: 0.90
-* Config: Combo
-* Ammo: Default
-  * 8+16
-* REQ Tier: 5
-* Game State: 4
-* Notes:-
+## [23] Burst Mangler
+- Weapon Type: Mangler + BR75 Breacher
+- Trait Set: 23
+    - Weapon Damage: 2.70
+- Config: Combo
+- Ammo: Cut (33.5)
+    - 30+30
+- REQ Tier: 5
+- Game State: 4
+- Notes:-
 
 ## [24] Binary Beam
 * Weapon Type: Sentinel Beam + Impact Commando
@@ -513,20 +513,20 @@ The configurations that make up each of the custom weapons.
 * Game State: 5
 * Notes:-
 
-## [40] Fast Shock Rocket
-* Weapon Type: M41 SPNKr + Calcine Disruptor
-* Trait Set: 40
-  * Weapon Damage: 3.00
-* Config: Projectile
-  * Shot Count: 1
-  * Shot Velocity: 450
-  * Porjectile Config: 1
-  * Projectile: Gold Sentry Rocket
-* Ammo: Cut (35)
-  * 7+7
-* REQ Tier: 8
-* Game State: 6
-* Notes:-
+## [40] Better Ad Vic
+- Weapon Type: M41 SPNKr + Rushdown Hammer
+- Trait Set: 40
+    - Weapon Damage: 1.30
+- Config: Projectile
+    - Shot Count: 2
+    - Shot Velocity: 100
+    - Porjectile Config: 3
+    - Projectile: M41 Tracker Rocket
+- Ammo: Boost (34)
+    - 2+4
+- REQ Tier: 8
+- Game State: 6
+- Notes:-
 
 ## [41] The Agoat
 * Weapon Type: M41 SPNKr + S7 Flexfire
@@ -639,3 +639,25 @@ The configurations that make up each of the custom weapons.
 * REQ Tier: 7
 * Game State: 6
 * Notes: Damage output based off of secondary fire strength; primary fire is pretty useless.
+
+## [49] Napalm Hydra
+- Weapon Type: Hydra + Ravager Rebound
+- Trait Set: 49
+    - Weapon Damage: 1.00
+- Config: Combo
+- Ammo: Default
+    - 6+12
+- REQ Tier: 8
+- Game State: 6
+- Notes: Damage output based off of secondary fire strength; primary fire is not as effective.
+
+## [50] Harbinger's Weapon
+- Weapon Type: Harbinger Primary
+- Trait Set: 50
+    - Weapon Damage: 3.00
+- Config: Default
+- Ammo: Default
+    - 100%
+- REQ Tier: 9
+- Game State: 6
+- Notes:-
