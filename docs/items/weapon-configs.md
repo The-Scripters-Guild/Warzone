@@ -151,7 +151,7 @@ The configurations that make up each of the custom weapons.
   * 30+60
 * REQ Tier: 4
 * Game State: 3
-* Notes:-
+* Notes: -
   
 ## [12] Blaze Of Glory
 * Weapon Type: CQS48 Bulldog + Diminisher Of Hope
@@ -162,7 +162,7 @@ The configurations that make up each of the custom weapons.
   * 7+7
 * REQ Tier: 5
 * Game State: 4
-* Notes:-
+* Notes: -
   
 ## [13] Nornfang
 * Weapon Type: S7 Sniper Rifle + Diminisher Of Hope
@@ -181,7 +181,7 @@ The configurations that make up each of the custom weapons.
   * 4+6
 * REQ Tier: 7
 * Game State: 6
-* Notes:-
+* Notes: -
   
 ## [14] ppSentinel
 * Weapon Type: Plasma Pistol + Arcane Sentinel Beam
@@ -192,7 +192,7 @@ The configurations that make up each of the custom weapons.
   * 100%
 * REQ Tier: 4
 * Game State: 3
-* Notes:-
+* Notes: -
 
 ## [15] FASTfire Pulse Carbine
 * Weapon Type: Pulse Carbine + Unbound Plasma Pistol
@@ -203,7 +203,7 @@ The configurations that make up each of the custom weapons.
   * 100%
 * REQ Tier: 7
 * Game State: 6
-* Notes:-
+* Notes: -
   
 ## [16] Pulse Wave
 * Weapon Type: Pulse Carbine + Scatterbound Heatwave
@@ -214,7 +214,7 @@ The configurations that make up each of the custom weapons.
   * 32%
 * REQ Tier: 5
 * Game State: 4
-* Notes:-
+* Notes: -
   
 ## [17] Heavy Stalker
 * Weapon Type: Stalker Rifle + Riven Mangler
@@ -225,7 +225,7 @@ The configurations that make up each of the custom weapons.
   * 100%
 * REQ Tier: 5
 * Game State: 4
-* Notes:-
+* Notes: -
   
 ## [18] FUStalker
 * Weapon Type: Stalker Rifle + Striker Sidekick
@@ -236,7 +236,7 @@ The configurations that make up each of the custom weapons.
   * 100%
 * REQ Tier: 7
 * Game State: 6
-* Notes:-
+* Notes: -
 
 ## [19] Bayonet Ravager
 * Weapon Type: Ravager + Duelist Energy Sword
@@ -247,7 +247,7 @@ The configurations that make up each of the custom weapons.
   * 100%
 * REQ Tier: 5
 * Game State: 4
-* Notes:-
+* Notes: -
 
 ## [20] Provoker
 * Weapon Type: Ravager + Elite Bloodblade
@@ -258,7 +258,7 @@ The configurations that make up each of the custom weapons.
   * 100%
 * REQ Tier: 7
 * Game State: 6
-* Notes:-
+* Notes: -
 
 ## [21] Charged Disruptor
 * Weapon Type: Disruptor + Rushdown Hammer
@@ -269,7 +269,7 @@ The configurations that make up each of the custom weapons.
   * 12+36
 * REQ Tier: 5
 * Game State: 4
-* Notes:-
+* Notes: -
 
 ## [22] Charged Shock Rifle
 * Weapon Type: Shock Rifle + Diminisher Of Hope
@@ -280,7 +280,7 @@ The configurations that make up each of the custom weapons.
   * 12+36
 * REQ Tier: 7
 * Game State: 6
-* Notes:-
+* Notes: -
 
 ## [23] Burst Mangler
 - Weapon Type: Mangler + BR75 Breacher
@@ -291,7 +291,7 @@ The configurations that make up each of the custom weapons.
     - 30+30
 - REQ Tier: 5
 - Game State: 4
-- Notes:-
+- Notes: -
 
 ## [24] Binary Beam
 * Weapon Type: Sentinel Beam + Impact Commando
@@ -302,7 +302,7 @@ The configurations that make up each of the custom weapons.
   * 40+120
 * REQ Tier: 5
 * Game State: 4
-* Notes:-
+* Notes: -
 
 ## [25] FUBeam
 * Weapon Type: Sentinel Beam + Striker Sidekick
@@ -313,7 +313,7 @@ The configurations that make up each of the custom weapons.
   * 14+42
 * REQ Tier: 7
 * Game State: 6
-* Notes:-
+* Notes: -
 
 ## [26] Guidedshot
 * Weapon Type: Cindershot + M41 Tracker
@@ -324,7 +324,7 @@ The configurations that make up each of the custom weapons.
   * 4+0
 * REQ Tier: 6
 * Game State: 5
-* Notes:-
+* Notes: -
 
 ## [27] Fast Skewer
 * Weapon Type: Skewer + Diminisher Of Hope
@@ -340,7 +340,7 @@ The configurations that make up each of the custom weapons.
   * 1+3
 * REQ Tier: 6
 * Game State: 5
-* Notes:-
+* Notes: -
 
 ## [28] M247-Jumper
 * Weapon Type: M247 HMG + Rushdown Hammer
@@ -363,7 +363,7 @@ The configurations that make up each of the custom weapons.
   * 100%
 * REQ Tier: 5
 * Game State: 4
-* Notes:-
+* Notes: -
   
 ## [30] Jorge's Chaingun
 * Weapon Type: M247 HMG + MA40 Longshot
@@ -382,7 +382,7 @@ The configurations that make up each of the custom weapons.
   * 100%
 * REQ Tier: 7
 * Game State: 6
-* Notes:-  
+* Notes: -  
   
 ## [31] Scrap Cannon (Answer)
 * Weapon Type: Scrap Cannon + Diminisher Of Hope
@@ -395,7 +395,7 @@ The configurations that make up each of the custom weapons.
   * 100%
 * REQ Tier: 5
 * Game State: 4
-* Notes:-
+* Notes: -
 
 ## [32] -
 
@@ -409,7 +409,7 @@ The configurations that make up each of the custom weapons.
   * 100%
 * REQ Tier: 6
 * Game State: 5
-* Notes:-
+* Notes: -
 
 ## [34] Pinpoint Cannon
 * Weapon Type: Plasma Cannon + Pinpoint Needler
@@ -421,7 +421,7 @@ The configurations that make up each of the custom weapons.
   * 75%
 * REQ Tier: 7
 * Game State: 6
-* Notes:-
+* Notes: -
 
 ## [35] adsDamageResistSword
 * Weapon Type: Energy Sword + Unbound Plasma Pistol
@@ -441,7 +441,7 @@ The configurations that make up each of the custom weapons.
   * 100%
 * REQ Tier: 4
 * Game State: 3
-* Notes:-
+* Notes: -
 
 ## [36] Prophet's Bane
 * Weapon Type: Infected Energy Sword + MA40 Longshot
@@ -472,7 +472,7 @@ The configurations that make up each of the custom weapons.
   * 10+10
 * REQ Tier: 5
 * Game State: 4 
-* Notes:-
+* Notes: -
 
 ## [38] Fuel Rod
 * Weapon Type: Cindershot + Convergence Bulldog
@@ -502,7 +502,7 @@ The configurations that make up each of the custom weapons.
   *  2+4
 * REQ Tier: 6
 * Game State: 5
-* Notes:-
+* Notes: -
 
 ## [40] Better Ad Vic
 - Weapon Type: M41 SPNKr + Rushdown Hammer
@@ -517,7 +517,7 @@ The configurations that make up each of the custom weapons.
     - 2+4
 - REQ Tier: 8
 - Game State: 6
-- Notes:-
+- Notes: -
 
 ## [41] The Agoat
 * Weapon Type: M41 SPNKr + S7 Flexfire
@@ -533,7 +533,7 @@ The configurations that make up each of the custom weapons.
   * 10+20
 * REQ Tier: 3
 * Game State: 2
-* Notes:-
+* Notes: -
 
 ## [42] Plasma Mangler
 * Weapon Type: Mangler + Striker Sidekick
@@ -548,7 +548,7 @@ The configurations that make up each of the custom weapons.
   * 10+0
 * REQ Tier: 6
 * Game State: 5
-* Notes:-
+* Notes: -
 
 ## [43] Skewer Ultra
 * Weapon Type: Skewer + Striker Sidekick
@@ -563,7 +563,7 @@ The configurations that make up each of the custom weapons.
   * 10+0
 * REQ Tier: 9
 * Game State: 6
-* Notes:-
+* Notes: -
 
 ## [44] Carpetbomb Heatwave
 * Weapon Type: Heatwave + Impact Commando
@@ -578,7 +578,7 @@ The configurations that make up each of the custom weapons.
   * 30+0
 * REQ Tier: 5
 * Game State: 4
-* Notes:-
+* Notes: -
 
 ## [45] Blaze Rod
 * Weapon Type: Cindershot + Riven Mangler
@@ -604,15 +604,15 @@ The configurations that make up each of the custom weapons.
   * 4+16
 * REQ Tier: 6
 * Game State: 5
-* Notes:-
+* Notes: -
 
 ## [47] Scorpion Tail
 * Weapon Type: Scorpion Tail
 * Trait Set: 47
   * Weapon Damage: 1.00
 * Config: Default
-* Ammo: Cut (3.30)
-  * 03% (6 shots)
+* Ammo: Cut (4.80)
+  * 05% (8 shots)
 * REQ Tier: 9
 * Game State: 6
 * Notes: -
@@ -651,4 +651,15 @@ The configurations that make up each of the custom weapons.
     - 100%
 - REQ Tier: 9
 - Game State: 6
-- Notes:-
+- Notes: -
+
+## [51] Brute Scrap Cannon
+- Weapon Type: Brute Scrap Cannon
+- Trait Set: 51
+    - Weapon Damage: 1.00
+- Config: Default
+- Ammo: Default
+    - 100%
+- REQ Tier: 2
+- Game State: 1
+- Notes: -
