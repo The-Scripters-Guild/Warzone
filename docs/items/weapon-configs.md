@@ -197,21 +197,21 @@ The configurations that make up each of the custom weapons.
 ## [15] FASTfire Pulse Carbine
 * Weapon Type: Pulse Carbine + Unbound Plasma Pistol
 * Trait Set: 15
-  * Weapon Damage: 3.00
+  * Weapon Damage: 1.70
 * Config: Combo
 * Ammo: Default
   * 100%
-* REQ Tier: 6
-* Game State: 5
+* REQ Tier: 7
+* Game State: 6
 * Notes:-
   
-## [16] Pulse Launcher
-* Weapon Type: Pulse Carbine + Backdraft Cindershot
+## [16] Pulse Wave
+* Weapon Type: Pulse Carbine + Scatterbound Heatwave
 * Trait Set: 16
-  * Weapon Damage: 0.54
+  * Weapon Damage: 0.40
 * Config: Combo
-* Ammo: Cut (25)
-  * 25%
+* Ammo: Cut (32)
+  * 32%
 * REQ Tier: 5
 * Game State: 4
 * Notes:-
@@ -397,23 +397,13 @@ The configurations that make up each of the custom weapons.
 * Game State: 4
 * Notes:-
 
-## [32] Burst Cannon
-* Weapon Type: Plasma Cannon + Rapid Fire Pulse Carbine
-* Trait Set: 32
-  * Weapon Damage: 1.50
-  * Jump Height: 1.13
-* Config: Combo
-* Ammo: Default
-  * 100%
-* REQ Tier: 5
-* Game State: 4
-* Notes;-
+## [32] -
 
 ## [33] Barrage Cannon
 * Weapon Type: Plasma Cannon + Unbound Plasma Pistol
 * Trait Set: 33
-  * Weapon Damage: 1.00
-  * Movement Speed With Turret: 1.40
+  * Weapon Damage: 1.30
+  * Movement Speed With Turret: 1.20
 * Config: Combo
 * Ammo: Default
   * 100%
@@ -424,7 +414,8 @@ The configurations that make up each of the custom weapons.
 ## [34] Pinpoint Cannon
 * Weapon Type: Plasma Cannon + Pinpoint Needler
 * Trait Set: 34
-  * Weapon Damage: 1.50
+  * Weapon Damage: 1.85
+  * Movement Speed With Turret: 1.55
 * Config: Combo
 * Ammo: Cut (75)
   * 75%
