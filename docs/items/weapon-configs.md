@@ -510,9 +510,9 @@ The configurations that make up each of the custom weapons.
     - Weapon Damage: 1.30
 - Config: Projectile
     - Shot Count: 2
-    - Shot Velocity: 100
+    - Shot Velocity: 115
     - Porjectile Config: 3
-    - Projectile: M41 Tracker Rocket
+    - Projectile: M41 SPNKr Rocket
 - Ammo: Boost (34)
     - 2+4
 - REQ Tier: 8
