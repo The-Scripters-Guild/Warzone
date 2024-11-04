@@ -384,7 +384,7 @@ The configurations that make up each of the custom weapons.
 * Game State: 6
 * Notes: -  
   
-## [31] Scrap Cannon (Answer)
+## [31] The Answer
 * Weapon Type: Scrap Cannon + Diminisher Of Hope
 * Trait Set: 31
   * Weapon Damage: 1.70
@@ -397,7 +397,16 @@ The configurations that make up each of the custom weapons.
 * Game State: 4
 * Notes: -
 
-## [32] -
+## [32] Brute Scrap Cannon
+- Weapon Type: Brute Scrap Cannon
+- Trait Set: 32
+    - Weapon Damage: 1.00
+- Config: Default
+- Ammo: Default
+    - 100%
+- REQ Tier: 2
+- Game State: 1
+- Notes: -
 
 ## [33] Barrage Cannon
 * Weapon Type: Plasma Cannon + Unbound Plasma Pistol
@@ -641,25 +650,3 @@ The configurations that make up each of the custom weapons.
 - REQ Tier: 8
 - Game State: 6
 - Notes: Damage output based off of secondary fire strength; primary fire is not as effective.
-
-## [50] Harbinger's Weapon
-- Weapon Type: Harbinger Primary
-- Trait Set: 50
-    - Weapon Damage: 3.00
-- Config: Default
-- Ammo: Default
-    - 100%
-- REQ Tier: 9
-- Game State: 6
-- Notes: -
-
-## [51] Brute Scrap Cannon
-- Weapon Type: Brute Scrap Cannon
-- Trait Set: 51
-    - Weapon Damage: 1.00
-- Config: Default
-- Ammo: Default
-    - 100%
-- REQ Tier: 2
-- Game State: 1
-- Notes: -
