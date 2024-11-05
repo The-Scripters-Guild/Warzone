@@ -1,3 +1,0 @@
-# Powerups
-
-Information about powerups.
