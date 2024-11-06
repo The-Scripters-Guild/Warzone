@@ -33,9 +33,9 @@ The configurations of AI that make up each of the AI encounters.
 - Hunter (Boss)
 - Hunter (Boss)
 - Elite Mercenary
-- Grunt Conscript, Yellow
 - Jackal Raider
 - Jackal Freebooter
+- Grunt Conscript, Yellow
 
 ## [AI4] Brute Encounter, Silver
 
@@ -83,8 +83,8 @@ The configurations of AI that make up each of the AI encounters.
 	- Elite Ultra
 - Ghost
 	- Elite Ultra
-- Jackal Raider
-- Jackal Raider
+- Grunt Ultra
+- Grunt Ultra
 
 ## [AI9] Harbinger Encounter, Mythic
 
@@ -93,6 +93,7 @@ The configurations of AI that make up each of the AI encounters.
 - Brute Warlord
 - Brute Sniper, Heavy
 - Brute Sniper, Heavy
+- Grunt Ultra
 
 ## [AI10] Brute Encounter, Mythic
 
@@ -101,3 +102,25 @@ The configurations of AI that make up each of the AI encounters.
 - Brute Warrior
 - Elite Warlord
 - Elite Ultra
+
+## [AI11] Team Marines
+
+- Marine Assault
+- Marine Assault
+- Marine Assault
+
+## [AI12] Roamers 1
+
+- Elite Mercenary
+- Jackal Freebooter
+- Jackal Freebooter
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+
+## [AI13] Roamers 2
+
+- Brute Minor
+- Jackal Raider
+- Jackal Raider
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
