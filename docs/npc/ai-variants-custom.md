@@ -1,6 +1,6 @@
-# Default AI Variants
+# Custom AI Variants
 
-Documentation of all the default AI variants. Only the modified and necessary info about each AI is shown. Any data values not listed are assumed to be defaults for that AI unit. All AI are set to Legendary difficulty with dynamic co-op scale at One Player.
+Documentation of all the custom AI variants used for the Warzone mode. Only the modified and necessary info about each AI is shown. Any data values not listed are assumed to be defaults for that AI unit. All AI are set to Legendary difficulty with dynamic co-op scale at One Player.
 
 <!--
 ## [#] AI Name
