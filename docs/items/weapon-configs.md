@@ -261,9 +261,10 @@ The configurations that make up each of the custom weapons.
 * Notes: -
 
 ## [21] Decaying World
-* Weapon Type: Disruptor + Rushdown Hammer
+* Weapon Type: Disruptor + Diminisher Of Hope
 * Trait Set: 21
   * Weapon damage: 1.87
+  * Movement Speed: 1.10
 * Config: Combo
 * Ammo: Default
   * 12+36
