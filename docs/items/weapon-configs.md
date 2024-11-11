@@ -65,14 +65,14 @@ The configurations that make up each of the custom weapons.
 * Notes: -
 
 ## [4] Hardlight Ranger
-* Weapon Type: MA40 Assault Rifle +  Impact Commando
+* Weapon Type: MA5K Avenger + Arcane Sentinel Beam
 * Trait Set: 4
-  * Weapon Damage: 0.43
+  * Weapon Damage: 0.76
 * Config: Combo
-* Ammo: Boost (20)
-  * 40+160
+* Ammo: Default
+  * 80+80
 * REQ Tier: Loadout
-* Game State: 3
+* Game State: 4
 * Notes: -
 
 ## [5] Hardlight Battle Rifle
@@ -343,15 +343,15 @@ The configurations that make up each of the custom weapons.
 * Notes: -
 
 ## [28] ONI Ranger
-* Weapon Type: M247 HMG + Rushdown Hammer
+* Weapon Type: MA5K Avenger + Impact Commando
 * Trait Set: 28
-  * Weapon Damage: 1.00
+  * Weapon Damage: 0.36
 * Config: Combo
 * Ammo: Default
-  * 100%
+  * 40+120
 * REQ Tier: 4
 * Game State 3
-* Notes: Has a speed and jump boost from Rushdown Hammer
+* Notes: -
 
 ## [29] ONI Turret
 * Weapon Type: M247 HMG + Striker Sidekick
