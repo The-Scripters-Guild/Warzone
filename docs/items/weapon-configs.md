@@ -630,7 +630,7 @@ The configurations that make up each of the custom weapons.
 ## [48] Headhunter
 * Weapon Type: MLRS-2 Hydra +  Unbound Plasma Pistol
 * Trait Set: 48
-  * Weapon Damage: 0.70
+  * Weapon Damage: 0.84
   * Reload Speed
     * Empty Reload Scalar: 3.00
     * Tactical Reload Scalar: 3.00
