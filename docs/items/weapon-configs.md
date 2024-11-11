@@ -424,7 +424,7 @@ The configurations that make up each of the custom weapons.
 ## [34] Sentry off Writh Kul
 * Weapon Type: Plasma Cannon + Pinpoint Needler
 * Trait Set: 34
-  * Weapon Damage: 1.85
+  * Weapon Damage: 1.50
   * Movement Speed With Turret: 1.55
 * Config: Combo
 * Ammo: Cut (75)
