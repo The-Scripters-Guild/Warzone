@@ -89,7 +89,6 @@ The configurations that make up each of the custom weapons.
 ## [6] ONI Battle Rifle
 * Weapon Type: BR75 +  Striker Sidekick
 * Trait Set: 6
-  * Weapon Damage: 1.00
   * Movement Speed: 1.20
 * Config: Combo
 * Ammo: Default
@@ -145,7 +144,6 @@ The configurations that make up each of the custom weapons.
 ## [11] Rush Bulldog
 * Weapon Type: CQS48 Bulldog + BR75 Breacher
 * Trait Set: 11
-  * Weapon Damage: 1.00
 * Config: Combo
 * Ammo: Cut (50)
   * 30+60
@@ -239,9 +237,8 @@ The configurations that make up each of the custom weapons.
 * Notes: -
 
 ## [19] Zealot Ravager
-* Weapon Type: Ravager + Duelist Energy Sword
+* Weapon Type: Ravager + Elite Bloodblade
 * Trait Set: 19
-  * Weapon Damage: 1.00
 * Config: Combo
 * Ammo: Default
   * 100%
@@ -250,7 +247,7 @@ The configurations that make up each of the custom weapons.
 * Notes: -
 
 ## [20] Attack Off Iratus
-* Weapon Type: Ravager + Elite Bloodblade
+* Weapon Type: Ravager + Duelist Energy Sword
 * Trait Set: 20
   * Weapon Damage: 1.61
 * Config: Combo
@@ -319,7 +316,6 @@ The configurations that make up each of the custom weapons.
 ## [26] Phantom Assassin
 * Weapon Type: Cindershot + M41 Tracker
 * Trait Set: 26
-  * Weapon Damage: 1.00
 * Config: Combo
 * Ammo: Cut (25)
   * 4+0
@@ -401,7 +397,6 @@ The configurations that make up each of the custom weapons.
 ## [32] Brute Scrap Cannon
 - Weapon Type: Brute Scrap Cannon
 - Trait Set: 32
-    - Weapon Damage: 1.00
 - Config: Default
 - Ammo: Default
     - 100%
@@ -436,12 +431,11 @@ The configurations that make up each of the custom weapons.
 ## [35] Cutlass Off Doomfruit
 * Weapon Type: Energy Sword + Unbound Plasma Pistol
 * Trait Set: 35
-  * Weapon Damage: 1.00
   * Movement Speed: 0.80
   * Damage Resistance
     * Direct Damage Scalar: 1.55
-    * Grenade Damage Scalar: 1.00
-    * Explosive Damage Scalar: 1.00
+    * Grenade Damage Scalar: 0.64
+    * Explosive Damage Scalar: 0.64
 * Config: Scripted
   * Scripted Behavior: 
     * The "Movement Speed" reduction and "Damage Resistance" increase will only apply when zoomed and not airborne. 
@@ -456,7 +450,6 @@ The configurations that make up each of the custom weapons.
 ## [36] Power Off Jega 'Rdomnai
 * Weapon Type: Infected Energy Sword + MA40 Longshot
 * Trait Set: 36
-  * Weapon Damage: 1.00
   * VFX - Active Camouflage
     * Intensity Scalar: 0.80
     * Interpolation Scalar: 1.00
@@ -619,7 +612,6 @@ The configurations that make up each of the custom weapons.
 ## [47] Scorpion Shot
 * Weapon Type: Scorpion Tail
 * Trait Set: 47
-  * Weapon Damage: 1.00
 * Config: Default
 * Ammo: Cut (4.80)
   * 05% (8 shots)
@@ -644,7 +636,6 @@ The configurations that make up each of the custom weapons.
 ## [49] Artifact Off Tremonius
 - Weapon Type: Hydra + Ravager Rebound
 - Trait Set: 49
-    - Weapon Damage: 1.00
 - Config: Combo
 - Ammo: Default
     - 6+12
