@@ -32,9 +32,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
   * Weapon Damage: Same as [[38] Fuel Rod](../items/weapon-configs.md#38-fuel-rod) including projectile-related values
   * Damage Resistance
     * Direct Damage Scalar: 3.80
-    * Grenade Damage Scalar: 0.2631
-    * Explosive Damage Scalar: 0.2631
-* Notes: Drops a [[38] Fuel Rod](../items/weapon-configs.md#38-fuel-rod) upon death and deletes the Mangler + Arcane Sentinel Beam.
+    * Grenade Damage Scalar: 0.83
+    * Explosive Damage Scalar: 0.83
+* Notes: Will die in 4 Hydra direct rockets and 2 Rocket Launcher Rockets. Drops a [[38] Fuel Rod](../items/weapon-configs.md#38-fuel-rod) upon death and deletes the Mangler + Arcane Sentinel Beam.
 
 ## [6] Boss Bipbap
 
@@ -79,16 +79,16 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 * Trait Set: ?
   * Damage Resistance
     * Direct Damage Scalar: 1.20
-    * Grenade Damage Scalar: 0.8333
-    * Explosive Damage Scalar: 0.8333
-* Notes: -
+    * Grenade Damage Scalar: 1.69
+    * Explosive Damage Scalar: 1.69
+* Notes: Will die in 3 Hydra direct rockets and 1 Rocket Launcher Rocket
 
 ## [27] Elite Warlord
 
 ![AI preview](../../assets/ai-27.jpg)
 * Primary Weapon Type: Rapidfire Pulse Carbine
 * Secondary Weapon Type: None
-* Trait Set: ?
+* Trait Set: -
   * Damage Resistance
     * Direct Damage Scalar: 2.00
     * Grenade Damage Scalar: 0.50
@@ -100,7 +100,11 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ![AI preview](../../assets/ai-28.jpg)
 * Primary Weapon Type: Stalker Rifle Ultra
 * Trait Set: -
-* Notes: Drives a Ghost in [[AI8] Hunter Encounter, Mythic](../items/../npc/encounter-configs.md#ai8-hunter-encounter-mythic)
+  * Damage Resistance
+    * Direct Damage Scalar: 1.00
+    * Grenade Damage Scalar: 1.84
+    * Explosive Damage Scalar: 1.84
+* Notes: Will die in 4 Hydra direct rockets and 2 Rocket Launcher Rockets. Drives a Ghost in [[AI8] Hunter Encounter, Mythic](../items/../npc/encounter-configs.md#ai8-hunter-encounter-mythic)
 
 ## [31] Boss Ordo 'Mal
 
@@ -128,9 +132,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
   * Weapon Damage: 0.70
   * Damage Resistance
     * Direct Damage Scalar: 0.40
-    * Grenade Damage Scalar: 2.50
-    * Explosive Damage Scalar: 2.50
-* Notes: Is a Boss and has a health bar.
+    * Grenade Damage Scalar: 1.75
+    * Explosive Damage Scalar: 0.40
+* Notes: Is a Boss and has a health bar. 3 direct Rocket Launcher Rockets will kill. 2 direct Rocket Launcher Rockets if hit in back. 5 Frag Grenades will kill.
 
 ## [37] Boss Myriad
 
@@ -151,9 +155,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 * Trait Set: ?
   * Damage Resistance
     * Direct Damage Scalar: 4.30
-    * Grenade Damage Scalar: 0.2325
-    * Explosive Damage Scalar: 0.2325
-* Notes: -
+    * Grenade Damage Scalar: 2.57
+    * Explosive Damage Scalar: 2.57
+* Notes: Will die in 3 Hydra direct rockets and 1 Rocket Launcher Rocket.
 
 ## [40] Brute Berserker, Chosen
 
@@ -174,9 +178,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 * Trait Set: ?
   * Damage Resistance
     * Direct Damage Scalar: 4.30
-    * Grenade Damage Scalar: 0.2325
-    * Explosive Damage Scalar: 0.2325
-* Notes: Drives a Wraith in [[AI6] Brute 1 Encounter, Legendary](../items/../npc/encounter-configs.md#ai6-brute-1-encounter-legendary)
+    * Grenade Damage Scalar: 2.57
+    * Explosive Damage Scalar: 2.57
+* Notes: Will die in 4 Hydra direct rockets and 2 Rocket Launcher Rockets. Drives a Wraith in [[AI6] Brute 1 Encounter, Legendary](../items/../npc/encounter-configs.md#ai6-brute-1-encounter-legendary)
 
 ## [46] Brute Sniper, Heavy
 
@@ -195,8 +199,8 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 * Trait Set: ?
   * Damage Resistance
     * Direct Damage Scalar: 3.80
-    * Grenade Damage Scalar: 0.2631
-    * Explosive Damage Scalar: 0.2631
+    * Grenade Damage Scalar: 0.83
+    * Explosive Damage Scalar: 0.83
 * Notes: -
 
 ## [50] Brute Chieftain
