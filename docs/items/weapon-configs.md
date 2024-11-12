@@ -373,8 +373,8 @@ The configurations that make up each of the custom weapons.
   * Movement Speed With Turret: 1.47
   * Damage Resistance
     * Direct Damage Scalar: 2.10
-    * Grenade Damage Scalar: 0.47
-    * Explosive Damage Scalar: 0.47
+    * Grenade Damage Scalar: 0.476190476
+    * Explosive Damage Scalar: 0.476190476
 * Config: Scripted
   * Scripted Behavior: 
     * This weapon will have the VFX "Infected Alpha" when wielded. 
