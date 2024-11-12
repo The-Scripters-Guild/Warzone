@@ -394,14 +394,13 @@ The configurations that make up each of the custom weapons.
 * Game State: 4
 * Notes: -
 
-## [32] Brute Scrap Cannon
-- Weapon Type: Brute Scrap Cannon
+## [32] 
+- Weapon Type: 
 - Trait Set: 32
 - Config: Default
 - Ammo: Default
-    - 100%
-- REQ Tier: 2
-- Game State: 1
+- REQ Tier: 
+- Game State: 
 - Notes: -
 
 ## [33] Defender Off Sanghelios
