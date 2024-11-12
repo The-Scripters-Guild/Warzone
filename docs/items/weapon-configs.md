@@ -41,7 +41,7 @@ The configurations that make up each of the custom weapons.
 * Game State: 1
 * Notes: -
 
-## [2] Key off Speed
+## [2] Key Off Speed
 * Weapon Type: Mk50 Sidekick +  BR75 Breacher
 * Trait Set: 2
   * Weapon Damage: 1.61
@@ -216,7 +216,7 @@ The configurations that make up each of the custom weapons.
 * Game State: 4
 * Notes: -
   
-## [17] Shot off Barroth
+## [17] Shot Off Barroth
 * Weapon Type: Stalker Rifle + Riven Mangler
 * Trait Set: 17
   * Weapon Damage: 1.20
@@ -249,7 +249,7 @@ The configurations that make up each of the custom weapons.
 * Game State: 4
 * Notes: -
 
-## [20] Attack off Iratus
+## [20] Attack Off Iratus
 * Weapon Type: Ravager + Elite Bloodblade
 * Trait Set: 20
   * Weapon Damage: 1.61
@@ -294,7 +294,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
 
-## [24] Extermination off Infection
+## [24] Extermination Off Infection
 * Weapon Type: Sentinel Beam + Impact Commando
 * Trait Set: 24
   * Weapon Damage: 0.46
@@ -409,7 +409,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 1
 - Notes: -
 
-## [33] Defender off Sanghelios
+## [33] Defender Off Sanghelios
 * Weapon Type: Plasma Cannon + Unbound Plasma Pistol
 * Trait Set: 33
   * Weapon Damage: 1.30
@@ -421,7 +421,7 @@ The configurations that make up each of the custom weapons.
 * Game State: 5
 * Notes: -
 
-## [34] Sentry off Writh Kul
+## [34] Sentry Off Writh Kul
 * Weapon Type: Plasma Cannon + Pinpoint Needler
 * Trait Set: 34
   * Weapon Damage: 1.50
@@ -433,7 +433,7 @@ The configurations that make up each of the custom weapons.
 * Game State: 6
 * Notes: -
 
-## [35] Cutlass off Doomfruit
+## [35] Cutlass Off Doomfruit
 * Weapon Type: Energy Sword + Unbound Plasma Pistol
 * Trait Set: 35
   * Weapon Damage: 1.00
@@ -453,7 +453,7 @@ The configurations that make up each of the custom weapons.
 * Game State: 3
 * Notes: -
 
-## [36] Power of Jega Rdomnai
+## [36] Power Off Jega 'Rdomnai
 * Weapon Type: Infected Energy Sword + MA40 Longshot
 * Trait Set: 36
   * Weapon Damage: 1.00
@@ -499,7 +499,7 @@ The configurations that make up each of the custom weapons.
 * Game State: 3
 * Notes: -
 
-## [39] Knight off Zeretus
+## [39] Knight Off Zeretus
 * Weapon Types: M41 SPNKr + Diminisher Of Hope
 * Trait Set: 39
   * Weapon Damage: 0.70
@@ -514,7 +514,7 @@ The configurations that make up each of the custom weapons.
 * Game State: 5
 * Notes: -
 
-## [40] Guard off Doisac
+## [40] Guard Off Doisac
 - Weapon Type: M41 SPNKr + Rushdown Hammer
 - Trait Set: 40
     - Weapon Damage: 1.30
@@ -529,7 +529,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 6
 - Notes: -
 
-## [41] Go At (UI Message C template)
+## [41] Go At
 * Weapon Type: M41 SPNKr + S7 Flexfire
 * Trait Set: 41
   * Weapon Damage: 0.01
@@ -605,7 +605,7 @@ The configurations that make up each of the custom weapons.
 * Game State: 6
 * Notes: -
   
-## [46] Reward off Hyperius
+## [46] Reward Off Hyperius
 * Weapon Type: S7 Sniper Rifle + Riven Mangler
 * Trait Set: 46
   * Weapon Damage: 2.60
@@ -641,7 +641,7 @@ The configurations that make up each of the custom weapons.
 * Game State: 6
 * Notes: Damage output based off of secondary fire strength; primary fire is pretty useless.
 
-## [49] Artifact of Tremonius
+## [49] Artifact Off Tremonius
 - Weapon Type: Hydra + Ravager Rebound
 - Trait Set: 49
     - Weapon Damage: 1.00
