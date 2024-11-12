@@ -239,7 +239,7 @@ The configurations that make up each of the custom weapons.
 * Notes: -
 
 ## [19] Zealot Ravager
-* Weapon Type: Ravager + Duelist Energy Sword
+* Weapon Type: Ravager + Elite Bloodblade
 * Trait Set: 19
   * Weapon Damage: 1.00
 * Config: Combo
@@ -250,7 +250,7 @@ The configurations that make up each of the custom weapons.
 * Notes: -
 
 ## [20] Attack Off Iratus
-* Weapon Type: Ravager + Elite Bloodblade
+* Weapon Type: Ravager + Duelist Energy Sword
 * Trait Set: 20
   * Weapon Damage: 1.61
 * Config: Combo
