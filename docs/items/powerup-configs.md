@@ -61,9 +61,9 @@ The configurations that make up each of the custom powerups.
 * Notes: -
 -->
 
-## [E1] Vampirism
+## [E1] Health Steal
 * Equipment Type: Custom Equipment A
-* Trait Set: vampirism
+* Trait Set: healthSteal
   * Vampirism
     * Shield Scalar: 0.00
     * Health Scalar: 0.40
@@ -73,9 +73,9 @@ The configurations that make up each of the custom powerups.
 * Game State: 5
 * Notes: Vampirism only comes from dealing damage to enemy health, not shield.
 
-## [E2] Melee Boost
+## [E2] Power Arm
 * Equipment Type: Custom Equipment B
-* Trait Set: meleeBoost
+* Trait Set: powerArm
   * Melee Impulse: 2.00
   * Melee Recovery Speed: 1.80
 * Duration: 45 s
@@ -101,9 +101,9 @@ The configurations that make up each of the custom powerups.
 * Game State: 1
 * Notes: Slightly faster speed which is noticeable when sliding.
 
-## [E4] Headshot Protection
+## [E4] Headhunter Guard
 * Equipment Type: Custom Equipment D
-* Trait Set: headshotProtection
+* Trait Set: headhunterGuard
   * Headshot Protection: TRUE
 * Duration: 60 s
 * VFX: VIP
