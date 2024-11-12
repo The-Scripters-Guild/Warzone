@@ -135,7 +135,7 @@ The configurations that make up each of the armor modifications.
   - M392 Bandit (15/30 -> 15/45)
   - BR75 (36/108 -> 36/216)
   - VK78 Commando (20/60 -> 20/120)
-  - MA5K Avenger (? -> ?)
+  - MA5K Avenger (60/180 -> 60/300)
   - Mk50 Sidekick + MA40 Longshot (25/75 -> 25/150)
   - MA40 Assault Rifle + Arcane Sentinel Beam (80/80 -> 80/240)
   - BR75 + Arcane Sentinel Beam (80/80 -> 80/240)
@@ -143,17 +143,16 @@ The configurations that make up each of the armor modifications.
 
 ## [M8] Frag Grenade Operator
 * Game State: 2
-* Notes: Adjusts the player's Frag Grenade count by 2
+* Notes: Sets the player's Frag Grenade count to 4 and removes all other Grenades.
 
 ## [M9] Spike Grenade Operator
 * Game State: 2
-* Notes: Adjusts the player's Spike Grenade count by 2
+* Notes: Sets the player's Frag Grenade count to 2, Spike Grenade count to 2 and removes all other Grenades.
 
 ## [M10] Plasma Grenade Operator
 * Game State: 3
-* Notes: Adjusts the player's Plasma Grenade count by 2
+* Notes: Sets the player's Frag Grenade count to 2, Plasma Grenade count to 2 and removes all other Grenades.
 
 ## [M11] Dynamo Grenade Operator
 * Game State: 5
-* Notes: Adjusts the player's Dynamo Grenade count by 2
-
+* Notes: Sets the player's Frag Grenade count to 2, Dynamo Grenade count to 2 and removes all other Grenades.
