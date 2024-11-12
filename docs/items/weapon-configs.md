@@ -440,8 +440,8 @@ The configurations that make up each of the custom weapons.
   * Movement Speed: 0.80
   * Damage Resistance
     * Direct Damage Scalar: 1.55
-    * Grenade Damage Scalar: 1.00
-    * Explosive Damage Scalar: 1.00
+    * Grenade Damage Scalar: 0.64
+    * Explosive Damage Scalar: 0.64
 * Config: Scripted
   * Scripted Behavior: 
     * The "Movement Speed" reduction and "Damage Resistance" increase will only apply when zoomed and not airborne. 
