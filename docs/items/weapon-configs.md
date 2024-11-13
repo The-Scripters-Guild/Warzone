@@ -250,6 +250,7 @@ The configurations that make up each of the custom weapons.
 * Weapon Type: Ravager + Duelist Energy Sword
 * Trait Set: 20
   * Weapon Damage: 1.61
+* VFX: Beta Infected
 * Config: Combo
 * Ammo: Default
   * 100%
@@ -332,6 +333,7 @@ The configurations that make up each of the custom weapons.
   * Reload Speed
     * Empty Reload Scalar: 3.00
     * Tactical Reload Scalar: 3.00
+* VFX: VIP
 * Config: Combo
 * Ammo: Default
   * 1+3
@@ -510,6 +512,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: M41 SPNKr + Rushdown Hammer
 - Trait Set: 40
     - Weapon Damage: 1.30
+- VFX: Beta Infected
 - Config: Projectile
     - Shot Count: 2
     - Shot Velocity: 115
