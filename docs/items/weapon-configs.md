@@ -172,9 +172,6 @@ The configurations that make up each of the custom weapons.
   * Shot Velocity: 3000
   * Projectile Config: 1
   * Projectile: Banished Hunter Shot
-  * Scripted behavior: 
-    * This weapon will have the VFX "Infected Alpha" when wielded. 
-    * Will lose all added traits when out of ammo. 
 * Ammo: Boost (14)
   * 4+6
 * REQ Tier: 7
@@ -250,6 +247,7 @@ The configurations that make up each of the custom weapons.
 * Weapon Type: Ravager + Duelist Energy Sword
 * Trait Set: 20
   * Weapon Damage: 1.61
+* VFX: Beta Infected
 * Config: Combo
 * Ammo: Default
   * 100%
@@ -332,6 +330,7 @@ The configurations that make up each of the custom weapons.
   * Reload Speed
     * Empty Reload Scalar: 3.00
     * Tactical Reload Scalar: 3.00
+* VFX: VIP
 * Config: Combo
 * Ammo: Default
   * 1+3
@@ -371,10 +370,7 @@ The configurations that make up each of the custom weapons.
     * Direct Damage Scalar: 2.10
     * Grenade Damage Scalar: 0.476190476
     * Explosive Damage Scalar: 0.476190476
-* Config: Scripted
-  * Scripted Behavior: 
-    * This weapon will have the VFX "Infected Alpha" when wielded. 
-    * Will lose all added traits and VFX when out of ammo. 
+* Config: Combo
 * Ammo: Default
   * 100%
 * REQ Tier: 7
@@ -435,11 +431,10 @@ The configurations that make up each of the custom weapons.
     * Direct Damage Scalar: 1.55
     * Grenade Damage Scalar: 0.64
     * Explosive Damage Scalar: 0.64
+* VFX: VIP (when zoomed)
 * Config: Scripted
   * Scripted Behavior: 
-    * The "Movement Speed" reduction and "Damage Resistance" increase will only apply when zoomed and not airborne. 
-    * Will have the VFX "VIP" when the wielder is aiming down sights to communicate when they are receiving their "Damage Resist" increase and "Movement Speed" reduction. 
-    * All added traits and VFX will be removed when out of ammo.
+    * The "Movement Speed" reduction and "Damage Resistance" increase will only apply when zoomed and not airborne. reduction. 
 * Ammo: Default
   * 100%
 * REQ Tier: 4
@@ -452,9 +447,7 @@ The configurations that make up each of the custom weapons.
   * VFX - Active Camouflage
     * Intensity Scalar: 0.80
     * Interpolation Scalar: 1.00
-* Config: Scripted
-  * Scripted Behavior:
-    * Has a never ending camo as long as the weapon has ammo. 
+* Config: Combo
 * Ammo: Default
   * 100%
 * REQ Tier: 6
@@ -510,6 +503,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: M41 SPNKr + Rushdown Hammer
 - Trait Set: 40
     - Weapon Damage: 1.30
+- VFX: Beta Infected
 - Config: Projectile
     - Shot Count: 2
     - Shot Velocity: 115
