@@ -1,4 +1,4 @@
-# AI Boss Spawn Times
+# Boss AI Encounters
 
 Documentation about the times that AI bosses spawn in the match.
 
