@@ -109,7 +109,7 @@ The configurations of AI that make up each of the AI encounters.
 - Marine Assault
 - Marine Assault
 
-## [AI12] Roamers 1
+## [AI12] Base Roamers 1
 
 - Elite Mercenary
 - Jackal Freebooter
@@ -117,10 +117,22 @@ The configurations of AI that make up each of the AI encounters.
 - Grunt Conscript, Yellow
 - Grunt Conscript, Yellow
 
-## [AI13] Roamers 2
+## [AI13] Base Roamers 2
 
 - Brute Minor
 - Jackal Raider
 - Jackal Raider
 - Grunt Conscript, Yellow
 - Grunt Conscript, Yellow
+
+## [AI14] Wild Roamers 1
+
+- Elite Mercenary
+- Jackal Freebooter
+- Jackal Freebooter
+
+## [AI15] Wild Roamers 2
+
+- Brute Minor
+- Jackal Raider
+- Jackal Raider
