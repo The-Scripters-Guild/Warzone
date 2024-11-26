@@ -1,6 +1,6 @@
 # Boss AI Encounters
 
-Documentation about the times that AI bosses spawn in the match.
+Documentation about the Boss AI Encounters for Skirmish at Darkstar.
 
 Find the referenced encounters at [AI Encounter Configurations](encounter-configs.md).
 
