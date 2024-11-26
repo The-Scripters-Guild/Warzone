@@ -4,7 +4,7 @@ Positioning of the locations for the map Skirmish at Darkstar.
 
 ## Boss AI Encounters
 
-![alt text](../../assets/boss-encounters-darkstar.png)
+![alt text](../../assets/boss-encounters-darkstar.jpg)
 
 - Colony
 - Middle
@@ -15,7 +15,7 @@ Positioning of the locations for the map Skirmish at Darkstar.
 
 ## Fodder AI Encounters
 
-![alt text](../../assets/fodder-encounters-darkstar.png)
+![alt text](../../assets/fodder-encounters-darkstar.jpg)
 
 - Red Base
 - Red Initial
