@@ -83,7 +83,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 80+80
 - REQ Tier: Loadout
-- Game State: 5
+- Game State: 6
 - Notes: -
 
 ## [6] ONI Battle Rifle
@@ -127,7 +127,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 80+80
 - REQ Tier: Loadout
-- Game State: 6
+- Game State: 5
 - Notes: -
 
 ## [10] Lost Commando
