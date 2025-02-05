@@ -1,3 +1,0 @@
-# Vehicles
-
-Information about vehicles.
