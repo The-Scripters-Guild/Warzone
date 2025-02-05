@@ -76,7 +76,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [5] Hardlight Battle Rifle
-- Weapon Type: BR75 +  Arcane Sentinel Beam
+- Weapon Type: BR75 + Arcane Sentinel Beam
 - Trait Set: 5
   - Weapon Damage: 1.29
 - Config: Combo
@@ -87,7 +87,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [6] ONI Battle Rifle
-- Weapon Type: BR75 +  Striker Sidekick
+- Weapon Type: BR75 + Striker Sidekick
 - Trait Set: 6
   - Movement Speed: 1.20
 - Config: Combo
@@ -98,7 +98,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [7] ONI Bandit
-- Weapon Type: M392 Bandit +  Impact Commando
+- Weapon Type: M392 Bandit + Impact Commando
 - Trait Set: 7
   - Weapon Damage: 1.41
 - Config: Combo
@@ -109,7 +109,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [8] Banished Bandit
-- Weapon Type: Bandit Evo +  Stalker Rifle Ultra
+- Weapon Type: Bandit Evo + Stalker Rifle Ultra
 - Trait Set: 8
   - Weapon Damage: 1.20
 - Config: Combo
@@ -131,7 +131,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [10] Lost Commando
-- Weapon Type: VK78 Commando Rifle +  Striker Sidekick
+- Weapon Type: VK78 Commando Rifle + Striker Sidekick
 - Trait Set: 10
   - Weapon Damage: 0.60
 - Config: Combo
@@ -163,7 +163,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
   
 ## [13] Valkyrie
-- Weapon Type: S7 Sniper Rifle + Diminisher Of Hope
+- Weapon Type: S7 Sniper Rifle + Diminisher of Hope
 - Trait Set: 13
   - Weapon Damage: 1.61
 - VFX: Infected Alpha
@@ -256,7 +256,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [21] Decaying World
-- Weapon Type: Disruptor + Diminisher Of Hope
+- Weapon Type: Disruptor + Diminisher of Hope
 - Trait Set: 21
   - Weapon damage: 1.87
   - Movement Speed: 1.10
@@ -268,7 +268,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [22] Stunning Bounty
-- Weapon Type: Shock Rifle + Diminisher Of Hope
+- Weapon Type: Shock Rifle + Diminisher of Hope
 - Trait Set: 22
   - Weapon Damage: 1.50
 - Config: Combo
@@ -322,7 +322,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [27] Scout Skewer
-- Weapon Type: Skewer + Diminisher Of Hope
+- Weapon Type: Skewer + Diminisher of Hope
 - Trait Set: 27
   - Weapon Damage: 1.05
   - Movement Speed: 1.20
@@ -378,7 +378,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -  
   
 ## [31] The Champion
-- Weapon Type: Scrap Cannon + Diminisher Of Hope
+- Weapon Type: Scrap Cannon + Diminisher of Hope
 - Trait Set: 31
   - Weapon Damage: 1.70
   - Movement Speed With Turret: 1.60
@@ -483,7 +483,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [39] Knight Off Zeretus
-- Weapon Types: M41 SPNKr + Diminisher Of Hope
+- Weapon Types: M41 SPNKr + Diminisher of Hope
 - Trait Set: 39
   - Weapon Damage: 0.70
 - Config: Projectile
@@ -514,7 +514,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [41] Go At
-- Weapon Type: Fuel Rod SPNKr + S7 Flexfire
+- Weapon Type: Fuel Rod SPNKr + S7 Flexfire Sniper
 - Trait Set: 41
   - Weapon Damage: 0.01
   - Jump Height: 1.25
@@ -599,7 +599,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [48] Headhunter
-- Weapon Type: MLRS-2 Hydra +  Unbound Plasma Pistol
+- Weapon Type: MLRS-2 Hydra + Unbound Plasma Pistol
 - Trait Set: 48
   - Weapon Damage: 0.84
   - Reload Speed
@@ -613,7 +613,7 @@ The configurations that make up each of the custom weapons.
 - Notes: Damage output based off of secondary fire strength; primary fire is pretty useless.
 
 ## [49] Artifact Off Tremonius
-- Weapon Type: Hydra + Ravager Rebound
+- Weapon Type: MLRS-2 Hydra + Ravager Rebound
 - Trait Set: 49
 - Config: Combo
 - Ammo Adjustment: None

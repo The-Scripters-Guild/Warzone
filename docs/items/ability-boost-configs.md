@@ -126,7 +126,7 @@ The configurations that make up each of the ability boosts.
 - Game State: 3
 - Notes: -
 
-## [M7] Patrol Case
+## [M7] Loadout Ammo
 - Game State: 2
 - Notes: Gives the maximum amount of ammo for any equipped loadout weapons at the time of equip. The list of affected weapon types is:
   - MA40 Assault Rifle (36/108 -> 36/216)

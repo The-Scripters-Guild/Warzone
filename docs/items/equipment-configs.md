@@ -186,7 +186,7 @@ The configurations that make up each of the equipment, including custom powerups
 - VFX: None
 - REQ Tier: 2
 - Game State: 1
-- Notes: Combines the upgradedWalking and upgradedSprinting armor mods for the best of both. Trait sets are identical, but separate declarations so they can be individually turned on and off without intereference.
+- Notes: Combines the upgradedWalking and upgradedSprinting ability boosts for the best of both. Trait sets are identical, but separate declarations so they can be individually turned on and off without intereference.
 
 ## [E14] Headhunter Guard
 - Equipment Type: Custom Equipment D
