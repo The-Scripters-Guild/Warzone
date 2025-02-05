@@ -56,7 +56,7 @@ The configurations that make up each of the custom weapons.
 ## [3] Hardlight Assault Rifle
 - Weapon Type: MA40 Assault Rifle +  Arcane Sentinel Beam
 - Trait Set: 3
-  - Weapon Damage: 1.03
+  - Weapon Damage: 0.81
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
@@ -467,15 +467,15 @@ The configurations that make up each of the custom weapons.
 - Game State: -
 - Notes: -
 
-## [38] Hunters Arm
-- Weapon Type: Cindershot + Convergence Bulldog
+## [38] Infiltrator Off Worlds
+- Weapon Type: Fuel Rod SPNKr + Convergence Bulldog
 - Trait Set: 38
   - Weapon Damage: 0.01
 - Config: Projectile
   - Shot Count: 2
   - Shot Velocity: 250
   - Projectile Config: 2
-  - Projectile: Hunter Shot
+  - Projectile: Banished Hunter Shot
 - Ammo Adjustment: -42
   - 10+0
 - REQ Tier: 4
@@ -514,7 +514,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [41] Go At
-- Weapon Type: M41 SPNKr + S7 Flexfire
+- Weapon Type: Fuel Rod SPNKr + S7 Flexfire
 - Trait Set: 41
   - Weapon Damage: 0.01
   - Jump Height: 1.25
@@ -568,19 +568,13 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
 
-## [45] Infiltrator Off Worlds
-- Weapon Type: Cindershot + Riven Mangler
+## [45] Unallocated
+- Weapon Type: -
 - Trait Set: 45
-  - Weapon Damage: 0.01
-- Config: Projectile
-  - Shot Count: 2
-  - Shot Velocity: 310
-  - Projectile Config: 2
-  - Projectile: Banished Hunter Shot
-- Ammo Adjustment: 23
-  - 6+10
-- REQ Tier: 7
-- Game State: 6
+- Config: Default
+- Ammo Adjustment: None
+- REQ Tier: -
+- Game State: -
 - Notes: -
   
 ## [46] Reward Off Hyperius
