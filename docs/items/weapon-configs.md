@@ -459,7 +459,7 @@ The configurations that make up each of the custom weapons.
 - Notes: Makes audible noise that alerts the enemy team to a wielder's presence in close range.
 
 ## [37] Unallocated
-- Weapon Type: -
+- Weapon Type: BR75
 - Trait Set: 37
 - Config: Default
 - Ammo: Default
@@ -530,7 +530,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [42] Unallocated
-- Weapon Type: -
+- Weapon Type: BR75
 - Trait Set: 42
 - Config: Default
 - Ammo Adjustment: None
@@ -569,7 +569,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [45] Unallocated
-- Weapon Type: -
+- Weapon Type: BR75
 - Trait Set: 45
 - Config: Default
 - Ammo Adjustment: None
@@ -623,10 +623,337 @@ The configurations that make up each of the custom weapons.
 - Notes: Damage output based off of secondary fire strength; primary fire is not as effective.
 
 ## [50] Unallocated
-- Weapon Type: -
+- Weapon Type: BR75
 - Trait Set: 50
 - Config: Default
 - Ammo Adjustment: None
 - REQ Tier: -
 - Game State: -
 - Notes: -
+
+Official weapon configs:
+
+## [51] Arcane Sentinel Beam
+- Weapon Type: Arcane Sentinel Beam
+- REQ Tier: 6
+- Game State: 5
+
+## [52] BR75 Breacher
+- Weapon Type: BR75 Breacher
+- REQ Tier: 3
+- Game State: 2
+
+## [53] Backdraft Cindershot
+- Weapon Type: Backdraft Cindershot
+- REQ Tier: 5
+- Game State: 4
+
+## [54] Calcine Disruptor
+- Weapon Type: Calcine Disruptor
+- REQ Tier: 7
+- Game State: 6
+
+## [55] Convergence Bulldog
+- Weapon Type: Convergence Bulldog
+- REQ Tier: 5
+- Game State: 4
+
+## [56] Diminisher of Hope
+- Weapon Type: Diminisher of Hope
+- REQ Tier: 7
+- Game State: 6
+
+## [57] Duelist Energy Sword
+- Weapon Type: Duelist Energy Sword
+- REQ Tier: 5
+- Game State: 4
+
+## [58] Elite Bloodblade
+- Weapon Type: Elite Bloodblade
+- REQ Tier: 4
+- Game State: 3
+
+## [59] Impact Commando
+- Weapon Type: Impact Commando
+- REQ Tier: 4
+- Game State: 3
+
+## [60] M41 Tracker
+- Weapon Type: M41 Tracker
+- REQ Tier: 6
+- Game State: 5
+
+## [61] MA40 Longshot
+- Weapon Type: MA40 Longshot
+- REQ Tier: 2
+- Game State: 1
+
+## [62] Pinpoint Needler
+- Weapon Type: Pinpoint Needler
+- REQ Tier: 5
+- Game State: 4
+
+## [63] Purging Shock Rifle
+- Weapon Type: Purging Shock Rifle
+- REQ Tier: 7
+- Game State: 6
+
+## [64] Pursuit Hydra
+- Weapon Type: Pursuit Hydra
+- REQ Tier: 6
+- Game State: 5
+
+## [65] Rapidfire Pulse Carbine
+- Weapon Type: Rapidfire Pulse Carbine
+- REQ Tier: 3
+- Game State: 2
+
+## [66] Ravager Rebound
+- Weapon Type: Ravager Rebound
+- REQ Tier: 5
+- Game State: 4
+
+## [67] Riven Mangler
+- Weapon Type: Riven Mangler
+- REQ Tier: 4
+- Game State: 3
+
+## [68] Rushdown Hammer
+- Weapon Type: Rushdown Hammer
+- REQ Tier: 8
+- Game State: 6
+
+## [69] S7 Flexfire Sniper
+- Weapon Type: S7 Flexfire Sniper
+- REQ Tier: 6
+- Game State: 5
+
+## [70] Scatterbound Heatwave
+- Weapon Type: Scatterbound Heatwave
+- REQ Tier: 5
+- Game State: 4
+
+## [71] Stalker Rifle Ultra
+- Weapon Type: Stalker Rifle Ultra
+- REQ Tier: 5
+- Game State: 4
+
+## [72] Striker Sidekick
+- Weapon Type: Striker Sidekick
+- REQ Tier: 6
+- Game State: 5
+
+## [73] Unbound Plasma Pistol
+- Weapon Type: Unbound Plasma Pistol
+- REQ Tier: 5
+- Game State: 4
+
+## [74] Volatile Skewer
+- Weapon Type: Volatile Skewer
+- REQ Tier: 6
+- Game State: 5
+
+## [75] Unallocated
+- Weapon Type: BR75
+- REQ Tier: -
+- Game State: -
+
+## [76] Unallocated
+- Weapon Type: BR75
+- REQ Tier: -
+- Game State: -
+
+## [77] Unallocated
+- Weapon Type: BR75
+- REQ Tier: -
+- Game State: -
+
+## [78] Unallocated
+- Weapon Type: BR75
+- REQ Tier: -
+- Game State: -
+
+## [79] Unallocated
+- Weapon Type: BR75
+- REQ Tier: -
+- Game State: - 
+
+## [80] Unallocated
+- Weapon Type: BR75
+- REQ Tier: -
+- Game State: -
+
+## [81] BR75
+- Weapon Type: BR75
+- REQ Tier: -
+- Game State: 5
+
+## [82] Bandit Evo
+- Weapon Type: Bandit Evo
+- REQ Tier: -
+- Game State: 2
+
+## [83] CQS48 Bulldog
+- Weapon Type: CQS48 Bulldog
+- REQ Tier: 4
+- Game State: 3
+
+## [84] Cindershot
+- Weapon Type: Cindershot
+- REQ Tier: 3
+- Game State: 2
+
+## [85] Disruptor
+- Weapon Type: Disruptor
+- REQ Tier: 4
+- Game State: 3
+
+## [86] Energy Sword
+- Weapon Type: Energy Sword
+- REQ Tier: 3
+- Game State: 2
+
+## [87] Gravity Hammer
+- Weapon Type: Gravity Hammer
+- REQ Tier: 6
+- Game State: 5
+
+## [88] Heatwave
+- Weapon Type: Heatwave
+- REQ Tier: 4
+- Game State: 3
+
+## [89] M392 Bandit
+- Weapon Type: M392 Bandit
+- REQ Tier: -
+- Game State: 3
+
+## [90] M41 SPNKr
+- Weapon Type: M41 SPNKr
+- REQ Tier: 5
+- Game State: 4
+
+## [91] MA40 Assault Rifle
+- Weapon Type: MA40 Assault Rifle
+- REQ Tier: -
+- Game State: 0
+
+## [92] MA5K Avenger
+- Weapon Type: MA5K Avenger
+- REQ Tier: -
+- Game State: 3
+
+## [93] MLRS-2 Hydra
+- Weapon Type: MLRS-2 Hydra
+- REQ Tier: 4
+- Game State: 3
+
+## [94] Mangler
+- Weapon Type: Mangler
+- REQ Tier: 3
+- Game State: 2
+
+## [95] Mk50 Sidekick
+- Weapon Type: Mk50 Sidekick
+- REQ Tier: -
+- Game State: 0
+
+## [96] Needler
+- Weapon Type: Needler
+- REQ Tier: 2
+- Game State: 1
+
+## [97] Plasma Pistol
+- Weapon Type: Plasma Pistol
+- REQ Tier: 3
+- Game State: 2
+
+## [98] Pulse Carbine
+- Weapon Type: Pulse Carbine
+- REQ Tier: 2
+- Game State: 1
+
+## [99] Ravager
+- Weapon Type: Ravager
+- REQ Tier: 4
+- Game State: 3
+
+## [100] S7 Sniper Rifle
+- Weapon Type: S7 Sniper Rifle
+- REQ Tier: 6
+- Game State: 5
+
+## [101] Sentinel Beam
+- Weapon Type: Sentinel Beam
+- REQ Tier: 4
+- Game State: 3
+
+## [102] Shock Rifle
+- Weapon Type: Shock Rifle
+- REQ Tier: 6
+- Game State: 5
+
+## [103] Skewer
+- Weapon Type: Skewer
+- REQ Tier: 5
+- Game State: 4
+
+## [104] Stalker Rifle
+- Weapon Type: Stalker Rifle
+- REQ Tier: 4
+- Game State: 3
+
+## [105] VK78 Commando Rifle
+- Weapon Type: VK78 Commando Rifle
+- REQ Tier: -
+- Game State: 4
+
+## [106] Fuel Rod SPNKr
+- Weapon Type: Fuel Rod SPNKr
+- REQ Tier: 6
+- Game State: 5
+
+## [107] Unallocated
+- Weapon Type: BR75
+- REQ Tier: -
+- Game State: -
+
+## [108] Unallocated
+- Weapon Type: BR75
+- REQ Tier: -
+- Game State: -
+
+## [109] Unallocated
+- Weapon Type: BR75
+- REQ Tier: -
+- Game State: -
+
+## [110] Unallocated
+- Weapon Type: BR75
+- REQ Tier: -
+- Game State: -
+
+## [111] M247 HMG
+- Weapon Type: M247 HMG
+- REQ Tier: 3
+- Game State: 2
+
+## [112] Scrap Cannon
+- Weapon Type: Scrap Cannon
+- REQ Tier: 3
+- Game State: 2
+
+## [113] Plasma Cannon
+- Weapon Type: Plasma Cannon
+- REQ Tier: 5
+- Game State: 4
+
+## [114] Infected Energy Sword
+- Weapon Type: Infected Energy Sword
+- REQ Tier: -
+- Game State: -
+
+## [115] Sandwich
+- Weapon Type: Sandwich
+- REQ Tier: -
+- Game State: -
