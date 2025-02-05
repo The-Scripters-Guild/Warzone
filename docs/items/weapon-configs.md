@@ -56,7 +56,7 @@ The configurations that make up each of the custom weapons.
 ## [3] Hardlight Assault Rifle
 - Weapon Type: MA40 Assault Rifle +  Arcane Sentinel Beam
 - Trait Set: 3
-  - Weapon Damage: 1.03
+  - Weapon Damage: 0.81
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
