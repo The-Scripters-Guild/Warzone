@@ -514,7 +514,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [41] Go At
-- Weapon Type: M41 SPNKr + S7 Flexfire
+- Weapon Type: Fuel Rod SPNKr + S7 Flexfire
 - Trait Set: 41
   - Weapon Damage: 0.01
   - Jump Height: 1.25
