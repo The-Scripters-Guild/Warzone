@@ -109,14 +109,14 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [8] Banished Bandit
-- Weapon Type: Bandit Evo + Stalker Rifle Ultra
+- Weapon Type: M392 Bandit + Stalker Rifle Ultra
 - Trait Set: 8
   - Weapon Damage: 1.20
 - Config: Combo
 - Ammo Adjustment: -57
   - 15+10
-- REQ Tier: 6
-- Game State: 5
+- REQ Tier: 7
+- Game State: 6
 - Notes: -
 
 ## [9] Hardlight Commando
@@ -225,12 +225,12 @@ The configurations that make up each of the custom weapons.
 ## [18] Eayn Carbine
 - Weapon Type: Stalker Rifle + Striker Sidekick
 - Trait Set: 18
-  - Weapon Damage: 1.56
+  - Weapon Damage: 1.20
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
-- REQ Tier: 7
-- Game State: 6
+- Ammo Adjustment: -85
+  - 85%
+- REQ Tier: 4
+- Game State: 3
 - Notes: -
 
 ## [19] Zealot Ravager
@@ -268,13 +268,13 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [22] Stunning Bounty
-- Weapon Type: Shock Rifle + Diminisher of Hope
+- Weapon Type: Shock Rifle + Calcine Disruptor
 - Trait Set: 22
-  - Weapon Damage: 1.50
+  - Weapon Damage: 1.60
 - Config: Combo
-- Ammo Adjustment: 27
-  - 12+36
-- REQ Tier: 7
+- Ammo Adjustment: 8
+  - 7+17
+- REQ Tier: 8
 - Game State: 6
 - Notes: -
 
@@ -458,17 +458,23 @@ The configurations that make up each of the custom weapons.
 - Game State: 5
 - Notes: Makes audible noise that alerts the enemy team to a wielder's presence in close range.
 
-## [37] Unallocated
-- Weapon Type: BR75
+## [37] Spike Off Ordo 'Mal
+- Weapon Type: MLRS-2 Hydra + S7 Flexfire Sniper
 - Trait Set: 37
-- Config: Default
+  - Weapon Damage: 0.01
+- Config: Projectile
+  - Shot Count: 1
+  - Shot Velocity: 400
+  - Projectile Config: 1
+  - Projectile: Spike Grenade
 - Ammo: Default
-- REQ Tier: -
-- Game State: -
+  - 10+10
+- REQ Tier: 5
+- Game State: 4
 - Notes: -
 
 ## [38] Infiltrator Off Worlds
-- Weapon Type: Fuel Rod SPNKr + Convergence Bulldog
+- Weapon Type: Fuel Rod SPNKr + Striker Sidekick
 - Trait Set: 38
   - Weapon Damage: 0.01
 - Config: Projectile
@@ -476,7 +482,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 250
   - Projectile Config: 2
   - Projectile: Banished Hunter Shot
-- Ammo Adjustment: -42
+- Ammo Adjustment: -13
   - 10+0
 - REQ Tier: 4
 - Game State: 3
@@ -735,8 +741,8 @@ Official weapon configs:
 
 ## [71] Stalker Rifle Ultra
 - Weapon Type: Stalker Rifle Ultra
-- REQ Tier: 5
-- Game State: 4
+- REQ Tier: 6
+- Game State: 5
 
 ## [72] Striker Sidekick
 - Weapon Type: Striker Sidekick
@@ -900,8 +906,8 @@ Official weapon configs:
 
 ## [104] Stalker Rifle
 - Weapon Type: Stalker Rifle
-- REQ Tier: 4
-- Game State: 3
+- REQ Tier: 5
+- Game State: 4
 
 ## [105] VK78 Commando Rifle
 - Weapon Type: VK78 Commando Rifle
