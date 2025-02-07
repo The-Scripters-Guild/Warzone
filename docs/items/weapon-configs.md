@@ -109,14 +109,14 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [8] Banished Bandit
-- Weapon Type: Bandit Evo + Stalker Rifle Ultra
+- Weapon Type: M392 Bandit + Stalker Rifle Ultra
 - Trait Set: 8
   - Weapon Damage: 1.20
 - Config: Combo
 - Ammo Adjustment: -57
   - 15+10
-- REQ Tier: 6
-- Game State: 5
+- REQ Tier: 7
+- Game State: 6
 - Notes: -
 
 ## [9] Hardlight Commando
