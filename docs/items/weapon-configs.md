@@ -741,8 +741,8 @@ Official weapon configs:
 
 ## [71] Stalker Rifle Ultra
 - Weapon Type: Stalker Rifle Ultra
-- REQ Tier: 5
-- Game State: 4
+- REQ Tier: 6
+- Game State: 5
 
 ## [72] Striker Sidekick
 - Weapon Type: Striker Sidekick
