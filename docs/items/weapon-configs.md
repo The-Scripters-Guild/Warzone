@@ -225,12 +225,12 @@ The configurations that make up each of the custom weapons.
 ## [18] Eayn Carbine
 - Weapon Type: Stalker Rifle + Striker Sidekick
 - Trait Set: 18
-  - Weapon Damage: 1.56
+  - Weapon Damage: 1.20
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
-- REQ Tier: 7
-- Game State: 6
+- Ammo Adjustment: -85
+  - 85%
+- REQ Tier: 4
+- Game State: 3
 - Notes: -
 
 ## [19] Zealot Ravager
