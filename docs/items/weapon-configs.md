@@ -458,13 +458,19 @@ The configurations that make up each of the custom weapons.
 - Game State: 5
 - Notes: Makes audible noise that alerts the enemy team to a wielder's presence in close range.
 
-## [37] Unallocated
-- Weapon Type: BR75
+## [37] Spike Off Ordo 'Mal
+- Weapon Type: MLRS-2 Hydra + S7 Flexfire Sniper
 - Trait Set: 37
-- Config: Default
+  - Weapon Damage: 0.01
+- Config: Projectile
+  - Shot Count: 1
+  - Shot Velocity: 400
+  - Projectile Config: 1
+  - Projectile: Spike Grenade
 - Ammo: Default
-- REQ Tier: -
-- Game State: -
+  - 10+10
+- REQ Tier: 5
+- Game State: 4
 - Notes: -
 
 ## [38] Infiltrator Off Worlds
