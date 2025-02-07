@@ -268,13 +268,13 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [22] Stunning Bounty
-- Weapon Type: Shock Rifle + Diminisher of Hope
+- Weapon Type: Shock Rifle + Calcine Disruptor
 - Trait Set: 22
-  - Weapon Damage: 1.50
+  - Weapon Damage: 1.60
 - Config: Combo
-- Ammo Adjustment: 27
-  - 12+36
-- REQ Tier: 7
+- Ammo Adjustment: 8
+  - 7+17
+- REQ Tier: 8
 - Game State: 6
 - Notes: -
 
