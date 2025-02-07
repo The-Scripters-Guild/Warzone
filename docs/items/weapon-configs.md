@@ -468,7 +468,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [38] Infiltrator Off Worlds
-- Weapon Type: Fuel Rod SPNKr + Convergence Bulldog
+- Weapon Type: Fuel Rod SPNKr + Striker Sidekick
 - Trait Set: 38
   - Weapon Damage: 0.01
 - Config: Projectile
@@ -476,7 +476,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 250
   - Projectile Config: 2
   - Projectile: Banished Hunter Shot
-- Ammo Adjustment: -42
+- Ammo Adjustment: -13
   - 10+0
 - REQ Tier: 4
 - Game State: 3
