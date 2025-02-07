@@ -906,8 +906,8 @@ Official weapon configs:
 
 ## [104] Stalker Rifle
 - Weapon Type: Stalker Rifle
-- REQ Tier: 4
-- Game State: 3
+- REQ Tier: 5
+- Game State: 4
 
 ## [105] VK78 Commando Rifle
 - Weapon Type: VK78 Commando Rifle
