@@ -322,9 +322,9 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [27] Scout Skewer
-- Weapon Type: Skewer + Diminisher of Hope
+- Weapon Type: Skewer + Pursuit Hydra
 - Trait Set: 27
-  - Weapon Damage: 1.05
+  - Weapon Damage: 0.70
   - Movement Speed: 1.20
   - Jump Height: 1.30
   - Reload Speed
@@ -332,8 +332,8 @@ The configurations that make up each of the custom weapons.
     - Tactical Reload Scalar: 3.00
 - VFX: VIP
 - Config: Combo
-- Ammo Adjustment: None
-  - 1+3
+- Ammo Adjustment: -50
+  - 6+0
 - REQ Tier: 6
 - Game State: 5
 - Notes: -
