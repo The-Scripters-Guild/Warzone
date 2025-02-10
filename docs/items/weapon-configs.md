@@ -292,7 +292,7 @@ The configurations that make up each of the custom weapons.
 ## [24] Extermination Off Infection
 - Weapon Type: Sentinel Beam + Impact Commando
 - Trait Set: 24
-  - Weapon Damage: 0.46
+  - Weapon Damage: 0.30
 - Config: Combo
 - Ammo Adjustment: None
   - 40+120
@@ -399,9 +399,9 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: None
     - Unlimited
-- REQ Tier: 8
-- Game State: 6
-- Notes: Has unlimited Duelist Energy Sword melees and fast movement speed, but can't lunge.
+- REQ Tier: 6
+- Game State: 4
+- Notes: Has unlimited Duelist Energy Sword melees and fast movement speed, but can't lunge. Has the fastest movement speed in the sandbox.
 
 ## [33] Defender Off Sanghelios
 - Weapon Type: Plasma Cannon + Unbound Plasma Pistol
