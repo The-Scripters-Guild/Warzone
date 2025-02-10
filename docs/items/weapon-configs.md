@@ -292,7 +292,7 @@ The configurations that make up each of the custom weapons.
 ## [24] Extermination Off Infection
 - Weapon Type: Sentinel Beam + Impact Commando
 - Trait Set: 24
-  - Weapon Damage: 0.46
+  - Weapon Damage: 0.30
 - Config: Combo
 - Ammo Adjustment: None
   - 40+120
