@@ -29,12 +29,12 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ![AI preview](../../assets/ai-05.jpg)
 * Primary Weapon Type: Mangler + Arcane Sentinel Beam
 * Trait Set: ?
-  * Weapon Damage: Same as [[38] Fuel Rod](../items/weapon-configs.md#38-fuel-rod) including projectile-related values
+  * Weapon Damage: Same as [[38] Infiltrator Off Worlds](../items/weapon-configs.md#38-infiltrator-off-worlds) including projectile-related values
   * Damage Resistance
     * Direct Damage Scalar: 3.80
     * Grenade Damage Scalar: 0.83
     * Explosive Damage Scalar: 0.83
-* Notes: Will die in 4 Hydra direct rockets and 2 Rocket Launcher Rockets. Drops a [[38] Fuel Rod](../items/weapon-configs.md#38-fuel-rod) upon death and deletes the Mangler + Arcane Sentinel Beam.
+* Notes: Will die in 4 Hydra direct rockets and 2 Rocket Launcher Rockets. Drops a [[38] Infiltrator Off Worlds](../items/weapon-configs.md#38-infiltrator-off-worlds) upon death and deletes the Mangler + Arcane Sentinel Beam.
 
 ## [6] Boss Bipbap
 
@@ -104,7 +104,7 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
     * Direct Damage Scalar: 1.00
     * Grenade Damage Scalar: 1.84
     * Explosive Damage Scalar: 1.84
-* Notes: Will die in 4 Hydra direct rockets and 2 Rocket Launcher Rockets. Drives a Ghost in [[AI8] Hunter Encounter, Mythic](../items/../npc/encounter-configs.md#ai8-hunter-encounter-mythic)
+* Notes: Will die in 4 Hydra direct rockets and 2 Rocket Launcher Rockets. Drives a Ghost in [[8] Hunter Encounter, Mythic](../items/../npc/encounter-configs.md#8-hunter-encounter-mythic)
 
 ## [31] Boss Ordo 'Mal
 
@@ -164,7 +164,7 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ![AI preview](../../assets/ai-40.jpg)
 * Primary Weapon Type: CQS48 Bulldog + Diminisher of Hope
 * Trait Set: ?
-  * Weapon Damage: Same as [[12] Blaze of Glory](../items/weapon-configs.md#12-blaze-of-glory)
+  * Weapon Damage: Same as [[12] Valor Off Dinh](../items/weapon-configs.md#12-valor-off-dinh)
   * Damage Resistance
     * Direct Damage Scalar: 4.30
     * Grenade Damage Scalar: 0.2325
@@ -180,7 +180,7 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
     * Direct Damage Scalar: 4.30
     * Grenade Damage Scalar: 2.57
     * Explosive Damage Scalar: 2.57
-* Notes: Will die in 4 Hydra direct rockets and 2 Rocket Launcher Rockets. Drives a Wraith in [[AI6] Brute 1 Encounter, Legendary](../items/../npc/encounter-configs.md#ai6-brute-1-encounter-legendary)
+* Notes: Will die in 4 Hydra direct rockets and 2 Rocket Launcher Rockets. Drives a Wraith in [[6] Brute 1 Encounter, Legendary](../items/../npc/encounter-configs.md#6-brute-1-encounter-legendary)
 
 ## [46] Brute Sniper, Heavy
 

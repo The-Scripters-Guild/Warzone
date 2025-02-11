@@ -57,7 +57,7 @@ The configurations that make up each of the ability boosts.
 - Notes: -
 -->
 
-## [M1] Heal Boost
+## [1] Heal Boost
 - Trait Set: healBoost
   - Health Recharge
     - Recharge Delay Scalar: -0.30 (5.0 s -> 3.5 s to begin recharging = 30.0% faster)
@@ -68,7 +68,7 @@ The configurations that make up each of the ability boosts.
 - Game State: 3
 - Notes: Explanation on how to adjust the scalars: https://discord.com/channels/220766496635224065/1275401201973854238/1275437779370639420
 
-## [M2] Upgraded Sensor
+## [2] Upgraded Sensor
 - Trait Set: upgradedSensor
   - Motion Tracker Visible
     - Motion Tracker Enabled: TRUE
@@ -80,7 +80,7 @@ The configurations that make up each of the ability boosts.
 - Game State: 4
 - Notes: Inner Ring is a general extension of the range and Extended Range is how far enemies will be shown on the outside ring of the radar when they're not within the range of the Inner Ring.
 
-## [M3] Rush
+## [3] Rush
 - Trait Set: rush
   - Reload Speed
     - Empty Reload Scalar: 1.17
@@ -91,7 +91,7 @@ The configurations that make up each of the ability boosts.
 - Game State: 3
 - Notes: -
 
-## [M4] Grenadier
+## [4] Grenadier
 - Trait Set: grenadier
   - Damage Resistance
     - Direct Damage Scalar: 1.00
@@ -102,7 +102,7 @@ The configurations that make up each of the ability boosts.
 - Game State: 2
 - Notes: -
 
-## [M5] Upgraded Walking
+## [5] Upgraded Walking
 - Trait Set: upgradedWalking
   - Movement Speed: 1.10
   - Jump Height: 1.10
@@ -115,7 +115,7 @@ The configurations that make up each of the ability boosts.
 - Game State: 3
 - Notes: -
 
-## [M6] Upgraded Sprinting
+## [6] Upgraded Sprinting
 - Trait Set: upgradedSprinting
   - Sprint Speed
     - Top Speed Scalar: 1.13
@@ -126,7 +126,7 @@ The configurations that make up each of the ability boosts.
 - Game State: 3
 - Notes: -
 
-## [M7] Loadout Ammo
+## [7] Loadout Ammo
 - Game State: 2
 - Notes: Gives the maximum amount of ammo for any equipped loadout weapons at the time of equip. The list of affected weapon types is:
   - MA40 Assault Rifle (36/108 -> 36/216)
@@ -141,18 +141,18 @@ The configurations that make up each of the ability boosts.
   - BR75 + Arcane Sentinel Beam (80/80 -> 80/240)
   - VK78 Commando Rifle + Arcane Sentinel Beam (80/80 -> 80/240)
 
-## [M8] Frag Grenade Operator
+## [8] Frag Grenade Operator
 - Game State: 2
 - Notes: Sets the player's Frag Grenade count to 4 and removes all other Grenades.
 
-## [M9] Spike Grenade Operator
+## [9] Spike Grenade Operator
 - Game State: 2
 - Notes: Sets the player's Frag Grenade count to 2, Spike Grenade count to 2 and removes all other Grenades.
 
-## [M10] Plasma Grenade Operator
+## [10] Plasma Grenade Operator
 - Game State: 3
 - Notes: Sets the player's Frag Grenade count to 2, Plasma Grenade count to 2 and removes all other Grenades.
 
-## [M11] Dynamo Grenade Operator
+## [11] Dynamo Grenade Operator
 - Game State: 5
 - Notes: Sets the player's Frag Grenade count to 2, Dynamo Grenade count to 2 and removes all other Grenades.

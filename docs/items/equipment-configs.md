@@ -62,56 +62,56 @@ The configurations that make up each of the equipment, including custom powerups
 - Notes: -
 -->
 
-## [E1] Drop Wall
+## [1] Drop Wall
 - Equipment Type: Drop Wall
 - Charge Count: 3
 - REQ Tier: 2
 - Game State: 1
 - Notes: -
 
-## [E2] Grappleshot
+## [2] Grappleshot
 - Equipment Type: Grappleshot
 - Charge Count: 4
 - REQ Tier: 4
 - Game State: 1
 - Notes: -
 
-## [E3] Repair Field
+## [3] Repair Field
 - Equipment Type: Repair Field
 - Charge Count: 1
 - REQ Tier: 3
 - Game State: 1
 - Notes: -
 
-## [E4] Repulsor
+## [4] Repulsor
 - Equipment Type: Repulsor
 - Charge Count: 4
 - REQ Tier: 3
 - Game State: 1
 - Notes: -
 
-## [E5] Shroud Screen
+## [5] Shroud Screen
 - Equipment Type: Shroud Screen
 - Charge Count: 2
 - REQ Tier: 2
 - Game State: 1
 - Notes: -
 
-## [E6] Threat Sensor
+## [6] Threat Sensor
 - Equipment Type: Threat Sensor
 - Charge Count: 3
 - REQ Tier: 2
 - Game State: 1
 - Notes: -
 
-## [E7] Thruster
+## [7] Thruster
 - Equipment Type: Thruster
 - Charge Count: 3
 - REQ Tier: 2
 - Game State: 1
 - Notes: -
 
-## [E8] Active Camouflage
+## [8] Active Camouflage
 - Equipment Type: Active Camouflage
 - Charge Count: 1
 - Duration: 30 s
@@ -119,7 +119,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Game State: 3
 - Notes: -
 
-## [E9] Overshield
+## [9] Overshield
 - Equipment Type: Overshield
 - Charge Count: 1
 - Duration: 50 s
@@ -127,7 +127,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Game State: 2
 - Notes: -
 
-## [E10] Quantum Translocator
+## [10] Quantum Translocator
 - Equipment Type: Quantum Translocator
 - Charge Count: 1
 - Duration: 30 s
@@ -135,7 +135,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Game State: 3
 - Notes: -
 
-## [E11] Health Steal
+## [11] Health Steal
 - Equipment Type: Custom Equipment A
 - Trait Set: healthSteal
   - Vampirism
@@ -148,7 +148,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Game State: 5
 - Notes: Vampirism only comes from dealing damage to enemy health, not shield.
 
-## [E12] Power Arm
+## [12] Power Arm
 - Equipment Type: Custom Equipment B
 - Trait Set: powerArm
   - Melee Impulse: 2.00
@@ -160,7 +160,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Game State: 1
 - Notes: Can melee faster with any weapon and can melee inert objects further upon impact.
 
-## [E13] Speed Boost
+## [13] Speed Boost
 - Equipment Type: Custom Equipment C
 - Trait Set 1: upgradedWalkingPU
   - Movement Speed: 1.10
@@ -188,7 +188,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Game State: 1
 - Notes: Combines the upgradedWalking and upgradedSprinting ability boosts for the best of both. Trait sets are identical, but separate declarations so they can be individually turned on and off without intereference.
 
-## [E14] Headhunter Guard
+## [14] Headhunter Guard
 - Equipment Type: Custom Equipment D
 - Trait Set: headhunterGuard
   - Headshot Protection: TRUE
@@ -199,28 +199,28 @@ The configurations that make up each of the equipment, including custom powerups
 - Game State: 2
 - Notes: Makes headshots to unshielded players act like bodyshots. Weapons that can kill an unshielded player in one hit to the head will now require more shots to the head to kill.
 
-## [E99] Legendary Drop Wall
+## [99] Legendary Drop Wall
 - Equipment Type: 
 - Charge Count: 1
 - REQ Tier: 5
 - Game State: 1
 - Notes: Granted via object reference; has invalid Equipment Type that doesn't work in script. Object reference must be gathered initially via player mark. Equipment spawner object be index 1 with label "Dodgeball Overtime Zone".
 
-## [E99] Legendary Grappleshot
+## [99] Legendary Grappleshot
 - Equipment Type: 
 - Charge Count: 4
 - REQ Tier: 5
 - Game State: 1
 - Notes: Granted via object reference; has invalid Equipment Type that doesn't work in script. Object reference must be gathered initially via player mark. Equipment spawner object be index 2 with label "Dodgeball Overtime Zone".
 
-## [E99] Legendary Threat Sensor
+## [99] Legendary Threat Sensor
 - Equipment Type: 
 - Charge Count: 2
 - REQ Tier: 4
 - Game State: 1
 - Notes: Granted via object reference; has invalid Equipment Type that doesn't work in script. Object reference must be gathered initially via player mark. Equipment spawner object be index 3 with label "Dodgeball Overtime Zone".
 
-## [E99] Legendary Thruster
+## [99] Legendary Thruster
 - Equipment Type: 
 - Charge Count: 3
 - REQ Tier: 3
