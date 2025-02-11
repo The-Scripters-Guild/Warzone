@@ -9,7 +9,7 @@ The configurations of AI that make up each of the AI encounters.
 - AI Name
 -->
 
-## [AI1] Grunt Encounter, Silver
+## [1] Grunt Encounter, Silver
 
 - Boss Bipbap (Boss)
 - Grunt Ultra
@@ -19,7 +19,7 @@ The configurations of AI that make up each of the AI encounters.
 - Brute Minor
 - Brute Minor
 
-## [AI2] Elite Encounter, Silver
+## [2] Elite Encounter, Silver
 
 - Boss Ordo 'Mal (Boss)
 - Elite Mercenary
@@ -28,7 +28,7 @@ The configurations of AI that make up each of the AI encounters.
 - Jackal Freebooter
 - Jackal Freebooter
 
-## [AI3] Hunter Encounter, Silver
+## [3] Hunter Encounter, Silver
 
 - Hunter (Boss)
 - Hunter (Boss)
@@ -37,7 +37,7 @@ The configurations of AI that make up each of the AI encounters.
 - Jackal Freebooter
 - Grunt Conscript, Yellow
 
-## [AI4] Brute Encounter, Silver
+## [4] Brute Encounter, Silver
 
 - Boss Arthoc (Boss)
 - Brute Minor
@@ -46,7 +46,7 @@ The configurations of AI that make up each of the AI encounters.
 - Jackal Raider
 - Jackal Raider
 
-## [AI5] Elite Encounter, Legendary
+## [5] Elite Encounter, Legendary
 
 - Boss Thav 'Sebarim (Boss)
 - Elite Warlord
@@ -55,7 +55,7 @@ The configurations of AI that make up each of the AI encounters.
 - Jackal Freebooter
 - Jackal Freebooter
 
-## [AI6] Brute 1 Encounter, Legendary
+## [6] Brute 1 Encounter, Legendary
 
 - Boss Tremonius (Boss)
 - Wraith
@@ -65,7 +65,7 @@ The configurations of AI that make up each of the AI encounters.
 - Grunt Ultra
 - Grunt Ultra
 
-## [AI7] Brute 2 Encounter, Legendary
+## [7] Brute 2 Encounter, Legendary
 
 - Brute Berserker, Chosen (Boss)
 - Brute Chieftain
@@ -74,7 +74,7 @@ The configurations of AI that make up each of the AI encounters.
 - Jackal Raider
 - Jackal Raider
 
-## [AI8] Hunter Encounter, Mythic
+## [8] Hunter Encounter, Mythic
 
 - Boss Myriad (Boss)
 - Boss Myriad (Boss)
@@ -86,7 +86,7 @@ The configurations of AI that make up each of the AI encounters.
 - Grunt Ultra
 - Grunt Ultra
 
-## [AI9] Harbinger Encounter, Mythic
+## [9] Harbinger Encounter, Mythic
 
 - Harbinger (Boss)
 - Brute Warlord
@@ -95,7 +95,7 @@ The configurations of AI that make up each of the AI encounters.
 - Brute Sniper, Heavy
 - Grunt Ultra
 
-## [AI10] Brute Encounter, Mythic
+## [10] Brute Encounter, Mythic
 
 - Boss Escharum (Boss)
 - Brute Warlord
@@ -103,13 +103,13 @@ The configurations of AI that make up each of the AI encounters.
 - Elite Warlord
 - Elite Ultra
 
-## [AI11] Team Marines
+## [11] Team Marines
 
 - Marine Assault
 - Marine Assault
 - Marine Assault
 
-## [AI12] Base Roamers 1
+## [12] Base Roamers 1
 
 - Elite Mercenary
 - Jackal Freebooter
@@ -117,7 +117,7 @@ The configurations of AI that make up each of the AI encounters.
 - Grunt Conscript, Yellow
 - Grunt Conscript, Yellow
 
-## [AI13] Base Roamers 2
+## [13] Base Roamers 2
 
 - Brute Minor
 - Jackal Raider
@@ -125,13 +125,13 @@ The configurations of AI that make up each of the AI encounters.
 - Grunt Conscript, Yellow
 - Grunt Conscript, Yellow
 
-## [AI14] Wild Roamers 1
+## [14] Wild Roamers 1
 
 - Elite Mercenary
 - Jackal Freebooter
 - Jackal Freebooter
 
-## [AI15] Wild Roamers 2
+## [15] Wild Roamers 2
 
 - Brute Minor
 - Jackal Raider
