@@ -681,8 +681,8 @@ Official weapon configs:
 
 ## [59] Impact Commando
 - Weapon Type: Impact Commando
-- REQ Tier: 4
-- Game State: 3
+- REQ Tier: 6
+- Game State: 5
 
 ## [60] M41 Tracker
 - Weapon Type: M41 Tracker
