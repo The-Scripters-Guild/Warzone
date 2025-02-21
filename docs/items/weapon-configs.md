@@ -133,10 +133,10 @@ The configurations that make up each of the custom weapons.
 ## [10] Lost Commando
 - Weapon Type: VK78 Commando Rifle + Striker Sidekick
 - Trait Set: 10
-  - Weapon Damage: 0.60
+  - Weapon Damage: 0.45
 - Config: Combo
-- Ammo Adjustment: None
-  - 14+42
+- Ammo Adjustment: 34
+  - 14+70
 - REQ Tier: 3
 - Game State: 2
 - Notes: -
@@ -343,8 +343,8 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 28
   - Weapon Damage: 0.36
 - Config: Combo
-- Ammo Adjustment: None
-  - 40+120
+- Ammo Adjustment: 20
+  - 40+160
 - REQ Tier: 4
 - Game State 3
 - Notes: -
@@ -535,13 +535,20 @@ The configurations that make up each of the custom weapons.
 - Game State: 2
 - Notes: -
 
-## [42] Unallocated
-- Weapon Type: BR75
+## [42] Forklift Warrior
+- Weapon Type: MA40 Assault Rifle + Diminisher of Hope
 - Trait Set: 42
-- Config: Default
-- Ammo Adjustment: None
-- REQ Tier: -
-- Game State: -
+  - Weapon Damage: 1.11
+  - Reload Speed
+    - Empty Reload Scalar: 3.00
+    - Tactical Reload Scalar: 3.00
+  - Jump Height: 1.25
+  - Sprint Enabled: FALSE
+- Config: Combo
+- Ammo Adjustment: 100
+  - 36+216
+- REQ Tier: 2
+- Game State: 1
 - Notes: -
 
 ## [43] Banish Off Balaho
@@ -646,8 +653,8 @@ Official weapon configs:
 
 ## [52] BR75 Breacher
 - Weapon Type: BR75 Breacher
-- REQ Tier: 3
-- Game State: 2
+- REQ Tier: 4
+- Game State: 3
 
 ## [53] Backdraft Cindershot
 - Weapon Type: Backdraft Cindershot
@@ -681,8 +688,8 @@ Official weapon configs:
 
 ## [59] Impact Commando
 - Weapon Type: Impact Commando
-- REQ Tier: 4
-- Game State: 3
+- REQ Tier: 6
+- Game State: 5
 
 ## [60] M41 Tracker
 - Weapon Type: M41 Tracker
@@ -691,8 +698,8 @@ Official weapon configs:
 
 ## [61] MA40 Longshot
 - Weapon Type: MA40 Longshot
-- REQ Tier: 2
-- Game State: 1
+- REQ Tier: 3
+- Game State: 2
 
 ## [62] Pinpoint Needler
 - Weapon Type: Pinpoint Needler
@@ -741,8 +748,8 @@ Official weapon configs:
 
 ## [71] Stalker Rifle Ultra
 - Weapon Type: Stalker Rifle Ultra
-- REQ Tier: 6
-- Game State: 5
+- REQ Tier: 7
+- Game State: 6
 
 ## [72] Striker Sidekick
 - Weapon Type: Striker Sidekick
