@@ -133,10 +133,10 @@ The configurations that make up each of the custom weapons.
 ## [10] Lost Commando
 - Weapon Type: VK78 Commando Rifle + Striker Sidekick
 - Trait Set: 10
-  - Weapon Damage: 0.60
+  - Weapon Damage: 0.45
 - Config: Combo
-- Ammo Adjustment: None
-  - 14+42
+- Ammo Adjustment: 34
+  - 14+70
 - REQ Tier: 3
 - Game State: 2
 - Notes: -
