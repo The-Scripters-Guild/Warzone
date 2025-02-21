@@ -646,8 +646,8 @@ Official weapon configs:
 
 ## [52] BR75 Breacher
 - Weapon Type: BR75 Breacher
-- REQ Tier: 3
-- Game State: 2
+- REQ Tier: 4
+- Game State: 3
 
 ## [53] Backdraft Cindershot
 - Weapon Type: Backdraft Cindershot
