@@ -343,8 +343,8 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 28
   - Weapon Damage: 0.36
 - Config: Combo
-- Ammo Adjustment: None
-  - 40+120
+- Ammo Adjustment: 20
+  - 40+160
 - REQ Tier: 4
 - Game State 3
 - Notes: -
