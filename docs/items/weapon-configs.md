@@ -535,13 +535,20 @@ The configurations that make up each of the custom weapons.
 - Game State: 2
 - Notes: -
 
-## [42] Unallocated
-- Weapon Type: BR75
+## [42] Forklift Warrior
+- Weapon Type: MA40 Assault Rifle + Diminisher of Hope
 - Trait Set: 42
-- Config: Default
-- Ammo Adjustment: None
-- REQ Tier: -
-- Game State: -
+  - Weapon Damage: 1.11
+  - Reload Speed
+    - Empty Reload Scalar: 3.00
+    - Tactical Reload Scalar: 3.00
+  - Jump Height: 1.25
+  - Sprint Enabled: FALSE
+- Config: Combo
+- Ammo Adjustment: 100
+  - 36+216
+- REQ Tier: 2
+- Game State: 1
 - Notes: -
 
 ## [43] Banish Off Balaho
