@@ -133,9 +133,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
   * Weapon Damage: 0.70
   * Damage Resistance
     * Direct Damage Scalar: 0.40
-    * Grenade Damage Scalar: 1.75
-    * Explosive Damage Scalar: 0.40
-* Notes: Is a Boss and has a health bar. 3 direct Rocket Launcher Rockets will kill. 2 direct Rocket Launcher Rockets if hit in back. 5 Frag Grenades will kill.
+    * Grenade Damage Scalar: 4.00
+    * Explosive Damage Scalar: 0.70
+* Notes: Is a Boss and has a health bar. 2 direct M41 SPNkrs in the front or 1 in the back will kill. 2 well-placed Frag Grenades will kill.
 
 ## [14] Boss Myriad
 
