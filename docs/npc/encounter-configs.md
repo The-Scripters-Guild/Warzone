@@ -70,9 +70,10 @@ The configurations of AI that make up each of the AI encounters.
 
 - Brute Berserker, Chosen (Boss)
 - Brute Chieftain
+- Elite Ultra
 - Brute Warrior
 - Brute Warrior
-- Jackal Raider
+- Brute Sniper, Heavy
 - Jackal Raider
 
 ## [8] Hunter Encounter, Mythic
