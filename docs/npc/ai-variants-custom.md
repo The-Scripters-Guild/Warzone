@@ -86,7 +86,7 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [9] Elite Warlord
 
 ![AI preview](../../assets/ai-27.jpg)
-* Primary Weapon Type: Rapidfire Pulse Carbine
+* Primary Weapon Type: Stalker Rifle
 * Secondary Weapon Type: None
 * Trait Set: -
   * Damage Resistance
