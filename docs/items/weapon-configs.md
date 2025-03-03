@@ -543,7 +543,6 @@ The configurations that make up each of the custom weapons.
     - Empty Reload Scalar: 3.00
     - Tactical Reload Scalar: 3.00
   - Jump Height: 1.25
-  - Sprint Enabled: FALSE
 - Config: Combo
 - Ammo Adjustment: 100
   - 36+216
