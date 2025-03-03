@@ -458,8 +458,8 @@ The configurations that make up each of the custom weapons.
 - Game State: 5
 - Notes: Makes audible noise that alerts the enemy team to a wielder's presence in close range.
 
-## [37] Spike Off Ordo 'Mal
-- Weapon Type: MLRS-2 Hydra + S7 Flexfire Sniper
+## [37] Spike Off Thav 'Sebarim
+- Weapon Type: Cindershot + S7 Flexfire Sniper
 - Trait Set: 37
   - Weapon Damage: 0.01
 - Config: Projectile
