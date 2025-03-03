@@ -98,7 +98,7 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [10] Elite Ultra
 
 ![AI preview](../../assets/ai-28.jpg)
-* Primary Weapon Type: Stalker Rifle Ultra
+* Primary Weapon Type: Rapidfire Pulse Carbine
 * Trait Set: -
   * Damage Resistance
     * Direct Damage Scalar: 1.00
