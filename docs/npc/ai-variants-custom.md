@@ -86,19 +86,19 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [9] Elite Warlord
 
 ![AI preview](../../assets/ai-27.jpg)
-* Primary Weapon Type: Rapidfire Pulse Carbine
+* Primary Weapon Type: Stalker Rifle
 * Secondary Weapon Type: None
 * Trait Set: -
   * Damage Resistance
     * Direct Damage Scalar: 2.00
-    * Grenade Damage Scalar: 0.50
-    * Explosive Damage Scalar: 0.50
-* Notes: -
+    * Grenade Damage Scalar: 1.30
+    * Explosive Damage Scalar: 1.30
+* Notes: Will die in 4 direct M41 SPNKr rockets.
 
 ## [10] Elite Ultra
 
 ![AI preview](../../assets/ai-28.jpg)
-* Primary Weapon Type: Stalker Rifle Ultra
+* Primary Weapon Type: Rapidfire Pulse Carbine
 * Trait Set: -
   * Damage Resistance
     * Direct Damage Scalar: 1.00
@@ -109,7 +109,7 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [11] Boss Ordo 'Mal
 
 ![AI preview](../../assets/ai-31.jpg)
-* Primary Weapon Type: Stalker Rifle
+* Primary Weapon Type: Heatwave
 * Secondary Weapon Type: None
 * Trait Set: -
 * Notes: Is a Boss and has a health bar.
@@ -117,13 +117,14 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [12] Boss Thav 'Sebarim
 
 ![AI preview](../../assets/ai-33.jpg)
+* Primary Weapon Type: Same as [[37] Spike Off Ordo 'Mal](https://github.com/The-Scripters-Guild/Warzone/blob/main/docs/items/weapon-configs.md#37-spike-off-ordo-mal) including projectile-related values.
 * Trait Set: ?
   * Weapon Damage: 1.30
   * Damage Resistance
     * Direct Damage Scalar: 1.30
     * Grenade Damage Scalar: 0.7692
     * Explosive Damage Scalar: 0.7692
-* Notes: Is a Boss and has a health bar.
+* Notes: Is a Boss and has a health bar. Drops a [[37] Spike Off Ordo 'Mal](https://github.com/The-Scripters-Guild/Warzone/blob/main/docs/items/weapon-configs.md#37-spike-off-ordo-mal) upon death and deletes the Cindershot + Arcane Sentinel Beam.
 
 ## [13] Hunter
 
@@ -132,9 +133,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
   * Weapon Damage: 0.70
   * Damage Resistance
     * Direct Damage Scalar: 0.40
-    * Grenade Damage Scalar: 1.75
-    * Explosive Damage Scalar: 0.40
-* Notes: Is a Boss and has a health bar. 3 direct Rocket Launcher Rockets will kill. 2 direct Rocket Launcher Rockets if hit in back. 5 Frag Grenades will kill.
+    * Grenade Damage Scalar: 4.00
+    * Explosive Damage Scalar: 0.70
+* Notes: Is a Boss and has a health bar. 2 direct M41 SPNkrs in the front or 1 in the back will kill. 2 well-placed Frag Grenades will kill.
 
 ## [14] Boss Myriad
 
@@ -188,9 +189,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 * Trait Set: ?
   * Damage Resistance
     * Direct Damage Scalar: 10.00
-    * Grenade Damage Scalar: 0.10
-    * Explosive Damage Scalar: 0.10
-* Notes: -
+    * Grenade Damage Scalar: 1.40
+    * Explosive Damage Scalar: 1.40
+* Notes: Will die in 4 direct M41 SPNKr rockets.
 
 ## [19] Brute Warlord
 
@@ -199,9 +200,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 * Trait Set: ?
   * Damage Resistance
     * Direct Damage Scalar: 3.80
-    * Grenade Damage Scalar: 0.83
-    * Explosive Damage Scalar: 0.83
-* Notes: -
+    * Grenade Damage Scalar: 2.10
+    * Explosive Damage Scalar: 2.10
+* Notes: Will die in 4 direct M41 SPNKr rockets.
 
 ## [20] Brute Chieftain
 
@@ -227,10 +228,10 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 * Primary Weapon Type: Pursuit Hydra
 * Trait Set: ?
   * Damage Resistance
-    * Direct Damage Scalar: 2.00
-    * Grenade Damage Scalar: 0.50
-    * Explosive Damage Scalar: 0.50
-* Notes: Is a Boss and has a health bar.
+    * Direct Damage Scalar: 1.00
+    * Grenade Damage Scalar: 1.50
+    * Explosive Damage Scalar: 1.50
+* Notes: Is a Boss and has a health bar. Weak to explosive plasma damage.
 
 ## [23] Boss Escharum
 
@@ -241,12 +242,8 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [24] Boss Harbinger
 
 ![AI preview](../../assets/ai-66.jpg)
-* Trait Set: ?
-  * Damage Resistance
-    * Direct Damage Scalar: 4.00
-    * Grenade Damage Scalar: 0.25
-    * Explosive Damage Scalar: 0.25
-* Notes: Is a Boss and has a health bar.
+* Trait Set: -
+* Notes: Is a Boss and has a health bar. Has four stages of dealing damage to their shield, and then their health, before dying.
 
 ## Acknowledgements
 
