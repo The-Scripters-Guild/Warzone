@@ -242,12 +242,8 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [24] Boss Harbinger
 
 ![AI preview](../../assets/ai-66.jpg)
-* Trait Set: ?
-  * Damage Resistance
-    * Direct Damage Scalar: 4.00
-    * Grenade Damage Scalar: 0.25
-    * Explosive Damage Scalar: 0.25
-* Notes: Is a Boss and has a health bar.
+* Trait Set: -
+* Notes: Is a Boss and has a health bar. Has four stages of dealing damage to their shield, and then their health, before dying.
 
 ## Acknowledgements
 
