@@ -61,9 +61,10 @@ The configurations of AI that make up each of the AI encounters.
 - Wraith
 	- Brute Warrior
 - Brute Warlord
-- Brute Sniper, Heavy
 - Grunt Ultra
-- Grunt Ultra
+- Brute Chieftain
+- Brute Chieftain
+- Brute Chieftain
 
 ## [7] Brute 2 Encounter, Legendary
 
