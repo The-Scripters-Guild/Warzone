@@ -189,9 +189,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 * Trait Set: ?
   * Damage Resistance
     * Direct Damage Scalar: 10.00
-    * Grenade Damage Scalar: 0.10
-    * Explosive Damage Scalar: 0.10
-* Notes: -
+    * Grenade Damage Scalar: 1.40
+    * Explosive Damage Scalar: 1.40
+* Notes: Will die in 4 direct M41 SPNKr rockets.
 
 ## [19] Brute Warlord
 
