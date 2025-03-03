@@ -117,13 +117,14 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [12] Boss Thav 'Sebarim
 
 ![AI preview](../../assets/ai-33.jpg)
+* Primary Weapon Type: Same as [[37] Spike Off Ordo 'Mal](https://github.com/The-Scripters-Guild/Warzone/blob/main/docs/items/weapon-configs.md#37-spike-off-ordo-mal) including projectile-related values.
 * Trait Set: ?
   * Weapon Damage: 1.30
   * Damage Resistance
     * Direct Damage Scalar: 1.30
     * Grenade Damage Scalar: 0.7692
     * Explosive Damage Scalar: 0.7692
-* Notes: Is a Boss and has a health bar.
+* Notes: Is a Boss and has a health bar. Drops a [[37] Spike Off Ordo 'Mal](https://github.com/The-Scripters-Guild/Warzone/blob/main/docs/items/weapon-configs.md#37-spike-off-ordo-mal) upon death and deletes the Cindershot + Arcane Sentinel Beam.
 
 ## [13] Hunter
 
