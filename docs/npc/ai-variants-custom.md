@@ -228,10 +228,10 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 * Primary Weapon Type: Pursuit Hydra
 * Trait Set: ?
   * Damage Resistance
-    * Direct Damage Scalar: 2.00
-    * Grenade Damage Scalar: 0.50
-    * Explosive Damage Scalar: 0.50
-* Notes: Is a Boss and has a health bar.
+    * Direct Damage Scalar: 1.00
+    * Grenade Damage Scalar: 1.50
+    * Explosive Damage Scalar: 1.50
+* Notes: Is a Boss and has a health bar. Weak to explosive plasma damage.
 
 ## [23] Boss Escharum
 
