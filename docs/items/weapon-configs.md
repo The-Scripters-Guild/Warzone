@@ -316,10 +316,11 @@ The configurations that make up each of the custom weapons.
 ## [25] The Final Token
 - Weapon Type: Sentinel Beam + Striker Sidekick
 - Trait Set: 25
-  - Weapon Damage: 0.52
+  - Weapon Damage: 0.70
+- VFX: Infected Beta
 - Config: Combo
-- Ammo Adjustment: None
-  - 14+42
+- Ammo Adjustment: 50
+  - 14+84
 - REQ Tier: 7
 - Game State: 6
 - Notes: -
