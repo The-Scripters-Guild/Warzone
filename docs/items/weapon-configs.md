@@ -541,7 +541,7 @@ The configurations that make up each of the custom weapons.
   - Jump Height: 1.25
 - Config: Projectile
   - Shot Count: 1
-  - Shot Velocity: 100
+  - Shot Velocity: 120
   - Projectile Config: 1
   - Projectile: Rocket Hog Shot
 - Ammo Adjustment: 25
