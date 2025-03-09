@@ -166,7 +166,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: S7 Sniper Rifle + Diminisher of Hope
 - Trait Set: 13
   - Weapon Damage: 1.61
-- VFX: Infected Alpha
+- VFX: Alpha Infected
 - Config: Projectile
   - Shot Count: 1
   - Shot Velocity: 3000
@@ -370,6 +370,7 @@ The configurations that make up each of the custom weapons.
     - Direct Damage Scalar: 2.10
     - Grenade Damage Scalar: 0.476190476
     - Explosive Damage Scalar: 0.476190476
+- VFX: Alpha Infected
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -511,7 +512,7 @@ The configurations that make up each of the custom weapons.
 - Config: Projectile
     - Shot Count: 2
     - Shot Velocity: 115
-    - Porjectile Config: 3
+    - Projectile Config: 3
     - Projectile: M41 SPNKr Rocket
 - Ammo Adjustment: 34
     - 2+4
