@@ -156,6 +156,7 @@ The configurations that make up each of the custom weapons.
 ## [11] Rush Bulldog
 - Weapon Type: CQS48 Bulldog + BR75 Breacher
 - Trait Set: 11
+  - Weapon Damage: 1.01
 - Config: Combo
 - Ammo Adjustment: -50
   - 30+60
