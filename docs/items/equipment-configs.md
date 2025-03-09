@@ -72,7 +72,7 @@ The configurations that make up each of the equipment, including custom powerups
 ## [2] Grappleshot
 - Equipment Type: Grappleshot
 - Charge Count: 4
-- REQ Tier: 4
+- REQ Tier: 3
 - Game State: 1
 - Notes: -
 
