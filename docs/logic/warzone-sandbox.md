@@ -16,3 +16,6 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 ### 0.8.2
 - [25] The Final Token: Weapon Damage 0.52 -> 0.70, VFX: Beta Infected.
 - [13] Valkyrie: Motion tracker disabled while zoomed.
+
+### 0.8.3
+- [11] Rush Bulldog: Weapon Damage 1.00 -> 1.01.
