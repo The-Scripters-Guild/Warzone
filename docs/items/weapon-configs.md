@@ -57,6 +57,9 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: MA40 Assault Rifle +  Arcane Sentinel Beam
 - Trait Set: 3
   - Weapon Damage: 0.81
+  - Reload Speed
+		- Empty Reload Scalar: 0.75
+		- Tactical Reload Scalar: 0.75
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
@@ -68,6 +71,9 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: MA5K Avenger + Arcane Sentinel Beam
 - Trait Set: 4
   - Weapon Damage: 0.76
+  - Reload Speed
+		- Empty Reload Scalar: 0.75
+		- Tactical Reload Scalar: 0.75
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
@@ -79,6 +85,9 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: BR75 + Arcane Sentinel Beam
 - Trait Set: 5
   - Weapon Damage: 1.29
+  - Reload Speed
+		- Empty Reload Scalar: 0.75
+		- Tactical Reload Scalar: 0.75
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
@@ -123,6 +132,9 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: VK78 Commando Rifle + Arcane Sentinel Beam
 - Trait Set: 9
   - Weapon Damage: 1.72
+  - Reload Speed
+		- Empty Reload Scalar: 0.75
+		- Tactical Reload Scalar: 0.75
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
