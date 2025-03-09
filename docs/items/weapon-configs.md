@@ -98,12 +98,12 @@ The configurations that make up each of the custom weapons.
 ## [6] ONI Battle Rifle
 - Weapon Type: BR75 + Striker Sidekick
 - Trait Set: 6
-  - Movement Speed: 1.20
+  - Weapon Damage: 0.60
 - Config: Combo
-- Ammo Adjustment: None
-  - 14+42
-- REQ Tier: 6
-- Game State: 5
+- Ammo Adjustment: 34
+  - 14+70
+- REQ Tier: 5
+- Game State: 4
 - Notes: -
 
 ## [7] ONI Bandit
