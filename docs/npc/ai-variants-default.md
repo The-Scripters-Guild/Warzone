@@ -19,6 +19,10 @@ Documentation of all the default AI variants.
   - Heroic: #
   - Legendary: #
 - Species: #
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Gauss Hog, Ghost, Gungoose, M247 HMG Turret, Mongoose, Phantom, Plasma Cannon Turret, Razorback, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wasp, Wraith
+  - Passenger: Banshee, Brute Chopper, Chopper Boss, Gauss Hog, Ghost, Gungoose, M247 HMG Turret, Mongoose, Phantom, Plasma Cannon Turret, Razorback, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wasp, Wraith
+  - Gunner: Banshee, Brute Chopper, Chopper Boss, Gauss Hog, Ghost, Gungoose, M247 HMG Turret, Mongoose, Phantom, Plasma Cannon Turret, Razorback, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wasp, Wraith
 - Notes: -
 -->
 
@@ -39,6 +43,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Grunt
+- Vehicle operation
+  - Driver: Ghost
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
 ## [2] Grunt Assault, Red
@@ -58,6 +66,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Grunt
+- Vehicle operation
+  - Driver: Ghost
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
 ## [3] Grunt Conscript, Blue
@@ -77,6 +89,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Grunt
+- Vehicle operation
+  - Driver: Ghost
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
 ## [4] Grunt Conscript, Yellow
@@ -96,6 +112,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Grunt
+- Vehicle operation
+  - Driver: Ghost
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
 ## [5] Grunt Ultra
@@ -115,6 +135,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Grunt
+- Vehicle operation
+  - Driver: Ghost
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
 ## [6] Boss Bipbap
@@ -134,6 +158,10 @@ Documentation of all the default AI variants.
   - Heroic: 650
   - Legendary: 800
 - Species: Grunt
+- Vehicle operation
+  - Driver: Ghost
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: Only Grunt with a shield value.
 
 ## [7] Boss Briglard
@@ -153,6 +181,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Grunt
+- Vehicle operation
+  - Driver: Ghost
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: Has a Ravager, CQS48 Bulldog and Shock Rifle on its back that can be picked up even when the AI is alive.
 
 ## [8] Jackal Freebooter
@@ -172,6 +204,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Jackal
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: Has a blue shield object in one hand that is separate from the AI health and shield values.
 
 ## [9] Jackal Raider
@@ -191,6 +227,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Jackal
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: Has a yellow shield object in one hand that is separate from the AI health and shield values and can absorb bullets.
 
 ## [10] Jackal Skirmisher
@@ -210,6 +250,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Jackal
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: Has blue shields on its arms that are separate from the AI health and shield values and can absorb bullets.
 
 ## [11] Jackal Sniper
@@ -229,6 +273,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Jackal
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: -
 
 ## [12] Boss Barroth
@@ -248,6 +296,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Jackal
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: -
 
 ## [13] Boss Writh Kul
@@ -267,6 +319,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Jackal
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: Has blue shields on its arms that are separate from the AI health and shield values and can absorb bullets.
 
 ## [14] Skimmer
@@ -286,6 +342,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Skimmer
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: -
 
 ## [15] Skimmer Loyalist
@@ -305,6 +365,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Skimmer
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: -
 
 ## [16] Skimmer Ultra
@@ -324,6 +388,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Skimmer
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: -
 
 ## [17] Boss Skimmer Alpha
@@ -343,6 +411,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Skimmer
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: -
 
 ## [18] Marine Assault
@@ -362,6 +434,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Human
+- Vehicle operation
+  - Driver: -
+  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
+  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: -
 
 ## [19] Marine Demolition
@@ -381,6 +457,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Human
+- Vehicle operation
+  - Driver: -
+  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
+  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: -
 
 ## [20] Marine Heavy
@@ -400,6 +480,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Human
+- Vehicle operation
+  - Driver: -
+  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
+  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: -
 
 ## [21] Marine Scout
@@ -419,6 +503,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Human
+- Vehicle operation
+  - Driver: -
+  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
+  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: -
 
 ## [22] Marine Sniper
@@ -438,6 +526,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Human
+- Vehicle operation
+  - Driver: -
+  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
+  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: -
 
 ## [23] Marine Survivor
@@ -457,6 +549,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Human
+- Vehicle operation
+  - Driver: -
+  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
+  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: Has multiple different models.
 
 ## [24] Elite Enforcer
@@ -476,6 +572,10 @@ Documentation of all the default AI variants.
   - Heroic: 345
   - Legendary: 370
 - Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target.
 
 ## [25] Elite Mercenary
@@ -495,6 +595,10 @@ Documentation of all the default AI variants.
   - Heroic: 195
   - Legendary: 230
 - Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target.
 
 ## [26] Elite Spec Ops
@@ -514,6 +618,10 @@ Documentation of all the default AI variants.
   - Heroic: 345
   - Legendary: 370
 - Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
 ## [27] Elite Warlord
@@ -533,6 +641,10 @@ Documentation of all the default AI variants.
   - Heroic: 315
   - Legendary: 450
 - Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
 ## [28] Elite Ultra
@@ -552,6 +664,10 @@ Documentation of all the default AI variants.
   - Heroic: 315
   - Legendary: 450
 - Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
 ## [29] Boss Chak 'Lok
@@ -571,6 +687,10 @@ Documentation of all the default AI variants.
   - Heroic: 3000
   - Legendary: 3500
 - Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
 ## [30] Boss Okro 'Vagaduun
@@ -590,6 +710,10 @@ Documentation of all the default AI variants.
   - Heroic: 650
   - Legendary: 800
 - Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
 ## [31] Boss Ordo 'Mal
@@ -609,6 +733,10 @@ Documentation of all the default AI variants.
   - Heroic: 800
   - Legendary: 900
 - Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
 ## [32] Boss Inka 'Saham
@@ -628,6 +756,10 @@ Documentation of all the default AI variants.
   - Heroic: 750
   - Legendary: 850
 - Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
 ## [33] Boss Thav 'Sebarim
@@ -647,6 +779,10 @@ Documentation of all the default AI variants.
   - Heroic: 900
   - Legendary: 1000
 - Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
 ## [34] Boss Jega 'Rdomnai
@@ -666,6 +802,10 @@ Documentation of all the default AI variants.
   - Heroic: 1700
   - Legendary: 2000
 - Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
 ## [35] Hunter
@@ -685,6 +825,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Hunter
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: -
 
 ## [36] Hunter, Banished
@@ -704,6 +848,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Hunter
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: -
 
 ## [37] Boss Myriad
@@ -723,6 +871,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Hunter
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: -
 
 ## [38] Brute Minor
@@ -742,6 +894,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
 ## [39] Brute Berserker
@@ -761,6 +917,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: -
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
 ## [40] Brute Berserker, Chosen
@@ -780,6 +940,10 @@ Documentation of all the default AI variants.
   - Heroic: 120
   - Legendary: 120
 - Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: -
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
 ## [41] Brute Commando
@@ -799,6 +963,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
 ## [42] Brute Commando, Chosen
@@ -818,6 +986,10 @@ Documentation of all the default AI variants.
   - Heroic: 90
   - Legendary: 90
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
 ## [43] Brute Warrior
@@ -837,6 +1009,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
 ## [44] Brute Warrior, Chosen
@@ -856,6 +1032,10 @@ Documentation of all the default AI variants.
   - Heroic: 150
   - Legendary: 180
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom,   Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
 ## [45] Brute Sniper
@@ -875,6 +1055,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
 ## [46] Brute Sniper, Heavy
@@ -894,6 +1078,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
 ## [47] Brute Warlord
@@ -913,6 +1101,10 @@ Documentation of all the default AI variants.
   - Heroic: 150
   - Legendary: 180
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
 ## [48] Brute Captain
@@ -932,6 +1124,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
 ## [49] Brute Captain, Chosen
@@ -951,6 +1147,10 @@ Documentation of all the default AI variants.
   - Heroic: 150
   - Legendary: 180
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
 ## [50] Brute Chieftain
@@ -970,6 +1170,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Their melee attack deals an EMP shock to nearby vehicles. Can not wield any other weapon than their default.
 
 ## [51] Brute Chieftain, Chosen
@@ -989,6 +1193,10 @@ Documentation of all the default AI variants.
   - Heroic: 275
   - Legendary: 350
 - Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Their melee attack deals an EMP shock to nearby vehicles. Can not wield any other weapon than their default.
 
 ## [52] Brute Chieftain Turret
@@ -1008,6 +1216,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Can not wield any other weapon than their default.
 
 ## [53] Brute Chieftain Turret, Chosen
@@ -1027,7 +1239,11 @@ Documentation of all the default AI variants.
   - Heroic: 275
   - Legendary: 350
 - Species: Brute
-- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Can not wield any other weapon than their default.
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss
+  - Passenger: Phantom
+  - Gunner: -
+- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Can not wield any other weapon than their default. Drops a regular Scrap Cannon on death.
 
 ## [54] Boss Arthoc
 
@@ -1046,6 +1262,10 @@ Documentation of all the default AI variants.
   - Heroic: 375
   - Legendary: 450
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
 ## [55] Boss Balkarus
@@ -1065,6 +1285,10 @@ Documentation of all the default AI variants.
   - Heroic: 375
   - Legendary: 450
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
 ## [56] Boss Bassus
@@ -1084,6 +1308,10 @@ Documentation of all the default AI variants.
   - Heroic: 588
   - Legendary: 750
 - Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Their melee attack deals an EMP shock to nearby vehicles. Can not wield any other weapon than their default.
 
 ## [57] Boss En'geddon
@@ -1103,6 +1331,10 @@ Documentation of all the default AI variants.
   - Heroic: 500
   - Legendary: 600
 - Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
 ## [58] Boss Ik'novus
@@ -1122,6 +1354,10 @@ Documentation of all the default AI variants.
   - Heroic: 375
   - Legendary: 450
 - Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
 ## [59] Boss Zeretus
@@ -1141,6 +1377,10 @@ Documentation of all the default AI variants.
   - Heroic: 375
   - Legendary: 450
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
 ## [60] Boss Tovarus
@@ -1160,6 +1400,10 @@ Documentation of all the default AI variants.
   - Heroic: 500
   - Legendary: 600
 - Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
 ## [61] Boss Hyperius
@@ -1179,6 +1423,10 @@ Documentation of all the default AI variants.
   - Heroic: 400
   - Legendary: 500
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
 ## [62] Boss Tremonius
@@ -1198,6 +1446,10 @@ Documentation of all the default AI variants.
   - Heroic: 575
   - Legendary: 700
 - Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
 ## [63] Boss Escharum
@@ -1217,6 +1469,10 @@ Documentation of all the default AI variants.
   - Heroic: 800
   - Legendary: 800
 - Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss
+  - Passenger: Phantom
+  - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a red bubble shield that needs to be destroyed 5 times before he swaps to the Diminisher of Hope and doesn't gain back the shield anymore.
 
 ## [64] Boss Adjutant Resolution, Silver
@@ -1237,6 +1493,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Sentinel
+- Vehicle operation
+  - Driver: -
+  - Passenger: -
+  - Gunner: -
 - Notes: Has different stages of offense. The outer arms must be shot out before being able to kill it.
 
 ## [65] Boss Adjutant Resolution, Gold
@@ -1257,6 +1517,10 @@ Documentation of all the default AI variants.
   - Heroic: 0
   - Legendary: 0
 - Species: Sentinel
+- Vehicle operation
+  - Driver: -
+  - Passenger: -
+  - Gunner: -
 - Notes: Has different stages of offense. The outer arms must be shot out before being able to kill it.
 
 ## [66] Boss Harbinger
@@ -1276,7 +1540,11 @@ Documentation of all the default AI variants.
   - Heroic: 1025
   - Legendary: 1250
 - Species: ?
-- Notes: Shoots blue orbs that charge up mid-air and track to the nearest enemy. Impacts of the shots leave a lingering damage effect. The AI teleports around when engaging an enemy.
+- Vehicle operation
+  - Driver: -
+  - Passenger: -
+  - Gunner: -
+- Notes: Shoots blue orbs that charge up mid-air and track to the nearest enemy. Impacts of the shots leave a lingering damage effect. The AI teleports around when engaging an enemy. Has 4 stages of damaging shield, then health; when health is damaged enough, they teleport to the position of their AI Spawner.
 
 ## Acknowledgements
 
