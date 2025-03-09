@@ -57,6 +57,9 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: MA40 Assault Rifle +  Arcane Sentinel Beam
 - Trait Set: 3
   - Weapon Damage: 0.81
+  - Reload Speed
+		- Empty Reload Scalar: 0.75
+		- Tactical Reload Scalar: 0.75
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
@@ -68,6 +71,9 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: MA5K Avenger + Arcane Sentinel Beam
 - Trait Set: 4
   - Weapon Damage: 0.76
+  - Reload Speed
+		- Empty Reload Scalar: 0.75
+		- Tactical Reload Scalar: 0.75
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
@@ -79,6 +85,9 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: BR75 + Arcane Sentinel Beam
 - Trait Set: 5
   - Weapon Damage: 1.29
+  - Reload Speed
+		- Empty Reload Scalar: 0.75
+		- Tactical Reload Scalar: 0.75
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
@@ -89,12 +98,12 @@ The configurations that make up each of the custom weapons.
 ## [6] ONI Battle Rifle
 - Weapon Type: BR75 + Striker Sidekick
 - Trait Set: 6
-  - Movement Speed: 1.20
+  - Weapon Damage: 0.60
 - Config: Combo
-- Ammo Adjustment: None
-  - 14+42
-- REQ Tier: 6
-- Game State: 5
+- Ammo Adjustment: 34
+  - 14+70
+- REQ Tier: 5
+- Game State: 4
 - Notes: -
 
 ## [7] ONI Bandit
@@ -123,6 +132,9 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: VK78 Commando Rifle + Arcane Sentinel Beam
 - Trait Set: 9
   - Weapon Damage: 1.72
+  - Reload Speed
+		- Empty Reload Scalar: 0.75
+		- Tactical Reload Scalar: 0.75
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
@@ -144,6 +156,7 @@ The configurations that make up each of the custom weapons.
 ## [11] Rush Bulldog
 - Weapon Type: CQS48 Bulldog + BR75 Breacher
 - Trait Set: 11
+  - Weapon Damage: 1.01
 - Config: Combo
 - Ammo Adjustment: -50
   - 30+60
@@ -166,7 +179,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: S7 Sniper Rifle + Diminisher of Hope
 - Trait Set: 13
   - Weapon Damage: 1.61
-- VFX: Infected Alpha
+- VFX: Alpha Infected
 - Config: Projectile
   - Shot Count: 1
   - Shot Velocity: 3000
@@ -303,10 +316,11 @@ The configurations that make up each of the custom weapons.
 ## [25] The Final Token
 - Weapon Type: Sentinel Beam + Striker Sidekick
 - Trait Set: 25
-  - Weapon Damage: 0.52
+  - Weapon Damage: 0.70
+- VFX: Infected Beta
 - Config: Combo
-- Ammo Adjustment: None
-  - 14+42
+- Ammo Adjustment: 50
+  - 14+84
 - REQ Tier: 7
 - Game State: 6
 - Notes: -
@@ -370,6 +384,7 @@ The configurations that make up each of the custom weapons.
     - Direct Damage Scalar: 2.10
     - Grenade Damage Scalar: 0.476190476
     - Explosive Damage Scalar: 0.476190476
+- VFX: Alpha Infected
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -511,7 +526,7 @@ The configurations that make up each of the custom weapons.
 - Config: Projectile
     - Shot Count: 2
     - Shot Velocity: 115
-    - Porjectile Config: 3
+    - Projectile Config: 3
     - Projectile: M41 SPNKr Rocket
 - Ammo Adjustment: 34
     - 2+4
@@ -526,7 +541,7 @@ The configurations that make up each of the custom weapons.
   - Jump Height: 1.25
 - Config: Projectile
   - Shot Count: 1
-  - Shot Velocity: 100
+  - Shot Velocity: 120
   - Projectile Config: 1
   - Projectile: Rocket Hog Shot
 - Ammo Adjustment: 25
@@ -657,8 +672,8 @@ Official weapon configs:
 
 ## [53] Backdraft Cindershot
 - Weapon Type: Backdraft Cindershot
-- REQ Tier: 5
-- Game State: 4
+- REQ Tier: 3
+- Game State: 2
 
 ## [54] Calcine Disruptor
 - Weapon Type: Calcine Disruptor
@@ -812,8 +827,8 @@ Official weapon configs:
 
 ## [84] Cindershot
 - Weapon Type: Cindershot
-- REQ Tier: 3
-- Game State: 2
+- REQ Tier: 4
+- Game State: 3
 
 ## [85] Disruptor
 - Weapon Type: Disruptor
