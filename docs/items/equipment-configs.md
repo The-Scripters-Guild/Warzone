@@ -209,7 +209,7 @@ The configurations that make up each of the equipment, including custom powerups
 ## [99] Legendary Grappleshot
 - Equipment Type: 
 - Charge Count: 4
-- REQ Tier: 5
+- REQ Tier: 4
 - Game State: 1
 - Notes: Granted via object reference; has invalid Equipment Type that doesn't work in script. Object reference must be gathered initially via player mark. Equipment spawner object be index 2 with label "Dodgeball Overtime Zone".
 
