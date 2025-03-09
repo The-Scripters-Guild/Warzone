@@ -827,8 +827,8 @@ Official weapon configs:
 
 ## [84] Cindershot
 - Weapon Type: Cindershot
-- REQ Tier: 3
-- Game State: 2
+- REQ Tier: 4
+- Game State: 3
 
 ## [85] Disruptor
 - Weapon Type: Disruptor
