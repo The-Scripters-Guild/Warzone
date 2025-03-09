@@ -672,8 +672,8 @@ Official weapon configs:
 
 ## [53] Backdraft Cindershot
 - Weapon Type: Backdraft Cindershot
-- REQ Tier: 5
-- Game State: 4
+- REQ Tier: 3
+- Game State: 2
 
 ## [54] Calcine Disruptor
 - Weapon Type: Calcine Disruptor
