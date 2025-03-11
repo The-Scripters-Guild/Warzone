@@ -19,3 +19,14 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 
 ### 0.8.3
 - [11] Rush Bulldog: Weapon Damage 1.00 -> 1.01.
+
+### 0.8.4
+- Updated weaponGrant to have an extra 0.00 s delay in order to allow the event to be ran back-to-back without extra wait delays.
+- Added listener for on-level Legendary Equipment detection for initial gathering of their object references. @@@@@@@@@
+- Updated Legendary Equipment granting logic so they can be remotely granted to players via the grantEquipment event and the corresponding equipment number, instead of requiring a direct object reference.
+- Updated debug brain to be more compartmentalized.
+- Added setObjectVariables event to "Variable declarations" brain, in order to offload on-level Object Variable declarations by setting them inside a mode brain.
+- Renamed Speed Boost traits to speedBoost1 & speedBoost2.
+- Removed old weapon combination at index 45 from weaponTypes list, as it's currently an unallocated weapon.
+- Updated grantAbilityBoost logic for Loadout Ammo to pull from weaponTypes list instead of manually set weapon type combinations.
+- Updated enterVehicle logic (in grantVehicle) to only fire multiple times if the unit did not enter the vehicle after the first try.
