@@ -20,7 +20,7 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 ### 0.8.3
 - [11] Rush Bulldog: Weapon Damage 1.00 -> 1.01.
 
-### 0.8.4
+### 0.9.0
 - Updated weaponGrant to have an extra 0.00 s delay in order to allow the event to be ran back-to-back without extra wait delays.
 - Added listener for on-level Legendary Equipment detection for initial gathering of their object references.
 - Updated Legendary Equipment granting logic so they can be remotely granted to players via the grantEquipment event and the corresponding equipment number, instead of requiring a direct object reference.
