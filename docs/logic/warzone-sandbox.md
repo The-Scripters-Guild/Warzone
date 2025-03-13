@@ -30,3 +30,6 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 - Removed old weapon combination at index 45 from weaponTypes list, as it's currently an unallocated weapon.
 - Updated grantAbilityBoost logic for Loadout Ammo to pull from weaponTypes list instead of manually set weapon type combinations.
 - Updated enterVehicle logic (in grantVehicle) to only fire multiple times if the unit did not enter the vehicle after the first try.
+
+### 0.9.1
+- Reorganized code in the init brains to make isolating parts of the code easier by deleting entire mode brains.
