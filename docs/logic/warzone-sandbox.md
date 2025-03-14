@@ -5,6 +5,7 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 ## Changelog
 
 ### 0.8.1
+
 - Vehicle Grant logic queue update from every 1 second -> every 0.10 seconds.
 - Vehicle Grant queue only spawns vehicle if the requesting unit is not dead.
 - [13] Valkyrie: Motion tracker stays visible while zoomed.
@@ -14,13 +15,16 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 - [6] ONI Battle Rifle: Remove movement speed trait, Weapon Damage 0.60, Ammo adjustment +34 (14+70)
 
 ### 0.8.2
+
 - [25] The Final Token: Weapon Damage 0.52 -> 0.70, VFX: Beta Infected.
 - [13] Valkyrie: Motion tracker disabled while zoomed.
 
 ### 0.8.3
+
 - [11] Rush Bulldog: Weapon Damage 1.00 -> 1.01.
 
 ### 0.9.0
+
 - Updated weaponGrant to have an extra 0.00 s delay in order to allow the event to be ran back-to-back without extra wait delays.
 - Added listener for on-level Legendary Equipment detection for initial gathering of their object references.
 - Updated Legendary Equipment granting logic so they can be remotely granted to players via the grantEquipment event and the corresponding equipment number, instead of requiring a direct object reference.
@@ -32,4 +36,16 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 - Updated enterVehicle logic (in grantVehicle) to only fire multiple times if the unit did not enter the vehicle after the first try.
 
 ### 0.9.1
+
 - Reorganized code in the init brains to make isolating parts of the code easier by deleting entire mode brains.
+
+### 0.9.2
+
+- [1] Marksman Sidekick: Weapon Type Mk50 Sidekick + Impact Commando, Weapon Damage 0.60, Ammo Adjustment -50 (40+60).
+- [8] Banished Bandit -> Tovarus Artifice.
+- [10] Lost Commando -> ONI Commando.
+- [11] Rush Bulldog: Weapon Damage 1.15.
+- [12] Valor Off Dinh: VFX Beta Infected.
+- [28] ONI Ranger: Weapon Damage 0.38.
+- [42] Forklift Warrior -> ONI Assault Rifle: Weapon Type MA40 Assault Rifle + Impact Commando, Weapon Damage 0.38, Ammo Adjustment -70 (40+100). Remove all other traits.
+- Fixed an inconsistency with Legendary Equipment gathering at round start by adding a delay to the initial gathering logic.
