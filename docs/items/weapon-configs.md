@@ -31,12 +31,12 @@ The configurations that make up each of the custom weapons.
 -->
 
 ## [1] Marksman Sidekick
-- Weapon Type: Mk50 Sidekick +  MA40 Longshot
+- Weapon Type: Mk50 Sidekick +  Impact Commando
 - Trait Set: 1
-  - Weapon Damage: 0.88
+  - Weapon Damage: 0.60
 - Config: Combo
-- Ammo Adjustment: None
-  - 25+75
+- Ammo Adjustment: -50
+  - 40+60
 - REQ Tier: Loadout
 - Game State: 1
 - Notes: -
@@ -117,7 +117,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 3
 - Notes: -
 
-## [8] Banished Bandit
+## [8] Tovarus Artifice
 - Weapon Type: M392 Bandit + Stalker Rifle Ultra
 - Trait Set: 8
   - Weapon Damage: 1.20
@@ -142,7 +142,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 5
 - Notes: -
 
-## [10] Lost Commando
+## [10] ONI Commando
 - Weapon Type: VK78 Commando Rifle + Striker Sidekick
 - Trait Set: 10
   - Weapon Damage: 0.45
@@ -156,7 +156,7 @@ The configurations that make up each of the custom weapons.
 ## [11] Rush Bulldog
 - Weapon Type: CQS48 Bulldog + BR75 Breacher
 - Trait Set: 11
-  - Weapon Damage: 1.01
+  - Weapon Damage: 1.15
 - Config: Combo
 - Ammo Adjustment: -50
   - 30+60
@@ -168,6 +168,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: CQS48 Bulldog + Diminisher Of Hope
 - Trait Set: 12
   - Weapon Damage: 2.90
+- VFX: Beta Infected
 - Config: Combo
 - Ammo Adjustment: None
   - 7+7
@@ -291,7 +292,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 6
 - Notes: -
 
-## [23] Triple Threat
+## [23] Tripple Threat
 - Weapon Type: Mangler + BR75 Breacher
 - Trait Set: 23
     - Weapon Damage: 2.70
@@ -317,7 +318,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Sentinel Beam + Striker Sidekick
 - Trait Set: 25
   - Weapon Damage: 0.70
-- VFX: Infected Beta
+- VFX: Beta Infected
 - Config: Combo
 - Ammo Adjustment: 50
   - 14+84
@@ -355,7 +356,7 @@ The configurations that make up each of the custom weapons.
 ## [28] ONI Ranger
 - Weapon Type: MA5K Avenger + Impact Commando
 - Trait Set: 28
-  - Weapon Damage: 0.36
+  - Weapon Damage: 0.38
 - Config: Combo
 - Ammo Adjustment: 20
   - 40+160
@@ -550,17 +551,13 @@ The configurations that make up each of the custom weapons.
 - Game State: 2
 - Notes: -
 
-## [42] Forklift Warrior
-- Weapon Type: MA40 Assault Rifle + Diminisher of Hope
+## [42] ONI Assault Rifle
+- Weapon Type: MA40 Assault Rifle + Impact Commando
 - Trait Set: 42
-  - Weapon Damage: 1.11
-  - Reload Speed
-    - Empty Reload Scalar: 3.00
-    - Tactical Reload Scalar: 3.00
-  - Jump Height: 1.25
+  - Weapon Damage: 0.38
 - Config: Combo
-- Ammo Adjustment: 100
-  - 36+216
+- Ammo Adjustment: -70
+  - 40+100
 - REQ Tier: 2
 - Game State: 1
 - Notes: -
@@ -596,7 +593,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [45] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - Trait Set: 45
 - Config: Default
 - Ammo Adjustment: None
@@ -650,7 +647,7 @@ The configurations that make up each of the custom weapons.
 - Notes: Damage output based off of secondary fire strength; primary fire is not as effective.
 
 ## [50] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - Trait Set: 50
 - Config: Default
 - Ammo Adjustment: None
@@ -781,32 +778,32 @@ Official weapon configs:
 - Game State: 5
 
 ## [75] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [76] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [77] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [78] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [79] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: - 
 
 ## [80] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
@@ -822,8 +819,8 @@ Official weapon configs:
 
 ## [83] CQS48 Bulldog
 - Weapon Type: CQS48 Bulldog
-- REQ Tier: 4
-- Game State: 3
+- REQ Tier: 3
+- Game State: 2
 
 ## [84] Cindershot
 - Weapon Type: Cindershot
@@ -847,8 +844,8 @@ Official weapon configs:
 
 ## [88] Heatwave
 - Weapon Type: Heatwave
-- REQ Tier: 4
-- Game State: 3
+- REQ Tier: 3
+- Game State: 2
 
 ## [89] M392 Bandit
 - Weapon Type: M392 Bandit
@@ -941,22 +938,22 @@ Official weapon configs:
 - Game State: 5
 
 ## [107] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [108] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [109] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [110] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 

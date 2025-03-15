@@ -151,7 +151,6 @@ The configurations that make up each of the equipment, including custom powerups
 ## [12] Power Arm
 - Equipment Type: Custom Equipment B
 - Trait Set: powerArm
-  - Melee Impulse: 2.00
   - Melee Recovery Speed: 1.80
 - Charge Count: 1
 - Duration: 45 s
@@ -162,7 +161,7 @@ The configurations that make up each of the equipment, including custom powerups
 
 ## [13] Speed Boost
 - Equipment Type: Custom Equipment C
-- Trait Set 1: upgradedWalkingPU
+- Trait Set 1: speedboost1
   - Movement Speed: 1.10
   - Jump Height: 1.10
   - Sprint Speed
@@ -174,7 +173,7 @@ The configurations that make up each of the equipment, including custom powerups
   - Slide Speed
     - Slide Speed Scalar: 0.99
     - Slide Duration Scalar: 1.00
-- Trait Set 2: upgradedSprintingPU
+- Trait Set 2: speedBoost2
   - Sprint Speed
     - Top Speed Scalar: 1.13
     - Time To Top Speed Scalar: 0.90
@@ -199,28 +198,28 @@ The configurations that make up each of the equipment, including custom powerups
 - Game State: 2
 - Notes: Makes headshots to unshielded players act like bodyshots. Weapons that can kill an unshielded player in one hit to the head will now require more shots to the head to kill.
 
-## [99] Legendary Drop Wall
+## [15] Legendary Drop Wall
 - Equipment Type: 
 - Charge Count: 1
 - REQ Tier: 5
 - Game State: 1
 - Notes: Granted via object reference; has invalid Equipment Type that doesn't work in script. Object reference must be gathered initially via player mark. Equipment spawner object be index 1 with label "Dodgeball Overtime Zone".
 
-## [99] Legendary Grappleshot
+## [16] Legendary Grappleshot
 - Equipment Type: 
 - Charge Count: 4
 - REQ Tier: 4
 - Game State: 1
 - Notes: Granted via object reference; has invalid Equipment Type that doesn't work in script. Object reference must be gathered initially via player mark. Equipment spawner object be index 2 with label "Dodgeball Overtime Zone".
 
-## [99] Legendary Threat Sensor
+## [17] Legendary Threat Sensor
 - Equipment Type: 
 - Charge Count: 2
 - REQ Tier: 4
 - Game State: 1
 - Notes: Granted via object reference; has invalid Equipment Type that doesn't work in script. Object reference must be gathered initially via player mark. Equipment spawner object be index 3 with label "Dodgeball Overtime Zone".
 
-## [99] Legendary Thruster
+## [18] Legendary Thruster
 - Equipment Type: 
 - Charge Count: 3
 - REQ Tier: 3
