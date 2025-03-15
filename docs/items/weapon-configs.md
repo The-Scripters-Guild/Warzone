@@ -168,6 +168,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: CQS48 Bulldog + Diminisher Of Hope
 - Trait Set: 12
   - Weapon Damage: 2.90
+- VFX: Beta Infected
 - Config: Combo
 - Ammo Adjustment: None
   - 7+7
