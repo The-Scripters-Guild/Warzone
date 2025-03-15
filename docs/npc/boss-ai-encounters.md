@@ -56,7 +56,7 @@ Find the referenced locations at [Map Locations for Skirmish At Darkstar](../map
 ## [16:00 min] 25 Points
 - Tier: Silver
 - Location: Tents & Platform
-- Possible Encounters: 1, 2, 3, 4
+- Possible Encounters: 1, 3
 
 ## [18:00 min] 200 Points
 - Tier: Mythic

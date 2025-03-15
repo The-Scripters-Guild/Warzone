@@ -291,7 +291,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 6
 - Notes: -
 
-## [23] Triple Threat
+## [23] Tripple Threat
 - Weapon Type: Mangler + BR75 Breacher
 - Trait Set: 23
     - Weapon Damage: 2.70
@@ -317,7 +317,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Sentinel Beam + Striker Sidekick
 - Trait Set: 25
   - Weapon Damage: 0.70
-- VFX: Infected Beta
+- VFX: Beta Infected
 - Config: Combo
 - Ammo Adjustment: 50
   - 14+84
@@ -596,7 +596,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [45] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - Trait Set: 45
 - Config: Default
 - Ammo Adjustment: None
@@ -650,7 +650,7 @@ The configurations that make up each of the custom weapons.
 - Notes: Damage output based off of secondary fire strength; primary fire is not as effective.
 
 ## [50] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - Trait Set: 50
 - Config: Default
 - Ammo Adjustment: None
@@ -781,32 +781,32 @@ Official weapon configs:
 - Game State: 5
 
 ## [75] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [76] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [77] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [78] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [79] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: - 
 
 ## [80] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
@@ -941,22 +941,22 @@ Official weapon configs:
 - Game State: 5
 
 ## [107] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [108] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [109] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
 ## [110] Unallocated
-- Weapon Type: BR75
+- Weapon Type: BR75 + Elite Bloodblade
 - REQ Tier: -
 - Game State: -
 
