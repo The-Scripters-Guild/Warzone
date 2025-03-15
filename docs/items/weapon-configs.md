@@ -551,17 +551,13 @@ The configurations that make up each of the custom weapons.
 - Game State: 2
 - Notes: -
 
-## [42] Forklift Warrior
-- Weapon Type: MA40 Assault Rifle + Diminisher of Hope
+## [42] ONI Assault Rifle
+- Weapon Type: MA40 Assault Rifle + Impact Commando
 - Trait Set: 42
-  - Weapon Damage: 1.11
-  - Reload Speed
-    - Empty Reload Scalar: 3.00
-    - Tactical Reload Scalar: 3.00
-  - Jump Height: 1.25
+  - Weapon Damage: 0.38
 - Config: Combo
-- Ammo Adjustment: 100
-  - 36+216
+- Ammo Adjustment: -70
+  - 40+100
 - REQ Tier: 2
 - Game State: 1
 - Notes: -
