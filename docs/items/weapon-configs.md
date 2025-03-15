@@ -823,8 +823,8 @@ Official weapon configs:
 
 ## [83] CQS48 Bulldog
 - Weapon Type: CQS48 Bulldog
-- REQ Tier: 4
-- Game State: 3
+- REQ Tier: 3
+- Game State: 2
 
 ## [84] Cindershot
 - Weapon Type: Cindershot
@@ -848,8 +848,8 @@ Official weapon configs:
 
 ## [88] Heatwave
 - Weapon Type: Heatwave
-- REQ Tier: 4
-- Game State: 3
+- REQ Tier: 3
+- Game State: 2
 
 ## [89] M392 Bandit
 - Weapon Type: M392 Bandit
