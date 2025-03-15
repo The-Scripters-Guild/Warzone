@@ -31,12 +31,12 @@ The configurations that make up each of the custom weapons.
 -->
 
 ## [1] Marksman Sidekick
-- Weapon Type: Mk50 Sidekick +  MA40 Longshot
+- Weapon Type: Mk50 Sidekick +  Impact Commando
 - Trait Set: 1
-  - Weapon Damage: 0.88
+  - Weapon Damage: 0.60
 - Config: Combo
-- Ammo Adjustment: None
-  - 25+75
+- Ammo Adjustment: -50
+  - 40+60
 - REQ Tier: Loadout
 - Game State: 1
 - Notes: -
