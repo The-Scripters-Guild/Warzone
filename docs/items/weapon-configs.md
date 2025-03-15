@@ -142,7 +142,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 5
 - Notes: -
 
-## [10] Lost Commando
+## [10] ONI Commando
 - Weapon Type: VK78 Commando Rifle + Striker Sidekick
 - Trait Set: 10
   - Weapon Damage: 0.45
