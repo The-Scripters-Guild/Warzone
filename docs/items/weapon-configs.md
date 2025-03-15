@@ -117,7 +117,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 3
 - Notes: -
 
-## [8] Banished Bandit
+## [8] Tovarus Artifice
 - Weapon Type: M392 Bandit + Stalker Rifle Ultra
 - Trait Set: 8
   - Weapon Damage: 1.20
