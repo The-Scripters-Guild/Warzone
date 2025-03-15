@@ -356,7 +356,7 @@ The configurations that make up each of the custom weapons.
 ## [28] ONI Ranger
 - Weapon Type: MA5K Avenger + Impact Commando
 - Trait Set: 28
-  - Weapon Damage: 0.36
+  - Weapon Damage: 0.38
 - Config: Combo
 - Ammo Adjustment: 20
   - 40+160
