@@ -521,8 +521,8 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 100
   - Projectile Config: 3
   - Projectile: Rocket Hog Shot
-- Ammo Adjustment: 40
-  -  2+4
+- Ammo Adjustment: 70
+  -  2+6
 - REQ Tier: 6
 - Game State: 5
 - Notes: -
