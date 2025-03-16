@@ -49,3 +49,21 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 - [28] ONI Ranger: Weapon Damage 0.38.
 - [42] Forklift Warrior -> ONI Assault Rifle: Weapon Type MA40 Assault Rifle + Impact Commando, Weapon Damage 0.38, Ammo Adjustment -70 (40+100). Remove all other traits.
 - Fixed an inconsistency with Legendary Equipment gathering at round start by adding a delay to the initial gathering logic.
+
+### 0.9.3
+
+- [1] Marksman Sidekick: Corrected Weapon Damage from 1.10 to 0.60.
+- [13] Valkyrie: Ammo Adjustment 42 (4+12).
+- [26] Phantom Assassin: Ammo Adjustment: -35 (6+0).
+- [34] Sentry Off Writh 'Kul: Camo trait while normal and more intense while zoomed.
+- [36] Power Off Jega Rdomnai: Sprint speed increase.
+- [39] Knight Off Zeretus: Ammo Adjustment: 70 (2+6)
+- [44] Broken Installation: Projectile shot count: 2, config: 2, Ammo Adjustment: -20 (20+0)
+- [8] Tovarus Artifact: VFX: VIP
+- [15] Exterminating Hazard: VFX: VIP
+- [40] Guard Off Doisac: VFX: Alpha Infected
+- [46] Reward Off Hyperius: VFX: VIP
+- [47] Scorpion Shot: VFX: Alpha Infected
+- [48] Headhunter: VFX: VIP
+- [49] Artifact Off Tremonius: VFX: Beta Infected
+- Remove [22] Stunning Bounty from sandbox
