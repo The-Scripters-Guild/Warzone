@@ -434,6 +434,13 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 34
   - Weapon Damage: 1.50
   - Movement Speed With Turret: 1.55
+  - VFX - Active Camouflage
+		- Intensity Scalar: 0.70
+		- Interpolation Scalar: 1.00
+- Trait Set (while zoomed): 34_2 
+	- VFX - Active Camouflage
+		- Intensity Scalar: 1.00
+		- Interpolation Scalar: 0.20
 - Config: Combo
 - Ammo Adjustment: -75
   - 75%
