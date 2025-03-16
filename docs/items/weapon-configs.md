@@ -328,8 +328,8 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Cindershot + M41 Tracker
 - Trait Set: 26
 - Config: Combo
-- Ammo Adjustment: -25
-  - 4+0
+- Ammo Adjustment: -35
+  - 6+0
 - REQ Tier: 6
 - Game State: 5
 - Notes: -
