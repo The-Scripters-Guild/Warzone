@@ -717,8 +717,8 @@ Official weapon configs:
 
 ## [61] MA40 Longshot
 - Weapon Type: MA40 Longshot
-- REQ Tier: 3
-- Game State: 2
+- REQ Tier: 2
+- Game State: 1
 
 ## [62] Pinpoint Needler
 - Weapon Type: Pinpoint Needler
