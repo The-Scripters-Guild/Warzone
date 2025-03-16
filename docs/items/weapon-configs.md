@@ -762,8 +762,8 @@ Official weapon configs:
 
 ## [70] Scatterbound Heatwave
 - Weapon Type: Scatterbound Heatwave
-- REQ Tier: 5
-- Game State: 4
+- REQ Tier: 4
+- Game State: 3
 
 ## [71] Stalker Rifle Ultra
 - Weapon Type: Stalker Rifle Ultra
