@@ -590,12 +590,12 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 44
   - Weapon Damage: 0.01
 - Config: Projectile
-  - Shot Count: 3
+  - Shot Count: 2
   - Shot Velocity: 300
-  - Projectile Config: 4
+  - Projectile Config: 2
   - Projectile: Rocket Hog Shot
-- Ammo Adjustment: -15
-  - 30+0
+- Ammo Adjustment: -10
+  - 20+0
 - REQ Tier: 5
 - Game State: 4
 - Notes: -
