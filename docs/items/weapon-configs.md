@@ -121,6 +121,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: M392 Bandit + Stalker Rifle Ultra
 - Trait Set: 8
   - Weapon Damage: 1.20
+- VFX: VIP
 - Config: Combo
 - Ammo Adjustment: -57
   - 15+10
@@ -207,6 +208,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Pulse Carbine + Unbound Plasma Pistol
 - Trait Set: 15
   - Weapon Damage: 1.70
+- VFX: VIP
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -531,7 +533,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: M41 SPNKr + Rushdown Hammer
 - Trait Set: 40
     - Weapon Damage: 1.30
-- VFX: Beta Infected
+- VFX: Alpha Infected
 - Config: Projectile
     - Shot Count: 2
     - Shot Velocity: 115
@@ -613,6 +615,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: S7 Sniper Rifle + Riven Mangler
 - Trait Set: 46
   - Weapon Damage: 2.60
+- VFX: VIP
 - Config: Combo
 - Ammo Adjustment: 60
   - 4+16
@@ -623,6 +626,7 @@ The configurations that make up each of the custom weapons.
 ## [47] Scorpion Shot
 - Weapon Type: Scorpion Tail
 - Trait Set: 47
+- VFX: Alpha Infected
 - Config: Default
 - Ammo Adjustment: -3.50
   - 04% (6 shots)
@@ -637,6 +641,7 @@ The configurations that make up each of the custom weapons.
   - Reload Speed
     - Empty Reload Scalar: 3.00
     - Tactical Reload Scalar: 3.00
+- VFX: VIP
 - Config: Combo
 - Ammo Adjustment: -70
   - 6+6
@@ -647,6 +652,7 @@ The configurations that make up each of the custom weapons.
 ## [49] Artifact Off Tremonius
 - Weapon Type: MLRS-2 Hydra + Ravager Rebound
 - Trait Set: 49
+- VFX: Beta Infected
 - Config: Combo
 - Ammo Adjustment: None
     - 6+12
