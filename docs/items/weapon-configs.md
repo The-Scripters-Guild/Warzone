@@ -281,15 +281,13 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
 
-## [22] Stunning Bounty
-- Weapon Type: Shock Rifle + Calcine Disruptor
+## [22] Unallocated
+- Weapon Type: BR75 + Elite Bloodblade
 - Trait Set: 22
-  - Weapon Damage: 1.60
-- Config: Combo
-- Ammo Adjustment: 8
-  - 7+17
-- REQ Tier: 8
-- Game State: 6
+- Config: Default
+- Ammo Adjustment: None
+- REQ Tier: -
+- Game State: -
 - Notes: -
 
 ## [23] Tripple Threat
