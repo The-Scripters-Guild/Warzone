@@ -472,6 +472,9 @@ The configurations that make up each of the custom weapons.
   - VFX - Active Camouflage
     - Intensity Scalar: 1.00
     - Interpolation Scalar: 1.00
+  - Sprint Speed
+		- Top Speed Scalar: 1.13
+		- Time To Top Speed Scalar: 0.90
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
