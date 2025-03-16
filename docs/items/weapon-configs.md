@@ -186,9 +186,9 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 3000
   - Projectile Config: 1
   - Projectile: Banished Hunter Shot
-- Ammo Adjustment: 14
-  - 4+6
-- REQ Tier: 7
+- Ammo Adjustment: 42
+  - 4+12
+- REQ Tier: 8
 - Game State: 6
 - Notes: -
   
