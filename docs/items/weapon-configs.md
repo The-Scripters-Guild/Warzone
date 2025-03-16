@@ -121,6 +121,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: M392 Bandit + Stalker Rifle Ultra
 - Trait Set: 8
   - Weapon Damage: 1.20
+- VFX: VIP
 - Config: Combo
 - Ammo Adjustment: -57
   - 15+10
@@ -186,9 +187,9 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 3000
   - Projectile Config: 1
   - Projectile: Banished Hunter Shot
-- Ammo Adjustment: 14
-  - 4+6
-- REQ Tier: 7
+- Ammo Adjustment: 42
+  - 4+12
+- REQ Tier: 8
 - Game State: 6
 - Notes: -
   
@@ -207,6 +208,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Pulse Carbine + Unbound Plasma Pistol
 - Trait Set: 15
   - Weapon Damage: 1.70
+- VFX: VIP
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -281,15 +283,13 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
 
-## [22] Stunning Bounty
-- Weapon Type: Shock Rifle + Calcine Disruptor
+## [22] Unallocated
+- Weapon Type: BR75 + Elite Bloodblade
 - Trait Set: 22
-  - Weapon Damage: 1.60
-- Config: Combo
-- Ammo Adjustment: 8
-  - 7+17
-- REQ Tier: 8
-- Game State: 6
+- Config: Default
+- Ammo Adjustment: None
+- REQ Tier: -
+- Game State: -
 - Notes: -
 
 ## [23] Tripple Threat
@@ -330,8 +330,8 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Cindershot + M41 Tracker
 - Trait Set: 26
 - Config: Combo
-- Ammo Adjustment: -25
-  - 4+0
+- Ammo Adjustment: -35
+  - 6+0
 - REQ Tier: 6
 - Game State: 5
 - Notes: -
@@ -436,6 +436,13 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 34
   - Weapon Damage: 1.50
   - Movement Speed With Turret: 1.55
+  - VFX - Active Camouflage
+		- Intensity Scalar: 0.70
+		- Interpolation Scalar: 1.00
+- Trait Set (while zoomed): 34_2 
+	- VFX - Active Camouflage
+		- Intensity Scalar: 1.00
+		- Interpolation Scalar: 0.20
 - Config: Combo
 - Ammo Adjustment: -75
   - 75%
@@ -467,6 +474,9 @@ The configurations that make up each of the custom weapons.
   - VFX - Active Camouflage
     - Intensity Scalar: 1.00
     - Interpolation Scalar: 1.00
+  - Sprint Speed
+		- Top Speed Scalar: 1.13
+		- Time To Top Speed Scalar: 0.90
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -513,8 +523,8 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 100
   - Projectile Config: 3
   - Projectile: Rocket Hog Shot
-- Ammo Adjustment: 40
-  -  2+4
+- Ammo Adjustment: 70
+  -  2+6
 - REQ Tier: 6
 - Game State: 5
 - Notes: -
@@ -523,7 +533,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: M41 SPNKr + Rushdown Hammer
 - Trait Set: 40
     - Weapon Damage: 1.30
-- VFX: Beta Infected
+- VFX: Alpha Infected
 - Config: Projectile
     - Shot Count: 2
     - Shot Velocity: 115
@@ -582,12 +592,12 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 44
   - Weapon Damage: 0.01
 - Config: Projectile
-  - Shot Count: 3
+  - Shot Count: 2
   - Shot Velocity: 300
-  - Projectile Config: 4
+  - Projectile Config: 2
   - Projectile: Rocket Hog Shot
-- Ammo Adjustment: -15
-  - 30+0
+- Ammo Adjustment: -10
+  - 20+0
 - REQ Tier: 5
 - Game State: 4
 - Notes: -
@@ -605,6 +615,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: S7 Sniper Rifle + Riven Mangler
 - Trait Set: 46
   - Weapon Damage: 2.60
+- VFX: VIP
 - Config: Combo
 - Ammo Adjustment: 60
   - 4+16
@@ -615,6 +626,7 @@ The configurations that make up each of the custom weapons.
 ## [47] Scorpion Shot
 - Weapon Type: Scorpion Tail
 - Trait Set: 47
+- VFX: Alpha Infected
 - Config: Default
 - Ammo Adjustment: -3.50
   - 04% (6 shots)
@@ -629,6 +641,7 @@ The configurations that make up each of the custom weapons.
   - Reload Speed
     - Empty Reload Scalar: 3.00
     - Tactical Reload Scalar: 3.00
+- VFX: VIP
 - Config: Combo
 - Ammo Adjustment: -70
   - 6+6
@@ -639,6 +652,7 @@ The configurations that make up each of the custom weapons.
 ## [49] Artifact Off Tremonius
 - Weapon Type: MLRS-2 Hydra + Ravager Rebound
 - Trait Set: 49
+- VFX: Beta Infected
 - Config: Combo
 - Ammo Adjustment: None
     - 6+12
@@ -709,8 +723,8 @@ Official weapon configs:
 
 ## [61] MA40 Longshot
 - Weapon Type: MA40 Longshot
-- REQ Tier: 3
-- Game State: 2
+- REQ Tier: 2
+- Game State: 1
 
 ## [62] Pinpoint Needler
 - Weapon Type: Pinpoint Needler
@@ -754,8 +768,8 @@ Official weapon configs:
 
 ## [70] Scatterbound Heatwave
 - Weapon Type: Scatterbound Heatwave
-- REQ Tier: 5
-- Game State: 4
+- REQ Tier: 4
+- Game State: 3
 
 ## [71] Stalker Rifle Ultra
 - Weapon Type: Stalker Rifle Ultra
