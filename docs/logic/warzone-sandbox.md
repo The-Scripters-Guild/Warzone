@@ -76,3 +76,8 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 - Adjusted Upgraded Sprinting traits.
 - [32] Spartan Sandwich: Melee Damage 2.00 -> 0.70.
 - Updated VFX removal logic order to see if it fixes some inconsistencies with VFX removal.
+
+### 0.10.0
+
+- Overhauled skinless weapon grant system so each player has their own "weapon carrier clone", which allows for skinless weapons to be granted simultaneously to multiple players with no queue. Also the risk of incorrect weapon grants due to the queue is negated.
+- Added a 1/59 s delay in the weaponGrant event to reduce order weapon grant order issues per player.
