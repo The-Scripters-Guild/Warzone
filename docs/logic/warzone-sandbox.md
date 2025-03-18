@@ -67,3 +67,12 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 - [48] Headhunter: VFX: VIP
 - [49] Artifact Off Tremonius: VFX: Beta Infected
 - Remove [22] Stunning Bounty from sandbox
+
+### 0.9.4
+
+- Made stacking Speed Boost powerups possible up to 4.
+- Adjusted Speed Boost traits.
+- Adjusted Upgraded Walking traits.
+- Adjusted Upgraded Sprinting traits.
+- [32] Spartan Sandwich: Melee Damage 2.00 -> 0.70.
+- Updated VFX removal logic order to see if it fixes some inconsistencies with VFX removal.
