@@ -81,3 +81,7 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 
 - Overhauled skinless weapon grant system so each player has their own "weapon carrier clone", which allows for skinless weapons to be granted simultaneously to multiple players with no queue. Also the risk of incorrect weapon grants due to the queue is negated.
 - Added a 1/59 s delay in the weaponGrant event to reduce order weapon grant order issues per player.
+
+### 0.10.1
+
+- Reorganized mode brains so there's no blue brains, which indicate actions that use the events from the library, as the library in itself shouldn't have events like that.
