@@ -409,7 +409,7 @@ The configurations that make up each of the custom weapons.
 ## [32] Spartan Sandwich
 - Weapon Type: Sandwich + Duelist Energy Sword
 - Trait Set: 32
-    - Melee Damage: 2.00
+    - Melee Damage: 0.70
     - Movement Speed: 1.10
 - VFX: Beta Infected
 - Config: Combo
