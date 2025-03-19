@@ -104,13 +104,10 @@ The configurations that make up each of the ability boosts.
 
 ## [5] Upgraded Walking
 - Trait Set: upgradedWalking
-  - Movement Speed: 1.10
-  - Jump Height: 1.10
-  - Sprint Speed
-    - Top Speed Scalar: 0.95
-    - Time To Top Speed Scalar: 1.00
+  - Movement Speed: 1.13
+  - Jump Height: 1.25
   - Slide Speed
-    - Slide Speed Scalar: 0.93
+    - Slide Speed Scalar: 0.85
     - Slide Duration Scalar: 1.00
 - Game State: 3
 - Notes: -
