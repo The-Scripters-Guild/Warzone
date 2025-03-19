@@ -118,7 +118,7 @@ The configurations that make up each of the ability boosts.
 ## [6] Upgraded Sprinting
 - Trait Set: upgradedSprinting
   - Sprint Speed
-    - Top Speed Scalar: 1.13
+    - Top Speed Scalar: 1.25
     - Time To Top Speed Scalar: 0.90
   - Slide Speed
     - Slide Speed Scalar: 1.10
