@@ -105,13 +105,37 @@ The configurations of AI that make up each of the AI encounters.
 - Elite Warlord
 - Elite Ultra
 
-## [11] Team Marines
+## [11] Sentry Encounter, Mythic
+
+- Adjutant Resolution, Gold (Boss)
+- Grunt Ultra
+- Grunt Ultra
+- Elite Warlord
+- Elite Warlord
+- Elite Ultra
+- Elite Ultra
+- Brute Warlord
+- Brute Warlord
+
+## [12] Unallocated
+
+- AI Name
+
+## [13] Unallocated
+
+- AI Name
+
+## [14] Unallocated
+
+- AI Name
+
+## [15] Team Marines
 
 - Marine Assault
 - Marine Assault
 - Marine Assault
 
-## [12] Base Roamers 1
+## [16] Base Roamers 1
 
 - Elite Mercenary
 - Jackal Freebooter
@@ -119,7 +143,7 @@ The configurations of AI that make up each of the AI encounters.
 - Grunt Conscript, Yellow
 - Grunt Conscript, Yellow
 
-## [13] Base Roamers 2
+## [17] Base Roamers 2
 
 - Brute Minor
 - Jackal Raider
@@ -127,13 +151,13 @@ The configurations of AI that make up each of the AI encounters.
 - Grunt Conscript, Yellow
 - Grunt Conscript, Yellow
 
-## [14] Wild Roamers 1
+## [18] Wild Roamers 1
 
 - Elite Mercenary
 - Jackal Freebooter
 - Jackal Freebooter
 
-## [15] Wild Roamers 2
+## [19] Wild Roamers 2
 
 - Brute Minor
 - Jackal Raider
