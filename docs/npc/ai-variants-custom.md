@@ -55,11 +55,15 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 - Trait Set: -
 - Notes: -
 
-## [6] Jackal Sniper
+## [6] Boss Adjutant Resolution, Gold
 
-![AI preview](../../assets/ai-11.jpg)
+![AI preview](../../assets/ai-65.jpg)
 - Trait Set: ?
-  - Weapon Damage: 1.30
+  - Weapon Damage: 3.00
+  - Damage Resistance
+    - Direct Damage Scalar: 2.00
+    - Grenade Damage Scalar: 0.50
+    - Explosive Damage Scalar: 0.50
 - Notes: -
 
 ## [7] Marine Assault
