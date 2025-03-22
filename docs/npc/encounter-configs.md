@@ -129,13 +129,37 @@ The configurations of AI that make up each of the AI encounters.
 
 - AI Name
 
-## [15] Team Marines
+## [15] Unallocated
 
-- Marine Assault
-- Marine Assault
-- Marine Assault
+- AI Name
 
-## [16] Base Roamers 1
+## [16] Eagle Base
+
+- Brute Minor
+- Brute Minor
+- Jackal Raider
+- Jackal Raider
+- Jackal Raider
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+
+## [17] Cobra Base
+
+- Brute Minor
+- Brute Minor
+- Jackal Raider
+- Jackal Raider
+- Jackal Raider
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+
+## [18] Eagle Armory
 
 - Elite Mercenary
 - Jackal Freebooter
@@ -143,21 +167,46 @@ The configurations of AI that make up each of the AI encounters.
 - Grunt Conscript, Yellow
 - Grunt Conscript, Yellow
 
-## [17] Base Roamers 2
+## [19] Fortress
+
+- Elite Mercenary
+- Elite Mercenary
+- Jackal Freebooter
+- Jackal Freebooter
+- Jackal Freebooter
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+
+## [20] Cobra Armory
+
+- Elite Mercenary
+- Jackal Freebooter
+- Jackal Freebooter
+- Grunt Conscript, Yellow
+- Grunt Conscript, Yellow
+
+## [21] Roamers, Elite 1
+
+- Elite Mercenary
+- Jackal Freebooter
+- Jackal Freebooter
+
+## [22] Roamers, Elite 2
+
+- Elite Mercenary
+- Jackal Freebooter
+- Jackal Freebooter
+
+## [23] Roamers, Brute 1
 
 - Brute Minor
 - Jackal Raider
 - Jackal Raider
-- Grunt Conscript, Yellow
-- Grunt Conscript, Yellow
 
-## [18] Wild Roamers 1
-
-- Elite Mercenary
-- Jackal Freebooter
-- Jackal Freebooter
-
-## [19] Wild Roamers 2
+## [24] Roamers, Brute 2
 
 - Brute Minor
 - Jackal Raider
