@@ -85,3 +85,8 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 ### 0.10.1
 
 - Reorganized mode brains so there's no blue brains, which indicate actions that use the events from the library, as the library in itself shouldn't have events like that.
+
+### 0.10.2
+
+- [21] Decaying World: Weapon Damage 1.87 -> 1.89
+- [35] Cutlass Off Doomfruit: Multiple adjustments to make UX communication better, and to buff the weapon
