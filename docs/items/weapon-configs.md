@@ -273,7 +273,7 @@ The configurations that make up each of the custom weapons.
 ## [21] Decaying World
 - Weapon Type: Disruptor + Diminisher of Hope
 - Trait Set: 21
-  - Weapon damage: 1.87
+  - Weapon damage: 1.89
   - Movement Speed: 1.10
 - Config: Combo
 - Ammo Adjustment: None
