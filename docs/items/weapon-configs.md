@@ -17,12 +17,11 @@ The configurations that make up each of the custom weapons.
     - Direct Damage Scalar: #.##
     - Grenade Damage Scalar: #.##
     - Explosive Damage Scalar: #.##
-- Config: Combo/Projectile/Scripted
+- Config: Combo/Projectile
   - Shot Count: #
   - Shot Velocity: #
   - Projectile Config: #
   - Projectile: Hunter
-  - Scripted behavior: -
 - Ammo Adjustment: None/##
   - #+#
 - REQ Tier: #
@@ -448,25 +447,24 @@ The configurations that make up each of the custom weapons.
   - 75%
 - REQ Tier: 7
 - Game State: 6
-- Notes: -
+- Notes: The second trait set only applies while zoomed.
 
 ## [35] Cutlass Off Doomfruit
 - Weapon Type: Energy Sword + Unbound Plasma Pistol
-- Trait Set: 35
-  - Movement Speed: 0.80
+- Trait Set (while zoomed): 35
+  - Movement Speed: 0.40
   - Damage Resistance
-    - Direct Damage Scalar: 1.55
-    - Grenade Damage Scalar: 0.64
-    - Explosive Damage Scalar: 0.64
-- VFX: VIP (when zoomed)
-- Config: Scripted
-  - Scripted Behavior: 
-    - The "Movement Speed" reduction and "Damage Resistance" increase will only apply when zoomed and not airborne. reduction. 
+    - Direct Damage Scalar: 2.10
+    - Grenade Damage Scalar: 0.476190476
+    - Explosive Damage Scalar: 0.476190476
+  - VFX - Overshield
+- VFX (while zoomed): VIP
+- Config: Combo
 - Ammo Adjustment: None
   - 100%
 - REQ Tier: 4
 - Game State: 3
-- Notes: -
+- Notes: The traits and VFX only apply when zoomed and not airborne.
 
 ## [36] Power Off Jega Rdomnai
 - Weapon Type: Infected Energy Sword + MA40 Longshot
