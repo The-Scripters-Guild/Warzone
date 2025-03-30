@@ -168,7 +168,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: CQS48 Bulldog + Diminisher Of Hope
 - Trait Set: 12
   - Weapon Damage: 2.90
-- VFX: Beta Infected
+- VFX: Infected Beta
 - Config: Combo
 - Ammo Adjustment: None
   - 7+7
@@ -180,7 +180,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: S7 Sniper Rifle + Diminisher of Hope
 - Trait Set: 13
   - Weapon Damage: 1.61
-- VFX: Alpha Infected
+- VFX: Infected Alpha
 - Config: Projectile
   - Shot Count: 1
   - Shot Velocity: 3000
@@ -262,7 +262,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Ravager + Duelist Energy Sword
 - Trait Set: 20
   - Weapon Damage: 1.61
-- VFX: Beta Infected
+- VFX: Infected Beta
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -317,7 +317,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Sentinel Beam + Striker Sidekick
 - Trait Set: 25
   - Weapon Damage: 0.70
-- VFX: Beta Infected
+- VFX: Infected Beta
 - Config: Combo
 - Ammo Adjustment: 50
   - 14+84
@@ -384,7 +384,7 @@ The configurations that make up each of the custom weapons.
     - Direct Damage Scalar: 2.10
     - Grenade Damage Scalar: 0.476190476
     - Explosive Damage Scalar: 0.476190476
-- VFX: Alpha Infected
+- VFX: Infected Alpha
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -410,7 +410,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 32
     - Melee Damage: 0.70
     - Movement Speed: 1.10
-- VFX: Beta Infected
+- VFX: Infected Beta
 - Config: Combo
 - Ammo Adjustment: None
     - Unlimited
@@ -450,7 +450,7 @@ The configurations that make up each of the custom weapons.
 - Notes: The second trait set only applies while zoomed.
 
 ## [35] Cutlass Off Doomfruit
-- Weapon Type: Energy Sword + Unbound Plasma Pistol
+- Weapon Type: Infected Energy Sword + Unbound Plasma Pistol
 - Trait Set (while zoomed): 35
   - Movement Speed: 0.40
   - Damage Resistance
@@ -531,7 +531,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: M41 SPNKr + Rushdown Hammer
 - Trait Set: 40
     - Weapon Damage: 1.30
-- VFX: Alpha Infected
+- VFX: Infected Alpha
 - Config: Projectile
     - Shot Count: 2
     - Shot Velocity: 115
@@ -624,7 +624,7 @@ The configurations that make up each of the custom weapons.
 ## [47] Scorpion Shot
 - Weapon Type: Scorpion Tail
 - Trait Set: 47
-- VFX: Alpha Infected
+- VFX: Infected Alpha
 - Config: Default
 - Ammo Adjustment: -3.50
   - 04% (6 shots)
@@ -650,7 +650,7 @@ The configurations that make up each of the custom weapons.
 ## [49] Artifact Off Tremonius
 - Weapon Type: MLRS-2 Hydra + Ravager Rebound
 - Trait Set: 49
-- VFX: Beta Infected
+- VFX: Infected Beta
 - Config: Combo
 - Ammo Adjustment: None
     - 6+12

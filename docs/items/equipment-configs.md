@@ -56,7 +56,7 @@ The configurations that make up each of the equipment, including custom powerups
     - Vehicle Range Scalar: #.##
 - Charge Count: #
 - Duration: ## s
-- VFX: Infected Alpha, Infected Alpha - Screen, Infected Beta, Infected Beta - Screen, VIP, None
+- VFX: Infected Alpha, Infected Beta, VIP, None
 - REQ Tier: #
 - Game State: #
 - Notes: -
@@ -143,21 +143,21 @@ The configurations that make up each of the equipment, including custom powerups
     - Health Scalar: 0.40
 - Charge Count: 1
 - Duration: 60 s
-- VFX: Infected Alpha, Infected Alpha - Screen
+- VFX: Infected Alpha
 - REQ Tier: 6
 - Game State: 5
 - Notes: Vampirism only comes from dealing damage to enemy health, not shield.
 
-## [12] Power Arm
+## [12] Allied Monitor
 - Equipment Type: Custom Equipment B
-- Trait Set: powerArm
-  - Melee Recovery Speed: 1.80
+- Trait Set: alliedMonitor
+  - Third Person Gameplay: TRUE
 - Charge Count: 1
 - Duration: 45 s
-- VFX: Infected Beta, Infected Beta - Screen
+- VFX: VIP
 - REQ Tier: 2
 - Game State: 1
-- Notes: Can melee faster with any weapon and can melee inert objects further upon impact.
+- Notes: Puts the player's view in third person, allowing for a wider angle of the battlefield.
 
 ## [13] Speed Boost
 - Equipment Type: Custom Equipment C
@@ -182,7 +182,7 @@ The configurations that make up each of the equipment, including custom powerups
   - Headshot Protection: TRUE
 - Charge Count: 1
 - Duration: 60 s
-- VFX: VIP
+- VFX: Infected Beta
 - REQ Tier: 3
 - Game State: 2
 - Notes: Makes headshots to unshielded players act like bodyshots. Weapons that can kill an unshielded player in one hit to the head will now require more shots to the head to kill.
