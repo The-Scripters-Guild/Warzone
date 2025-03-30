@@ -87,7 +87,7 @@ The configurations that make up each of the ability boosts.
     - Tactical Reload Scalar: 1.17
   - Weapon Switch Speed: 1.17
   - Clamber Speed: 1.17
-  - Melee Recovery Speed: 1.10
+  - Melee Recovery Speed: 1.40
 - Game State: 3
 - Notes: -
 
