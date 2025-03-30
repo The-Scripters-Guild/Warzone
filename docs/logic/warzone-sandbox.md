@@ -90,3 +90,10 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 
 - [21] Decaying World: Weapon Damage 1.87 -> 1.89
 - [35] Cutlass Off Doomfruit: Multiple adjustments to make UX communication better, and to buff the weapon
+
+### 0.10.3
+
+- [12] Power Arm -> Allied Monitor: Overhauled powerup to be a third person powerup.
+- [14] Headhunter Guard: VFX VIP -> Beta Infected.
+- [3] Expert Marksman: Melee Recovery Speed 1.10 -> 1.60.
+- Accounted for resetting multiple variables to make multiple rounds not break functionality.
