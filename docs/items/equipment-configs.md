@@ -182,7 +182,7 @@ The configurations that make up each of the equipment, including custom powerups
   - Headshot Protection: TRUE
 - Charge Count: 1
 - Duration: 60 s
-- VFX: VIP
+- VFX: Infected Beta
 - REQ Tier: 3
 - Game State: 2
 - Notes: Makes headshots to unshielded players act like bodyshots. Weapons that can kill an unshielded player in one hit to the head will now require more shots to the head to kill.
