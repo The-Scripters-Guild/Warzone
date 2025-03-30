@@ -56,7 +56,7 @@ The configurations that make up each of the equipment, including custom powerups
     - Vehicle Range Scalar: #.##
 - Charge Count: #
 - Duration: ## s
-- VFX: Infected Alpha, Infected Alpha - Screen, Infected Beta, Infected Beta - Screen, VIP, None
+- VFX: Infected Alpha, Infected Beta, VIP, None
 - REQ Tier: #
 - Game State: #
 - Notes: -

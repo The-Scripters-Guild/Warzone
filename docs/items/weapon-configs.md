@@ -450,7 +450,7 @@ The configurations that make up each of the custom weapons.
 - Notes: The second trait set only applies while zoomed.
 
 ## [35] Cutlass Off Doomfruit
-- Weapon Type: Energy Sword + Unbound Plasma Pistol
+- Weapon Type: Infected Energy Sword + Unbound Plasma Pistol
 - Trait Set (while zoomed): 35
   - Movement Speed: 0.40
   - Damage Resistance
