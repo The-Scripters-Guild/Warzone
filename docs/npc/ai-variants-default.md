@@ -26,40 +26,18 @@ Documentation of all the default AI variants.
 - Notes: -
 -->
 
-## [1] Grunt Assault, Purple
 
-![AI preview](../../assets/ai-01.jpg)
-- Primary Weapon Type: Needler
-- Secondary Weapon Type: -
-- Grenade Type: Plasma Grenade
-- Health per difficulty
-  - Easy: 105
-  - Normal: 105
-  - Heroic: 132.5
-  - Legendary: 160
-- Shield per difficulty
-  - Easy: 0
-  - Normal: 0
-  - Heroic: 0
-  - Legendary: 0
-- Species: Grunt
-- Vehicle operation
-  - Driver: Ghost
-  - Passenger: Phantom
-  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
-- Notes: -
+## [1] Grunt Conscript, Yellow
 
-## [2] Grunt Assault, Red
-
-![AI preview](../../assets/ai-02.jpg)
+![AI preview](../../assets/ai-04.jpg)
 - Primary Weapon Type: Plasma Pistol
 - Secondary Weapon Type: -
 - Grenade Type: Plasma Grenade
 - Health per difficulty
-  - Easy: 105
-  - Normal: 105
-  - Heroic: 132.5
-  - Legendary: 160
+  - Easy: 60
+  - Normal: 60
+  - Heroic: 80
+  - Legendary: 100
 - Shield per difficulty
   - Easy: 0
   - Normal: 0
@@ -72,7 +50,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
-## [3] Grunt Conscript, Blue
+## [2] Grunt Conscript, Blue
 
 ![AI preview](../../assets/ai-03.jpg)
 - Primary Weapon Type: Needler
@@ -95,17 +73,40 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
-## [4] Grunt Conscript, Yellow
+## [3] Grunt Assault, Purple
 
-![AI preview](../../assets/ai-04.jpg)
+![AI preview](../../assets/ai-01.jpg)
+- Primary Weapon Type: Needler
+- Secondary Weapon Type: -
+- Grenade Type: Plasma Grenade
+- Health per difficulty
+  - Easy: 105
+  - Normal: 105
+  - Heroic: 132.5
+  - Legendary: 160
+- Shield per difficulty
+  - Easy: 0
+  - Normal: 0
+  - Heroic: 0
+  - Legendary: 0
+- Species: Grunt
+- Vehicle operation
+  - Driver: Ghost
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
+- Notes: -
+
+## [4] Grunt Assault, Red
+
+![AI preview](../../assets/ai-02.jpg)
 - Primary Weapon Type: Plasma Pistol
 - Secondary Weapon Type: -
 - Grenade Type: Plasma Grenade
 - Health per difficulty
-  - Easy: 60
-  - Normal: 60
-  - Heroic: 80
-  - Legendary: 100
+  - Easy: 105
+  - Normal: 105
+  - Heroic: 132.5
+  - Legendary: 160
 - Shield per difficulty
   - Easy: 0
   - Normal: 0
@@ -141,30 +142,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
-## [6] Boss Bipbap
-
-![AI preview](../../assets/ai-06.jpg)
-- Primary Weapon Type: Calcine Disruptor
-- Secondary Weapon Type: -
-- Grenade Type: Plasma Grenade
-- Health per difficulty
-  - Easy: 135
-  - Normal: 135
-  - Heroic: 165
-  - Legendary: 195
-- Shield per difficulty
-  - Easy: 500
-  - Normal: 500
-  - Heroic: 650
-  - Legendary: 800
-- Species: Grunt
-- Vehicle operation
-  - Driver: Ghost
-  - Passenger: Phantom
-  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
-- Notes: Only Grunt with a shield value.
-
-## [7] Boss Briglard
+## [6] Boss Briglard
 
 ![AI preview](../../assets/ai-07.jpg)
 - Primary Weapon Type: Unbound Plasma Pistol
@@ -186,6 +164,29 @@ Documentation of all the default AI variants.
   - Passenger: Phantom
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: Has a Ravager, CQS48 Bulldog and Shock Rifle on its back that can be picked up even when the AI is alive.
+
+## [7] Boss Bipbap
+
+![AI preview](../../assets/ai-06.jpg)
+- Primary Weapon Type: Calcine Disruptor
+- Secondary Weapon Type: -
+- Grenade Type: Plasma Grenade
+- Health per difficulty
+  - Easy: 135
+  - Normal: 135
+  - Heroic: 165
+  - Legendary: 195
+- Shield per difficulty
+  - Easy: 500
+  - Normal: 500
+  - Heroic: 650
+  - Legendary: 800
+- Species: Grunt
+- Vehicle operation
+  - Driver: Ghost
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
+- Notes: Only Grunt with a shield value.
 
 ## [8] Jackal Freebooter
 
@@ -233,30 +234,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has a yellow shield object in one hand that is separate from the AI health and shield values and can absorb bullets.
 
-## [10] Jackal Skirmisher
-
-![AI preview](../../assets/ai-10.jpg)
-- Primary Weapon Type: Needler
-- Secondary Weapon Type: -
-- Grenade Type: -
-- Health per difficulty
-  - Easy: 160
-  - Normal: 160
-  - Heroic: 220
-  - Legendary: 280
-- Shield per difficulty
-  - Easy: 0
-  - Normal: 0
-  - Heroic: 0
-  - Legendary: 0
-- Species: Jackal
-- Vehicle operation
-  - Driver: -
-  - Passenger: Phantom
-  - Gunner: -
-- Notes: Has blue shields on its arms that are separate from the AI health and shield values and can absorb bullets.
-
-## [11] Jackal Sniper
+## [10] Jackal Sniper
 
 ![AI preview](../../assets/ai-11.jpg)
 - Primary Weapon Type: Stalker Rifle
@@ -278,6 +256,29 @@ Documentation of all the default AI variants.
   - Passenger: Phantom
   - Gunner: -
 - Notes: -
+
+## [11] Jackal Skirmisher
+
+![AI preview](../../assets/ai-10.jpg)
+- Primary Weapon Type: Needler
+- Secondary Weapon Type: -
+- Grenade Type: -
+- Health per difficulty
+  - Easy: 160
+  - Normal: 160
+  - Heroic: 220
+  - Legendary: 280
+- Shield per difficulty
+  - Easy: 0
+  - Normal: 0
+  - Heroic: 0
+  - Legendary: 0
+- Species: Jackal
+- Vehicle operation
+  - Driver: -
+  - Passenger: Phantom
+  - Gunner: -
+- Notes: Has blue shields on its arms that are separate from the AI health and shield values and can absorb bullets.
 
 ## [12] Boss Barroth
 
@@ -417,122 +418,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: -
 
-## [18] Marine Assault
-
-![AI preview](../../assets/ai-18.jpg)
-- Primary Weapon Type: MA40 Assault Rifle
-- Secondary Weapon Type: -
-- Grenade Type: Frag Grenade
-- Health per difficulty
-  - Easy: 110
-  - Normal: 110
-  - Heroic: 192.5
-  - Legendary: 275
-- Shield per difficulty
-  - Easy: 0
-  - Normal: 0
-  - Heroic: 0
-  - Legendary: 0
-- Species: Human
-- Vehicle operation
-  - Driver: -
-  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
-  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
-- Notes: -
-
-## [19] Marine Demolition
-
-![AI preview](../../assets/ai-19.jpg)
-- Primary Weapon Type: M41 SPNKr
-- Secondary Weapon Type: CQS48 Bulldog
-- Grenade Type: Frag Grenade
-- Health per difficulty
-  - Easy: 165
-  - Normal: 165
-  - Heroic: 277.5
-  - Legendary: 412
-- Shield per difficulty
-  - Easy: 0
-  - Normal: 0
-  - Heroic: 0
-  - Legendary: 0
-- Species: Human
-- Vehicle operation
-  - Driver: -
-  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
-  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
-- Notes: -
-
-## [20] Marine Heavy
-
-![AI preview](../../assets/ai-20.jpg)
-- Primary Weapon Type: CQS48 Bulldog
-- Secondary Weapon Type: -
-- Grenade Type: Frag Grenade
-- Health per difficulty
-  - Easy: 165
-  - Normal: 165
-  - Heroic: 277.5
-  - Legendary: 412
-- Shield per difficulty
-  - Easy: 0
-  - Normal: 0
-  - Heroic: 0
-  - Legendary: 0
-- Species: Human
-- Vehicle operation
-  - Driver: -
-  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
-  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
-- Notes: -
-
-## [21] Marine Scout
-
-![AI preview](../../assets/ai-21.jpg)
-- Primary Weapon Type: BR75
-- Secondary Weapon Type: -
-- Grenade Type: Frag Grenade
-- Health per difficulty
-  - Easy: 110
-  - Normal: 110
-  - Heroic: 192.5
-  - Legendary: 275
-- Shield per difficulty
-  - Easy: 0
-  - Normal: 0
-  - Heroic: 0
-  - Legendary: 0
-- Species: Human
-- Vehicle operation
-  - Driver: -
-  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
-  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
-- Notes: -
-
-## [22] Marine Sniper
-
-![AI preview](../../assets/ai-22.jpg)
-- Primary Weapon Type: S7 Sniper Rifle
-- Secondary Weapon Type: Mk50 Sidekick
-- Grenade Type: Frag Grenade
-- Health per difficulty
-  - Easy: 137
-  - Normal: 137
-  - Heroic: 240.5
-  - Legendary: 344
-- Shield per difficulty
-  - Easy: 0
-  - Normal: 0
-  - Heroic: 0
-  - Legendary: 0
-- Species: Human
-- Vehicle operation
-  - Driver: -
-  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
-  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
-- Notes: -
-
-## [23] Marine Survivor
+## [18] Marine Survivor
 
 ![AI preview](../../assets/ai-23.jpg)
 - Primary Weapon Type: Mk50 Sidekick
@@ -555,30 +441,122 @@ Documentation of all the default AI variants.
   - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: Has multiple different models.
 
-## [24] Elite Enforcer
+## [19] Marine Assault
 
-![AI preview](../../assets/ai-24.jpg)
-- Primary Weapon Type: Pulse Carbine
+![AI preview](../../assets/ai-18.jpg)
+- Primary Weapon Type: MA40 Assault Rifle
 - Secondary Weapon Type: -
-- Grenade Type: Plasma Grenade
+- Grenade Type: Frag Grenade
 - Health per difficulty
-  - Easy: 180
-  - Normal: 180
-  - Heroic: 215
-  - Legendary: 250
+  - Easy: 110
+  - Normal: 110
+  - Heroic: 192.5
+  - Legendary: 275
 - Shield per difficulty
-  - Easy: 320
-  - Normal: 320
-  - Heroic: 345
-  - Legendary: 370
-- Species: Elite
+  - Easy: 0
+  - Normal: 0
+  - Heroic: 0
+  - Legendary: 0
+- Species: Human
 - Vehicle operation
-  - Driver: Banshee, Ghost, Wraith
-  - Passenger: Phantom
-  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
-- Notes: Activates shield only after engaging a target.
+  - Driver: -
+  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
+  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
+- Notes: -
 
-## [25] Elite Mercenary
+## [20] Marine Scout
+
+![AI preview](../../assets/ai-21.jpg)
+- Primary Weapon Type: BR75
+- Secondary Weapon Type: -
+- Grenade Type: Frag Grenade
+- Health per difficulty
+  - Easy: 110
+  - Normal: 110
+  - Heroic: 192.5
+  - Legendary: 275
+- Shield per difficulty
+  - Easy: 0
+  - Normal: 0
+  - Heroic: 0
+  - Legendary: 0
+- Species: Human
+- Vehicle operation
+  - Driver: -
+  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
+  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
+- Notes: -
+
+## [21] Marine Sniper
+
+![AI preview](../../assets/ai-22.jpg)
+- Primary Weapon Type: S7 Sniper Rifle
+- Secondary Weapon Type: Mk50 Sidekick
+- Grenade Type: Frag Grenade
+- Health per difficulty
+  - Easy: 137
+  - Normal: 137
+  - Heroic: 240.5
+  - Legendary: 344
+- Shield per difficulty
+  - Easy: 0
+  - Normal: 0
+  - Heroic: 0
+  - Legendary: 0
+- Species: Human
+- Vehicle operation
+  - Driver: -
+  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
+  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
+- Notes: -
+
+## [22] Marine Heavy
+
+![AI preview](../../assets/ai-20.jpg)
+- Primary Weapon Type: CQS48 Bulldog
+- Secondary Weapon Type: -
+- Grenade Type: Frag Grenade
+- Health per difficulty
+  - Easy: 165
+  - Normal: 165
+  - Heroic: 277.5
+  - Legendary: 412
+- Shield per difficulty
+  - Easy: 0
+  - Normal: 0
+  - Heroic: 0
+  - Legendary: 0
+- Species: Human
+- Vehicle operation
+  - Driver: -
+  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
+  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
+- Notes: -
+
+## [23] Marine Demolition
+
+![AI preview](../../assets/ai-19.jpg)
+- Primary Weapon Type: M41 SPNKr
+- Secondary Weapon Type: CQS48 Bulldog
+- Grenade Type: Frag Grenade
+- Health per difficulty
+  - Easy: 165
+  - Normal: 165
+  - Heroic: 277.5
+  - Legendary: 412
+- Shield per difficulty
+  - Easy: 0
+  - Normal: 0
+  - Heroic: 0
+  - Legendary: 0
+- Species: Human
+- Vehicle operation
+  - Driver: -
+  - Passenger: Gauss Hog, Gungoose, Mongoose, Razorback, Rocket Hog, Warthog
+  - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
+- Notes: -
+
+## [24] Elite Mercenary
 
 ![AI preview](../../assets/ai-25.jpg)
 - Primary Weapon Type: Pulse Carbine
@@ -594,6 +572,29 @@ Documentation of all the default AI variants.
   - Normal: 160
   - Heroic: 195
   - Legendary: 230
+- Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
+- Notes: Activates shield only after engaging a target.
+
+## [25] Elite Enforcer
+
+![AI preview](../../assets/ai-24.jpg)
+- Primary Weapon Type: Pulse Carbine
+- Secondary Weapon Type: -
+- Grenade Type: Plasma Grenade
+- Health per difficulty
+  - Easy: 180
+  - Normal: 180
+  - Heroic: 215
+  - Legendary: 250
+- Shield per difficulty
+  - Easy: 320
+  - Normal: 320
+  - Heroic: 345
+  - Legendary: 370
 - Species: Elite
 - Vehicle operation
   - Driver: Banshee, Ghost, Wraith
@@ -624,30 +625,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [27] Elite Warlord
-
-![AI preview](../../assets/ai-27.jpg)
-- Primary Weapon Type: Ravager
-- Secondary Weapon Type: Energy Sword
-- Grenade Type: Plasma Grenade
-- Health per difficulty
-  - Easy: 220
-  - Normal: 220
-  - Heroic: 255
-  - Legendary: 290
-- Shield per difficulty
-  - Easy: 380
-  - Normal: 380
-  - Heroic: 315
-  - Legendary: 450
-- Species: Elite
-- Vehicle operation
-  - Driver: Banshee, Ghost, Wraith
-  - Passenger: Phantom
-  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
-- Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
-
-## [28] Elite Ultra
+## [27] Elite Ultra
 
 ![AI preview](../../assets/ai-28.jpg)
 - Primary Weapon Type: Heatwave
@@ -670,22 +648,22 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [29] Boss Chak 'Lok
+## [28] Elite Warlord
 
-![AI preview](../../assets/ai-29.jpg)
-- Primary Weapon Type: Pulse Carbine
+![AI preview](../../assets/ai-27.jpg)
+- Primary Weapon Type: Ravager
 - Secondary Weapon Type: Energy Sword
 - Grenade Type: Plasma Grenade
 - Health per difficulty
-  - Easy: 300
-  - Normal: 300
-  - Heroic: 350
-  - Legendary: 400
+  - Easy: 220
+  - Normal: 220
+  - Heroic: 255
+  - Legendary: 290
 - Shield per difficulty
-  - Easy: 2500
-  - Normal: 2500
-  - Heroic: 3000
-  - Legendary: 3500
+  - Easy: 380
+  - Normal: 380
+  - Heroic: 315
+  - Legendary: 450
 - Species: Elite
 - Vehicle operation
   - Driver: Banshee, Ghost, Wraith
@@ -693,7 +671,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [30] Boss Okro 'Vagaduun
+## [29] Boss Okro 'Vagaduun
 
 ![AI preview](../../assets/ai-30.jpg)
 - Primary Weapon Type: Duelist Energy Sword
@@ -714,6 +692,29 @@ Documentation of all the default AI variants.
   - Driver: Banshee, Ghost, Wraith
   - Passenger: Phantom
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
+- Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
+
+## [30] Boss Inka 'Saham
+
+![AI preview](../../assets/ai-32.jpg)
+- Primary Weapon Type: Rapidfire Pulse Carbine
+- Secondary Weapon Type: Energy Sword
+- Grenade Type: Plasma Grenade
+- Health per difficulty
+  - Easy: 300
+  - Normal: 300
+  - Heroic: 325
+  - Legendary: 350
+- Shield per difficulty
+  - Easy: 650
+  - Normal: 650
+  - Heroic: 750
+  - Legendary: 850
+- Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
 ## [31] Boss Ordo 'Mal
@@ -739,30 +740,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [32] Boss Inka 'Saham
-
-![AI preview](../../assets/ai-32.jpg)
-- Primary Weapon Type: Rapidfire Pulse Carbine
-- Secondary Weapon Type: Energy Sword
-- Grenade Type: Plasma Grenade
-- Health per difficulty
-  - Easy: 300
-  - Normal: 300
-  - Heroic: 325
-  - Legendary: 350
-- Shield per difficulty
-  - Easy: 650
-  - Normal: 650
-  - Heroic: 750
-  - Legendary: 850
-- Species: Elite
-- Vehicle operation
-  - Driver: Banshee, Ghost, Wraith
-  - Passenger: Phantom
-  - Gunner: M247 HMG Turret, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
-- Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
-
-## [33] Boss Thav 'Sebarim
+## [32] Boss Thav 'Sebarim
 
 ![AI preview](../../assets/ai-33.jpg)
 - Primary Weapon Type: Arcane Sentinel Beam
@@ -783,6 +761,29 @@ Documentation of all the default AI variants.
   - Driver: Banshee, Ghost, Wraith
   - Passenger: Phantom
   - Gunner: M247 HMG Turret, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
+- Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
+
+## [33] Boss Chak 'Lok
+
+![AI preview](../../assets/ai-29.jpg)
+- Primary Weapon Type: Pulse Carbine
+- Secondary Weapon Type: Energy Sword
+- Grenade Type: Plasma Grenade
+- Health per difficulty
+  - Easy: 300
+  - Normal: 300
+  - Heroic: 350
+  - Legendary: 400
+- Shield per difficulty
+  - Easy: 2500
+  - Normal: 2500
+  - Heroic: 3000
+  - Legendary: 3500
+- Species: Elite
+- Vehicle operation
+  - Driver: Banshee, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
 ## [34] Boss Jega 'Rdomnai
@@ -900,17 +901,17 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [39] Brute Berserker
+## [39] Brute Sniper
 
-![AI preview](../../assets/ai-39.jpg)
-- Primary Weapon Type: Brute Fists
-- Secondary Weapon Type: -
-- Grenade Type: Dynamo Grenade
+![AI preview](../../assets/ai-45.jpg)
+- Primary Weapon Type: Skewer
+- Secondary Weapon Type: Mangler
+- Grenade Type: Spike Grenade
 - Health per difficulty
-  - Easy: 250
-  - Normal: 250
-  - Heroic: 300
-  - Legendary: 350
+  - Easy: 150
+  - Normal: 150
+  - Heroic: 175
+  - Legendary: 200
 - Shield per difficulty
   - Easy: 0
   - Normal: 0
@@ -918,31 +919,31 @@ Documentation of all the default AI variants.
   - Legendary: 0
 - Species: Brute
 - Vehicle operation
-  - Driver: Brute Chopper, Chopper Boss, Ghost, Wraith
-  - Passenger: -
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [40] Brute Berserker, Chosen
+## [40] Brute Sniper, Heavy
 
-![AI preview](../../assets/ai-40.jpg)
-- Primary Weapon Type: Brute Fists
-- Secondary Weapon Type: -
-- Grenade Type: Dynamo Grenade
+![AI preview](../../assets/ai-46.jpg)
+- Primary Weapon Type: Shock Rifle
+- Secondary Weapon Type: Disruptor
+- Grenade Type: Spike Grenade
 - Health per difficulty
-  - Easy: 250
-  - Normal: 250
-  - Heroic: 300
-  - Legendary: 350
+  - Easy: 150
+  - Normal: 150
+  - Heroic: 175
+  - Legendary: 200
 - Shield per difficulty
-  - Easy: 120
-  - Normal: 120
-  - Heroic: 120
-  - Legendary: 120
+  - Easy: 0
+  - Normal: 0
+  - Heroic: 0
+  - Legendary: 0
 - Species: Brute
 - Vehicle operation
-  - Driver: Brute Chopper, Chopper Boss, Ghost, Wraith
-  - Passenger: -
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
@@ -1038,76 +1039,53 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom,   Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [45] Brute Sniper
+## [45] Brute Berserker
 
-![AI preview](../../assets/ai-45.jpg)
-- Primary Weapon Type: Skewer
-- Secondary Weapon Type: Mangler
-- Grenade Type: Spike Grenade
-- Health per difficulty
-  - Easy: 150
-  - Normal: 150
-  - Heroic: 175
-  - Legendary: 200
-- Shield per difficulty
-  - Easy: 0
-  - Normal: 0
-  - Heroic: 0
-  - Legendary: 0
-- Species: Brute
-- Vehicle operation
-  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
-  - Passenger: Phantom
-  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
-- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
-
-## [46] Brute Sniper, Heavy
-
-![AI preview](../../assets/ai-46.jpg)
-- Primary Weapon Type: Shock Rifle
-- Secondary Weapon Type: Disruptor
-- Grenade Type: Spike Grenade
-- Health per difficulty
-  - Easy: 150
-  - Normal: 150
-  - Heroic: 175
-  - Legendary: 200
-- Shield per difficulty
-  - Easy: 0
-  - Normal: 0
-  - Heroic: 0
-  - Legendary: 0
-- Species: Brute
-- Vehicle operation
-  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
-  - Passenger: Phantom
-  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
-- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
-
-## [47] Brute Warlord
-
-![AI preview](../../assets/ai-47.jpg)
-- Primary Weapon Type: Heatwave
+![AI preview](../../assets/ai-39.jpg)
+- Primary Weapon Type: Brute Fists
 - Secondary Weapon Type: -
-- Grenade Type: Spike Grenade
+- Grenade Type: Dynamo Grenade
 - Health per difficulty
-  - Easy: 400
-  - Normal: 400
-  - Heroic: 435
-  - Legendary: 470
+  - Easy: 250
+  - Normal: 250
+  - Heroic: 300
+  - Legendary: 350
+- Shield per difficulty
+  - Easy: 0
+  - Normal: 0
+  - Heroic: 0
+  - Legendary: 0
+- Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: -
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
+- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
+
+## [46] Brute Berserker, Chosen
+
+![AI preview](../../assets/ai-40.jpg)
+- Primary Weapon Type: Brute Fists
+- Secondary Weapon Type: -
+- Grenade Type: Dynamo Grenade
+- Health per difficulty
+  - Easy: 250
+  - Normal: 250
+  - Heroic: 300
+  - Legendary: 350
 - Shield per difficulty
   - Easy: 120
   - Normal: 120
-  - Heroic: 150
-  - Legendary: 180
+  - Heroic: 120
+  - Legendary: 120
 - Species: Brute
 - Vehicle operation
-  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
-  - Passenger: Phantom
+  - Driver: Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: -
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
-- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
+- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [48] Brute Captain
+## [47] Brute Captain
 
 ![AI preview](../../assets/ai-48.jpg)
 - Primary Weapon Type: Ravager
@@ -1130,10 +1108,33 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [49] Brute Captain, Chosen
+## [48] Brute Captain, Chosen
 
 ![AI preview](../../assets/ai-49.jpg)
 - Primary Weapon Type: MLRS-2 Hydra
+- Secondary Weapon Type: -
+- Grenade Type: Spike Grenade
+- Health per difficulty
+  - Easy: 400
+  - Normal: 400
+  - Heroic: 435
+  - Legendary: 470
+- Shield per difficulty
+  - Easy: 120
+  - Normal: 120
+  - Heroic: 150
+  - Legendary: 180
+- Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
+- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
+
+## [49] Brute Warlord
+
+![AI preview](../../assets/ai-47.jpg)
+- Primary Weapon Type: Heatwave
 - Secondary Weapon Type: -
 - Grenade Type: Spike Grenade
 - Health per difficulty
@@ -1291,76 +1292,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [56] Boss Bassus
-
-![AI preview](../../assets/ai-56.jpg)
-- Primary Weapon Type: Gravity Hammer
-- Secondary Weapon Type: -
-- Grenade Type: Plasma Grenade
-- Health per difficulty
-  - Easy: 1790
-  - Normal: 1790
-  - Heroic: 2125
-  - Legendary: 2640
-- Shield per difficulty
-  - Easy: 425
-  - Normal: 425
-  - Heroic: 588
-  - Legendary: 750
-- Species: Brute
-- Vehicle operation
-  - Driver: Brute Chopper, Chopper Boss
-  - Passenger: Phantom
-  - Gunner: -
-- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Their melee attack deals an EMP shock to nearby vehicles. Can not wield any other weapon than their default.
-
-## [57] Boss En'geddon
-
-![AI preview](../../assets/ai-57.jpg)
-- Primary Weapon Type: Rushdown Hammer
-- Secondary Weapon Type: -
-- Grenade Type: Spike Grenade
-- Health per difficulty
-  - Easy: 1230
-  - Normal: 1230
-  - Heroic: 1400
-  - Legendary: 1570
-- Shield per difficulty
-  - Easy: 400
-  - Normal: 400
-  - Heroic: 500
-  - Legendary: 600
-- Species: Brute
-- Vehicle operation
-  - Driver: Brute Chopper, Chopper Boss
-  - Passenger: Phantom
-  - Gunner: -
-- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
-
-## [58] Boss Ik'novus
-
-![AI preview](../../assets/ai-58.jpg)
-- Primary Weapon Type: Brute Scrap Cannon (Scrap Cannon variant)
-- Secondary Weapon Type: -
-- Grenade Type: -
-- Health per difficulty
-  - Easy: 1230
-  - Normal: 1230
-  - Heroic: 1400
-  - Legendary: 1570
-- Shield per difficulty
-  - Easy: 300
-  - Normal: 300
-  - Heroic: 375
-  - Legendary: 450
-- Species: Brute
-- Vehicle operation
-  - Driver: Brute Chopper, Chopper Boss
-  - Passenger: Phantom
-  - Gunner: -
-- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
-
-## [59] Boss Zeretus
+## [56] Boss Zeretus
 
 ![AI preview](../../assets/ai-59.jpg)
 - Primary Weapon Type: M41 Tracker
@@ -1383,17 +1315,40 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [60] Boss Tovarus
+## [57] Boss Ik'novus
 
-![AI preview](../../assets/ai-60.jpg)
+![AI preview](../../assets/ai-58.jpg)
 - Primary Weapon Type: Brute Scrap Cannon (Scrap Cannon variant)
+- Secondary Weapon Type: -
+- Grenade Type: -
+- Health per difficulty
+  - Easy: 1230
+  - Normal: 1230
+  - Heroic: 1400
+  - Legendary: 1570
+- Shield per difficulty
+  - Easy: 300
+  - Normal: 300
+  - Heroic: 375
+  - Legendary: 450
+- Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss
+  - Passenger: Phantom
+  - Gunner: -
+- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
+
+## [58] Boss En'geddon
+
+![AI preview](../../assets/ai-57.jpg)
+- Primary Weapon Type: Rushdown Hammer
 - Secondary Weapon Type: -
 - Grenade Type: Spike Grenade
 - Health per difficulty
-  - Easy: 1600
-  - Normal: 1600
-  - Heroic: 1900
-  - Legendary: 2200
+  - Easy: 1230
+  - Normal: 1230
+  - Heroic: 1400
+  - Legendary: 1570
 - Shield per difficulty
   - Easy: 400
   - Normal: 400
@@ -1404,9 +1359,32 @@ Documentation of all the default AI variants.
   - Driver: Brute Chopper, Chopper Boss
   - Passenger: Phantom
   - Gunner: -
+- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
+
+## [59] Boss Tremonius
+
+![AI preview](../../assets/ai-62.jpg)
+- Primary Weapon Type: MLRS-2 Hydra
+- Secondary Weapon Type: CQS48 Bulldog
+- Grenade Type: Frag Grenade
+- Health per difficulty
+  - Easy: 1000
+  - Normal: 1000
+  - Heroic: 1175
+  - Legendary: 1350
+- Shield per difficulty
+  - Easy: 450
+  - Normal: 450
+  - Heroic: 575
+  - Legendary: 700
+- Species: Brute
+- Vehicle operation
+  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Passenger: Phantom
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [61] Boss Hyperius
+## [60] Boss Hyperius
 
 ![AI preview](../../assets/ai-61.jpg)
 - Primary Weapon Type: Ravager
@@ -1429,28 +1407,51 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [62] Boss Tremonius
+## [61] Boss Tovarus
 
-![AI preview](../../assets/ai-62.jpg)
-- Primary Weapon Type: MLRS-2 Hydra
-- Secondary Weapon Type: CQS48 Bulldog
-- Grenade Type: Frag Grenade
+![AI preview](../../assets/ai-60.jpg)
+- Primary Weapon Type: Brute Scrap Cannon (Scrap Cannon variant)
+- Secondary Weapon Type: -
+- Grenade Type: Spike Grenade
 - Health per difficulty
-  - Easy: 1000
-  - Normal: 1000
-  - Heroic: 1175
-  - Legendary: 1359
+  - Easy: 1600
+  - Normal: 1600
+  - Heroic: 1900
+  - Legendary: 2200
 - Shield per difficulty
-  - Easy: 450
-  - Normal: 450
-  - Heroic: 575
-  - Legendary: 700
+  - Easy: 400
+  - Normal: 400
+  - Heroic: 500
+  - Legendary: 600
 - Species: Brute
 - Vehicle operation
-  - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
+  - Driver: Brute Chopper, Chopper Boss
   - Passenger: Phantom
-  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
+  - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
+
+## [62] Boss Bassus
+
+![AI preview](../../assets/ai-56.jpg)
+- Primary Weapon Type: Gravity Hammer
+- Secondary Weapon Type: -
+- Grenade Type: Plasma Grenade
+- Health per difficulty
+  - Easy: 1790
+  - Normal: 1790
+  - Heroic: 2125
+  - Legendary: 2640
+- Shield per difficulty
+  - Easy: 425
+  - Normal: 425
+  - Heroic: 588
+  - Legendary: 750
+- Species: Brute
+- Vehicle operation
+  - Driver: Brute Chopper, Chopper Boss
+  - Passenger: Phantom
+  - Gunner: -
+- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Their melee attack deals an EMP shock to nearby vehicles. Can not wield any other weapon than their default.
 
 ## [63] Boss Escharum
 
