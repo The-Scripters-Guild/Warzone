@@ -17,7 +17,6 @@ The configurations of AI that make up each of the AI encounters.
 - Grunt Conscript, Yellow
 - Brute Chieftain
 - Brute Minor
-- Brute Minor
 
 ## [2] Elite Encounter, Silver
 
