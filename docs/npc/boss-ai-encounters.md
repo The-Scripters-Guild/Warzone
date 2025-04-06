@@ -28,22 +28,22 @@ Find the referenced locations at [Map Locations for Skirmish At Darkstar](../map
 - Location: Tents & Platform
 - Possible Encounters: 1, 3
 
-## [6:00 min] 150 Points
+## [6:00 min] 100 Points
 - Tier: Legendary
 - Location: Colony
 - Possible Encounters: 5, 7
 
-## [9:00 min] 25 Points
+## [8:00 min] 25 Points
 - Tier: Silver
-- Location: Colony
+- Location: Middle
 - Possible Encounters: 2, 4
 
 ## [10:00 min] 25 Points
 - Tier: Silver
-- Location: Middle
+- Location: Colony
 - Possible Encounters: 1, 2, 3, 4
 
-## [12:00 min] 150 Points
+## [12:00 min] 100 Points
 - Tier: Legendary
 - Location: Middle
 - Possible Encounters: 5, 6, 7
