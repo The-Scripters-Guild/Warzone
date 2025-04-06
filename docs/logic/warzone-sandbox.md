@@ -97,3 +97,11 @@ Documentation about the tsg warzone-sandbox library used for the scripting logic
 - [14] Headhunter Guard: VFX VIP -> Beta Infected.
 - [3] Expert Marksman: Melee Recovery Speed 1.10 -> 1.60.
 - Accounted for resetting multiple variables to make multiple rounds not break functionality.
+
+### 0.11.0
+
+- Added DummyObject variables for an object, player and weapon clones. This addition can double the DummyObject creation from other scripts and needs to be accounted for, so a major change.
+
+### 0.11.1
+
+- Changed `projectilesEnabled` Boolean Variable scope from Global to Object, which somehow hasn't caused noticeable issues with the wrong scope.
