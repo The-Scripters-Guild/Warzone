@@ -61,9 +61,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 - Trait Set: ?
   - Weapon Damage: 3.00
   - Damage Resistance
-    - Direct Damage Scalar: 2.00
-    - Grenade Damage Scalar: 0.50
-    - Explosive Damage Scalar: 0.50
+    - Direct Damage Scalar: 1.50
+    - Grenade Damage Scalar: 0.666
+    - Explosive Damage Scalar: 0.666
 - Notes: -
 
 ## [7] Marine Assault
@@ -72,9 +72,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 - Trait Set: ?
   - Weapon Damage: 3.50
   - Damage Resistance
-    - Direct Damage Scalar: 0.30
-    - Grenade Damage Scalar: 3.3333
-    - Explosive Damage Scalar: 3.3333
+    - Direct Damage Scalar: 0.20
+    - Grenade Damage Scalar: 5.00
+    - Explosive Damage Scalar: 5.00
 - Notes: -
 
 ## [8] Elite Mercenary
