@@ -192,25 +192,25 @@ The configurations that make up each of the equipment, including custom powerups
 - Charge Count: 1
 - REQ Tier: 5
 - Game State: 1
-- Notes: Granted via object reference; has invalid Equipment Type that doesn't work in script. Object reference must be gathered initially via player mark. Equipment spawner object be index 1 with label "Dodgeball Overtime Zone".
+- Notes: -
 
 ## [16] Legendary Grappleshot
 - Equipment Type: 
 - Charge Count: 4
 - REQ Tier: 4
 - Game State: 1
-- Notes: Granted via object reference; has invalid Equipment Type that doesn't work in script. Object reference must be gathered initially via player mark. Equipment spawner object be index 2 with label "Dodgeball Overtime Zone".
+- Notes: -
 
 ## [17] Legendary Threat Sensor
 - Equipment Type: 
 - Charge Count: 2
 - REQ Tier: 4
 - Game State: 1
-- Notes: Granted via object reference; has invalid Equipment Type that doesn't work in script. Object reference must be gathered initially via player mark. Equipment spawner object be index 3 with label "Dodgeball Overtime Zone".
+- Notes: -
 
 ## [18] Legendary Thruster
 - Equipment Type: 
 - Charge Count: 3
 - REQ Tier: 3
 - Game State: 1
-- Notes: Granted via object reference; has invalid Equipment Type that doesn't work in script. Object reference must be gathered initially via player mark. Equipment spawner object be index 4 with label "Dodgeball Overtime Zone".
+- Notes: -
