@@ -1,8 +1,31 @@
-# tsg warzone-sandbox library
+# Changelog
 
-Documentation about the tsg warzone-sandbox library used for the scripting logic.
+Changes between various updates to the Warzone mode, libraries and modules.
 
-## Changelog
+## Warzone
+
+Changelog of the main Warzone mode.
+
+### 0.3.2
+
+Current state: Mode working fully, with some notable missing features:
+- No REQ Room logic; loadouts given by random based on REQ Points
+- No Core destroying logic
+- No vehicles (on-level)
+
+### 0.4.0
+
+- Added custom 10-second soft kill boundary logic, as we can't use Soft Kill Volumes on Warzone maps due to a bug that hides the Objective Banner UI element when entering a Soft Kill Volume.
+- Respawn time adjusted from 4 -> 8 s.
+- Cleaned up zone AI nav creation code.
+
+### 0.4.1
+
+- Added a feature where staying close to a REQ station will grant players +7% ammo for their loadout weapons every second.
+
+## tsg warzone-sandbox library
+
+Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
 
 ### 0.8.1
 
