@@ -23,12 +23,16 @@ Current state: Mode working fully, with some notable missing features:
 
 - Added a feature where staying close to a REQ station will grant players +7% ammo for their loadout weapons every second.
 
-### 0.5.0
+### 0.4.2
 
 - Added Base Core destroying feature to be able to end the game after a team has control of all three zones.
 - Adjusted boss kill audio when killing a Mythic 100-point boss to play the Mythic kill audio instead of the Legendary kill audio.
 - Made the scenario nav marker text change to "Clear The Enemy Units" once the boss of the scenario has been killed. Known issue persists where killing just one boss in a two-boss scenario still changes the nav marker text.
 - Added different icons for Silver, Legendary, and Mythic boss incoming nav markers.
+
+### 0.5.0
+
+- Changed base mode from Minigame to Minigame BTB in order to force a 30 tick rate due to facing performance concerns. The tickrate near the end of a match with a fully lobby seems to drop to around 20, so keeping a low tick rate to begin with should lessen the visual impact of a dropped tick rate.
 
 ## tsg warzone-sandbox library
 
