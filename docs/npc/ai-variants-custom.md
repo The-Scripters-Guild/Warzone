@@ -39,8 +39,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [3] Boss Bipbap
 
 ![AI preview](../../assets/ai-06.jpg)
-- Primary Weapon Type: Disruptor
-- Trait Set: -
+- Primary Weapon Type: Plasma Pistol + Arcane Sentinel Beam ([14] Hardlight Plasma Pistol)
+- Trait Set: ?
+  - Weapon Damage: 1.90
 - Notes: Is a Boss and has a health bar.
 
 ## [4] Jackal Freebooter
