@@ -34,6 +34,13 @@ Current state: Mode working fully, with some notable missing features:
 
 - Changed base mode from Minigame to Minigame BTB in order to force a 30 tick rate due to facing performance concerns. The tickrate near the end of a match with a fully lobby seems to drop to around 20, so keeping a low tick rate to begin with should lessen the visual impact of a dropped tick rate.
 
+### 0.5.1
+
+- Updated warzone-sandbox to 0.11.3.
+- Added a check to prevent Marine spawn in a zone if the amount of players on the opposite team of the captured zone is greater than the amount of players of the zone's team are present within the zone boundary. This prevents Marines from constantly spawning in the zone, which made the capturing process very difficult.
+- Added debug player index number display to custom soft kill docked nav marker to try and understand an issue where the death loop persists for players when someone joins in progress.
+- Added debug print to killfeed upon zone capture showing the number of zones each team has captured to try and understand an issue where the core would get exposed in a situation where a team does not control all three zones.
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
@@ -143,3 +150,9 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 ### 0.11.2
 
 - Adjusted the amount of created Weapon Carrier Clones from 24 to 28 due to some players getting a higher than 24 index if the match has more than 24 total players due to bots being present. Capped at 28 instead of 32, as this is a rare occasion, and not standard. Adding more clone bipeds on the map reduces the amount of total units that can be present on the map including vehicles.
+
+### 0.11.3
+
+- [7] ONI Bandit: Weapon Type: M392 Bandit + Impact Commando -> M392 Bandit + MA40 Longshot, Weapon Damage: 1.41 -> 2.19, Ammo Adjustment: -27 -> 0
+- Adjusted requestWeapon event artificial ending time from 0.016 seconds to 0.05 seconds to account for the server tick rate dropping to a minimum of 20 ticks per second. This ensures proper functioning of granting two custom weapons with ammo adjustment back-to-back.
+- Prevented Rocket Hog projectile gathering area monitor from accidentally gathering a grenade.
