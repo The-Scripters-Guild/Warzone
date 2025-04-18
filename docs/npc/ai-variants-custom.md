@@ -114,7 +114,7 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [11] Boss Ordo 'Mal
 
 ![AI preview](../../assets/ai-31.jpg)
-- Primary Weapon Type: Heatwave
+- Primary Weapon Type: Scatterbound Heatwave
 - Secondary Weapon Type: None
 - Trait Set: -
 - Notes: Is a Boss and has a health bar.
