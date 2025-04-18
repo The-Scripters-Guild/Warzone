@@ -21,44 +21,54 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 
 ![AI preview](../../assets/ai-04.jpg)
 - Primary Weapon Type: Mk50 Sidekick
-- Trait Set: -
+- Secondary Weapon Type: -
+- Trait Set: GruntConscriptYellow
 - Notes: -
 
 ## [2] Grunt Ultra
 
 ![AI preview](../../assets/ai-05.jpg)
-- Primary Weapon Type: Mangler + Arcane Sentinel Beam
-- Trait Set: ?
-  - Weapon Damage: Same as [[38] Infiltrator Off Worlds](../items/weapon-configs.md#38-infiltrator-off-worlds) including projectile-related values
+- Primary Weapon Type: Mangler + Arcane Sentinel Beam ([38] Infiltrator Off Worlds)
+- Secondary Weapon Type: -
+- Trait Set: GruntUltra
+  - Weapon Damage: 0.01
   - Damage Resistance
     - Direct Damage Scalar: 3.80
     - Grenade Damage Scalar: 0.83
     - Explosive Damage Scalar: 0.83
-- Notes: Will die in 4 Hydra direct rockets and 2 Rocket Launcher Rockets. Drops a [[38] Infiltrator Off Worlds](../items/weapon-configs.md#38-infiltrator-off-worlds) upon death and deletes the Mangler + Arcane Sentinel Beam.
+- Notes: Fires Banished Hunter shots from the weapon. Drops a [[38] Infiltrator Off Worlds](../items/weapon-configs.md#38-infiltrator-off-worlds) upon death and deletes the Mangler + Arcane Sentinel Beam.
 
 ## [3] Boss Bipbap
 
 ![AI preview](../../assets/ai-06.jpg)
-- Primary Weapon Type: Disruptor
-- Trait Set: -
+- Primary Weapon Type: Plasma Pistol + Arcane Sentinel Beam ([14] Hardlight Plasma Pistol)
+- Secondary Weapon Type: -
+- Trait Set: BossBipbap
+  - Weapon Damage: 1.90
 - Notes: Is a Boss and has a health bar.
 
 ## [4] Jackal Freebooter
 
 ![AI preview](../../assets/ai-08.jpg)
-- Trait Set: -
+- Primary Weapon Type: Plasma Pistol
+- Secondary Weapon Type: -
+- Trait Set: JackalFreebooter
 - Notes: -
 
 ## [5] Jackal Raider
 
 ![AI preview](../../assets/ai-09.jpg)
-- Trait Set: -
+- Primary Weapon Type: Needler
+- Secondary Weapon Type: -
+- Trait Set: JackalRaider
 - Notes: -
 
 ## [6] Boss Adjutant Resolution, Gold
 
 ![AI preview](../../assets/ai-65.jpg)
-- Trait Set: ?
+- Primary Weapon Type: Gold Sentry Primary (Scrap Cannon variant)
+- Secondary Weapon Type: Gold Sentry Secondary (M41 SPNKr variant)
+- Trait Set: BossAdjutantResolutionGold
   - Weapon Damage: 3.00
   - Damage Resistance
     - Direct Damage Scalar: 1.50
@@ -69,7 +79,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [7] Marine Assault
 
 ![AI preview](../../assets/ai-18.jpg)
-- Trait Set: ?
+- Primary Weapon Type: MA40 Assault Rifle
+- Secondary Weapon Type: -
+- Trait Set: MarineAssault
   - Weapon Damage: 3.50
   - Damage Resistance
     - Direct Damage Scalar: 0.20
@@ -80,7 +92,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [8] Elite Mercenary
 
 ![AI preview](../../assets/ai-25.jpg)
-- Trait Set: ?
+- Primary Weapon Type: Pulse Carbine
+- Secondary Weapon Type: -
+- Trait Set: EliteMercenary
   - Damage Resistance
     - Direct Damage Scalar: 1.20
     - Grenade Damage Scalar: 1.69
@@ -91,8 +105,8 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 
 ![AI preview](../../assets/ai-27.jpg)
 - Primary Weapon Type: Stalker Rifle
-- Secondary Weapon Type: None
-- Trait Set: -
+- Secondary Weapon Type: - (delete)
+- Trait Set: EliteWarlord
   - Damage Resistance
     - Direct Damage Scalar: 2.00
     - Grenade Damage Scalar: 1.30
@@ -103,7 +117,8 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 
 ![AI preview](../../assets/ai-28.jpg)
 - Primary Weapon Type: Rapidfire Pulse Carbine
-- Trait Set: -
+- Secondary Weapon Type: Energy Sword
+- Trait Set: EliteUltra
   - Damage Resistance
     - Direct Damage Scalar: 1.00
     - Grenade Damage Scalar: 1.84
@@ -113,27 +128,30 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [11] Boss Ordo 'Mal
 
 ![AI preview](../../assets/ai-31.jpg)
-- Primary Weapon Type: Heatwave
-- Secondary Weapon Type: None
-- Trait Set: -
+- Primary Weapon Type: Scatterbound Heatwave
+- Secondary Weapon Type: - (delete)
+- Trait Set: BossOrdoMal
 - Notes: Is a Boss and has a health bar.
 
 ## [12] Boss Thav 'Sebarim
 
 ![AI preview](../../assets/ai-33.jpg)
-- Primary Weapon Type: Same as [[37] Spike Off Ordo 'Mal](https://github.com/The-Scripters-Guild/Warzone/blob/main/docs/items/weapon-configs.md#37-spike-off-ordo-mal) including projectile-related values.
-- Trait Set: ?
+- Primary Weapon Type: Cindershot + Arcane Sentinel Beam ([37] Spike Off Thav 'Sebarim)
+- Secondary Weapon Type: -
+- Trait Set: BossThavSebarim
   - Weapon Damage: 1.30
   - Damage Resistance
     - Direct Damage Scalar: 1.30
     - Grenade Damage Scalar: 0.7692
     - Explosive Damage Scalar: 0.7692
-- Notes: Is a Boss and has a health bar. Drops a [[37] Spike Off Ordo 'Mal](https://github.com/The-Scripters-Guild/Warzone/blob/main/docs/items/weapon-configs.md#37-spike-off-ordo-mal) upon death and deletes the Cindershot + Arcane Sentinel Beam.
+- Notes: Fires Spike Grenade projectiles. Is a Boss and has a health bar. Drops a [[37] Spike Off Thav 'Sebarim](https://github.com/The-Scripters-Guild/Warzone/blob/main/docs/items/weapon-configs.md#37-spike-off-thav-sebarim) upon death and deletes the Cindershot + Arcane Sentinel Beam.
 
 ## [13] Hunter
 
 ![AI preview](../../assets/ai-35.jpg)
-- Trait Set: ?
+- Primary Weapon Type: Hunter Primary
+- Secondary Weapon Type: Hunter Secondary
+- Trait Set: Hunter
   - Weapon Damage: 0.70
   - Damage Resistance
     - Direct Damage Scalar: 0.40
@@ -144,7 +162,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [14] Boss Myriad
 
 ![AI preview](../../assets/ai-37.jpg)
-- Trait Set: ?
+- Primary Weapon Type: Banished Hunter Primary
+- Secondary Weapon Type: Banished Hunter Secondary
+- Trait Set: BossMyriad
   - Weapon Damage: 1.30
   - Damage Resistance
     - Direct Damage Scalar: 2.00
@@ -156,8 +176,8 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 
 ![AI preview](../../assets/ai-38.jpg)
 - Primary Weapon Type: MA40 Longshot
-- Secondary Weapon Type: None
-- Trait Set: ?
+- Secondary Weapon Type: - (delete)
+- Trait Set: BruteMinor
   - Damage Resistance
     - Direct Damage Scalar: 4.30
     - Grenade Damage Scalar: 2.57
@@ -167,20 +187,22 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [16] Brute Berserker, Chosen
 
 ![AI preview](../../assets/ai-40.jpg)
-- Primary Weapon Type: CQS48 Bulldog + Diminisher of Hope
-- Trait Set: ?
-  - Weapon Damage: Same as [[12] Valor Off Dinh](../items/weapon-configs.md#12-valor-off-dinh)
+- Primary Weapon Type: CQS48 Bulldog + Diminisher of Hope ([12] Valor Off Dinh)
+- Secondary Weapon Type: -
+- Trait Set: BruteBerserkerChosen
+  - Weapon Damage: 2.90
   - Damage Resistance
     - Direct Damage Scalar: 4.30
     - Grenade Damage Scalar: 0.2325
     - Explosive Damage Scalar: 0.2325
-- Notes: Is a Boss and has a health bar.
+- Notes: Is a Boss and has a health bar. Moves very fast and can one-hit melee a Spartan.
 
 ## [17] Brute Warrior
 
 ![AI preview](../../assets/ai-43.jpg)
 - Primary Weapon Type: VK78 Commando Rifle
-- Trait Set: ?
+- Secondary Weapon Type: -
+- Trait Set: BruteWarrior
   - Damage Resistance
     - Direct Damage Scalar: 4.30
     - Grenade Damage Scalar: 2.57
@@ -190,7 +212,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [18] Brute Sniper, Heavy
 
 ![AI preview](../../assets/ai-46.jpg)
-- Trait Set: ?
+- Primary Weapon Type: Shock Rifle
+- Secondary Weapon Type: Disruptor
+- Trait Set: BruteSniperHeavy
   - Damage Resistance
     - Direct Damage Scalar: 10.00
     - Grenade Damage Scalar: 1.40
@@ -201,7 +225,8 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 
 ![AI preview](../../assets/ai-47.jpg)
 - Primary Weapon Type: Ravager Rebound
-- Trait Set: ?
+- Secondary Weapon Type: -
+- Trait Set: BruteWarlord
   - Damage Resistance
     - Direct Damage Scalar: 3.80
     - Grenade Damage Scalar: 2.10
@@ -211,8 +236,9 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [20] Brute Chieftain
 
 ![AI preview](../../assets/ai-50.jpg)
-- Primary Weapon Type: None
-- Trait Set: ?
+- Primary Weapon Type: - (delete)
+- Primary Weapon Type: -
+- Trait Set: BruteChieftain
   - Damage Resistance
     - Direct Damage Scalar: 0.60
     - Grenade Damage Scalar: 1.6666
@@ -223,14 +249,16 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 
 ![AI preview](../../assets/ai-54.jpg)
 - Primary Weapon Type: Ravager
-- Trait Set: -
+- Secondary Weapon Type: -
+- Trait Set: BossArthoc
 - Notes: Is a Boss and has a health bar.
 
 ## [22] Boss Tremonius
 
 ![AI preview](../../assets/ai-62.jpg)
 - Primary Weapon Type: Pursuit Hydra
-- Trait Set: ?
+- Secondary Weapon Type: CQS48 Bulldog
+- Trait Set: BossTremonius
   - Damage Resistance
     - Direct Damage Scalar: 1.00
     - Grenade Damage Scalar: 1.50
@@ -240,14 +268,23 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [23] Boss Escharum
 
 ![AI preview](../../assets/ai-63.jpg)
-- Trait Set: -
+- Primary Weapon Type: Brute Scrap Cannon (Scrap Cannon variant)
+- Secondary Weapon Type: Diminisher of Hope
+- Trait Set: BossEscharum
 - Notes: Is a Boss and has a health bar.
 
 ## [24] Boss Harbinger
 
 ![AI preview](../../assets/ai-66.jpg)
-- Trait Set: -
-- Notes: Is a Boss and has a health bar. Has four stages of dealing damage to their shield, and then their health, before dying.
+- Primary Weapon Type: Harbinger Primary (Unique)
+- Secondary Weapon Type: -
+- Trait Set: BossHarbinger
+  - Weapon Damage: 1.40
+  - Damage Resistance
+    - Direct Damage Scalar: 2.00
+    - Grenade Damage Scalar: 0.50
+    - Explosive Damage Scalar: 0.50
+- Notes: Is a Boss and has a health bar. Teleports around during combat. Has four stages of dealing damage to their shield, and then their health, before dying.
 
 ## Acknowledgements
 

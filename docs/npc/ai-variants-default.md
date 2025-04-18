@@ -882,7 +882,7 @@ Documentation of all the default AI variants.
 
 ![AI preview](../../assets/ai-38.jpg)
 - Primary Weapon Type: Mangler
-- Secondary Weapon Type: -
+- Secondary Weapon Type: Brute Fists
 - Grenade Type: Spike Grenade
 - Health per difficulty
   - Easy: 140
