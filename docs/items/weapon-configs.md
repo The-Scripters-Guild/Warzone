@@ -106,12 +106,12 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [7] ONI Bandit
-- Weapon Type: M392 Bandit + Impact Commando
+- Weapon Type: M392 Bandit + MA40 Longshot
 - Trait Set: 7
-  - Weapon Damage: 1.41
+  - Weapon Damage: 2.19
 - Config: Combo
-- Ammo Adjustment: -27
-  - 40+14
+- Ammo Adjustment: None
+  - 25+75
 - REQ Tier: 4
 - Game State: 3
 - Notes: -
