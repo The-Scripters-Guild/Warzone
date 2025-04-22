@@ -41,6 +41,16 @@ Current state: Mode working fully, with some notable missing features:
 - Added debug player index number display to custom soft kill docked nav marker to try and understand an issue where the death loop persists for players when someone joins in progress.
 - Added debug print to killfeed upon zone capture showing the number of zones each team has captured to try and understand an issue where the core would get exposed in a situation where a team does not control all three zones.
 
+### 0.5.2
+
+- Updated warzone-sandbox to 0.11.4.
+- Grunt Ultra damage adjusted from 1.00 to 0.01, as they are shooting a custom projectile weapon and shouldn't deal other damage than what the projectile does.
+- Updated custom soft kill feature to use Generic Zones instead of Area Monitors; reduced node count and improved ease of use.
+
+### 0.5.3
+
+- Added feature to make specified objects change their team based on the captured zone's team.
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
@@ -156,3 +166,11 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - [7] ONI Bandit: Weapon Type: M392 Bandit + Impact Commando -> M392 Bandit + MA40 Longshot, Weapon Damage: 1.41 -> 2.19, Ammo Adjustment: -27 -> 0
 - Adjusted requestWeapon event artificial ending time from 0.016 seconds to 0.05 seconds to account for the server tick rate dropping to a minimum of 20 ticks per second. This ensures proper functioning of granting two custom weapons with ammo adjustment back-to-back.
 - Prevented Rocket Hog projectile gathering area monitor from accidentally gathering a grenade.
+
+### 0.11.4
+
+- Made setPlayerIndex event trigger an async event to update the player index, as without an async event, players joining in progress would freeze the execution of the For Each Player loop of setting the index. This caused bad data if players tried to call their index at the time when it was being updated and frozen.
+
+### 0.11.5
+
+- Made setPlayerIndex event only trigger for players who are not in the progress of joining the game. Event triggers when a player spawns, and indexes players not in the progress of joining to prevent execution freezes.
