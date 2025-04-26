@@ -51,6 +51,21 @@ Current state: Mode working fully, with some notable missing features:
 
 - Added feature to make specified objects change their team based on the captured zone's team.
 
+### 0.5.4
+
+- Updated warzone-sandbox to 0.11.5.
+- Added audio for damaging the core, and contesting and capturing zones. Added explosion effects to destroying the core.
+
+### 0.5.5
+
+- Changed core damaging logic to account for new core being made out of Boss Choppers.
+
+### 0.6.0
+
+- Updated warzone-sandbox to 0.11.6.
+- Attempted fix at custom soft kill player join in progress issue.
+- Excluded players joining in progress from any player execution scripts that need to track only valid players.
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
@@ -174,3 +189,8 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 ### 0.11.5
 
 - Made setPlayerIndex event only trigger for players who are not in the progress of joining the game. Event triggers when a player spawns, and indexes players not in the progress of joining to prevent execution freezes.
+
+### 0.11.6
+
+- Added listing of players still joining into a match, and excluded them from any player execution scripts that need to track only valid players.
+- Removed debug location teleport; still kept debugCounter logic.
