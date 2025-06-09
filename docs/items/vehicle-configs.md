@@ -129,4 +129,3 @@ Vehicle configuration reference.
 - REQ Tier: 9
 - Game State: 6
 - Notes: Uses a custom vehicle weapon: [123] Rocket Hog Weapon + Ravager Rebound.
-- 
