@@ -282,14 +282,15 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
 
-## [22] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [22] Myriad Arm
+- Weapon Type: Mutilator + Rebound Ravager
 - Trait Set: 22
-- Config: Default
-- Ammo Adjustment: None
-- REQ Tier: -
-- Game State: -
-- Notes: -
+- Config: Combo
+- Ammo Adjustment: 50
+  - 2+8
+- REQ Tier: 5
+- Game State: 4
+- Notes: Secondary fire shoots two charged Ravager shots at once.
 
 ## [23] Tripple Threat
 - Weapon Type: Mangler + BR75 Breacher
@@ -949,10 +950,10 @@ Official weapon configs:
 - REQ Tier: 6
 - Game State: 5
 
-## [107] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
-- REQ Tier: -
-- Game State: -
+## [107] Mutilator
+- Weapon Type: Mutilator
+- REQ Tier: 4
+- Game State: 3
 
 ## [108] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
