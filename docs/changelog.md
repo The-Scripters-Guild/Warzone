@@ -198,7 +198,26 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 ### 0.12.0
 
 - Added Mutilator
-- Added Mutilator variant: [22] Myriad Arm
+- Added Mutilator variant: [22] Myriad Arm (REQ 5)
 - Updated mislabeled Fuel Rod weapon types due to update breaking them
 - Removed Ability Boost: [7] Loadout Ammo
 - Added Ability Boost: [7] Spy
+
+### 0.13.0
+
+- Added five new vehicle variants
+  - [13] Extermination Gungoose (REQ 4)
+  - [14] Fusion Rocket Hog (REQ 7)
+  - [15] Plasma Warthog (REQ 6)
+  - [16] Phantom Wasp (REQ 8)
+  - [17] Banishing Wasp (REQ 9)
+- Added seven new weapon configs to support new vehicle variants
+  - [119] Rocket Hog Weapon
+  - [120] Wasp Weapon
+  - [121] Rocket Hog Weapon + Backdraft Cindershot
+  - [122] Rocket Hog Weapon + Rapidfire Pulse Carbine
+  - [123] Rocket Hog Weapon + Ravager Rebound
+  - [124] Rocket Hog Weapon + Unbound Plasma Pistol
+  - [125] Wasp Weapon + Scatterbound Heatwave
+- Added UI message names for all vehicles
+- Added UI message names for all remaining weapons
