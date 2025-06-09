@@ -57,8 +57,8 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 3
   - Weapon Damage: 0.81
   - Reload Speed
-		- Empty Reload Scalar: 0.75
-		- Tactical Reload Scalar: 0.75
+    - Empty Reload Scalar: 0.75
+    - Tactical Reload Scalar: 0.75
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
@@ -71,8 +71,8 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 4
   - Weapon Damage: 0.76
   - Reload Speed
-		- Empty Reload Scalar: 0.75
-		- Tactical Reload Scalar: 0.75
+    - Empty Reload Scalar: 0.75
+    - Tactical Reload Scalar: 0.75
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
@@ -85,8 +85,8 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 5
   - Weapon Damage: 1.29
   - Reload Speed
-		- Empty Reload Scalar: 0.75
-		- Tactical Reload Scalar: 0.75
+    - Empty Reload Scalar: 0.75
+    - Tactical Reload Scalar: 0.75
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
@@ -133,8 +133,8 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 9
   - Weapon Damage: 1.72
   - Reload Speed
-		- Empty Reload Scalar: 0.75
-		- Tactical Reload Scalar: 0.75
+    - Empty Reload Scalar: 0.75
+    - Tactical Reload Scalar: 0.75
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
@@ -282,14 +282,15 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
 
-## [22] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [22] Myriad Arm
+- Weapon Type: Mutilator + Rebound Ravager
 - Trait Set: 22
-- Config: Default
-- Ammo Adjustment: None
-- REQ Tier: -
-- Game State: -
-- Notes: -
+- Config: Combo
+- Ammo Adjustment: 50
+  - 2+8
+- REQ Tier: 5
+- Game State: 4
+- Notes: Secondary fire shoots two charged Ravager shots at once.
 
 ## [23] Tripple Threat
 - Weapon Type: Mangler + BR75 Breacher
@@ -436,12 +437,12 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 1.50
   - Movement Speed With Turret: 1.55
   - VFX - Active Camouflage
-		- Intensity Scalar: 0.70
-		- Interpolation Scalar: 1.00
-- Trait Set (while zoomed): 34_2 
-	- VFX - Active Camouflage
-		- Intensity Scalar: 1.00
-		- Interpolation Scalar: 0.20
+    - Intensity Scalar: 0.70
+    - Interpolation Scalar: 1.00
+- Trait Set (while zoomed): 34_2
+  - VFX - Active Camouflage
+    - Intensity Scalar: 1.00
+    - Interpolation Scalar: 0.20
 - Config: Combo
 - Ammo Adjustment: -75
   - 75%
@@ -473,8 +474,8 @@ The configurations that make up each of the custom weapons.
     - Intensity Scalar: 1.00
     - Interpolation Scalar: 1.00
   - Sprint Speed
-		- Top Speed Scalar: 1.13
-		- Time To Top Speed Scalar: 0.90
+    - Top Speed Scalar: 1.13
+    - Time To Top Speed Scalar: 0.90
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -949,10 +950,10 @@ Official weapon configs:
 - REQ Tier: 6
 - Game State: 5
 
-## [107] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
-- REQ Tier: -
-- Game State: -
+## [107] Mutilator
+- Weapon Type: Mutilator
+- REQ Tier: 4
+- Game State: 3
 
 ## [108] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade

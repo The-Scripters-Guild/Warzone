@@ -194,3 +194,11 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 
 - Added listing of players still joining into a match, and excluded them from any player execution scripts that need to track only valid players.
 - Removed debug location teleport; still kept debugCounter logic.
+
+### 0.12.0
+
+- Added Mutilator
+- Added Mutilator variant: [22] Myriad Arm
+- Updated mislabeled Fuel Rod weapon types due to update breaking them
+- Removed Ability Boost: [7] Loadout Ammo
+- Added Ability Boost: [7] Spy
