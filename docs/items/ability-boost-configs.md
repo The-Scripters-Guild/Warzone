@@ -123,21 +123,13 @@ The configurations that make up each of the ability boosts.
 - Game State: 3
 - Notes: -
 
-## [7] Loadout Ammo
-- Game State: 2
-- Notes: Gives the maximum amount of ammo for any equipped loadout weapons at the time of equip. The list of affected weapon types is:
-  - MA40 Assault Rifle (36/108 -> 36/216)
-  - Mk50 Sidekick (12/36 -> 12/72)
-  - Bandit Evo (15/45 -> 15/60)
-  - M392 Bandit (15/30 -> 15/45)
-  - BR75 (36/108 -> 36/216)
-  - VK78 Commando (20/60 -> 20/120)
-  - MA5K Avenger (60/180 -> 60/300)
-  - Mk50 Sidekick + MA40 Longshot (25/75 -> 25/150)
-  - MA40 Assault Rifle + Arcane Sentinel Beam (80/80 -> 80/240)
-  - BR75 + Arcane Sentinel Beam (80/80 -> 80/240)
-  - VK78 Commando Rifle + Arcane Sentinel Beam (80/80 -> 80/240)
-
+## [7] Spy
+- Trait: VFX - Active Camouflage
+  - Intensity Scalar: 0.50
+  - Interpolation Scalar: 1.00
+- Game State: 4
+- Notes: Removes outline and name from player; 50% passive camo that takes a second to reactivate if the player starts running or fires their weapon.
+- 
 ## [8] Frag Grenade Operator
 - Game State: 2
 - Notes: Sets the player's Frag Grenade count to 4 and removes all other Grenades.
