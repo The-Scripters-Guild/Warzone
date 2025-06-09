@@ -56,7 +56,7 @@ Vehicle configuration reference.
 ## [7] Scorpion
 - Vehicle Type: Scorpion
 - Object Variable: Scorpion
-- REQ Tier: 8
+- REQ Tier: 9
 - Game State: 6
 - Notes: -
 
