@@ -994,3 +994,60 @@ Official weapon configs:
 - Weapon Type: Sandwich
 - REQ Tier: -
 - Game State: -
+
+## [116] Unallocated
+- Weapon Type: BR75 + Elite Bloodblade
+- REQ Tier: -
+- Game State: -
+
+## [117] Unallocated
+- Weapon Type: BR75 + Elite Bloodblade
+- REQ Tier: -
+- Game State: -
+
+## [118] Unallocated
+- Weapon Type: BR75 + Elite Bloodblade
+- REQ Tier: -
+- Game State: -
+
+## [119] Rocket Hog Weapon
+- Weapon Type: Rocket Hog Weapon
+- REQ Tier: -
+- Game State: -
+- Notes: Used as a custom vehicle weapon; not intended for players.
+
+## [120] Wasp Weapon
+- Weapon Type: Wasp Weapon
+- REQ Tier: -
+- Game State: -
+- Notes: Used as a custom vehicle weapon; not intended for players.
+
+## [121] Rocket Hog Weapon + Backdraft Cindershot
+- Weapon Type: Rocket Hog Weapon + Backdraft Cindershot
+- REQ Tier: -
+- Game State: -
+- Notes: Used as a custom vehicle weapon; not intended for players.
+
+## [122] Rocket Hog Weapon + Rapidfire Pulse Carbine
+- Weapon Type: Rocket Hog Weapon + Rapidfire Pulse Carbine
+- REQ Tier: -
+- Game State: -
+- Notes: Used as a custom vehicle weapon; not intended for players.
+
+## [123] Rocket Hog Weapon + Ravager Rebound
+- Weapon Type: Rocket Hog Weapon + Ravager Rebound
+- REQ Tier: -
+- Game State: -
+- Notes: Used as a custom vehicle weapon; not intended for players.
+
+## [124] Rocket Hog Weapon + Unbound Plasma Pistol
+- Weapon Type: Rocket Hog Weapon + Unbound Plasma Pistol
+- REQ Tier: -
+- Game State: -
+- Notes: Used as a custom vehicle weapon; not intended for players.
+
+## [125] Wasp Weapon + Scatterbound Heatwave
+- Weapon Type: Wasp Weapon + Scatterbound Heatwave
+- REQ Tier: -
+- Game State: -
+- Notes: Used as a custom vehicle weapon; not intended for players.
