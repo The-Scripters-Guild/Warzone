@@ -221,3 +221,12 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
   - [125] Wasp Weapon + Scatterbound Heatwave
 - Added UI message names for all vehicles
 - Added UI message names for all remaining weapons
+
+### 0.14.0
+
+- Fixed powerup timers so that applying multiple powerups don't overlap, and their timer can be extended if the same powerup is activated whilist it's already active.
+- Added lists for weapon, equipment, ability boost, and vehicle REQ and Game State values.
+- Turned off weapon name splash as it was getting annoying.
+- Extended weaponGrantActive bool duration from 0.4 to 0.6 s to try and avoid accidental firing issues in high latency matches with projectile weapons that need an instant reload such as the Banish Off Balaho.
+- Removed custom preventEquipmentUsage logic as it's redundant.
+- Renamed DummyObject events to be more readable.
