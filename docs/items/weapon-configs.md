@@ -285,6 +285,7 @@ The configurations that make up each of the custom weapons.
 ## [22] Myriad Arm
 - Weapon Type: Mutilator + Rebound Ravager
 - Trait Set: 22
+  - Weapon damage: 1.40
 - Config: Combo
 - Ammo Adjustment: 50
   - 2+8

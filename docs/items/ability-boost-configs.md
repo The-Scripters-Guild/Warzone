@@ -129,7 +129,7 @@ The configurations that make up each of the ability boosts.
   - Interpolation Scalar: 1.00
 - Game State: 4
 - Notes: Removes outline and name from player; 50% passive camo that takes a second to reactivate if the player starts running or fires their weapon.
-- 
+
 ## [8] Frag Grenade Operator
 - Game State: 2
 - Notes: Sets the player's Frag Grenade count to 4 and removes all other Grenades.
