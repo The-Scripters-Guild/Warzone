@@ -98,8 +98,8 @@ Vehicle configuration reference.
 ## [13] Extermination Gungoose
 - Vehicle Type: Mongoose
 - Object Variable: Mongoose
-- REQ Tier: 4
-- Game State: 3
+- REQ Tier: 6
+- Game State: 5
 - Notes: Uses a custom vehicle weapon: [125] Wasp Weapon + Scatterbound Heatwave.
 
 ## [14] Fusion Rocket Hog
