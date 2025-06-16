@@ -230,3 +230,10 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Extended weaponGrantActive bool duration from 0.4 to 0.6 s to try and avoid accidental firing issues in high latency matches with projectile weapons that need an instant reload such as the Banish Off Balaho.
 - Removed custom preventEquipmentUsage logic as it's redundant.
 - Renamed DummyObject events to be more readable.
+
+### 0.14.1
+
+- Fixed custom soft kill freezing when players were joining in progress.
+  - Replaced playersJoining list with joinedPlayers, so reverse logic. JOIP players were still being caught by Get All Players otherwise, and freezing the thread.
+- Added everyNTicks loop.
+- Made checkHeldWeapon loop be every 2 ticks instead of 1 to see if it's the main impact for low tick rate in 15+ player matches.
