@@ -32,7 +32,7 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.5.0
 
-- Changed base mode from Minigame to Minigame BTB in order to force a 30 tick rate due to facing performance concerns. The tickrate near the end of a match with a fully lobby seems to drop to around 20, so keeping a low tick rate to begin with should lessen the visual impact of a dropped tick rate.
+- Changed base mode from Minigame to Minigame BTB in order to force a 30 tick rate due to facing performance concerns. The tickrate near the end of a match with a full lobby seems to drop to around 20, so keeping a low tick rate to begin with should lessen the visual impact of a dropped tick rate.
 
 ### 0.5.1
 
@@ -65,6 +65,16 @@ Current state: Mode working fully, with some notable missing features:
 - Updated warzone-sandbox to 0.11.6.
 - Attempted fix at custom soft kill player join in progress issue.
 - Excluded players joining in progress from any player execution scripts that need to track only valid players.
+
+### 0.6.1
+
+- Updated warzone-sandbox to 0.14.0
+- Renamed DummyObject events to be more readable
+
+### 0.6.2
+
+- Updated warzone-sandbox to 0.14.1
+- Fixed custom soft kill player join in progress issue.
 
 ## tsg warzone-sandbox library
 
