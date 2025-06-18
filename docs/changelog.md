@@ -68,13 +68,28 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.6.1
 
-- Updated warzone-sandbox to 0.14.0
-- Renamed DummyObject events to be more readable
+- Updated warzone-sandbox to 0.14.0.
+- Renamed DummyObject events to be more readable.
 
 ### 0.6.2
 
-- Updated warzone-sandbox to 0.14.1
+- Updated warzone-sandbox to 0.14.1.
 - Fixed custom soft kill player join in progress issue.
+
+### 0.6.3
+
+- Updated warzone-sandbox to 0.14.2.
+- Fixed an issue that made the tick rate drop to 15 due to a continuous event looping too large of a list.
+- Changed base mode to Arena to utilize a 60 tick dedicated server.
+- Fixed an issue where players would be frozen at Gameplay Start due to a large event loop running.
+
+### 0.6.4
+
+- Updated warzone-sandbox to 0.14.3.
+- Added Marines spawning in base when the core is exposed.
+- Fixed non-human AI stragglers in Armory or Fortress not dying if it was captured when they were still alive.
+- Removed zone capture number debug.
+- Added Generic Zones for bases (on-level script).
 
 ## tsg warzone-sandbox library
 
@@ -247,3 +262,13 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
   - Replaced playersJoining list with joinedPlayers, so reverse logic. JOIP players were still being caught by Get All Players otherwise, and freezing the thread.
 - Added everyNTicks loop.
 - Made checkHeldWeapon loop be every 2 ticks instead of 1 to see if it's the main impact for low tick rate in 15+ player matches.
+
+### 0.14.2
+
+- Fixed issue causing joinedPlayers list to combine with a list of AI units
+- Fixed Agoat rocket impulse not being applied correctly
+- Extermination Gungoose REQ 6 -> 5
+
+### 0.14.3
+
+- Changed checkHeldWeapon loop from every two ticks to every three ticks to keep a full lobby at a 60 tick rate.
