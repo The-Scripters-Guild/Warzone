@@ -91,6 +91,22 @@ Current state: Mode working fully, with some notable missing features:
 - Removed zone capture number debug.
 - Added Generic Zones for bases (on-level script).
 
+### 0.6.5
+
+- Updated warzone-sandbox to 0.14.5.
+- Updated core mode to BTB, 30 tick.
+
+### 0.6.6
+
+- Updated warzone-sandbox to 0.14.6.
+
+### 0.6.7
+
+- Force kill Marines in home Base 10 seconds after an exposed core is covered to save on AI count.
+- Made any AI that drop the AI variant of the [37] Spike Off Thav 'Sebarim be granted it back to them so they don't use the wrong guns and fire the spike projectile.
+  - Same can't be done for the Fuel Rod Grunt's weapon, as if they go in the Plasma Grenade Grunt Hug mode and drop their weapon, it can't be granted back to them with the same logic. The Fuel Rod Grunts don't seem to pick up other weapons luckily.
+- Added a feature for players stuck inside enemy bases to escape by getting close to the inside of the shield doors.
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
@@ -265,10 +281,22 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 
 ### 0.14.2
 
-- Fixed issue causing joinedPlayers list to combine with a list of AI units
-- Fixed Agoat rocket impulse not being applied correctly
-- Extermination Gungoose REQ 6 -> 5
+- Fixed issue causing joinedPlayers list to combine with a list of AI units.
+- Fixed Agoat rocket impulse not being applied correctly.
+- Extermination Gungoose REQ 6 -> 5.
 
 ### 0.14.3
 
 - Changed checkHeldWeapon loop from every two ticks to every three ticks to keep a full lobby at a 60 tick rate.
+
+### 0.14.4
+
+- Added new weapon [50] SCorpion Tail + Backdraft Cindershot.
+
+### 0.14.5
+
+- Added name "Fusion Off Legkolo" for [50] weapon.
+
+### 0.14.6
+
+- Added separate checkHeldWeapon loop for only projectile weapons that runs every tick; disconnected from the normal loop that runs every 3 ticks.
