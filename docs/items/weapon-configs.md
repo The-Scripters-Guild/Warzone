@@ -660,14 +660,17 @@ The configurations that make up each of the custom weapons.
 - Game State: 6
 - Notes: Damage output based off of secondary fire strength; primary fire is not as effective.
 
-## [50] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [50] Fusion Off Legkolo
+- Weapon Type: Scorpion Tail + Backdraft Cindershot
 - Trait Set: 50
-- Config: Default
-- Ammo Adjustment: None
-- REQ Tier: -
-- Game State: -
-- Notes: -
+  - Weapon Damage: 3.00
+- VFX: Infected Beta
+- Config: Combo
+- Ammo Adjustment: -10.50
+  - 10% (16 shots)
+- REQ Tier: 9
+- Game State: 6
+- Notes: Cindershot projectiles track enemies within red-reticle range. Ability to zoom while stationary.
 
 Official weapon configs:
 
