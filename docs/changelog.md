@@ -107,6 +107,10 @@ Current state: Mode working fully, with some notable missing features:
   - Same can't be done for the Fuel Rod Grunt's weapon, as if they go in the Plasma Grenade Grunt Hug mode and drop their weapon, it can't be granted back to them with the same logic. The Fuel Rod Grunts don't seem to pick up other weapons luckily.
 - Added a feature for players stuck inside enemy bases to escape by getting close to the inside of the shield doors.
 
+### 0.6.8
+
+- Updated warzone-sandbox to 0.14.7
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
@@ -300,3 +304,8 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 ### 0.14.6
 
 - Added separate checkHeldWeapon loop for only projectile weapons that runs every tick; disconnected from the normal loop that runs every 3 ticks.
+
+### 0.14.7
+
+- Added Infected Beta VFX For [50] Fusion Off Legkolo
+- Changed Rockethog Tier from 5 to 4.
