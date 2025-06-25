@@ -49,8 +49,8 @@ Vehicle configuration reference.
 ## [6] Rockethog
 - Vehicle Type: Rockethog
 - Object Variable: Rockethog
-- REQ Tier: 5
-- Game State: 4
+- REQ Tier: 4
+- Game State: 5
 - Notes: -
 
 ## [7] Scorpion
@@ -98,8 +98,8 @@ Vehicle configuration reference.
 ## [13] Extermination Gungoose
 - Vehicle Type: Mongoose
 - Object Variable: Mongoose
-- REQ Tier: 6
-- Game State: 5
+- REQ Tier: 5
+- Game State: 4
 - Notes: Uses a custom vehicle weapon: [125] Wasp Weapon + Scatterbound Heatwave.
 
 ## [14] Fusion Rocket Hog
