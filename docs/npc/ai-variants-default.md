@@ -3,7 +3,7 @@
 Documentation of all the default AI variants.
 
 <!--
-## [#] AI Name
+## AI Name
 ![AI preview](../../assets/ai-01.jpg)
 - Primary Weapon Type: #
 - Secondary Weapon Type: #
@@ -27,7 +27,7 @@ Documentation of all the default AI variants.
 -->
 
 
-## [1] Grunt Conscript, Yellow
+## Grunt Conscript, Yellow
 
 ![AI preview](../../assets/ai-04.jpg)
 - Primary Weapon Type: Plasma Pistol
@@ -50,7 +50,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
-## [2] Grunt Conscript, Blue
+## Grunt Conscript, Blue
 
 ![AI preview](../../assets/ai-03.jpg)
 - Primary Weapon Type: Needler
@@ -73,7 +73,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
-## [3] Grunt Assault, Purple
+## Grunt Assault, Purple
 
 ![AI preview](../../assets/ai-01.jpg)
 - Primary Weapon Type: Needler
@@ -96,7 +96,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
-## [4] Grunt Assault, Red
+## Grunt Assault, Red
 
 ![AI preview](../../assets/ai-02.jpg)
 - Primary Weapon Type: Plasma Pistol
@@ -119,7 +119,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
-## [5] Grunt Ultra
+## Grunt Ultra
 
 ![AI preview](../../assets/ai-05.jpg)
 - Primary Weapon Type: Disruptor
@@ -142,7 +142,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: -
 
-## [6] Boss Briglard
+## Boss Briglard
 
 ![AI preview](../../assets/ai-07.jpg)
 - Primary Weapon Type: Unbound Plasma Pistol
@@ -165,7 +165,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: Has a Ravager, CQS48 Bulldog and Shock Rifle on its back that can be picked up even when the AI is alive.
 
-## [7] Boss Bipbap
+## Boss Bipbap
 
 ![AI preview](../../assets/ai-06.jpg)
 - Primary Weapon Type: Calcine Disruptor
@@ -188,7 +188,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret
 - Notes: Only Grunt with a shield value.
 
-## [8] Jackal Freebooter
+## Jackal Freebooter
 
 ![AI preview](../../assets/ai-08.jpg)
 - Primary Weapon Type: Plasma Pistol
@@ -211,7 +211,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has a blue shield object in one hand that is separate from the AI health and shield values.
 
-## [9] Jackal Raider
+## Jackal Raider
 
 ![AI preview](../../assets/ai-09.jpg)
 - Primary Weapon Type: Needler
@@ -234,7 +234,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has a yellow shield object in one hand that is separate from the AI health and shield values and can absorb bullets.
 
-## [10] Jackal Sniper
+## Jackal Sniper
 
 ![AI preview](../../assets/ai-11.jpg)
 - Primary Weapon Type: Stalker Rifle
@@ -257,7 +257,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: -
 
-## [11] Jackal Skirmisher
+## Jackal Skirmisher
 
 ![AI preview](../../assets/ai-10.jpg)
 - Primary Weapon Type: Needler
@@ -280,7 +280,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has blue shields on its arms that are separate from the AI health and shield values and can absorb bullets.
 
-## [12] Boss Barroth
+## Boss Barroth
 
 ![AI preview](../../assets/ai-12.jpg)
 - Primary Weapon Type: Stalker Rifle Ultra
@@ -303,7 +303,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: -
 
-## [13] Boss Writh Kul
+## Boss Writh Kul
 
 ![AI preview](../../assets/ai-13.jpg)
 - Primary Weapon Type: Pinpoint Needler
@@ -326,7 +326,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has blue shields on its arms that are separate from the AI health and shield values and can absorb bullets.
 
-## [14] Skimmer
+## Skimmer
 
 ![AI preview](../../assets/ai-14.jpg)
 - Primary Weapon Type: Shock Rifle
@@ -349,7 +349,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: -
 
-## [15] Skimmer Loyalist
+## Skimmer Loyalist
 
 ![AI preview](../../assets/ai-15.jpg)
 - Primary Weapon Type: VK78 Commando Rifle
@@ -372,7 +372,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: -
 
-## [16] Skimmer Ultra
+## Skimmer Ultra
 
 ![AI preview](../../assets/ai-16.jpg)
 - Primary Weapon Type: M41 SPNKr
@@ -395,7 +395,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: -
 
-## [17] Boss Skimmer Alpha
+## Boss Skimmer Alpha
 
 ![AI preview](../../assets/ai-17.jpg)
 - Primary Weapon Type: Purging Shock Rifle
@@ -418,7 +418,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: -
 
-## [18] Marine Survivor
+## Marine Survivor
 
 ![AI preview](../../assets/ai-23.jpg)
 - Primary Weapon Type: Mk50 Sidekick
@@ -441,7 +441,7 @@ Documentation of all the default AI variants.
   - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: Has multiple different models.
 
-## [19] Marine Assault
+## Marine Assault
 
 ![AI preview](../../assets/ai-18.jpg)
 - Primary Weapon Type: MA40 Assault Rifle
@@ -464,7 +464,7 @@ Documentation of all the default AI variants.
   - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: -
 
-## [20] Marine Scout
+## Marine Scout
 
 ![AI preview](../../assets/ai-21.jpg)
 - Primary Weapon Type: BR75
@@ -487,7 +487,7 @@ Documentation of all the default AI variants.
   - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: -
 
-## [21] Marine Sniper
+## Marine Sniper
 
 ![AI preview](../../assets/ai-22.jpg)
 - Primary Weapon Type: S7 Sniper Rifle
@@ -510,7 +510,7 @@ Documentation of all the default AI variants.
   - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: -
 
-## [22] Marine Heavy
+## Marine Heavy
 
 ![AI preview](../../assets/ai-20.jpg)
 - Primary Weapon Type: CQS48 Bulldog
@@ -533,7 +533,7 @@ Documentation of all the default AI variants.
   - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: -
 
-## [23] Marine Demolition
+## Marine Demolition
 
 ![AI preview](../../assets/ai-19.jpg)
 - Primary Weapon Type: M41 SPNKr
@@ -556,7 +556,7 @@ Documentation of all the default AI variants.
   - Gunner: Gauss Hog, M247 HMG Turret, Plasma Cannon Turret, Rocket Hog, Shade Turret, Scorpion, Scrap Cannon Turret, Warthog, Wraith
 - Notes: -
 
-## [24] Elite Mercenary
+## Elite Mercenary
 
 ![AI preview](../../assets/ai-25.jpg)
 - Primary Weapon Type: Pulse Carbine
@@ -579,7 +579,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target.
 
-## [25] Elite Enforcer
+## Elite Enforcer
 
 ![AI preview](../../assets/ai-24.jpg)
 - Primary Weapon Type: Pulse Carbine
@@ -602,7 +602,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target.
 
-## [26] Elite Spec Ops
+## Elite Spec Ops
 
 ![AI preview](../../assets/ai-26.jpg)
 - Primary Weapon Type: Energy Sword
@@ -625,7 +625,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [27] Elite Ultra
+## Elite Ultra
 
 ![AI preview](../../assets/ai-28.jpg)
 - Primary Weapon Type: Heatwave
@@ -648,7 +648,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [28] Elite Warlord
+## Elite Warlord
 
 ![AI preview](../../assets/ai-27.jpg)
 - Primary Weapon Type: Ravager
@@ -671,7 +671,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [29] Boss Okro 'Vagaduun
+## Boss Okro 'Vagaduun
 
 ![AI preview](../../assets/ai-30.jpg)
 - Primary Weapon Type: Duelist Energy Sword
@@ -694,7 +694,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [30] Boss Inka 'Saham
+## Boss Inka 'Saham
 
 ![AI preview](../../assets/ai-32.jpg)
 - Primary Weapon Type: Rapidfire Pulse Carbine
@@ -717,7 +717,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [31] Boss Ordo 'Mal
+## Boss Ordo 'Mal
 
 ![AI preview](../../assets/ai-31.jpg)
 - Primary Weapon Type: Scatterbound Heatwave
@@ -740,7 +740,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [32] Boss Thav 'Sebarim
+## Boss Thav 'Sebarim
 
 ![AI preview](../../assets/ai-33.jpg)
 - Primary Weapon Type: Arcane Sentinel Beam
@@ -763,7 +763,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [33] Boss Chak 'Lok
+## Boss Chak 'Lok
 
 ![AI preview](../../assets/ai-29.jpg)
 - Primary Weapon Type: Pulse Carbine
@@ -786,7 +786,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [34] Boss Jega 'Rdomnai
+## Boss Jega 'Rdomnai
 
 ![AI preview](../../assets/ai-34.jpg)
 - Primary Weapon Type: Elite Bloodblade
@@ -809,7 +809,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
-## [35] Hunter
+## Hunter
 
 ![AI preview](../../assets/ai-35.jpg)
 - Primary Weapon Type: Hunter Primary
@@ -832,7 +832,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: -
 
-## [36] Hunter, Banished
+## Hunter, Banished
 
 ![AI preview](../../assets/ai-36.jpg)
 - Primary Weapon Type: Banished Hunter Primary
@@ -855,7 +855,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: -
 
-## [37] Boss Myriad
+## Boss Myriad
 
 ![AI preview](../../assets/ai-37.jpg)
 - Primary Weapon Type: Banished Hunter Primary
@@ -878,7 +878,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: -
 
-## [38] Brute Minor
+## Brute Minor
 
 ![AI preview](../../assets/ai-38.jpg)
 - Primary Weapon Type: Mangler
@@ -901,7 +901,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [39] Brute Sniper
+## Brute Sniper
 
 ![AI preview](../../assets/ai-45.jpg)
 - Primary Weapon Type: Skewer
@@ -924,7 +924,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [40] Brute Sniper, Heavy
+## Brute Sniper, Heavy
 
 ![AI preview](../../assets/ai-46.jpg)
 - Primary Weapon Type: Shock Rifle
@@ -947,7 +947,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [41] Brute Commando
+## Brute Commando
 
 ![AI preview](../../assets/ai-41.jpg)
 - Primary Weapon Type: VK78 Commando Rifle
@@ -970,7 +970,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [42] Brute Commando, Chosen
+## Brute Commando, Chosen
 
 ![AI preview](../../assets/ai-42.jpg)
 - Primary Weapon Type: CQS48 Bulldog
@@ -993,7 +993,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [43] Brute Warrior
+## Brute Warrior
 
 ![AI preview](../../assets/ai-43.jpg)
 - Primary Weapon Type: CQS48 Bulldog
@@ -1016,7 +1016,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [44] Brute Warrior, Chosen
+## Brute Warrior, Chosen
 
 ![AI preview](../../assets/ai-44.jpg)
 - Primary Weapon Type: CQS48 Bulldog
@@ -1039,7 +1039,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom,   Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [45] Brute Berserker
+## Brute Berserker
 
 ![AI preview](../../assets/ai-39.jpg)
 - Primary Weapon Type: Brute Fists
@@ -1062,7 +1062,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [46] Brute Berserker, Chosen
+## Brute Berserker, Chosen
 
 ![AI preview](../../assets/ai-40.jpg)
 - Primary Weapon Type: Brute Fists
@@ -1085,7 +1085,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [47] Brute Captain
+## Brute Captain
 
 ![AI preview](../../assets/ai-48.jpg)
 - Primary Weapon Type: Ravager
@@ -1108,7 +1108,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [48] Brute Captain, Chosen
+## Brute Captain, Chosen
 
 ![AI preview](../../assets/ai-49.jpg)
 - Primary Weapon Type: MLRS-2 Hydra
@@ -1131,7 +1131,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [49] Brute Warlord
+## Brute Warlord
 
 ![AI preview](../../assets/ai-47.jpg)
 - Primary Weapon Type: Heatwave
@@ -1154,7 +1154,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [50] Brute Chieftain
+## Brute Chieftain
 
 ![AI preview](../../assets/ai-50.jpg)
 - Primary Weapon Type: Gravity Hammer
@@ -1177,7 +1177,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Their melee attack deals an EMP shock to nearby vehicles. Can not wield any other weapon than their default.
 
-## [51] Brute Chieftain, Chosen
+## Brute Chieftain, Chosen
 
 ![AI preview](../../assets/ai-51.jpg)
 - Primary Weapon Type: Gravity Hammer
@@ -1200,7 +1200,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Their melee attack deals an EMP shock to nearby vehicles. Can not wield any other weapon than their default.
 
-## [52] Brute Chieftain Turret
+## Brute Chieftain Turret
 
 ![AI preview](../../assets/ai-52.jpg)
 - Primary Weapon Type: Plasma Cannon
@@ -1223,7 +1223,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Can not wield any other weapon than their default.
 
-## [53] Brute Chieftain Turret, Chosen
+## Brute Chieftain Turret, Chosen
 
 ![AI preview](../../assets/ai-53.jpg)
 - Primary Weapon Type: Brute Scrap Cannon (Scrap Cannon variant)
@@ -1246,7 +1246,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Can not wield any other weapon than their default. Drops a regular Scrap Cannon on death.
 
-## [54] Boss Arthoc
+## Boss Arthoc
 
 ![AI preview](../../assets/ai-54.jpg)
 - Primary Weapon Type: Ravager Rebound
@@ -1269,7 +1269,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [55] Boss Balkarus
+## Boss Balkarus
 
 ![AI preview](../../assets/ai-55.jpg)
 - Primary Weapon Type: Plasma Cannon
@@ -1292,7 +1292,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [56] Boss Zeretus
+## Boss Zeretus
 
 ![AI preview](../../assets/ai-59.jpg)
 - Primary Weapon Type: M41 Tracker
@@ -1315,7 +1315,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [57] Boss Ik'novus
+## Boss Ik'novus
 
 ![AI preview](../../assets/ai-58.jpg)
 - Primary Weapon Type: Brute Scrap Cannon (Scrap Cannon variant)
@@ -1338,7 +1338,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [58] Boss En'geddon
+## Boss En'geddon
 
 ![AI preview](../../assets/ai-57.jpg)
 - Primary Weapon Type: Rushdown Hammer
@@ -1361,7 +1361,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
-## [59] Boss Tremonius
+## Boss Tremonius
 
 ![AI preview](../../assets/ai-62.jpg)
 - Primary Weapon Type: MLRS-2 Hydra
@@ -1384,7 +1384,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [60] Boss Hyperius
+## Boss Hyperius
 
 ![AI preview](../../assets/ai-61.jpg)
 - Primary Weapon Type: Ravager
@@ -1407,7 +1407,7 @@ Documentation of all the default AI variants.
   - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [61] Boss Tovarus
+## Boss Tovarus
 
 ![AI preview](../../assets/ai-60.jpg)
 - Primary Weapon Type: Brute Scrap Cannon (Scrap Cannon variant)
@@ -1430,7 +1430,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
 
-## [62] Boss Bassus
+## Boss Bassus
 
 ![AI preview](../../assets/ai-56.jpg)
 - Primary Weapon Type: Gravity Hammer
@@ -1453,7 +1453,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Their melee attack deals an EMP shock to nearby vehicles. Can not wield any other weapon than their default.
 
-## [63] Boss Escharum
+## Boss Escharum
 
 ![AI preview](../../assets/ai-63.jpg)
 - Primary Weapon Type: Brute Scrap Cannon (Scrap Cannon variant)
@@ -1476,7 +1476,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a red bubble shield that needs to be destroyed 5 times before he swaps to the Diminisher of Hope and doesn't gain back the shield anymore.
 
-## [64] Boss Adjutant Resolution, Silver
+## Boss Adjutant Resolution, Silver
 
 ![AI preview](../../assets/ai-64.jpg)
 - Primary Weapon Type: Silver Sentry Primary (Pulse Carbine variant)
@@ -1500,7 +1500,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has different stages of offense. The outer arms must be shot out before being able to kill it.
 
-## [65] Boss Adjutant Resolution, Gold
+## Boss Adjutant Resolution, Gold
 
 ![AI preview](../../assets/ai-65.jpg)
 - Primary Weapon Type: Gold Sentry Primary (Scrap Cannon variant)
@@ -1524,7 +1524,7 @@ Documentation of all the default AI variants.
   - Gunner: -
 - Notes: Has different stages of offense. The outer arms must be shot out before being able to kill it.
 
-## [66] Boss Harbinger
+## Boss Harbinger
 
 ![AI preview](../../assets/ai-66.jpg)
 - Primary Weapon Type: Harbinger Primary (Unique)
