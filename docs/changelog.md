@@ -309,3 +309,7 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 
 - Added Infected Beta VFX For [50] Fusion Off Legkolo
 - Changed Rockethog Tier from 5 to 4.
+
+### 0.14.8
+
+- Made vehicle granting logic not require a unit to enter the vehicle to grant a custom weapon.
