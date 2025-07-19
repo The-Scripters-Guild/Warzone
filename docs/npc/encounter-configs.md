@@ -117,7 +117,7 @@ The configurations of AI that make up each of the AI encounters.
 
 ## [12] Elite Encounter, Mythic
 
-- Chak 'Lok (Boss)
+- Boss Chak 'Lok (Boss)
 - Elite Warlord
 - Elite Warlord
 - Elite Warlord

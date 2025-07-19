@@ -298,7 +298,7 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
     - Direct Damage Scalar: 2.50
     - Grenade Damage Scalar: 0.40
     - Explosive Damage Scalar: 0.40
-- Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
+- Notes: Is a Boss and has a health bar. Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
 
 ## [26] Boss Hyperius
 
