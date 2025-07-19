@@ -116,9 +116,17 @@ The configurations of AI that make up each of the AI encounters.
 - Brute Warlord
 - Brute Warlord
 
-## [12] Unallocated
+## [12] Elite Encounter, Mythic
 
-- AI Name
+- Chak 'Lok (Boss)
+- Elite Warlord
+- Elite Warlord
+- Elite Warlord
+- Elite Ultra
+- Elite Ultra
+- Elite Ultra
+- Grunt Ultra
+- Grunt Ultra
 
 ## [13] Unallocated
 

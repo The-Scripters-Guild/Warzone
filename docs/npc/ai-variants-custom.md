@@ -286,6 +286,20 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
     - Explosive Damage Scalar: 0.50
 - Notes: Is a Boss and has a health bar. Teleports around during combat. Has four stages of dealing damage to their shield, and then their health, before dying.
 
+## [25] Boss Chak 'Lok
+
+![AI preview](../../assets/ai-29.jpg)
+- Primary Weapon Type: MLRS-2 Hydra + Unbound Plasma Pistol ([48] Headhunter)
+- Secondary Weapon Type: Elite Bloodblade
+- Grenade Type: Plasma Grenade
+- Trait Set: BossChakLok
+  - Weapon Damage: 2.00
+  - Damage Resistance
+    - Direct Damage Scalar: 2.50
+    - Grenade Damage Scalar: 0.40
+    - Explosive Damage Scalar: 0.40
+- Notes: Activates shield only after engaging a target. Has an Active Camouflage equipment that they may use during an engagement.
+
 ## Acknowledgements
 
 Major research credit to cr0n14 (discord) for their [halo_infinite_unit_stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vTZqdsTmPgdPCZT5IYoqvJrqbmKBLXzecmx3YP_aIejHypTw-Cxgwg9uwr_I7sImhhYVQq-agEt7xZO/pubhtml#) spreadsheet!
