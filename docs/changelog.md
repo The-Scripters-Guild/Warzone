@@ -111,6 +111,15 @@ Current state: Mode working fully, with some notable missing features:
 
 - Updated warzone-sandbox to 0.14.7
 
+### 0.6.9
+
+- Updated warzone-sandbox to 0.14.8
+- Added two new AI: [25] Boss Chak 'Lok & [26] Boss Hyperius
+- Added new AI Encounter: [12] Elite Encounter, Mythic.
+- Adjusted AI: [16] Brute Berserker, Chosen.
+- Adjusted AI Encounter: [7] Brute 2 Encounter, Legendary.
+- Added REQ scoring for capturing a zone (currently on-level).
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
