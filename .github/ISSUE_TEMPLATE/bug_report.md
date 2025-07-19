@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: ''
 assignees: ''
 
 ---
@@ -13,8 +13,8 @@ Explain what the issue is.
 
 ### Version
 
-Mode: x.x.x
-Map: x
+Mode: Version x.x.x
+Map: Map name, Version x
 Leafapp Match ID: (if relevant, from https://leafapp.co)
 
 ### Reproduction steps
