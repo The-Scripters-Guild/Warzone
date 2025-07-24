@@ -192,8 +192,8 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 - Trait Set: BruteBerserkerChosen
   - Weapon Damage: 3.00
   - Damage Resistance
-    - Direct Damage Scalar: 2.50
-    - Grenade Damage Scalar: 0.40
+    - Direct Damage Scalar: 3.00
+    - Grenade Damage Scalar: 0.33
     - Explosive Damage Scalar: 5.00
 - Notes: Is a Boss and has a health bar. Moves very fast and can one-hit melee a Spartan.
 
@@ -309,7 +309,7 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 - Trait Set: BossHyperius
   - Weapon Damage: 3.00
   - Damage Resistance
-    - Direct Damage Scalar: 3.00
+    - Direct Damage Scalar: 2.00
     - Grenade Damage Scalar: 1.65
     - Explosive Damage Scalar: 1.65
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
