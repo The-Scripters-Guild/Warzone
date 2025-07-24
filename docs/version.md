@@ -4,7 +4,7 @@ Current version of Warzone and relevant scripting libraries.
 
 ## Warzone
 
-0.6.9 (2025-07-19)
+0.6.10 (2025-07-25)
 
 ## warzone-sandbox
 
