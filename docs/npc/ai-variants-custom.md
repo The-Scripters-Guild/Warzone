@@ -293,7 +293,7 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 - Secondary Weapon Type: Elite Bloodblade
 - Grenade Type: Plasma Grenade
 - Trait Set: BossChakLok
-  - Weapon Damage: 2.00
+  - Weapon Damage: 1.20
   - Damage Resistance
     - Direct Damage Scalar: 2.50
     - Grenade Damage Scalar: 0.40
