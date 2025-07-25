@@ -999,8 +999,8 @@ Official weapon configs:
 - REQ Tier: -
 - Game State: -
 
-## [116] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [116] Brute Scrap Cannon
+- Weapon Type: Brute Scrap Cannon
 - REQ Tier: -
 - Game State: -
 
