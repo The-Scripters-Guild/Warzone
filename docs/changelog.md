@@ -120,6 +120,15 @@ Current state: Mode working fully, with some notable missing features:
 - Adjusted AI Encounter: [7] Brute 2 Encounter, Legendary.
 - Added REQ scoring for capturing a zone (currently on-level).
 
+### 0.6.10
+
+- Adjusted resistance values of Hyperius and Berserker Brute, Chosen.
+- Decreased Chak 'Lok weapon damage.
+
+### 0.6.11
+
+- Adjusted resistance and weapon damage values of Hyperius and Berserker Brute, Chosen.
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
