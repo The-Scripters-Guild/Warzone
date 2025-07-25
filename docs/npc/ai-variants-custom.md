@@ -190,11 +190,11 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 - Primary Weapon Type: Brute Fists
 - Secondary Weapon Type: -
 - Trait Set: BruteBerserkerChosen
-  - Weapon Damage: 3.00
+  - Weapon Damage: 1.50
   - Damage Resistance
-    - Direct Damage Scalar: 3.00
-    - Grenade Damage Scalar: 0.33
-    - Explosive Damage Scalar: 5.00
+    - Direct Damage Scalar: 4.30
+    - Grenade Damage Scalar: 0.2325
+    - Explosive Damage Scalar: 0.2325
 - Notes: Is a Boss and has a health bar. Moves very fast and can one-hit melee a Spartan.
 
 ## [17] Brute Warrior
@@ -310,6 +310,6 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
   - Weapon Damage: 3.00
   - Damage Resistance
     - Direct Damage Scalar: 2.00
-    - Grenade Damage Scalar: 1.65
-    - Explosive Damage Scalar: 1.65
-- Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint.
+    - Grenade Damage Scalar: 2.00
+    - Explosive Damage Scalar: 5.00
+- Notes: Is a Boss and has a health bar. Has armor pieces that can be shot off to deal more damage to the unarmored areas. Has a jetpack that they can use to jump any length or height nav jump hint. Weak to explosive damage.
