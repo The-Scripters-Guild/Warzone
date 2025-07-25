@@ -1036,7 +1036,7 @@ Documentation of all the default AI variants.
 - Vehicle operation
   - Driver: Banshee, Brute Chopper, Chopper Boss, Ghost, Wraith
   - Passenger: Phantom
-  - Gunner: M247 HMG Turret, Phantom,   Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
+  - Gunner: M247 HMG Turret, Phantom, Plasma Cannon Turret, Shade Turret, Scrap Cannon Turret, Wraith
 - Notes: Has armor pieces that can be shot off to deal more damage to the unarmored areas.
 
 ## Brute Berserker
@@ -1203,7 +1203,7 @@ Documentation of all the default AI variants.
 ## Brute Chieftain Turret
 
 ![AI preview](../../assets/ai-52.jpg)
-- Primary Weapon Type: Plasma Cannon
+- Primary Weapon Type: Brute Plasma Cannon (Plasma Cannon variant)
 - Secondary Weapon Type: -
 - Grenade Type: Spike Grenade
 - Health per difficulty
@@ -1272,7 +1272,7 @@ Documentation of all the default AI variants.
 ## Boss Balkarus
 
 ![AI preview](../../assets/ai-55.jpg)
-- Primary Weapon Type: Plasma Cannon
+- Primary Weapon Type: Brute Plasma Cannon (Plasma Cannon variant)
 - Secondary Weapon Type: Riven Mangler
 - Grenade Type: Spike Grenade
 - Health per difficulty
