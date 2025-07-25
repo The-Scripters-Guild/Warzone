@@ -331,3 +331,10 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 ### 0.14.8
 
 - Made vehicle granting logic not require a unit to enter the vehicle to grant a custom weapon.
+
+### 0.15.0
+
+- Added support for granting Grenades (1-4).
+- Added support for granting Equipment and Grenades at position.
+- Added option for setting item velocity when spawned at position.
+- Added weapon type for Brute Scrap Cannon (116)
