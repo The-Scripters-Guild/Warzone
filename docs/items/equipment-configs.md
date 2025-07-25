@@ -54,7 +54,8 @@ The configurations that make up each of the equipment, including custom powerups
     - Inner Ring Scalar: #.##
     - Extended Ranger Scalar: #.##
     - Vehicle Range Scalar: #.##
-- Charge Count: #
+- Custom Charge Count: #
+- Default Charge Count: #
 - Duration: ## s
 - VFX: Infected Alpha, Infected Beta, VIP, None
 - REQ Tier: #
@@ -64,56 +65,64 @@ The configurations that make up each of the equipment, including custom powerups
 
 ## [1] Drop Wall
 - Equipment Type: Drop Wall
-- Charge Count: 3
+- Custom Charge Count: 3
+- Default Charge Count: 2
 - REQ Tier: 2
 - Game State: 1
 - Notes: -
 
 ## [2] Grappleshot
 - Equipment Type: Grappleshot
-- Charge Count: 4
+- Custom Charge Count: 4
+- Default Charge Count: 3
 - REQ Tier: 3
 - Game State: 1
 - Notes: -
 
 ## [3] Repair Field
 - Equipment Type: Repair Field
-- Charge Count: 1
+- Custom Charge Count: 1
+- Default Charge Count: 1
 - REQ Tier: 3
 - Game State: 1
 - Notes: -
 
 ## [4] Repulsor
 - Equipment Type: Repulsor
-- Charge Count: 4
+- Custom Charge Count: 4
+- Default Charge Count: 3
 - REQ Tier: 3
 - Game State: 1
 - Notes: -
 
 ## [5] Shroud Screen
 - Equipment Type: Shroud Screen
-- Charge Count: 2
+- Custom Charge Count: 2
+- Default Charge Count: 2
 - REQ Tier: 2
 - Game State: 1
 - Notes: -
 
 ## [6] Threat Sensor
 - Equipment Type: Threat Sensor
-- Charge Count: 3
+- Custom Charge Count: 3
+- Default Charge Count: 2
 - REQ Tier: 2
 - Game State: 1
 - Notes: -
 
 ## [7] Thruster
 - Equipment Type: Thruster
-- Charge Count: 3
+- Custom Charge Count: 3
+- Default Charge Count: 3
 - REQ Tier: 2
 - Game State: 1
 - Notes: -
 
 ## [8] Active Camouflage
 - Equipment Type: Active Camouflage
-- Charge Count: 1
+- Custom Charge Count: 1
+- Default Charge Count: 1
 - Duration: 30 s
 - REQ Tier: 4
 - Game State: 3
@@ -121,7 +130,8 @@ The configurations that make up each of the equipment, including custom powerups
 
 ## [9] Overshield
 - Equipment Type: Overshield
-- Charge Count: 1
+- Custom Charge Count: 1
+- Default Charge Count: 1
 - Duration: 50 s
 - REQ Tier: 3
 - Game State: 2
@@ -129,7 +139,8 @@ The configurations that make up each of the equipment, including custom powerups
 
 ## [10] Quantum Translocator
 - Equipment Type: Quantum Translocator
-- Charge Count: 1
+- Custom Charge Count: 1
+- Default Charge Count: 1
 - Duration: 30 s
 - REQ Tier: 4
 - Game State: 3
@@ -141,7 +152,8 @@ The configurations that make up each of the equipment, including custom powerups
   - Vampirism
     - Shield Scalar: 0.00
     - Health Scalar: 0.40
-- Charge Count: 1
+- Custom Charge Count: 1
+- Default Charge Count: 1
 - Duration: 60 s
 - VFX: Infected Alpha
 - REQ Tier: 6
@@ -152,7 +164,8 @@ The configurations that make up each of the equipment, including custom powerups
 - Equipment Type: Custom Equipment B
 - Trait Set: alliedMonitor
   - Third Person Gameplay: TRUE
-- Charge Count: 1
+- Custom Charge Count: 1
+- Default Charge Count: 1
 - Duration: 45 s
 - VFX: VIP
 - REQ Tier: 2
@@ -169,7 +182,8 @@ The configurations that make up each of the equipment, including custom powerups
   - Slide Speed
     - Slide Speed Scalar: 0.93
     - Slide Duration Scalar: 1.00
-- Charge Count: 1
+- Custom Charge Count: 1
+- Default Charge Count: 1
 - Duration: 45 s
 - VFX: None
 - REQ Tier: 2
@@ -180,7 +194,8 @@ The configurations that make up each of the equipment, including custom powerups
 - Equipment Type: Custom Equipment D
 - Trait Set: headhunterGuard
   - Headshot Protection: TRUE
-- Charge Count: 1
+- Custom Charge Count: 1
+- Default Charge Count: 1
 - Duration: 60 s
 - VFX: Infected Beta
 - REQ Tier: 3
@@ -189,28 +204,32 @@ The configurations that make up each of the equipment, including custom powerups
 
 ## [15] Legendary Drop Wall
 - Equipment Type: 
-- Charge Count: 1
+- Custom Charge Count: 1
+- Default Charge Count: 1
 - REQ Tier: 5
 - Game State: 1
 - Notes: -
 
 ## [16] Legendary Grappleshot
 - Equipment Type: 
-- Charge Count: 4
+- Custom Charge Count: 4
+- Default Charge Count: 2
 - REQ Tier: 4
 - Game State: 1
 - Notes: -
 
 ## [17] Legendary Threat Sensor
 - Equipment Type: 
-- Charge Count: 2
+- Custom Charge Count: 2
+- Default Charge Count: 2
 - REQ Tier: 4
 - Game State: 1
 - Notes: -
 
 ## [18] Legendary Thruster
 - Equipment Type: 
-- Charge Count: 3
+- Custom Charge Count: 3
+- Default Charge Count: 3
 - REQ Tier: 3
 - Game State: 1
 - Notes: -
