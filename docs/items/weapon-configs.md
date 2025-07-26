@@ -120,7 +120,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: M392 Bandit + Stalker Rifle Ultra
 - Trait Set: 8
   - Weapon Damage: 1.20
-- VFX: VIP
+- VFX: VIP (35)
 - Config: Combo
 - Ammo Adjustment: -57
   - 15+10
@@ -168,7 +168,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: CQS48 Bulldog + Diminisher Of Hope
 - Trait Set: 12
   - Weapon Damage: 2.90
-- VFX: Infected Beta
+- VFX: Infected Beta (25)
 - Config: Combo
 - Ammo Adjustment: None
   - 7+7
@@ -180,7 +180,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: S7 Sniper Rifle + Diminisher of Hope
 - Trait Set: 13
   - Weapon Damage: 1.61
-- VFX: Infected Alpha
+- VFX: Infected Alpha (12)
 - Config: Projectile
   - Shot Count: 1
   - Shot Velocity: 3000
@@ -207,7 +207,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Pulse Carbine + Unbound Plasma Pistol
 - Trait Set: 15
   - Weapon Damage: 1.70
-- VFX: VIP
+- VFX: VIP (33)
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -262,7 +262,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Ravager + Duelist Energy Sword
 - Trait Set: 20
   - Weapon Damage: 1.61
-- VFX: Infected Beta
+- VFX: Infected Beta (21)
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -319,7 +319,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Sentinel Beam + Striker Sidekick
 - Trait Set: 25
   - Weapon Damage: 0.70
-- VFX: Infected Beta
+- VFX: Infected Beta (24)
 - Config: Combo
 - Ammo Adjustment: 50
   - 14+84
@@ -346,7 +346,7 @@ The configurations that make up each of the custom weapons.
   - Reload Speed
     - Empty Reload Scalar: 3.00
     - Tactical Reload Scalar: 3.00
-- VFX: VIP
+- VFX: VIP (31)
 - Config: Combo
 - Ammo Adjustment: -50
   - 6+0
@@ -386,7 +386,7 @@ The configurations that make up each of the custom weapons.
     - Direct Damage Scalar: 2.10
     - Grenade Damage Scalar: 0.476190476
     - Explosive Damage Scalar: 0.476190476
-- VFX: Infected Alpha
+- VFX: Infected Alpha (11)
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -412,7 +412,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 32
     - Melee Damage: 0.70
     - Movement Speed: 1.10
-- VFX: Infected Beta
+- VFX: Infected Beta (23)
 - Config: Combo
 - Ammo Adjustment: None
     - Unlimited
@@ -460,7 +460,7 @@ The configurations that make up each of the custom weapons.
     - Grenade Damage Scalar: 0.476190476
     - Explosive Damage Scalar: 0.476190476
   - VFX - Overshield
-- VFX (while zoomed): VIP
+- VFX (while zoomed): VIP (32)
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -533,7 +533,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: M41 SPNKr + Rushdown Hammer
 - Trait Set: 40
     - Weapon Damage: 1.30
-- VFX: Infected Alpha
+- VFX: Infected Alpha (14)
 - Config: Projectile
     - Shot Count: 2
     - Shot Velocity: 115
@@ -615,7 +615,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: S7 Sniper Rifle + Riven Mangler
 - Trait Set: 46
   - Weapon Damage: 2.60
-- VFX: VIP
+- VFX: VIP (36)
 - Config: Combo
 - Ammo Adjustment: 60
   - 4+16
@@ -626,7 +626,7 @@ The configurations that make up each of the custom weapons.
 ## [47] Scorpion Shot
 - Weapon Type: Scorpion Tail
 - Trait Set: 47
-- VFX: Infected Alpha
+- VFX: Infected Alpha (13)
 - Config: Default
 - Ammo Adjustment: -3.50
   - 04% (6 shots)
@@ -641,7 +641,7 @@ The configurations that make up each of the custom weapons.
   - Reload Speed
     - Empty Reload Scalar: 3.00
     - Tactical Reload Scalar: 3.00
-- VFX: VIP
+- VFX: VIP (34)
 - Config: Combo
 - Ammo Adjustment: -70
   - 6+6
@@ -652,7 +652,7 @@ The configurations that make up each of the custom weapons.
 ## [49] Artifact Off Tremonius
 - Weapon Type: MLRS-2 Hydra + Ravager Rebound
 - Trait Set: 49
-- VFX: Infected Beta
+- VFX: Infected Beta (22)
 - Config: Combo
 - Ammo Adjustment: None
     - 6+12
@@ -664,7 +664,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Scorpion Tail + Backdraft Cindershot
 - Trait Set: 50
   - Weapon Damage: 3.00
-- VFX: Infected Beta
+- VFX: Infected Beta (26)
 - Config: Combo
 - Ammo Adjustment: -10.50
   - 10% (16 shots)
