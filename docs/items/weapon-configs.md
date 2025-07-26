@@ -578,7 +578,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 3.00
 - Config: Projectile
   - Shot Count: 1
-  - Shot Velocity: 2000
+  - Shot Velocity: 3000
   - Projectile Config: 1
   - Projectile: Volatile Skewer Shot
 - Ammo Adjustment: -12
