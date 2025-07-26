@@ -195,7 +195,7 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
     - Direct Damage Scalar: 4.30
     - Grenade Damage Scalar: 0.2325
     - Explosive Damage Scalar: 0.2325
-- Notes: Is a Boss and has a health bar. Moves very fast and can one-hit melee a Spartan.
+- Notes: Is a Boss and has a health bar. Moves very fast and can two-hit melee a Spartan.
 
 ## [17] Brute Warrior
 
