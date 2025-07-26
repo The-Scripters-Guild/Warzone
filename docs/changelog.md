@@ -129,6 +129,16 @@ Current state: Mode working fully, with some notable missing features:
 
 - Adjusted resistance and weapon damage values of Hyperius and Berserker Brute, Chosen.
 
+### 0.7.0
+
+- Updated warzone-sandbox to 0.15.1
+- Adapted new weapon grant at position variables.
+- Made any dropped Brute Scrap Cannon turn into a [31] The Champion. Escharum drops the weapon.
+
+### 0.7.1
+
+- Updated warzone-sandbox to 0.15.2
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
@@ -313,7 +323,7 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 
 ### 0.14.4
 
-- Added new weapon [50] SCorpion Tail + Backdraft Cindershot.
+- Added new weapon [50] Scorpion Tail + Backdraft Cindershot.
 
 ### 0.14.5
 
@@ -338,3 +348,16 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Added support for granting Equipment and Grenades at position.
 - Added option for setting item velocity when spawned at position.
 - Added weapon type for Brute Scrap Cannon (116)
+
+### 0.15.1
+
+- Added a condition for only running the checkHeldWeapon loop if the player's previously held weapon type has changed, instead of running it every 3 ticks continously. This should fix the performance issues.
+  - Changed the checkHeldWeapon loop to be every tick now that it's much more efficient.
+- Removed every3Ticks loop.
+
+### 0.15.2
+
+- onWeaponFired loop frequency changed from every 0.05 seconds to every tick.
+- Adjusted [43] Banish Off Balaho projectile velocity from 2000 to 3000.
+- Fixed trait application for weapons that needed constant checking about the player being in a state like zoomed or airborne.
+- Fixed [34] Sentry Off Writh 'Kul zoomed in full camo persisting if the player switched weapon as they were zooming.
