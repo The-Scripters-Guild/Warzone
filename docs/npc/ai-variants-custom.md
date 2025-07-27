@@ -136,15 +136,15 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 ## [12] Boss Thav 'Sebarim
 
 ![AI preview](../../assets/ai-33.jpg)
-- Primary Weapon Type: Cindershot + Arcane Sentinel Beam ([37] Spike Off Thav 'Sebarim)
+- Primary Weapon Type: Pulse Carbine + Scatterbound Heatwave ([16] Pulse Wave)
 - Secondary Weapon Type: -
 - Trait Set: BossThavSebarim
-  - Weapon Damage: 1.30
+  - Weapon Damage: 0.40
   - Damage Resistance
     - Direct Damage Scalar: 1.30
     - Grenade Damage Scalar: 0.7692
     - Explosive Damage Scalar: 0.7692
-- Notes: Fires Spike Grenade projectiles. Is a Boss and has a health bar. Drops a [[37] Spike Off Thav 'Sebarim](https://github.com/The-Scripters-Guild/Warzone/blob/main/docs/items/weapon-configs.md#37-spike-off-thav-sebarim) upon death and deletes the Cindershot + Arcane Sentinel Beam.
+- Notes: Is a Boss and has a health bar.
 
 ## [13] Hunter
 
