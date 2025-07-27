@@ -92,14 +92,15 @@ The configurations of AI that make up each of the AI encounters.
 - Harbinger (Boss)
 - Brute Warlord
 - Brute Warlord
-- Brute Sniper, Heavy
-- Brute Sniper, Heavy
+- Brute Chieftain Turret
+- Brute Chieftain Turret
 - Grunt Ultra
 
 ## [10] Brute Encounter, Mythic
 
 - Boss Escharum (Boss)
 - Brute Warlord
+- Brute Chieftain Turret
 - Brute Warrior
 - Elite Warlord
 - Elite Ultra
@@ -114,7 +115,7 @@ The configurations of AI that make up each of the AI encounters.
 - Elite Ultra
 - Elite Ultra
 - Brute Warlord
-- Brute Warlord
+- Brute Chieftain Turret
 
 ## [12] Elite Encounter, Mythic
 
