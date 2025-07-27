@@ -54,16 +54,17 @@ The configurations of AI that make up each of the AI encounters.
 - Jackal Freebooter
 - Jackal Freebooter
 
-## [6] Brute 1 Encounter, Legendary
+## [6] Hunter Encounter, Legendary
 
-- Boss Tremonius (Boss)
+- Hunter, Banished (Boss)
+- Hunter, Banished (Boss)
 - Wraith
 	- Brute Warrior
 - Brute Warlord
 - Grunt Ultra
 - Brute Chieftain
 - Brute Chieftain
-- Brute Chieftain
+- Brute Chieftain Turret
 
 ## [7] Brute 2 Encounter, Legendary
 
