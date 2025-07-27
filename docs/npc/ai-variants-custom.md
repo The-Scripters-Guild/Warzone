@@ -209,16 +209,17 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
     - Explosive Damage Scalar: 2.57
 - Notes: Will die in 4 Hydra direct rockets and 2 Rocket Launcher Rockets. Drives a Wraith in [[6] Brute 1 Encounter, Legendary](../items/../npc/encounter-configs.md#6-brute-1-encounter-legendary)
 
-## [18] Brute Sniper, Heavy
 
-![AI preview](../../assets/ai-46.jpg)
-- Primary Weapon Type: Shock Rifle
-- Secondary Weapon Type: Disruptor
-- Trait Set: BruteSniperHeavy
+## [18] Brute Chieftain Turret
+
+![AI preview](../../assets/ai-52.jpg)
+- Primary Weapon Type: Brute Plasma Cannon (Plasma Cannon variant)
+- Secondary Weapon Type: -
+- Trait Set: BruteChieftainTurret
   - Damage Resistance
-    - Direct Damage Scalar: 10.00
-    - Grenade Damage Scalar: 1.40
-    - Explosive Damage Scalar: 1.40
+    - Direct Damage Scalar: 2.00
+    - Grenade Damage Scalar: 1.60
+    - Explosive Damage Scalar: 1.60
 - Notes: Will die in 4 direct M41 SPNKr rockets.
 
 ## [19] Brute Warlord
