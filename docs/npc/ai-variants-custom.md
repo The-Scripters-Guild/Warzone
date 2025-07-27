@@ -254,17 +254,17 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 - Trait Set: BossArthoc
 - Notes: Is a Boss and has a health bar.
 
-## [22] Boss Tremonius
+## [22] Hunter, Banished
 
-![AI preview](../../assets/ai-62.jpg)
-- Primary Weapon Type: Pursuit Hydra
-- Secondary Weapon Type: CQS48 Bulldog
-- Trait Set: BossTremonius
+![AI preview](../../assets/ai-36.jpg)
+- Primary Weapon Type: Banished Hunter Primary
+- Secondary Weapon Type: Banished Hunter Secondary
+- Trait Set: HunterBanished
   - Damage Resistance
-    - Direct Damage Scalar: 1.00
-    - Grenade Damage Scalar: 1.50
-    - Explosive Damage Scalar: 1.50
-- Notes: Is a Boss and has a health bar. Weak to explosive plasma damage.
+    - Direct Damage Scalar: 0.80
+    - Grenade Damage Scalar: 2.00
+    - Explosive Damage Scalar: 1.00
+- Notes: Is a Boss and has a health bar.
 
 ## [23] Boss Escharum
 
