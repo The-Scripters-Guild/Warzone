@@ -139,6 +139,15 @@ Current state: Mode working fully, with some notable missing features:
 
 - Updated warzone-sandbox to 0.15.2
 
+### 0.7.2
+
+- Updated warzone-sandbox to 0.15.3
+- Replaced AI [18] Brute Sniper, Heavy with [18] Brute Chieftain Turret.
+- Replaced AI [22] Boss Tremonius with [22] Hunter, Banished.
+- Replaced weapon of AI [12] Boss Thav 'Sebarim from [37] Spike Off Thav 'Sebarim with [16] Pulse Wave.
+- Replaced Boss Tremonius in AI Encounter [6] with two Hunter, Banished AI.
+- Added [18] Brute Chieftain Turret AIs to encounters [6], [9], [10] and [11].
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
@@ -361,3 +370,9 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Adjusted [43] Banish Off Balaho projectile velocity from 2000 to 3000.
 - Fixed trait application for weapons that needed constant checking about the player being in a state like zoomed or airborne.
 - Fixed [34] Sentry Off Writh 'Kul zoomed in full camo persisting if the player switched weapon as they were zooming.
+
+### 0.15.3
+
+- Made ammoAdjustment script work when picking up weapons as a refill pickup.
+  - Prevents weapons from having too much ammo off refill pickup.
+- Granting empty vehicle at position of object made not require an Object input for the event.
