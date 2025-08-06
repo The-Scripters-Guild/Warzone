@@ -81,14 +81,14 @@ Vehicle configuration reference.
 - Game State: 6
 - Notes: -
 
-## [11] Core Banshee
+## [11] Mid Banshee
 - Vehicle Type: Banshee (Cloned)
 - Object Variable: ClonedBanshee
 - REQ Tier: 6
 - Game State: 5
 - Notes: The vehicle is a hidden Vehicle Type that can only be created by cloning the base Vehicle Type.
 
-## [12] Core Ghost
+## [12] Mid Ghost
 - Vehicle Type: Ghost (Cloned)
 - Object Variable: ClonedGhost
 - REQ Tier: 3
