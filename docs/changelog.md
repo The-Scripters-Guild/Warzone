@@ -152,6 +152,11 @@ Current state: Mode working fully, with some notable missing features:
 
 - Updated warzone-sandbox to 0.16.0
 
+### 0.7.4
+
+- Updated warzone-sandbox to 0.16.1
+- Made Boss AI drop predetermined loot on death.
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
