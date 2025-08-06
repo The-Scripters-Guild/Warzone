@@ -148,6 +148,10 @@ Current state: Mode working fully, with some notable missing features:
 - Replaced Boss Tremonius in AI Encounter [6] with two Hunter, Banished AI.
 - Added [18] Brute Chieftain Turret AIs to encounters [6], [9], [10] and [11].
 
+### 0.7.3
+
+- Updated warzone-sandbox to 0.16.0
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
@@ -376,3 +380,13 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Made ammoAdjustment script work when picking up weapons as a refill pickup.
   - Prevents weapons from having too much ammo off refill pickup.
 - Granting empty vehicle at position of object made not require an Object input for the event.
+
+### 0.16.0
+
+- Changed how the checkHeldWeapon loop runs in order to reduce the checks majorly and improve server performance.
+- Made checkHeldWeapon loop check run every 3 ticks again if the player's weapon has changed to save on more performance as the loop doesn't need to run every tick.
+- Changed Core Banshee → Mid Banshee.
+- Changed Core Ghost → Mid Ghost.
+- Added 10 more empty slots for custom weapons.
+  - Warning!: Weapon values past 50 were all shifted by +10; documentation updated.
+- Added 3-second delay between vehicle spawns when using grantVehicle.
