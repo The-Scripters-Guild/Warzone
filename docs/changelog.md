@@ -390,3 +390,10 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Added 10 more empty slots for custom weapons.
   - Warning!: Weapon values past 50 were all shifted by +10; documentation updated.
 - Added 3-second delay between vehicle spawns when using grantVehicle.
+
+### 0.16.1
+
+- Added Weapon: [118] Vestige Carbine.
+- Added Weapon: [8] REQ 7 Carbine variant.
+- Added Weapon: [45] REQ 2 Carbine variant.
+- Added Vehicle [18] Falcon.
