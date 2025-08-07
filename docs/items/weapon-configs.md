@@ -116,18 +116,6 @@ The configurations that make up each of the custom weapons.
 - Game State: 3
 - Notes: -
 
-## [8] Tovarus Artifice
-- Weapon Type: M392 Bandit + Stalker Rifle Ultra
-- Trait Set: 8
-  - Weapon Damage: 1.20
-- VFX: VIP (35)
-- Config: Combo
-- Ammo Adjustment: -57
-  - 15+10
-- REQ Tier: 7
-- Game State: 6
-- Notes: -
-
 ## [8] Scions Vision
 - Weapon Type: Vestige Carbine + BR75 Breacher
 - Trait Set: 8
