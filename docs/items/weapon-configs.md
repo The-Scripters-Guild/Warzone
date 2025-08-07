@@ -4,7 +4,7 @@ The configurations that make up each of the custom weapons.
 
 <!--
 ## [#] Weapon Name
-- Weapon Type: Base Weapon +  Config Weapon
+- Weapon Type: Base Weapon + Configuration
 - Trait Set: #
   - Weapon Damage: #.##
   - Reload Speed
@@ -124,6 +124,17 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: -57
   - 15+10
+- REQ Tier: 7
+- Game State: 6
+- Notes: -
+
+## [8] Scions Vision
+- Weapon Type: Vestige Carbine + BR75 Breacher
+- Trait Set: 8
+  - Weapon Damage: 1.70
+- Config: Combo
+- Ammo Adjustment: +6
+  - 30+100
 - REQ Tier: 7
 - Game State: 6
 - Notes: -
@@ -602,13 +613,15 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
 
-## [45] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [45] Tactical Carbine
+- Weapon Type: Base Weapon +  Config Weapon
 - Trait Set: 45
-- Config: Default
-- Ammo Adjustment: None
-- REQ Tier: -
-- Game State: -
+  - Weapon Damage: 0.80
+- Config: Combo
+- Ammo Adjustment: -60
+  - 40+80
+- REQ Tier: 2
+- Game State: 1
 - Notes: -
   
 ## [46] Reward Off Hyperius
@@ -1047,10 +1060,10 @@ The configurations that make up each of the custom weapons.
 - REQ Tier: 4
 - Game State: 3
 
-## [118] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
-- REQ Tier: -
-- Game State: -
+## [118] Vestige Carbine
+- Weapon Type: Vestige Carbine
+- REQ Tier: 4
+- Game State: 3
 
 ## [119] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
