@@ -40,7 +40,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 1
 - Notes: -
 
-## [2] Key Off Speed
+## [2] Key Of Speed
 - Weapon Type: Mk50 Sidekick +  BR75 Breacher
 - Trait Set: 2
   - Weapon Damage: 1.61
@@ -66,7 +66,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 2
 - Notes: -
 
-## [4] Hardlight Ranger
+## [4] Hardlight Avenger
 - Weapon Type: MA5K Avenger + Arcane Sentinel Beam
 - Trait Set: 4
   - Weapon Damage: 0.76
@@ -163,7 +163,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 3
 - Notes: -
   
-## [12] Valor Off Dinh
+## [12] Valor Of Dinh
 - Weapon Type: CQS48 Bulldog + Diminisher Of Hope
 - Trait Set: 12
   - Weapon Damage: 2.90
@@ -202,7 +202,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 3
 - Notes: -
 
-## [15] Exterminating Hazard
+## [15] Overloaded Pulse Carbine
 - Weapon Type: Pulse Carbine + Unbound Plasma Pistol
 - Trait Set: 15
   - Weapon Damage: 1.70
@@ -225,7 +225,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
   
-## [17] Shot Off Barroth
+## [17] Spire Of Barroth
 - Weapon Type: Stalker Rifle + Riven Mangler
 - Trait Set: 17
   - Weapon Damage: 1.20
@@ -236,7 +236,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
   
-## [18] Eayn Carbine
+## [18] Eayn Stalker Rifle
 - Weapon Type: Stalker Rifle + Striker Sidekick
 - Trait Set: 18
   - Weapon Damage: 1.20
@@ -257,7 +257,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
 
-## [20] Attack Off Iratus
+## [20] Rage Of Iratus
 - Weapon Type: Ravager + Duelist Energy Sword
 - Trait Set: 20
   - Weapon Damage: 1.61
@@ -269,7 +269,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 6
 - Notes: -
 
-## [21] Decaying World
+## [21] Decaying Charge
 - Weapon Type: Disruptor + Diminisher of Hope
 - Trait Set: 21
   - Weapon damage: 1.89
@@ -281,7 +281,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
 
-## [22] Myriad Arm
+## [22] Blinding Payload
 - Weapon Type: Mutilator + Rebound Ravager
 - Trait Set: 22
   - Weapon damage: 1.40
@@ -303,7 +303,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
 
-## [24] Extermination Off Infection
+## [24] Focus Beam
 - Weapon Type: Sentinel Beam + Impact Commando
 - Trait Set: 24
   - Weapon Damage: 0.30
@@ -353,7 +353,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 5
 - Notes: -
 
-## [28] ONI Ranger
+## [28] ONI Avenger
 - Weapon Type: MA5K Avenger + Impact Commando
 - Trait Set: 28
   - Weapon Damage: 0.38
@@ -376,7 +376,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
   
-## [30] Doom Off Reach
+## [30] Doom Of Reach
 - Weapon Type: M247 HMG + MA40 Longshot
 - Trait Set: 30
   - Weapon Damage: 1.20
@@ -419,7 +419,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: Has unlimited Duelist Energy Sword melees and fast movement speed, but can't lunge. Has the fastest movement speed in the sandbox.
 
-## [33] Defender Off Sanghelios
+## [33] Guardian Of Sanghelios
 - Weapon Type: Plasma Cannon + Unbound Plasma Pistol
 - Trait Set: 33
   - Weapon Damage: 1.30
@@ -431,7 +431,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 5
 - Notes: -
 
-## [34] Sentry Off Writh Kul
+## [34] Sentry Of Writh Kul
 - Weapon Type: Plasma Cannon + Pinpoint Needler
 - Trait Set: 34
   - Weapon Damage: 1.50
@@ -450,7 +450,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 6
 - Notes: The second trait set only applies while zoomed.
 
-## [35] Cutlass Off Doomfruit
+## [35] Rogue Juggernaut
 - Weapon Type: Infected Energy Sword + Unbound Plasma Pistol
 - Trait Set (while zoomed): 35
   - Movement Speed: 0.40
@@ -467,7 +467,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 3
 - Notes: The traits and VFX only apply when zoomed and not airborne.
 
-## [36] Power Off Jega Rdomnai
+## [36] Demon
 - Weapon Type: Infected Energy Sword + MA40 Longshot
 - Trait Set: 36
   - VFX - Active Camouflage
@@ -483,7 +483,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 5
 - Notes: Makes audible noise that alerts the enemy team to a wielder's presence in close range.
 
-## [37] Spike Off Thav 'Sebarim
+## [37] Spike Of Thav 'Sebarim
 - Weapon Type: Cindershot + S7 Flexfire Sniper
 - Trait Set: 37
   - Weapon Damage: 0.01
@@ -498,7 +498,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: -
 
-## [38] Infiltrator Off Worlds
+## [38] Hunters Right Hand
 - Weapon Type: Fuel Rod SPNKr + Striker Sidekick
 - Trait Set: 38
   - Weapon Damage: 0.01
@@ -513,7 +513,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 3
 - Notes: -
 
-## [39] Knight Off Zeretus
+## [39] Rain Of War
 - Weapon Types: M41 SPNKr + Diminisher of Hope
 - Trait Set: 39
   - Weapon Damage: 0.70
@@ -528,7 +528,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 5
 - Notes: -
 
-## [40] Guard Off Doisac
+## [40] Exterminating Frenzy
 - Weapon Type: M41 SPNKr + Rushdown Hammer
 - Trait Set: 40
     - Weapon Damage: 1.30
@@ -544,7 +544,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 6
 - Notes: -
 
-## [41] Go At
+## [41] A Go At
 - Weapon Type: Fuel Rod SPNKr + S7 Flexfire Sniper
 - Trait Set: 41
   - Weapon Damage: 0.01
@@ -571,7 +571,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 1
 - Notes: -
 
-## [43] Banish Off Balaho
+## [43] Banish Of Balaho
 - Weapon Type: Skewer + Striker Sidekick
 - Trait Set: 43
   - Weapon Damage: 3.00
@@ -586,7 +586,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 6
 - Notes: -
 
-## [44] Broken Installation
+## [44] Thunderstorm
 - Weapon Type: Heatwave + Impact Commando
 - Trait Set: 44
   - Weapon Damage: 0.01
@@ -612,7 +612,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 1
 - Notes: -
   
-## [46] Reward Off Hyperius
+## [46] Light Of Doisac
 - Weapon Type: S7 Sniper Rifle + Riven Mangler
 - Trait Set: 46
   - Weapon Damage: 2.60
@@ -624,7 +624,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 5
 - Notes: -
 
-## [47] Scorpion Shot
+## [47] Scorpion Tail
 - Weapon Type: Scorpion Tail
 - Trait Set: 47
 - VFX: Infected Alpha (13)
@@ -650,7 +650,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 6
 - Notes: Damage output based off of secondary fire strength; primary fire is pretty useless.
 
-## [49] Artifact Off Tremonius
+## [49] Volcanic Oasis
 - Weapon Type: MLRS-2 Hydra + Ravager Rebound
 - Trait Set: 49
 - VFX: Infected Beta (22)
@@ -661,7 +661,7 @@ The configurations that make up each of the custom weapons.
 - Game State: 6
 - Notes: Damage output based off of secondary fire strength; primary fire is not as effective.
 
-## [50] Fusion Off Legkolo
+## [50] Gamma Shot
 - Weapon Type: Scorpion Tail + Backdraft Cindershot
 - Trait Set: 50
   - Weapon Damage: 3.00
@@ -1141,6 +1141,12 @@ The configurations that make up each of the custom weapons.
 
 ## [135] Wasp Weapon + Scatterbound Heatwave
 - Weapon Type: Wasp Weapon + Scatterbound Heatwave
+- REQ Tier: -
+- Game State: -
+- Notes: Used as a custom vehicle weapon; not intended for players.
+
+## [136] Wasp Weapon + Pursuit Hydra
+- Weapon Type: Wasp Weapon + Pursuit Hydra
 - REQ Tier: -
 - Game State: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
