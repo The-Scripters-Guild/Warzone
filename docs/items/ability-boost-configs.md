@@ -57,8 +57,8 @@ The configurations that make up each of the ability boosts.
 - Notes: -
 -->
 
-## [1] Heal Boost
-- Trait Set: healBoost
+## [1] Auto Medic
+- Trait Set: autoMedic
   - Health Recharge
     - Recharge Delay Scalar: -0.30 (5.0 s -> 3.5 s to begin recharging = 30.0% faster)
     - Recharge Rate Scalar: 0.42 (1.1333 s -> 0.798098591549 s to charge fully = 29.5% faster)
@@ -80,7 +80,7 @@ The configurations that make up each of the ability boosts.
 - Game State: 4
 - Notes: Inner Ring is a general extension of the range and Extended Range is how far enemies will be shown on the outside ring of the radar when they're not within the range of the Inner Ring.
 
-## [3] Expert Marksman
+## [3] Dexterity
 - Trait Set: expertMarksman
   - Reload Speed
     - Empty Reload Scalar: 1.17
@@ -130,18 +130,18 @@ The configurations that make up each of the ability boosts.
 - Game State: 4
 - Notes: Removes outline and name from player; 50% passive camo that takes a second to reactivate if the player starts running or fires their weapon.
 
-## [8] Frag Grenade Operator
+## [8] Frag Grenade Specialist
 - Game State: 2
 - Notes: Sets the player's Frag Grenade count to 4 and removes all other Grenades.
 
-## [9] Spike Grenade Operator
+## [9] Spike Grenade Specialist
 - Game State: 2
 - Notes: Sets the player's Frag Grenade count to 2, Spike Grenade count to 2 and removes all other Grenades.
 
-## [10] Plasma Grenade Operator
+## [10] Plasma Grenade Specialist
 - Game State: 3
 - Notes: Sets the player's Frag Grenade count to 2, Plasma Grenade count to 2 and removes all other Grenades.
 
-## [11] Dynamo Grenade Operator
+## [11] Dynamo Grenade Specialist
 - Game State: 5
 - Notes: Sets the player's Frag Grenade count to 2, Dynamo Grenade count to 2 and removes all other Grenades.
