@@ -190,9 +190,9 @@ The configurations that make up each of the equipment, including custom powerups
 - Game State: 1
 - Notes: Has four identical traits that can be stacked for a total of four Speed Boosts. Stacking multiple traits multiplies their scalars.
 
-## [14] Headhunter Guard
+## [14] Headshot Shielding
 - Equipment Type: Custom Equipment D
-- Trait Set: headhunterGuard
+- Trait Set: headshotShielding
   - Headshot Protection: TRUE
 - Custom Charge Count: 1
 - Default Charge Count: 1
