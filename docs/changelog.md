@@ -402,3 +402,46 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Added Weapon: [8] REQ 7 Carbine variant.
 - Added Weapon: [45] REQ 2 Carbine variant.
 - Added Vehicle [18] Falcon.
+
+### 0.17.0
+
+- Adjusted names of Weapons:
+  - [2] Key Off Speed → Key Of Speed
+  - [12] Valor Off Dinh → Valor Of Dinh
+  - [15] Exterminating Hazard → Overloaded Pulse Carbine
+  - [17] Shot Off Barroth → Spire Of Barroth
+  - [18] Eayn Carbine → Eayn Stalker Rifle
+  - [20] Attack Off Iratus → Rage Of Iratus
+  - [21] Decaying World → Decaying Charge
+  - [22] Myriad Arm → Blinding Payload
+  - [24] Extermination Off Infection → Focus Beam
+  - [28] ONI Ranger → ONI Avenger
+  - [30] Doom Off Reach → Doom Of Reach
+  - [33] Defender Off Sanghelios → Guardian Of Sanghelios
+  - [34] Sentry Off Writh Kul → Sentry Of Writh Kul
+  - [35] Cutlass Off Doomfruit → Rogue Juggernaut
+  - [36] Power Off Jega Rdomnai → Demon
+  - [37] Spike Off Thav 'Sebarim → Spike Of Thav 'Sebarim
+  - [38] Infiltrator Off Worlds → Hunters Right Hand
+  - [39] Knight Off Zeretus → Rain Of War
+  - [40] Guard Off Doisac → Exterminating Frenzy
+  - [41] Go At → A Go At
+  - [43] Banish Off Balaho → Banish Of Balaho
+  - [44] Broken Installation → Thunderstorm
+  - [46] Reward Off Hyperius → Light Of Doisac
+  - [47] Scorpion Shot → Scorpion Tail
+  - [49] Artifact Off Tremonius → Volcanic Oasis
+  - [50] Fusion Off Legkolo → Gamma Shot
+- Adjusted names of Equipment:
+  - [14] Headhunter Guard → Headshot Shielding
+- Adjusted names of Ability Boosts:
+  - [1] Heal Boost → Auto Medic
+  - [3] Expert Marksman → Dexterity
+  - [8] Frag Grenade Operator → Frag Grenade Specialist
+  - [9] Spike Grenade Operator → Spike Grenade Specialist
+  - [10] Plasma Grenade Operator → Plasma Grenade Specialist
+  - [11] Dynamo Grenade Operator → Dynamo Grenade Specialist
+- Added storage of 8 cloned spawn points, each assigned to each possible Team.
+- Added Vehicle: [18] Falcon.
+- Added Vehicle: [19] Dragon.
+- Added Vehicle Weapon: [136] Wasp Weapon + Pursuit Hydra
