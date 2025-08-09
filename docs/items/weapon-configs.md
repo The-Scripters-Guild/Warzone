@@ -675,7 +675,7 @@ The configurations that make up each of the custom weapons.
 
 ## [51] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 45
+- Trait Set: 51
 - Config: Default
 - Ammo Adjustment: None
 - REQ Tier: -
@@ -684,7 +684,7 @@ The configurations that make up each of the custom weapons.
 
 ## [52] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 45
+- Trait Set: 52
 - Config: Default
 - Ammo Adjustment: None
 - REQ Tier: -
@@ -693,7 +693,7 @@ The configurations that make up each of the custom weapons.
 
 ## [53] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 45
+- Trait Set: 53
 - Config: Default
 - Ammo Adjustment: None
 - REQ Tier: -
@@ -702,7 +702,7 @@ The configurations that make up each of the custom weapons.
 
 ## [54] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 45
+- Trait Set: 54
 - Config: Default
 - Ammo Adjustment: None
 - REQ Tier: -
@@ -711,7 +711,7 @@ The configurations that make up each of the custom weapons.
 
 ## [55] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 45
+- Trait Set: 55
 - Config: Default
 - Ammo Adjustment: None
 - REQ Tier: -
@@ -720,7 +720,7 @@ The configurations that make up each of the custom weapons.
 
 ## [56] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 45
+- Trait Set: 56
 - Config: Default
 - Ammo Adjustment: None
 - REQ Tier: -
@@ -729,7 +729,7 @@ The configurations that make up each of the custom weapons.
 
 ## [57] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 45
+- Trait Set: 57
 - Config: Default
 - Ammo Adjustment: None
 - REQ Tier: -
@@ -738,7 +738,7 @@ The configurations that make up each of the custom weapons.
 
 ## [58] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 45
+- Trait Set: 58
 - Config: Default
 - Ammo Adjustment: None
 - REQ Tier: -
@@ -747,7 +747,7 @@ The configurations that make up each of the custom weapons.
 
 ## [59] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 45
+- Trait Set: 59
 - Config: Default
 - Ammo Adjustment: None
 - REQ Tier: -
@@ -756,7 +756,7 @@ The configurations that make up each of the custom weapons.
 
 ## [60] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 45
+- Trait Set: 60
 - Config: Default
 - Ammo Adjustment: None
 - REQ Tier: -
