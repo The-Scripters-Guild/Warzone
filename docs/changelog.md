@@ -461,3 +461,7 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Removed declarations for weapon-, equipment, ability boost- & vehicle names and points as they're not needed in the sandbox code; retained four custom powerup names in code.
 - Removed redundant declaration for legendaryEquipmentDispensers.
 - Updated mode respawn time to instant.
+
+### 0.18.1
+
+- Added Weapon: [51] Seeking Hydra
