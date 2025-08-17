@@ -157,6 +157,14 @@ Current state: Mode working fully, with some notable missing features:
 - Updated warzone-sandbox to 0.16.1
 - Made Boss AI drop predetermined loot on death.
 
+### 0.8.0
+
+- Updated warzone-sandbox to 0.17.0
+- Changed respawn delay from 8 s to Instant.
+  - To support spawn selection logic and custom respawn delay via script.
+- Changed base mode to BTB, 30 tick rate.
+  - After extensive testing, we've found 30 tick to be the most reliable for the experience.
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
@@ -445,3 +453,11 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Added Vehicle: [18] Falcon.
 - Added Vehicle: [19] Dragon.
 - Added Vehicle Weapon: [136] Wasp Weapon + Pursuit Hydra
+
+### 0.18.0
+
+- Removed storage of 8 cloned spawn points, each assigned to each possible Team.
+- Fixed old Powerup Equipment names in Object Variables.
+- Removed declarations for weapon-, equipment, ability boost- & vehicle names and points as they're not needed in the sandbox code; retained four custom powerup names in code.
+- Removed redundant declaration for legendaryEquipmentDispensers.
+- Updated mode respawn time to instant.
