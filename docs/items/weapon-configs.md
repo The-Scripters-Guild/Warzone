@@ -492,7 +492,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 400
   - Projectile Config: 1
   - Projectile: Spike Grenade
-- Ammo: Default
+- Ammo Adjustment: None
   - 10+10
 - REQ Tier: 5
 - Game State: 4
@@ -673,18 +673,20 @@ The configurations that make up each of the custom weapons.
 - Game State: 6
 - Notes: Cindershot projectiles track enemies within red-reticle range. Ability to zoom while stationary.
 
-## [51] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 51
-- Config: Default
-- Ammo Adjustment: None
-- REQ Tier: -
-- Game State: -
-- Notes: -
+## [51] Seeking Hydra
+- Weapon Type: MLRS-2 Hydra + Striker Sidekick
+- Trait Set: 52
+  - Weapon Damage: 0.50
+- Config: Combo
+- Ammo Adjustment: -50
+  - 14+28
+- REQ Tier: 3
+- Game State: 2
+- Notes: Secondary fire is the only effictive method of using the weapon.
 
 ## [52] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 52
+- Trait Set: 53
 - Config: Default
 - Ammo Adjustment: None
 - REQ Tier: -
