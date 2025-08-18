@@ -675,7 +675,7 @@ The configurations that make up each of the custom weapons.
 
 ## [51] Seeking Hydra
 - Weapon Type: MLRS-2 Hydra + Striker Sidekick
-- Trait Set: 52
+- Trait Set: 51
   - Weapon Damage: 0.50
 - Config: Combo
 - Ammo Adjustment: -50
@@ -684,14 +684,19 @@ The configurations that make up each of the custom weapons.
 - Game State: 2
 - Notes: Secondary fire is the only effictive method of using the weapon.
 
-## [52] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
-- Trait Set: 53
-- Config: Default
-- Ammo Adjustment: None
-- REQ Tier: -
-- Game State: -
-- Notes: -
+## [52] Siege Bandit
+- Weapon Type: Bandit Evo + Striker Sidekick
+- Trait Set: 52
+  - Weapon Damage: 0.80
+  - Reload Speed
+    - Empty Reload Scalar: 1.20
+    - Tactical Reload Scalar: 1.20
+- Config: Combo
+- Ammo Adjustment: 17
+  - 14+56
+- REQ Tier: 5
+- Game State: 4
+- Notes: 4 Shot perfect. Long red reticle range.
 
 ## [53] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
