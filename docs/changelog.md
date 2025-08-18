@@ -165,6 +165,16 @@ Current state: Mode working fully, with some notable missing features:
 - Changed base mode to BTB, 30 tick rate.
   - After extensive testing, we've found 30 tick to be the most reliable for the experience.
 
+
+
+
+
+
+
+
+
+
+
 ## tsg warzone-sandbox library
 
 Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
@@ -452,7 +462,7 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Added storage of 8 cloned spawn points, each assigned to each possible Team.
 - Added Vehicle: [18] Falcon.
 - Added Vehicle: [19] Dragon.
-- Added Vehicle Weapon: [136] Wasp Weapon + Pursuit Hydra
+- Added Vehicle Weapon: [136] Wasp Weapon + Pursuit Hydra.
 
 ### 0.18.0
 
@@ -464,4 +474,32 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 
 ### 0.18.1
 
-- Added Weapon: [51] Seeking Hydra
+- Added Weapon: [51] Seeking Hydra.
+
+### 0.18.2
+
+- Added Weapon: [52] Siege Bandit.
+
+
+
+
+
+
+
+
+
+
+## tsg warzone-radial module
+
+Changelog for the tsg warzone-radial module used for the radial menu logic.
+
+### 0.1.1
+
+- Initial build.
+- warzone-sandbox 0.18.1 compatible.
+- Weapon, Equipment, Ability Boost & Vehicle names and points transferred from warzone-sandbox to warzone-radial.
+
+### 0.1.2
+
+- warzone-sandbox 0.18.2 compatible.
+- Added Purchase Weapon: [52] Siege Bandit.
