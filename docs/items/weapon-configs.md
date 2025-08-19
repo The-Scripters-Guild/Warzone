@@ -698,14 +698,15 @@ The configurations that make up each of the custom weapons.
 - Game State: 4
 - Notes: 4 Shot perfect. Long red reticle range.
 
-## [53] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [53] Cure Of The Haunted
+- Weapon Type: MA5K Avenger + Pinpoint Needler
 - Trait Set: 53
-- Config: Default
-- Ammo Adjustment: None
-- REQ Tier: -
-- Game State: -
-- Notes: -
+- Config: Combo
+- Ammo Adjustment: 100
+  - 30+90
+- REQ Tier: 6
+- Game State: 5
+- Notes: Shoots needles really fast causing the supercombine really quick. Must be used close range due to the needler tracking range being short.
 
 ## [54] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
