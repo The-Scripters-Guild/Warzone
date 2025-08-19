@@ -692,8 +692,8 @@ The configurations that make up each of the custom weapons.
     - Empty Reload Scalar: 1.20
     - Tactical Reload Scalar: 1.20
 - Config: Combo
-- Ammo Adjustment: 17
-  - 14+56
+- Ammo Adjustment: None
+  - 14+14
 - REQ Tier: 5
 - Game State: 4
 - Notes: 4 Shot perfect. Long red reticle range.
