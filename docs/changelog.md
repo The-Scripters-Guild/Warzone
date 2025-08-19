@@ -480,6 +480,11 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 
 - Added Weapon: [52] Siege Bandit.
 
+### 0.18.3
+
+- Added Weapon: [53] Cure Of The Haunted.
+- Reduced ammo capacity of [52] Siege Bandit: 14+56 → 14+42
+
 
 
 
@@ -503,3 +508,9 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
 
 - warzone-sandbox 0.18.2 compatible.
 - Added Purchase Weapon: [52] Siege Bandit.
+
+### 0.1.4
+
+- warzone-sandbox 0.18.3 compatible.
+- Added Purchase Weapon: [53] Cure Of The Haunted.
+- Note: 0.1.3 is an illegal string in Halo Infinite.
