@@ -514,3 +514,8 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
 - warzone-sandbox 0.18.3 compatible.
 - Added Purchase Weapon: [53] Cure Of The Haunted.
 - Note: 0.1.3 is an illegal string in Halo Infinite.
+
+### 0.1.5
+
+- Added fix for not being able to open an enabled menu item if someone else had opened the same menu and had that item disabled on their menu.
+- Added fallback menu trait removal by moving the aim vector.
