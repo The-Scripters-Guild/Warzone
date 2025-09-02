@@ -485,6 +485,17 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Added Weapon: [53] Cure Of The Haunted.
 - Reduced ammo capacity of [52] Siege Bandit: 14+56 → 14+42
 
+### 0.19.0
+
+- Added docked Nav Markers displaying remaining time of powerups when activated, including a custom one for Active Camouflage.
+  - 24 total Nav Markers reserved for simoultaneous use by all players.
+- Changed checkHeldWeapon loop from every 3 ticks to every tick.
+- Changed chechHeldWeapon loop side event from every 3 ticks to every 0.10 seconds.
+
+### 0.19.1
+
+- Added a list of aerial vehicle grant values.
+
 
 
 
