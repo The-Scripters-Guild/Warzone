@@ -165,6 +165,23 @@ Current state: Mode working fully, with some notable missing features:
 - Changed base mode to BTB, 30 tick rate.
   - After extensive testing, we've found 30 tick to be the most reliable for the experience.
 
+### 0.9.0
+
+- Updated AI spawn overrides to have the AI active from the beginning.
+- Accounted for +10 change in weapon config values in the loadout ammo grant near REQ stations.
+- Removed "custom soft kill" code, and replaced related objects on-level with Soft Kill volumes.
+  - Changed due to new "Prompt Widget" messaging location that isn't affected by an issue with the Objective Banner message disappearing when exiting a Soft Kill volume.
+- Updated some icons.
+- Added AI Spawner array to Mode Prefab. Will require only one AI Spawner on-level in an area with Nav Mesh. (All AI will spawn on this so it should be hidden from the gameplay area)
+- Adjusted coreDestructionSpawner to be the same Dummy Spawner that's used for the rest of the AI as a spawn location.
+- Reduced REQ point grant amounts by 50%; kept point drip value the same.
+- Made REQ Station loadout weapon ammo grant only work for players who can access the station.
+
+### 0.9.1
+
+- Adjusted Point grant amounts: Player kill: 0.15 → 0.10, AI kill: 0.08 → 0.05, every second drip: 0.03 → 0.02.
+
+
 
 
 
@@ -496,6 +513,12 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 
 - Added a list of aerial vehicle grant values.
 
+### 0.20.0
+
+- Added weapon objects to the Mode to offload them from the on-level budget and to allow all custom weapon types to be spawned on any map.
+- Changed base mode to Minigame BTB to limit the tick rate to 30.
+- Organized brains in the Mode Prefab.
+
 
 
 
@@ -530,3 +553,22 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
 
 - Added fix for not being able to open an enabled menu item if someone else had opened the same menu and had that item disabled on their menu.
 - Added fallback menu trait removal by moving the aim vector.
+
+### 0.2.0
+
+- warzone-sandbox 0.19.1 compatible.
+- Major optimization update for item variant menus to make them use the same menu.
+- Added logic for vehicle spawn locations.
+- Added logic for detemining when a REQ station can be accessed.
+
+### 0.2.1
+
+- Renamed reqStations variable to stations
+
+### 0.2.2
+
+- Fixed issues with automatic respawn not working when closing the Menu while dead.
+
+### 0.2.3
+
+- Added debug number display on the left at the end of a round that shows the amount per weapon bought per Game State.
