@@ -167,6 +167,7 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.9.0
 
+- Updated warzone-sandbox to 0.20.0
 - Updated AI spawn overrides to have the AI active from the beginning.
 - Accounted for +10 change in weapon config values in the loadout ammo grant near REQ stations.
 - Removed "custom soft kill" code, and replaced related objects on-level with Soft Kill volumes.
@@ -180,6 +181,20 @@ Current state: Mode working fully, with some notable missing features:
 ### 0.9.1
 
 - Adjusted Point grant amounts: Player kill: 0.15 → 0.10, AI kill: 0.08 → 0.05, every second drip: 0.03 → 0.02.
+
+### 0.9.2
+
+- Made AI be inactive until Gameplay Start so players don't die in the intro sequence.
+
+### 0.9.3
+
+- Updated warzone-sandbox to 0.21.0
+- Increased passive Point grant amount every second: 0.02 → 0.023.
+
+### 0.9.4
+
+- Made AI inactive before Gameplay Start so they don't move around too much from their intended spawn locations before Gameplay Start.
+
 
 
 
@@ -519,6 +534,13 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Changed base mode to Minigame BTB to limit the tick rate to 30.
 - Organized brains in the Mode Prefab.
 
+### 0.21.0
+
+- Removed weapon objects from the mode due to issues with Object Reference ordering causing the weapons to not spawn like they should.
+- Reduced automatic weapon despawn time from 40 → 30 s as players were spawning with no weapon on rare occasions in Warzone playtests.
+- Reduced sprint speed of upgradedSprinting Ability Boost
+
+
 
 
 
@@ -572,3 +594,9 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
 ### 0.2.3
 
 - Added debug number display on the left at the end of a round that shows the amount per weapon bought per Game State.
+- Reordered nodes in closeMenu event so "Show Menu To Player (false)" happens at the end. Maybe if the menu is invalid and it was at the front, it would freeze the thread and cause issues?
+
+### 0.2.4
+
+- Prevented Menu from being able to automatically show up after the game has ended right after a player had died.
+- Added workaround for players being granted their current weapons again after making the first item purchase in a station, even if it was not a weapon.
