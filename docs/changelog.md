@@ -195,6 +195,10 @@ Current state: Mode working fully, with some notable missing features:
 
 - Made AI inactive before Gameplay Start so they don't move around too much from their intended spawn locations before Gameplay Start.
 
+### 0.9.5
+
+- Updated warzone-sandbox to 0.21.1
+- Changed AI inactivity before Gameplay Start to being deaf and blind as they were still moving in similar ways after Gameplay Start.
 
 
 
@@ -540,6 +544,11 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Reduced automatic weapon despawn time from 40 → 30 s as players were spawning with no weapon on rare occasions in Warzone playtests.
 - Reduced sprint speed of upgradedSprinting Ability Boost
 
+### 0.21.1
+
+- Increased projectile speed of [38] Hunters Right Hand from 250 → 350.
+
+
 
 
 
@@ -600,3 +609,21 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
 
 - Prevented Menu from being able to automatically show up after the game has ended right after a player had died.
 - Added workaround for players being granted their current weapons again after making the first item purchase in a station, even if it was not a weapon.
+
+### 0.3.0
+
+- Made the spawning radial show up automatically for dead players who've made a purchase in the menu in order to streamline the process and not require players to re-open the menu for spawn selection.
+- "Spawning Disabled while Alive" message replaced with "Choose Spawn" when accessing the spawning menu while alive.
+- Adjusted aim movement threshold to forcefully exit a radial menu from 1.00 → 20.00, which should reduce instances of players accidentally exiting the Menu by moving their cursor while on a high latency.
+- Added spawn selection persistence feature where selecting a spawn while dead once and then opening the menu again to make a purchase will retain the previously selected spawn location. Dying will reset the selection back to Home Base.
+- Added spawn interruption feature that stops a player from spawning at a zone if an enemy captures that zone as the player is queued to spawn at it.
+- Fixed and issue preventing the spawn selection menu from refereshing when a zone was captured.
+- Added feature for bots to be randomly granted two weapons past Game State 1 that have been purchased by a player so bots would hold more unique weapons.
+- Respawn Penalty set to 0 for players who swap team so scripted respawn time tracking matches the ability to instantly spawn.
+- Adjusted point tiers of shock weapons:
+  - [107] Plasma Pistol: 3 → 2
+  - [95] Disruptor: 4 → 3
+  - [21] Decaying Charge: 5 → 4
+  - [112] Shock Rifle: 6 → 5
+  - [73] Purging Shock Rifle: 7 → 5
+  - [64] Calcine Disruptor: 7 → 6
