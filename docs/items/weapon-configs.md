@@ -504,7 +504,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 0.01
 - Config: Projectile
   - Shot Count: 2
-  - Shot Velocity: 250
+  - Shot Velocity: 350
   - Projectile Config: 2
   - Projectile: Banished Hunter Shot
 - Ammo Adjustment: -13
