@@ -277,8 +277,8 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: None
   - 12+36
-- REQ Tier: 5
-- Game State: 4
+- REQ Tier: 4
+- Game State: 3
 - Notes: -
 
 ## [22] Blinding Payload
@@ -788,8 +788,8 @@ The configurations that make up each of the custom weapons.
 
 ## [64] Calcine Disruptor
 - Weapon Type: Calcine Disruptor
-- REQ Tier: 7
-- Game State: 6
+- REQ Tier: 6
+- Game State: 5
 
 ## [65] Convergence Bulldog
 - Weapon Type: Convergence Bulldog
@@ -833,8 +833,8 @@ The configurations that make up each of the custom weapons.
 
 ## [73] Purging Shock Rifle
 - Weapon Type: Purging Shock Rifle
-- REQ Tier: 7
-- Game State: 6
+- REQ Tier: 5
+- Game State: 4
 
 ## [74] Pursuit Hydra
 - Weapon Type: Pursuit Hydra
@@ -943,8 +943,8 @@ The configurations that make up each of the custom weapons.
 
 ## [95] Disruptor
 - Weapon Type: Disruptor
-- REQ Tier: 4
-- Game State: 3
+- REQ Tier: 3
+- Game State: 2
 
 ## [96] Energy Sword
 - Weapon Type: Energy Sword
@@ -1003,8 +1003,8 @@ The configurations that make up each of the custom weapons.
 
 ## [107] Plasma Pistol
 - Weapon Type: Plasma Pistol
-- REQ Tier: 3
-- Game State: 2
+- REQ Tier: 2
+- Game State: 1
 
 ## [108] Pulse Carbine
 - Weapon Type: Pulse Carbine
@@ -1028,8 +1028,8 @@ The configurations that make up each of the custom weapons.
 
 ## [112] Shock Rifle
 - Weapon Type: Shock Rifle
-- REQ Tier: 6
-- Game State: 5
+- REQ Tier: 5
+- Game State: 4
 
 ## [113] Skewer
 - Weapon Type: Skewer
