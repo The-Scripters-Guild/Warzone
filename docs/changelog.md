@@ -200,6 +200,10 @@ Current state: Mode working fully, with some notable missing features:
 - Updated warzone-sandbox to 0.21.1
 - Changed AI inactivity before Gameplay Start to being deaf and blind as they were still moving in similar ways after Gameplay Start.
 
+### 0.9.6
+
+- Added warning docked nav marker for players whose core is being damaged.
+- Increased density of warning sounds when a core is being damaged.
 
 
 
