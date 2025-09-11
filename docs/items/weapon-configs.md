@@ -998,8 +998,8 @@ The configurations that make up each of the custom weapons.
 
 ## [106] Needler
 - Weapon Type: Needler
-- REQ Tier: 2
-- Game State: 1
+- REQ Tier: 1
+- Game State: 0
 
 ## [107] Plasma Pistol
 - Weapon Type: Plasma Pistol
