@@ -205,6 +205,12 @@ Current state: Mode working fully, with some notable missing features:
 - Added warning docked nav marker for players whose core is being damaged.
 - Increased density of warning sounds when a core is being damaged.
 
+### 0.9.7
+
+- Added an alternating Prompt Widget message while dead that shows between "Open Menu" and "Points X/Y" with the player points and Game State, just like it shows while alive.
+- Made core destroying docked nav marker disappear if core health reaches 0%.
+- Removed debug print to killfeed when AI count reached max of 32.
+
 
 
 
@@ -552,6 +558,16 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 
 - Increased projectile speed of [38] Hunters Right Hand from 250 → 350.
 
+### 0.21.2
+
+- Increased weapon damage of:
+  - [1] Marksman Sidekick: 0.60 → 0.66
+- Replaced weapon: [45] Tactical Carbine:
+  - Weapon Type: Vestige Carbine + MA40 Longshot
+  - Weapon Damage: 1.20
+  - Ammo: 25+40
+- Reverted automatic weapon despawn time from 30 → 40 s as it did not seem to fix the issue with player spawning with no weapon, and was leading to weapons despawning too fast for Warzone gameplay.
+
 
 
 
@@ -631,3 +647,26 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
   - [112] Shock Rifle: 6 → 5
   - [73] Purging Shock Rifle: 7 → 5
   - [64] Calcine Disruptor: 7 → 6
+
+### 0.3.1
+
+- Fixed spawn radial refresh and spawn interruption logic.
+
+### 0.3.2
+
+- Added display of the player's points or level on the Main Radial item descriptions.
+- Fixed a disconnected Object pin in the forceSpawnRadial event which may have led to multiple issues with the spawn interruption code not working.
+- Decreased equipment costs:
+  - [1] Drop Wall: 2 → 1
+  - [5] Shroud Screen: 2 → 1
+  - [6] Threat Sensor: 2 → 1
+  - [7] Thruster: 2 → 1
+  - [2] Grappleshot: 3 → 2
+  - [4] Repulsor: 3 → 2
+  - [16] Legendary Grappleshot: 4 → 3
+  - [17] Legendary Threat Sensor: 4 → 3
+  - [15] Legendary Drop Wall: 5 → 3
+  - [10] Quantum Translocator: 4 → 3
+  - [11] Health Steal: 6 → 5
+- Decreased weapon costs:
+  - [106] Needler: 2 → 1
