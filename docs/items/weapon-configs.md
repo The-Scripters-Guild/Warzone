@@ -602,12 +602,12 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [45] Tactical Carbine
-- Weapon Type: Base Weapon +  Config Weapon
+- Weapon Type: Vestige Carbine + MA40 Longshot
 - Trait Set: 45
-  - Weapon Damage: 0.80
+  - Weapon Damage: 1.20
 - Config: Combo
-- Ammo Adjustment: -60
-  - 40+80
+- Ammo Adjustment: -43.5
+  - 25+40
 - REQ Tier: 2
 - Game State: 1
 - Notes: -
