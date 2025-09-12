@@ -211,6 +211,30 @@ Current state: Mode working fully, with some notable missing features:
 - Made core destroying docked nav marker disappear if core health reaches 0%.
 - Removed debug print to killfeed when AI count reached max of 32.
 
+### 0.10.0
+
+- Added failsafes to coreDestruction event that kill two first AI so the Sentry Bosses (explosion) can spawn, and used For N Iterations function to hopefully not cause a thread freeze if something in the AI spawning process fails, so the game at least ends.
+- Adjusted wait time between spawning an AI and assigning the AI's squad to the closest Move Zone from 2 → 5 seconds in an effort to fix the Eagle Armory AI sometimes getting assigned to the Move Zone under Eagle Armory.
+- Adjusted setClosestSpawnPoint to look through all spawn points instead of just Team 8 ones as some spawn points designated for AI are on Neutral team.
+- Added a fallback for teleporting AI back to their designated spawn point if they teleport back to the AI Spawner platform for some reason such as the Harbinger during its scripted sequence that's pulled from the Campaign.
+- Added audio ques for damaging the core past thresholds of 75%, 50% and 25%.
+- Added music to the start of the game, and Legendary and Mythic boss fights.
+- Overhaul to the amount of Game States:
+  - "gameState" changed to "level".
+  - First level starts at 1 instead of 0
+  - Last level is 9 instead of 6.
+  - Total 9 levels instead of 7.
+- Overhaul to the total team point thresholds per Game State/Level:
+  - 1: 0
+  - 2: 50
+  - 3: 100 → 200
+  - 4: 250 → 400
+  - 5: 375 → 600
+  - 6: 625 → 750
+  - 7: 800 → 850
+  - 8: --- → 950
+  - 9: --- → 1000
+
 
 
 
@@ -566,8 +590,12 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
   - Weapon Type: Vestige Carbine + MA40 Longshot
   - Weapon Damage: 1.20
   - Ammo: 25+40
-- Reverted automatic weapon despawn time from 30 → 40 s as it did not seem to fix the issue with player spawning with no weapon, and was leading to weapons despawning too fast for Warzone gameplay.
 
+### 0.21.3
+
+- Increased Motion Sensor distance while using [2] Upgraded Sensors from 32 m to 40 m.
+- Updated resetVars event to split into resetVars_unit.
+- Reverted automatic weapon despawn time from 30 → 40 s as it did not seem to fix the issue with player spawning with no weapon, and was leading to weapons despawning too fast for Warzone gameplay.
 
 
 
@@ -670,3 +698,38 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
   - [11] Health Steal: 6 → 5
 - Decreased weapon costs:
   - [106] Needler: 2 → 1
+
+### 0.4.0
+
+- Changed the "Grenade Specialist" item icon in the Ability Boosts Radial to a Dynamo Grenade so players would want to select it more and realize it's a nested menu with four options.
+- Changed "Loadouts" message in the Main Radial to "Loadout Weapons".
+- Added a failsafe for the Spawn Radial where the menu items are only enabled if you are dead along with the other conditions.
+- Updated "Grenade Operator" names to "Grenade Specialist".
+- Updated "Heal Boost" to "Auto Medic".
+- Neutralizing a zone will now disable all spawns inside the zone to prevent enemy players from spawning inside a zone while it's being captured. The spawns will be enabled again after a capture is completed.
+- Made "Level x/y" show up in the description of a Radial Menu Item if that is the factor determining the menu item being disabled instead of not having enough points.
+- Separated Points and Level display into separate Menu Items in the "Your Items" radial.
+- Added "Next Radial" message to the description of the Numbered page menu items in the Weapon and Vehicle radials.
+- Adjusted vehicle costs:
+  - [3] Gungoose: 2 → 3
+  - [8] Warthog: 4 → 3
+  - [15] Plasma Warthog: 6 → 5
+- Overhauled loadout weapon levels:
+  - **Old**
+  - 1: [101] MA40 Assault Rifle, [105] Mk50 Sidekick
+  - 2: [1] Marksman Sidekick
+  - 3: [3] Hardlight Assault Rifle, [92] Bandit Evo
+  - 4: [102] MA5K Avenger, [99] M392 Bandit
+  - 5: [115] VK78 Commando, [4] Hardlight Avenger
+  - 6: [91] BR75, [9] Hardlight Commando
+  - 7: [5] Hardlight Battle Rifle
+  - **New**
+  - 1: [101] MA40 Assault Rifle, [105] Mk50 Sidekick
+  - 2: [1] Marksman Sidekick
+  - 3: [3] Hardlight Assault Rifle, [115] VK78 Commando
+  - 4: [9] Hardlight Commando
+  - 5: [102] MA5K Avenger
+  - 6: [4] Hardlight Avenger, [99] M392 Bandit
+  - 7: [91] BR75
+  - 8: [5] Hardlight Battle Rifle
+  - 9: [92] Bandit Evo
