@@ -28,8 +28,8 @@ Vehicle configuration reference.
 ## [3] Gungoose
 - Vehicle Type: Gungoose
 - Object Variable: Gungoose
-- REQ Tier: 2
-- Game State: 1
+- REQ Tier: 3
+- Game State: 2
 - Notes: -
 
 ## [4] Mongoose
@@ -63,8 +63,8 @@ Vehicle configuration reference.
 ## [8] Warthog
 - Vehicle Type: Warthog
 - Object Variable: Warthog
-- REQ Tier: 4
-- Game State: 3
+- REQ Tier: 3
+- Game State: 2
 - Notes: -
 
 ## [9] Wasp
@@ -112,8 +112,8 @@ Vehicle configuration reference.
 ## [15] Plasma Warthog
 - Vehicle Type: Warthog
 - Object Variable: Warthog
-- REQ Tier: 6
-- Game State: 5
+- REQ Tier: 5
+- Game State: 4
 - Notes: Uses a custom vehicle weapon: [134] Rocket Hog Weapon + Unbound Plasma Pistol.
 
 ## [16] Phantom Wasp
