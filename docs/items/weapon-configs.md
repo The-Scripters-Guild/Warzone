@@ -36,7 +36,7 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: -50
   - 40+60
-- REQ Tier: Loadout
+- REQ Tier: 0
 - Game State: 1
 - Notes: -
 
@@ -49,7 +49,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 30+90
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: -
 
 ## [3] Hardlight Assault Rifle
@@ -62,7 +62,7 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
-- REQ Tier: Loadout
+- REQ Tier: 0
 - Game State: 2
 - Notes: -
 
@@ -76,7 +76,7 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
-- REQ Tier: Loadout
+- REQ Tier: 4
 - Game State: 4
 - Notes: -
 
@@ -90,7 +90,7 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
-- REQ Tier: Loadout
+- REQ Tier: 6
 - Game State: 6
 - Notes: -
 
@@ -102,7 +102,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: 34
   - 14+70
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: -
 
 ## [7] ONI Bandit
@@ -113,7 +113,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 25+75
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 - Notes: -
 
 ## [8] Scions Vision
@@ -124,7 +124,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: +6
   - 30+100
 - REQ Tier: 7
-- Game State: 6
+- Game State: 7
 - Notes: -
 
 ## [9] Hardlight Commando
@@ -137,7 +137,7 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
-- REQ Tier: Loadout
+- REQ Tier: 0
 - Game State: 5
 - Notes: -
 
@@ -149,7 +149,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: 34
   - 14+70
 - REQ Tier: 3
-- Game State: 2
+- Game State: 3
 - Notes: -
   
 ## [11] Rush Bulldog
@@ -160,7 +160,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -50
   - 30+60
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 - Notes: -
   
 ## [12] Valor Of Dinh
@@ -172,7 +172,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 7+7
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: -
   
 ## [13] Valkyrie
@@ -188,7 +188,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: 42
   - 4+12
 - REQ Tier: 8
-- Game State: 6
+- Game State: 8
 - Notes: -
   
 ## [14] Hardlight Plasma Pistol
@@ -199,7 +199,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 100%
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 - Notes: -
 
 ## [15] Overloaded Pulse Carbine
@@ -211,7 +211,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 100%
 - REQ Tier: 7
-- Game State: 6
+- Game State: 7
 - Notes: -
   
 ## [16] Pulse Wave
@@ -222,7 +222,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -40
   - 40%
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: -
   
 ## [17] Spire Of Barroth
@@ -233,7 +233,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 100%
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: -
   
 ## [18] Eayn Stalker Rifle
@@ -244,7 +244,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -85
   - 85%
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 - Notes: -
 
 ## [19] Zealot Ravager
@@ -254,7 +254,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 100%
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: -
 
 ## [20] Rage Of Iratus
@@ -266,7 +266,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 100%
 - REQ Tier: 7
-- Game State: 6
+- Game State: 7
 - Notes: -
 
 ## [21] Decaying Charge
@@ -278,7 +278,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 12+36
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 - Notes: -
 
 ## [22] Blinding Payload
@@ -289,7 +289,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: 50
   - 2+8
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: Secondary fire shoots two charged Ravager shots at once.
 
 ## [23] Tripple Threat
@@ -300,7 +300,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -33.5
     - 30+30
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: -
 
 ## [24] Focus Beam
@@ -311,7 +311,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 40+120
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: -
 
 ## [25] The Final Token
@@ -323,7 +323,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: 50
   - 14+84
 - REQ Tier: 7
-- Game State: 6
+- Game State: 7
 - Notes: -
 
 ## [26] Phantom Assassin
@@ -333,7 +333,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -35
   - 6+0
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 - Notes: -
 
 ## [27] Scout Skewer
@@ -350,7 +350,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -50
   - 6+0
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 - Notes: -
 
 ## [28] ONI Avenger
@@ -361,7 +361,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: 20
   - 40+160
 - REQ Tier: 4
-- Game State 3
+- Game State 4
 - Notes: -
 
 ## [29] ONI Turret
@@ -373,7 +373,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 100%
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: -
   
 ## [30] Doom Of Reach
@@ -390,7 +390,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 100%
 - REQ Tier: 7
-- Game State: 6
+- Game State: 7
 - Notes: -  
   
 ## [31] The Champion
@@ -403,7 +403,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 100%
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: -
 
 ## [32] Spartan Sandwich
@@ -416,7 +416,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
     - Unlimited
 - REQ Tier: 6
-- Game State: 4
+- Game State: 6
 - Notes: Has unlimited Duelist Energy Sword melees and fast movement speed, but can't lunge. Has the fastest movement speed in the sandbox.
 
 ## [33] Guardian Of Sanghelios
@@ -428,7 +428,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 100%
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 - Notes: -
 
 ## [34] Sentry Of Writh Kul
@@ -447,7 +447,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -75
   - 75%
 - REQ Tier: 7
-- Game State: 6
+- Game State: 7
 - Notes: The second trait set only applies while zoomed.
 
 ## [35] Rogue Juggernaut
@@ -464,7 +464,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 100%
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 - Notes: The traits and VFX only apply when zoomed and not airborne.
 
 ## [36] Demon
@@ -480,7 +480,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 100%
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 - Notes: Makes audible noise that alerts the enemy team to a wielder's presence in close range.
 
 ## [37] Spike Of Thav 'Sebarim
@@ -495,7 +495,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 10+10
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: -
 
 ## [38] Hunters Right Hand
@@ -510,7 +510,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -13
   - 10+0
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 - Notes: -
 
 ## [39] Rain Of War
@@ -525,7 +525,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: 70
   -  2+6
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 - Notes: -
 
 ## [40] Exterminating Frenzy
@@ -541,7 +541,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: 34
     - 2+4
 - REQ Tier: 8
-- Game State: 6
+- Game State: 8
 - Notes: -
 
 ## [41] A Go At
@@ -557,7 +557,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: 25
   - 10+20
 - REQ Tier: 3
-- Game State: 2
+- Game State: 3
 - Notes: -
 
 ## [42] ONI Assault Rifle
@@ -568,7 +568,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -70
   - 40+100
 - REQ Tier: 2
-- Game State: 1
+- Game State: 2
 - Notes: -
 
 ## [43] Banish Of Balaho
@@ -583,7 +583,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -12
   - 10+0
 - REQ Tier: 9
-- Game State: 6
+- Game State: 9
 - Notes: -
 
 ## [44] Thunderstorm
@@ -598,7 +598,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -10
   - 20+0
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: -
 
 ## [45] Tactical Carbine
@@ -609,7 +609,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -43.5
   - 25+40
 - REQ Tier: 2
-- Game State: 1
+- Game State: 2
 - Notes: -
   
 ## [46] Light Of Doisac
@@ -621,7 +621,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: 60
   - 4+16
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 - Notes: -
 
 ## [47] Scorpion Tail
@@ -632,7 +632,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -3.50
   - 04% (6 shots)
 - REQ Tier: 9
-- Game State: 6
+- Game State: 9
 - Notes: -
 
 ## [48] Headhunter
@@ -647,7 +647,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -70
   - 6+6
 - REQ Tier: 7
-- Game State: 6
+- Game State: 7
 - Notes: Damage output based off of secondary fire strength; primary fire is pretty useless.
 
 ## [49] Volcanic Oasis
@@ -658,7 +658,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
     - 6+12
 - REQ Tier: 8
-- Game State: 6
+- Game State: 8
 - Notes: Damage output based off of secondary fire strength; primary fire is not as effective.
 
 ## [50] Gamma Shot
@@ -670,7 +670,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -10.50
   - 10% (16 shots)
 - REQ Tier: 9
-- Game State: 6
+- Game State: 9
 - Notes: Cindershot projectiles track enemies within red-reticle range. Ability to zoom while stationary.
 
 ## [51] Seeking Hydra
@@ -681,7 +681,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -50
   - 14+28
 - REQ Tier: 3
-- Game State: 2
+- Game State: 3
 - Notes: Secondary fire is the only effictive method of using the weapon.
 
 ## [52] Siege Bandit
@@ -695,7 +695,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 14+14
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 - Notes: 4 Shot perfect. Long red reticle range.
 
 ## [53] Cure Of The Haunted
@@ -705,7 +705,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: 100
   - 30+90
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 - Notes: Shoots needles really fast causing the supercombine really quick. Must be used close range due to the needler tracking range being short.
 
 ## [54] Unallocated
@@ -774,122 +774,122 @@ The configurations that make up each of the custom weapons.
 ## [61] Arcane Sentinel Beam
 - Weapon Type: Arcane Sentinel Beam
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 
 ## [62] BR75 Breacher
 - Weapon Type: BR75 Breacher
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 
 ## [63] Backdraft Cindershot
 - Weapon Type: Backdraft Cindershot
 - REQ Tier: 3
-- Game State: 2
+- Game State: 3
 
 ## [64] Calcine Disruptor
 - Weapon Type: Calcine Disruptor
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 
 ## [65] Convergence Bulldog
 - Weapon Type: Convergence Bulldog
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 
 ## [66] Diminisher of Hope
 - Weapon Type: Diminisher of Hope
 - REQ Tier: 7
-- Game State: 6
+- Game State: 7
 
 ## [67] Duelist Energy Sword
 - Weapon Type: Duelist Energy Sword
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 
 ## [68] Elite Bloodblade
 - Weapon Type: Elite Bloodblade
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 
 ## [69] Impact Commando
 - Weapon Type: Impact Commando
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 
 ## [70] M41 Tracker
 - Weapon Type: M41 Tracker
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 
 ## [71] MA40 Longshot
 - Weapon Type: MA40 Longshot
 - REQ Tier: 2
-- Game State: 1
+- Game State: 2
 
 ## [72] Pinpoint Needler
 - Weapon Type: Pinpoint Needler
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 
 ## [73] Purging Shock Rifle
 - Weapon Type: Purging Shock Rifle
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 
 ## [74] Pursuit Hydra
 - Weapon Type: Pursuit Hydra
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 
 ## [75] Rapidfire Pulse Carbine
 - Weapon Type: Rapidfire Pulse Carbine
 - REQ Tier: 3
-- Game State: 2
+- Game State: 3
 
 ## [76] Ravager Rebound
 - Weapon Type: Ravager Rebound
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 
 ## [77] Riven Mangler
 - Weapon Type: Riven Mangler
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 
 ## [78] Rushdown Hammer
 - Weapon Type: Rushdown Hammer
 - REQ Tier: 8
-- Game State: 6
+- Game State: 8
 
 ## [79] S7 Flexfire Sniper
 - Weapon Type: S7 Flexfire Sniper
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 
 ## [80] Scatterbound Heatwave
 - Weapon Type: Scatterbound Heatwave
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 
 ## [81] Stalker Rifle Ultra
 - Weapon Type: Stalker Rifle Ultra
 - REQ Tier: 7
-- Game State: 6
+- Game State: 7
 
 ## [82] Striker Sidekick
 - Weapon Type: Striker Sidekick
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 
 ## [83] Unbound Plasma Pistol
 - Weapon Type: Unbound Plasma Pistol
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 
 ## [84] Volatile Skewer
 - Weapon Type: Volatile Skewer
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 
 ## [85] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
@@ -923,143 +923,143 @@ The configurations that make up each of the custom weapons.
 
 ## [91] BR75
 - Weapon Type: BR75
-- REQ Tier: -
+- REQ Tier: 0
 - Game State: 5
 
 ## [92] Bandit Evo
 - Weapon Type: Bandit Evo
-- REQ Tier: -
+- REQ Tier: 0
 - Game State: 2
 
 ## [93] CQS48 Bulldog
 - Weapon Type: CQS48 Bulldog
 - REQ Tier: 3
-- Game State: 2
+- Game State: 3
 
 ## [94] Cindershot
 - Weapon Type: Cindershot
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 
 ## [95] Disruptor
 - Weapon Type: Disruptor
 - REQ Tier: 3
-- Game State: 2
+- Game State: 3
 
 ## [96] Energy Sword
 - Weapon Type: Energy Sword
 - REQ Tier: 3
-- Game State: 2
+- Game State: 3
 
 ## [97] Gravity Hammer
 - Weapon Type: Gravity Hammer
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 
 ## [98] Heatwave
 - Weapon Type: Heatwave
 - REQ Tier: 3
-- Game State: 2
+- Game State: 3
 
 ## [99] M392 Bandit
 - Weapon Type: M392 Bandit
-- REQ Tier: -
-- Game State: 3
+- REQ Tier: 0
+- Game State: 4
 
 ## [100] M41 SPNKr
 - Weapon Type: M41 SPNKr
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 
 ## [101] MA40 Assault Rifle
 - Weapon Type: MA40 Assault Rifle
-- REQ Tier: -
-- Game State: 0
+- REQ Tier: 0
+- Game State: 1
 
 ## [102] MA5K Avenger
 - Weapon Type: MA5K Avenger
-- REQ Tier: -
-- Game State: 3
+- REQ Tier: 0
+- Game State: 4
 
 ## [103] MLRS-2 Hydra
 - Weapon Type: MLRS-2 Hydra
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 
 ## [104] Mangler
 - Weapon Type: Mangler
 - REQ Tier: 3
-- Game State: 2
+- Game State: 3
 
 ## [105] Mk50 Sidekick
 - Weapon Type: Mk50 Sidekick
-- REQ Tier: -
-- Game State: 0
+- REQ Tier: 0
+- Game State: 1
 
 ## [106] Needler
 - Weapon Type: Needler
 - REQ Tier: 1
-- Game State: 0
+- Game State: 1
 
 ## [107] Plasma Pistol
 - Weapon Type: Plasma Pistol
 - REQ Tier: 2
-- Game State: 1
+- Game State: 2
 
 ## [108] Pulse Carbine
 - Weapon Type: Pulse Carbine
 - REQ Tier: 2
-- Game State: 1
+- Game State: 2
 
 ## [109] Ravager
 - Weapon Type: Ravager
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 
 ## [110] S7 Sniper Rifle
 - Weapon Type: S7 Sniper Rifle
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 
 ## [111] Sentinel Beam
 - Weapon Type: Sentinel Beam
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 
 ## [112] Shock Rifle
 - Weapon Type: Shock Rifle
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 
 ## [113] Skewer
 - Weapon Type: Skewer
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 
 ## [114] Stalker Rifle
 - Weapon Type: Stalker Rifle
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 
 ## [115] VK78 Commando Rifle
 - Weapon Type: VK78 Commando Rifle
-- REQ Tier: -
-- Game State: 4
+- REQ Tier: 0
+- Game State: 5
 
 ## [116] Fuel Rod SPNKr
 - Weapon Type: Fuel Rod SPNKr
 - REQ Tier: 6
-- Game State: 5
+- Game State: 6
 
 ## [117] Mutilator
 - Weapon Type: Mutilator
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 
 ## [118] Vestige Carbine
 - Weapon Type: Vestige Carbine
 - REQ Tier: 4
-- Game State: 3
+- Game State: 4
 
 ## [119] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
@@ -1074,17 +1074,17 @@ The configurations that make up each of the custom weapons.
 ## [121] M247 HMG
 - Weapon Type: M247 HMG
 - REQ Tier: 3
-- Game State: 2
+- Game State: 3
 
 ## [122] Scrap Cannon
 - Weapon Type: Scrap Cannon
 - REQ Tier: 3
-- Game State: 2
+- Game State: 3
 
 ## [123] Plasma Cannon
 - Weapon Type: Plasma Cannon
 - REQ Tier: 5
-- Game State: 4
+- Game State: 5
 
 ## [124] Infected Energy Sword
 - Weapon Type: Infected Energy Sword
