@@ -74,7 +74,7 @@ The configurations that make up each of the ability boosts.
     - Motion Tracker Enabled: TRUE
     - Enabled While Zooming: TRUE
   - Motion Tracker Range
-    - Inner Ring Scalar: 1.35
+    - Inner Ring Scalar: 1.666
     - Extended Range Scalar: 1.10
     - Vehicle Range Scalar: 1.00
 - Game State: 4
