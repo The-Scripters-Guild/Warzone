@@ -37,7 +37,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: -50
   - 40+60
 - Point Cost: 0
-- Level: 1
+- Level: 2
 - Notes: -
 
 ## [2] Key Of Speed
@@ -63,7 +63,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 80+80
 - Point Cost: 0
-- Level: 2
+- Level: 3
 - Notes: -
 
 ## [4] Hardlight Avenger
@@ -76,8 +76,8 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
-- Point Cost: 4
-- Level: 4
+- Point Cost: 0
+- Level: 6
 - Notes: -
 
 ## [5] Hardlight Battle Rifle
@@ -90,8 +90,8 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: None
   - 80+80
-- Point Cost: 6
-- Level: 6
+- Point Cost: 0
+- Level: 8
 - Notes: -
 
 ## [6] ONI Battle Rifle
@@ -138,7 +138,7 @@ The configurations that make up each of the custom weapons.
 - Ammo Adjustment: None
   - 80+80
 - Point Cost: 0
-- Level: 5
+- Level: 4
 - Notes: -
 
 ## [10] ONI Commando
@@ -924,12 +924,12 @@ The configurations that make up each of the custom weapons.
 ## [91] BR75
 - Weapon Type: BR75
 - Point Cost: 0
-- Level: 5
+- Level: 7
 
 ## [92] Bandit Evo
 - Weapon Type: Bandit Evo
 - Point Cost: 0
-- Level: 2
+- Level: 9
 
 ## [93] CQS48 Bulldog
 - Weapon Type: CQS48 Bulldog
@@ -964,7 +964,7 @@ The configurations that make up each of the custom weapons.
 ## [99] M392 Bandit
 - Weapon Type: M392 Bandit
 - Point Cost: 0
-- Level: 4
+- Level: 6
 
 ## [100] M41 SPNKr
 - Weapon Type: M41 SPNKr
@@ -979,7 +979,7 @@ The configurations that make up each of the custom weapons.
 ## [102] MA5K Avenger
 - Weapon Type: MA5K Avenger
 - Point Cost: 0
-- Level: 4
+- Level: 5
 
 ## [103] MLRS-2 Hydra
 - Weapon Type: MLRS-2 Hydra
@@ -1041,10 +1041,10 @@ The configurations that make up each of the custom weapons.
 - Point Cost: 5
 - Level: 5
 
-## [115] VK78 Commando Rifle
-- Weapon Type: VK78 Commando Rifle
+## [115] VK78 Commando
+- Weapon Type: VK78 Commando
 - Point Cost: 0
-- Level: 5
+- Level: 3
 
 ## [116] Fuel Rod SPNKr
 - Weapon Type: Fuel Rod SPNKr
