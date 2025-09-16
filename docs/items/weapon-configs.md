@@ -708,14 +708,14 @@ The configurations that make up each of the custom weapons.
 - Level: 6
 - Notes: Shoots needles really fast causing the supercombine really quick. Must be used close range due to the needler tracking range being short.
 
-## [54] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [54] Duelist Plasma Pistol
+- Weapon Type: Original Plasma Pistol + Diminisher of Hope
 - Trait Set: 54
 - Config: Default
 - Ammo Adjustment: None
-- Point Cost: -
-- Level: -
-- Notes: -
+- Point Cost: 2
+- Level: 2
+- Notes: Can't EMP vehicles. Has better charge shot tracking than normal Plasma Pistol. Has no zoom, but a matching red-reticle range to the normal Plasma Pistol. Is basically the Plasma Pistol from Halo Infinite's multiplayer launch without a zoom.
 
 ## [55] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
