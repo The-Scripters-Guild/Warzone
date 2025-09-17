@@ -372,8 +372,8 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
-- Point Cost: 5
-- Level: 5
+- Point Cost: 4
+- Level: 4
 - Notes: -
   
 ## [30] Doom Of Reach

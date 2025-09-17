@@ -23,11 +23,10 @@
 |            |         |                       |                         |   Hunters Right Hand    |     Stalker Rifle      |      Scout Skewer      |                          |                      |                  |
 |            |         |                       |                         |       ONI Avenger       |    Spire Of Barroth    |    Volatile Skewer     |                          |                      |                  |
 |            |         |                       |                         |     Vestige Carbine     |         Skewer         |         Demon          |                          |                      |                  |
-|            |         |                       |                         |                         |      Thunderstorm      | Guardian Of Sanghelios |                          |                      |                  |
+|            |         |                       |                         |       ONI Turret        |      Thunderstorm      | Guardian Of Sanghelios |                          |                      |                  |
 |            |         |                       |                         |                         |  Duelist Energy Sword  |                        |                          |                      |                  |
 |            |         |                       |                         |                         |       Focus Beam       |                        |                          |                      |                  |
 |            |         |                       |                         |                         | Spike Of Thav 'Sebarim |                        |                          |                      |                  |
-|            |         |                       |                         |                         |       ONI Turret       |                        |                          |                      |                  |
 |            |         |                       |                         |                         |      The Champion      |                        |                          |                      |                  |
 |            |         |                       |                         |                         |     Plasma Cannon      |                        |                          |                      |                  |
 
