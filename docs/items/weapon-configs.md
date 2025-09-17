@@ -166,7 +166,7 @@ The configurations that make up each of the custom weapons.
 ## [12] Valor Of Dinh
 - Weapon Type: CQS48 Bulldog + Diminisher Of Hope
 - Trait Set: 12
-  - Weapon Damage: 2.90
+  - Weapon Damage: 2.33
 - VFX: Infected Beta (25)
 - Config: Combo
 - Ammo Adjustment: None
@@ -604,7 +604,7 @@ The configurations that make up each of the custom weapons.
 ## [45] Tactical Carbine
 - Weapon Type: Vestige Carbine + MA40 Longshot
 - Trait Set: 45
-  - Weapon Damage: 1.20
+  - Weapon Damage: 1.60
 - Config: Combo
 - Ammo Adjustment: -43.5
   - 25+40
