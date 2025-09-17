@@ -680,8 +680,8 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: -50
   - 14+28
-- Point Cost: 3
-- Level: 3
+- Point Cost: 2
+- Level: 2
 - Notes: Secondary fire is the only effictive method of using the weapon.
 
 ## [52] Siege Bandit
@@ -983,8 +983,8 @@ The configurations that make up each of the custom weapons.
 
 ## [103] MLRS-2 Hydra
 - Weapon Type: MLRS-2 Hydra
-- Point Cost: 4
-- Level: 4
+- Point Cost: 3
+- Level: 3
 
 ## [104] Mangler
 - Weapon Type: Mangler
