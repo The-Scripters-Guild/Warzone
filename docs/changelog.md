@@ -213,6 +213,7 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.10.0
 
+- Updated warzone-sandbox to 0.21.3
 - Added failsafes to coreDestruction event that kill two first AI so the Sentry Bosses (explosion) can spawn, and used For N Iterations function to hopefully not cause a thread freeze if something in the AI spawning process fails, so the game at least ends.
 - Adjusted wait time between spawning an AI and assigning the AI's squad to the closest Move Zone from 2 → 5 seconds in an effort to fix the Eagle Armory AI sometimes getting assigned to the Move Zone under Eagle Armory.
 - Adjusted setClosestSpawnPoint to look through all spawn points instead of just Team 8 ones as some spawn points designated for AI are on Neutral team.
@@ -234,6 +235,46 @@ Current state: Mode working fully, with some notable missing features:
   - 7: 800 → 850
   - 8: --- → 950
   - 9: --- → 1000
+
+### 0.10.1
+
+- Updated warzone-sandbox to 0.21.4
+- Adjusted custom starting music to start after Gameplay Start as othewise it overlaps with the built-in starting music. The built-in mode music needs to stay in the mode to reduce custom scripted music logic.
+
+### 0.10.2
+
+- Adjusted starting music to stay on until the 20 second mark.
+- Fixed issue in boss music that was causing a singular music to always play when any encounter value under 5 started.
+
+### 0.10.3
+
+- Adjusted Thav 'Sebarim's Weapon Damage trait from 0.40 → 0.80 so the Pulse Wave he wields does more damage; seems like AI have lowered damage by default.
+- Adjusted personal score grant from killing a "Brute Chieftain Turret" from 200 → 300.
+
+### 0.10.5
+
+- Updated warzone-sandbox to 0.21.5
+- Replaced custom weapon types that are given to bosses to be the ones pulled from the weaponTypes list instead of custom weapon type combinations so they update correctly with changes.
+- Added "Level: x" display to Objective Banner to provide more communication on what the global Level is.
+- 0.10.4 is an invalid string in Halo Infinite.
+
+### 0.10.6
+
+- Major fix to loot drops where 0-values were not being accounted for and the secondary weapon, equipment and grenade drops were not being correctly given. This issue caused Mk50 Sidekicks to be dropped in every loot drop, which were persisting throughout the entire match as they have a 10000 second despawn time in the code, and were most likely causing issues that resulted in the total dropped weapon limit being reached earlier than expected.
+
+### 0.10.7
+
+- Changed AI Spawners to Team 8 (Hazard) and excluded other teams than Eagle and Cobra from gaining boss kill benefits. This fixes boss loot drops on for automatically killed AI.
+- Changed weapon despawn time for loose granted weapons from 10000 s to 120 s.
+
+### 0.10.8
+
+- Fixed core 25% health audio playing swapped voice lines for each team.
+
+### 0.10.9
+
+- Fixed issue with marines not being able to spawn after enemies had been in the zone when the capturable zone logic was changed from TotalControl to Stronghold.
+
 
 
 
@@ -597,6 +638,20 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 - Updated resetVars event to split into resetVars_unit.
 - Reverted automatic weapon despawn time from 30 → 40 s as it did not seem to fix the issue with player spawning with no weapon, and was leading to weapons despawning too fast for Warzone gameplay.
 
+### 0.21.4
+
+- Added new weapon:
+  - [54] Duelist Plasma Pistol
+- Adjusted weapon type of [14] Hardlight Plasma Pistol: Plasma Pistol + Arcane Sentinel Beam → Original Plasma Pistol + Arcane Sentinel Beam.
+- Adjusted weapon damage of:
+  - [12] Valor of Dinh: 2.90 → 2.33
+  - [45] Tactical Carbine: 1.20 → 1.60
+
+### 0.21.5
+
+- Increased amount of reserved carrier clones from 28 → 36, and added debug to show player index during grantWeapon event for custom weapons to try and debug weapons not spawning issue.
+
+
 
 
 
@@ -733,3 +788,41 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
   - 7: [91] BR75
   - 8: [5] Hardlight Battle Rifle
   - 9: [92] Bandit Evo
+
+### 0.4.1
+
+- Decreased cost of items:
+  - [10] Quantum Translocator from 3 → 2.
+  - [29] ONI Turret from 5 → 4.
+- Fixed [20] Rage Of Iratus name in script.
+- Updated weapon menu item placements so they show up in the correct order.
+
+### 0.4.2
+
+- Decreased cost of weapons:
+  - [51] Seeking Hydra: 3 → 2.
+  - [103] MLRS-2 Hydra: 4 → 3.
+- Changed delay for automatically spawning after closing the menu while dead from 3 → 2 seconds.
+- Changed logWeaponValue event to async, and connected the Object pin. Before it was also logging bot weapon purchases due to no Object pin connected.
+
+### 0.5.0
+
+- Overhauled Weapons Radial ordering and page system. Now the first page has shortcuts to the next 4 pages. This makes navigating to each page take the same amount of selections.
+- Made the player's screen go black for the short duration they are not in a vehicle right after spawning and having chosen to purchase a vehicle from the menu.
+
+### 0.5.1
+
+- Increased cost of weapons:
+  - [65] Convergence Bulldog: 5 → 6.
+  - [83] Unbound Plasma Pistol: 5 → 6.
+
+### 0.5.2
+
+- Fixed issue with custom black screen before being granted a vehicle that was causing it to not show up.
+- Increased cost of weapons:
+  - [96] Energy Sword: 3 → 4.
+  - [35] Rogue Juggernaut: 4 → 5.
+  - [68] Elite Bloodblade: 4 → 5.
+  - [67] Duelist Energy Sword: 5 → 6.
+  - [36] Demon: 6 → 7.
+- Decreased cost of [74] Pursuit Hydra: 6 → 5.
