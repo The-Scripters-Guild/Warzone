@@ -838,8 +838,8 @@ The configurations that make up each of the custom weapons.
 
 ## [74] Pursuit Hydra
 - Weapon Type: Pursuit Hydra
-- Point Cost: 6
-- Level: 6
+- Point Cost: 5
+- Level: 5
 
 ## [75] Rapidfire Pulse Carbine
 - Weapon Type: Rapidfire Pulse Carbine
