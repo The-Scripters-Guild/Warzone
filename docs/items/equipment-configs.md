@@ -142,7 +142,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Custom Charge Count: 1
 - Default Charge Count: 1
 - Duration: 30 s
-- REQ Tier: 3
+- REQ Tier: 2
 - Level: 1
 - Notes: -
 
