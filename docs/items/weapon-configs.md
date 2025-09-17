@@ -463,8 +463,8 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
-- Point Cost: 4
-- Level: 4
+- Point Cost: 5
+- Level: 5
 - Notes: The traits and VFX only apply when zoomed and not airborne.
 
 ## [36] Demon
@@ -479,8 +479,8 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
-- Point Cost: 6
-- Level: 6
+- Point Cost: 7
+- Level: 7
 - Notes: Makes audible noise that alerts the enemy team to a wielder's presence in close range.
 
 ## [37] Spike Of Thav 'Sebarim
@@ -803,13 +803,13 @@ The configurations that make up each of the custom weapons.
 
 ## [67] Duelist Energy Sword
 - Weapon Type: Duelist Energy Sword
-- Point Cost: 5
-- Level: 5
+- Point Cost: 6
+- Level: 6
 
 ## [68] Elite Bloodblade
 - Weapon Type: Elite Bloodblade
-- Point Cost: 4
-- Level: 4
+- Point Cost: 5
+- Level: 5
 
 ## [69] Impact Commando
 - Weapon Type: Impact Commando
@@ -948,8 +948,8 @@ The configurations that make up each of the custom weapons.
 
 ## [96] Energy Sword
 - Weapon Type: Energy Sword
-- Point Cost: 3
-- Level: 3
+- Point Cost: 4
+- Level: 4
 
 ## [97] Gravity Hammer
 - Weapon Type: Gravity Hammer
