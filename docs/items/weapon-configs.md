@@ -192,7 +192,7 @@ The configurations that make up each of the custom weapons.
 - Notes: -
   
 ## [14] Hardlight Plasma Pistol
-- Weapon Type: Plasma Pistol + Arcane Sentinel Beam
+- Weapon Type: Original Plasma Pistol + Arcane Sentinel Beam
 - Trait Set: 14
   - Weapon Damage: 1.90
 - Config: Combo
