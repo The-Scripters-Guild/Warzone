@@ -793,8 +793,8 @@ The configurations that make up each of the custom weapons.
 
 ## [65] Convergence Bulldog
 - Weapon Type: Convergence Bulldog
-- Point Cost: 5
-- Level: 5
+- Point Cost: 6
+- Level: 6
 
 ## [66] Diminisher of Hope
 - Weapon Type: Diminisher of Hope
@@ -883,8 +883,8 @@ The configurations that make up each of the custom weapons.
 
 ## [83] Unbound Plasma Pistol
 - Weapon Type: Unbound Plasma Pistol
-- Point Cost: 5
-- Level: 5
+- Point Cost: 6
+- Level: 6
 
 ## [84] Volatile Skewer
 - Weapon Type: Volatile Skewer
