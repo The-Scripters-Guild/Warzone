@@ -808,8 +808,11 @@ The configurations that make up each of the custom weapons.
 
 ## [68] Elite Bloodblade
 - Weapon Type: Elite Bloodblade
-- Point Cost: 5
-- Level: 5
+- Ammo Adjustment: -40
+  - 40%
+- Point Cost: 3
+- Level: 3
+- Notes: Deals twice more damage to vehicles than normal Energy Sword.
 
 ## [69] Impact Commando
 - Weapon Type: Impact Commando
