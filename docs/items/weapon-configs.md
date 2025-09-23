@@ -601,16 +601,15 @@ The configurations that make up each of the custom weapons.
 - Level: 5
 - Notes: -
 
-## [45] Tactical Carbine
-- Weapon Type: Vestige Carbine + MA40 Longshot
+## [45] Kig-Yar Carbine
+- Weapon Type: Vestige Carbine + Pinpoint Needler
 - Trait Set: 45
-  - Weapon Damage: 1.60
 - Config: Combo
-- Ammo Adjustment: -43.5
-  - 25+40
+- Ammo Adjustment: 23
+  - 30+50
 - Point Cost: 2
 - Level: 2
-- Notes: -
+- Notes: Requires 8 needles to land on target to supercombine and kill a Spartan; individual needles do little damage.
   
 ## [46] Light Of Doisac
 - Weapon Type: S7 Sniper Rifle + Riven Mangler

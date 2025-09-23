@@ -8,7 +8,7 @@
 |            | Needler |   ONI Assault Rifle   |     ONI Commando     |       ONI Bandit        |      Key Of Speed      |    Striker Sidekick    |      Scions Vision       | Exterminating Frenzy | Banish Of Balaho |
 |            |         |     MA40 Longshot     |    CQS48 Bulldog     | Rapidfire Pulse Carbine |    ONI Battle Rifle    |    Impact Commando     |        Headhunter        |    Volcanic Oasis    |  Scorpion Tail   |
 |            |         |     Pulse Carbine     |       A Go At        |      Rush Bulldog       |      Siege Bandit      |  Cure Of The Haunted   |     The Final Token      |   Rushdown Hammer    |     Valkyrie     |
-|            |         |   Tactical Carbine    |     MLRS-2 Hydra     |      Riven Mangler      |     Valor Of Dinh      |      Rain Of War       |      Rage Of Iratus      |      Gamma Shot      |                  |
+|            |         |    Kig-Yar Carbine    |     MLRS-2 Hydra     |      Riven Mangler      |     Valor Of Dinh      |      Rain Of War       |      Rage Of Iratus      |      Gamma Shot      |                  |
 |            |         |     Plasma Pistol     | Backdraft Cindershot |     Decaying Charge     |       M41 SPNKr        |      M41 Tracker       |   Stalker Rifle Ultra    |                      |                  |
 |            |         | Duelist Plasma Pistol |       Heatwave       | Hardlight Plasma Pistol |     Tripple Threat     |     Fuel Rod SPNKr     |      Doom Of Reach       |                      |                  |
 |            |         |     Seeking Hydra     |       Mangler        |         Ravager         |      Shock Rifle       |    Spartan Sandwich    |   Sentry Of Writh Kul    |                      |                  |
