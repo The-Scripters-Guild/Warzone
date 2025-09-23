@@ -669,8 +669,8 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo Adjustment: -10.50
   - 10% (16 shots)
-- Point Cost: 9
-- Level: 9
+- Point Cost: 8
+- Level: 8
 - Notes: Cindershot projectiles track enemies within red-reticle range. Ability to zoom while stationary.
 
 ## [51] Seeking Hydra
