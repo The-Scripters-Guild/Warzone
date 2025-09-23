@@ -185,10 +185,10 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 3000
   - Projectile Config: 1
   - Projectile: Banished Hunter Shot
-- Ammo Adjustment: 42
-  - 4+12
-- Point Cost: 8
-- Level: 8
+- Ammo Adjustment: 30
+  - 4+10
+- Point Cost: 9
+- Level: 9
 - Notes: -
   
 ## [14] Hardlight Plasma Pistol
@@ -615,13 +615,13 @@ The configurations that make up each of the custom weapons.
 ## [46] Light Of Doisac
 - Weapon Type: S7 Sniper Rifle + Riven Mangler
 - Trait Set: 46
-  - Weapon Damage: 2.60
+  - Weapon Damage: 2.84
 - VFX: VIP (36)
 - Config: Combo
-- Ammo Adjustment: 60
-  - 4+16
-- Point Cost: 6
-- Level: 6
+- Ammo Adjustment: 24
+  - 4+8
+- Point Cost: 7
+- Level: 7
 - Notes: -
 
 ## [47] Scorpion Tail
