@@ -435,7 +435,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Plasma Cannon + Pinpoint Needler
 - Trait Set: 34
   - Weapon Damage: 1.50
-  - Movement Speed With Turret: 1.55
+  - Movement Speed With Turret: 1.42
   - VFX - Active Camouflage
     - Intensity Scalar: 0.70
     - Interpolation Scalar: 1.00
