@@ -49,8 +49,8 @@ Vehicle configuration reference.
 ## [6] Rockethog
 - Vehicle Type: Rockethog
 - Object Variable: Rockethog
-- REQ Tier: 4
-- Level: 4
+- REQ Tier: 3
+- Level: 3
 - Notes: -
 
 ## [7] Scorpion
@@ -105,8 +105,8 @@ Vehicle configuration reference.
 ## [14] Fusion Rocket Hog
 - Vehicle Type: Rockethog
 - Object Variable: Rockethog
-- REQ Tier: 7
-- Level: 7
+- REQ Tier: 5
+- Level: 5
 - Notes: Uses a custom vehicle weapon: [131] Rocket Hog Weapon + Backdraft Cindershot.
 
 ## [15] Plasma Warthog

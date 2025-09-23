@@ -31,9 +31,10 @@
 
 ## Vehicles
 
-| **Level**  |  **1**   |   **2**   |   **3**   |   **4**    |         **5**          |    **6**    |       **7**       |    **8**     |     **9**      |
-| :--------: | :------: | :-------: | :-------: | :--------: | :--------------------: | :---------: | :---------------: | :----------: | :------------: |
-| **Points** |  **1**   |   **2**   |   **3**   |   **4**    |         **5**          |    **6**    |       **7**       |    **8**     |     **9**      |
-|            | Mongoose | Razorback | Mid Ghost | Rocket Hog | Extermination Gungoose | Mid Banshee |       Wasp        |    Wraith    |    Scorpion    |
-|            |          |           | Gungoose  |   Ghost    |     Plasma Warthog     |             |      Banshee      | Phantom Wasp | Banishing Wasp |
-|            |          |           |  Warthog  |            |                        |             | Fusion Rocket Hog |              |     Dragon     |
+| **Level**  |  **1**   |   **2**   |   **3**    | **4** |         **5**          |    **6**    |  **7**  |    **8**     |     **9**      |
+| :--------: | :------: | :-------: | :--------: | :---: | :--------------------: | :---------: | :-----: | :----------: | :------------: |
+| **Points** |  **1**   |   **2**   |   **3**    | **4** |         **5**          |    **6**    |  **7**  |    **8**     |     **9**      |
+|            | Mongoose | Razorback | Mid Ghost  | Ghost | Extermination Gungoose | Mid Banshee |  Wasp   |    Wraith    |    Scorpion    |
+|            |          |           |  Gungoose  |       |     Plasma Warthog     |             | Banshee | Phantom Wasp | Banishing Wasp |
+|            |          |           |  Warthog   |       |   Fusion Rocket Hog    |             |         |              |     Dragon     |
+|            |          |           | Rocket Hog |       |                        |             |         |              |                |
