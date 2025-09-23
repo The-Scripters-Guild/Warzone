@@ -139,7 +139,7 @@ The configurations that make up each of the ability boosts.
 
 ## [9] Spike Grenade Specialist
 - Level: 3
-- Notes: Sets the player's Frag Grenade count to 2, Spike Grenade count to 2 and removes all other Grenades.
+- Notes: Sets the player's Frag Grenade count to 2, Spike Grenade count to 3 and removes all other Grenades.
 
 ## [10] Plasma Grenade Specialist
 - Level: 4
