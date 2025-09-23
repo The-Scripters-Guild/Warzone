@@ -70,12 +70,9 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: MA5K Avenger + Arcane Sentinel Beam
 - Trait Set: 4
   - Weapon Damage: 0.76
-  - Reload Speed
-    - Empty Reload Scalar: 0.75
-    - Tactical Reload Scalar: 0.75
 - Config: Combo
-- Ammo Adjustment: None
-  - 80+80
+- Ammo Adjustment: 33.5
+  - 80+160
 - Point Cost: 0
 - Level: 6
 - Notes: -
@@ -83,7 +80,7 @@ The configurations that make up each of the custom weapons.
 ## [5] Hardlight Battle Rifle
 - Weapon Type: BR75 + Arcane Sentinel Beam
 - Trait Set: 5
-  - Weapon Damage: 1.29
+  - Weapon Damage: 1.55
   - Reload Speed
     - Empty Reload Scalar: 0.75
     - Tactical Reload Scalar: 0.75
@@ -130,7 +127,7 @@ The configurations that make up each of the custom weapons.
 ## [9] Hardlight Commando
 - Weapon Type: VK78 Commando Rifle + Arcane Sentinel Beam
 - Trait Set: 9
-  - Weapon Damage: 1.72
+  - Weapon Damage: 1.75
   - Reload Speed
     - Empty Reload Scalar: 0.75
     - Tactical Reload Scalar: 0.75
