@@ -131,7 +131,7 @@ The configurations that make up each of the ability boosts.
   - Intensity Scalar: 0.50
   - Interpolation Scalar: 1.00
 - Level: 5
-- Notes: Removes outline and name from player; 50% passive camo that takes a second to reactivate if the player starts running or fires their weapon. Driving a vehicle with the Ability Boost active causes the vehicle to go invisible; excluded vehicles: Falcon.
+- Notes: Removes outline and name from player; 50% passive camo that takes a second to reactivate if the player starts running or fires their weapon. Driving a vehicle with the Ability Boost active causes the vehicle to go invisible; excluded vehicles: Falcon, Wraith, Scorpion.
 
 ## [8] Frag Grenade Specialist
 - Level: 5
