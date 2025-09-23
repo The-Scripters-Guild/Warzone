@@ -967,7 +967,7 @@ The configurations that make up each of the custom weapons.
 ## [99] M392 Bandit
 - Weapon Type: M392 Bandit
 - Point Cost: 0
-- Level: 6
+- Level: 5
 
 ## [100] M41 SPNKr
 - Weapon Type: M41 SPNKr
