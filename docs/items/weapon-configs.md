@@ -713,14 +713,16 @@ The configurations that make up each of the custom weapons.
 - Level: 2
 - Notes: Can't EMP vehicles. Has better charge shot tracking than normal Plasma Pistol. Has no zoom, but a matching red-reticle range to the normal Plasma Pistol. Is basically the Plasma Pistol from Halo Infinite's multiplayer launch without a zoom.
 
-## [55] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [55] Brute Carbine
+- Weapon Type: Vestige Carbine + Stalker Rifle Ultra
 - Trait Set: 55
-- Config: Default
-- Ammo Adjustment: None
-- Point Cost: -
-- Level: -
-- Notes: -
+  - Weapon Damage: 0.30
+- Config: Combo
+- Ammo Adjustment: -76
+  - 20+40
+- Point Cost: 2
+- Level: 2
+- Notes: Good for landing consistent shots at long range.
 
 ## [56] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
