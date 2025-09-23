@@ -778,8 +778,8 @@ The configurations that make up each of the custom weapons.
 
 ## [62] BR75 Breacher
 - Weapon Type: BR75 Breacher
-- Point Cost: 4
-- Level: 4
+- Point Cost: 5
+- Level: 5
 
 ## [63] Backdraft Cindershot
 - Weapon Type: Backdraft Cindershot
@@ -846,8 +846,8 @@ The configurations that make up each of the custom weapons.
 
 ## [75] Rapidfire Pulse Carbine
 - Weapon Type: Rapidfire Pulse Carbine
-- Point Cost: 3
-- Level: 3
+- Point Cost: 4
+- Level: 4
 
 ## [76] Ravager Rebound
 - Weapon Type: Ravager Rebound
