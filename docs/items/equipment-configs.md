@@ -151,7 +151,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Trait Set: healthSteal
   - Vampirism
     - Shield Scalar: 0.00
-    - Health Scalar: 0.40
+    - Health Scalar: 0.90
 - Custom Charge Count: 1
 - Default Charge Count: 1
 - Duration: 60 s
