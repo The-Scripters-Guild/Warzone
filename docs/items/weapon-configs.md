@@ -270,13 +270,12 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Disruptor + Diminisher of Hope
 - Trait Set: 21
   - Weapon damage: 1.89
-  - Movement Speed: 1.10
 - Config: Combo
 - Ammo Adjustment: None
-  - 12+36
-- Point Cost: 4
-- Level: 4
-- Notes: -
+  - 12+20
+- Point Cost: 5
+- Level: 5
+- Notes: Landing 4 shots on target causes a supercombine which will eventually kill a Spartan with normal health and shield.
 
 ## [22] Blinding Payload
 - Weapon Type: Mutilator + Rebound Ravager
