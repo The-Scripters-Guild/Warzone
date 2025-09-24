@@ -814,8 +814,8 @@ The configurations that make up each of the custom weapons.
 
 ## [69] Impact Commando
 - Weapon Type: Impact Commando
-- Point Cost: 6
-- Level: 6
+- Point Cost: 5
+- Level: 5
 
 ## [70] M41 Tracker
 - Weapon Type: M41 Tracker
