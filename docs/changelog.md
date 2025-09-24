@@ -275,6 +275,32 @@ Current state: Mode working fully, with some notable missing features:
 
 - Fixed issue with marines not being able to spawn after enemies had been in the zone when the capturable zone logic was changed from TotalControl to Stronghold.
 
+### 0.10.10
+
+- Updated warzone-sandbox to 0.21.6.
+
+### 0.10.11
+
+- Adjusted "Enemy Destroying Core" message to "Enemy Destroying the Core" when your team's core is being damaged.
+- Changed the AI encounter UI Nav Markers to Neutral team with an enemy colored outline so that the nav markers are more distinguishable from enemy captured base nav markers. The new nav markers now display the progress bar as the AI count out of 10, as the max AI count in a Warzone encounter is 10.
+- Added decimal accuracy to the "Level" display in the Objective Banner, so players can get a more accurate idea on the level progression.
+
+### 0.10.12
+
+- Updated warzone-sandbox to 0.21.7.
+- Made nav markers displaying remining AI in a zone to correctly update for players in vehicles.
+
+
+### 0.10.13
+
+- Updated warzone-sandbox to 0.21.8.
+- Optimized remaining AI nav marker in zone logic.
+- Optimized allowMarineSpawn logic for detecting players in a zone.
+
+### 0.10.14
+
+- Updated warzone-sandbox to 0.21.9.
+- Updated warzone-radial to 0.6.1.
 
 
 
@@ -651,6 +677,47 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 
 - Increased amount of reserved carrier clones from 28 → 36, and added debug to show player index during grantWeapon event for custom weapons to try and debug weapons not spawning issue.
 
+### 0.21.6
+
+- Adjusted ammo of weapons:
+  - [13] Valkyrie: 4+12 → 4+10.
+  - [68] Elite Bloodblade: 100% → 25%.
+  - [46] Light Of Doisac: 4+16 → 4+8.
+- Increased damage of [46] Light of Doisac: 2.60 → 2.84.
+- Adjusted grenade count of Ability Boosts:
+  - [9] Spike Grenade Specialist: 2 → 3.
+  - [10] Plasma Grenade Specialist: 3 → 2.
+  - [11] Dynamo Grenade Specialist: 3 → 2.
+- Reduced amount of reserved carrier clones to 24 and removed player index debug.
+- Added a list for Observer Players and included exclusions for them in scripts.
+- Changed wait delay on requestWeapon, requestWeapon_pos, removeVFX and extract-enter events from 0.05 → 0.0666 s due to it being a value divisible by both 60 and 30 tick rate.
+
+### 0.21.7
+
+- Adjusted ammo of [68] Elite Bloodblade: 25% → 40%
+- Adjusted movement speed with turret of [34] Sentry Of Writh Kul: 1.55 → 1.42
+
+### 0.21.8
+
+- Added new weapon: [55] Brute Carbine (tier 2).
+- Overhauled [45] Tactical Carbine → [45] Kig-Yar Carbine.
+- Increased damage of weapons:
+  - [5] Hardlight Battle Rifle: 1.29 → 1.55
+  - [9] Hardlight Commando: 1.72 → 1.75
+- Buffed [4] Hardlight Avenger:
+  - Reload Speed: 0.75 → 1.00
+  - Ammo: 80+80 → 80+160
+- Increased health vampirism factor of [11] Health Steal: 0.40 → 0.90.
+
+### 0.21.9
+
+- Adjusted [21] Decaying Charge:
+  - Movement Speed: 1.10 → 1.00.
+  - Ammo: 12+36 → 12+20.
+
+
+
+
 
 
 
@@ -826,3 +893,53 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
   - [67] Duelist Energy Sword: 5 → 6.
   - [36] Demon: 6 → 7.
 - Decreased cost of [74] Pursuit Hydra: 6 → 5.
+
+### 0.5.3
+
+- Increased cost of weapons:
+  - [13] Valkyrie: 8 → 9.
+  - [46] Light Of Doisac: 6 → 7.
+- Decreased cost of items:
+  - [6] Rockethog: 4 → 3.
+  - [14] Fusion Rockethog: 7 → 5.
+  - [50] Gamma Shot: 9 → 8
+  - [68] Elite Bloodblade: 5 → 3.
+- Moved [47] Scorpion Tail and [50] Gamma Shot to the Scrap Cannon category.
+- Made the Weapon Radial unlock at start as the Needler can be purchased at tier 1.
+
+### 0.5.4
+
+- Decreased level of the [99] M392 Bandit: 6 → 5.
+- Added decimal accuracy to the "Level" display in the "Your Items" radial, so players can get a more accurate idea on the level progression.
+- Implemented a way to forcefully close a radial menu while alive by holding crouch while closing a menu or selecting a menu item in any radial.
+- Changed the Equipment icon from Drop Wall → Grappleshot and the Power Equipment menu icon from Overshield → Active Camo in the Main Radial.
+- Made player spawn location persist after death, and only resetting to home base if the zone is captured by an enemy.
+- Added description to Spawn Radial menu items displaying how many teammates and enemies are inside a controlled zone.
+- Adjusted feature for disabling spawns inside a zone to now happen always if players from the opposite team of a controlled zone are inside the zone.
+- Made vehciles whose driver has the "Spy" Ability Boost equipped go partially invisible. Doesn't work for the Falcon for some reason.
+
+### 0.5.5
+
+- Removed vehicle invisibility effect of "Spy" Ability Boost from the Scorpion and Wraith.
+- Increased tier of [75] Rapidfire Pulse Carbine: 3 → 4.
+
+### 0.5.6
+
+- Changed power equipment radial icon from Active Camo → Overshield.
+- Added feature where bots will choose a random spawn location that a player on their team has chosen so the bots spawn in similar areas, and not just Home Base.
+- Increased tier of [62] BR75 Breacher: 4 → 5.
+
+### 0.6.0
+
+- Major fix to a common menu closing issue by making all menus player-based following a new discovery.
+- Added new weapon: [55] Brute Carbine (tier 2).
+- Increased tier of [106] Needler: 1 → 2.
+
+### 0.6.1
+
+- Decreased tier of [69] Impact Commando: 6 → 5.
+- Increased tier of [21] Decaying Charge: 4 → 5.
+- Re-ordered Weapons Radial to reflect recent tier changes.
+- Made the Weapons Radial unlock at level 2 as the lowest purchaseable weapon is now back to tier 2.
+- Added Home Base Core health display in the Spawn Radial on the Home Base option so there is some useful information there instead of nothing.
+- Disabled custom bot spawn at random zone as it was causing bots to not spawn.
