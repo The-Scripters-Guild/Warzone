@@ -271,7 +271,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 21
   - Weapon damage: 1.89
 - Config: Combo
-- Ammo Adjustment: None
+- Ammo Adjustment: -45
   - 12+20
 - Point Cost: 5
 - Level: 5
