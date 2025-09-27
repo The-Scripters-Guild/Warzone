@@ -91,6 +91,7 @@ Vehicle configuration reference.
 ## [12] Mid Ghost
 - Vehicle Type: Ghost (Cloned)
 - Object Variable: ClonedGhost
+- Health Adjustment: 60%
 - REQ Tier: 3
 - Level: 3
 - Notes: The vehicle is a hidden Vehicle Type that can only be created by cloning the base Vehicle Type.
@@ -98,6 +99,8 @@ Vehicle configuration reference.
 ## [13] Extermination Gungoose
 - Vehicle Type: Mongoose
 - Object Variable: Mongoose
+- Vehicle Weapon Damage: 1.50 (Driver)
+- Health Regeneration: 1% every 5 seconds
 - REQ Tier: 5
 - Level: 5
 - Notes: Uses a custom vehicle weapon: [135] Wasp Weapon + Scatterbound Heatwave.
@@ -119,16 +122,20 @@ Vehicle configuration reference.
 ## [16] Phantom Wasp
 - Vehicle Type: Wasp
 - Object Variable: Wasp
+- Vehicle Weapon Damage: 1.50 (Driver)
+- Health Regeneration: 1% every 5 seconds
 - REQ Tier: 8
 - Level: 8
 - Notes: Uses a custom vehicle weapon: [132] Rocket Hog Weapon + Rapidfire Pulse Carbine.
 
-## [17] Banishing Wasp
+## [17] Moonlight Wasp
 - Vehicle Type: Wasp
 - Object Variable: Wasp
+- Vehicle Weapon Damage: 2.00 (Driver)
+- Health Regeneration: 1% every 5 seconds
 - REQ Tier: 9
 - Level: 9
-- Notes: Uses a custom vehicle weapon: [133] Rocket Hog Weapon + Ravager Rebound.
+- Notes: Uses a custom vehicle weapon: [131] Rocket Hog Weapon + Backdraft Cindershot. Has the secondary rockets disabled.
 
 ## [18] Falcon
 - Vehicle Type: Falcon
@@ -140,6 +147,8 @@ Vehicle configuration reference.
 ## [19] Dragon
 - Vehicle Type: Falcon
 - Object Variable: Falcon
+- Vehicle Weapon Damage: 2.00 (Driver)
+- Health Regeneration: 1% every 5 seconds
 - REQ Tier: 9
 - Level: 9
 - Notes: Uses a custom vehicle weapon: [136] Wasp Weapon + Pursuit Hydra.
