@@ -302,6 +302,25 @@ Current state: Mode working fully, with some notable missing features:
 - Updated warzone-sandbox to 0.21.9.
 - Updated warzone-radial to 0.6.1.
 
+### 0.10.15
+
+- Updated warzone-sandbox to 0.22.0.
+- Updated warzone-radial to 0.6.2.
+- Decreased Hunter grenade resistance from 4.00 to 2.00 so they need 3 Frag Grenades to kill.
+
+### 0.10.16
+
+- Added support for changing between normal Warzone and Warzone Ultra with one number variable "progressionMultiplier"; 1.00 is normal and higher values trigger Warzone Ultra game progression.
+
+### 0.10.17
+
+- Updated warzone-sandbox to 0.22.1.
+- Added feature to force players on teams other than Eagle or Cobra to be put on either team at random.
+- Fixed players being able to damage their own core with cloned projectiles.
+
+### 0.10.18
+
+- Updated warzone-sandbox to 0.22.2.
 
 
 
@@ -715,9 +734,42 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
   - Movement Speed: 1.10 → 1.00.
   - Ammo: 12+36 → 12+20.
 
+### 0.22.0
 
+- Adjusted vehicle configs:
+  - [12] Mid Ghost: Health to 60% on spawn
+  - [13] Extermination Gungoose: Damage: 1.00 → 1.50 for driver
+  - [16] Phantom Wasp: Damage: 1.00 → 1.50 for driver, 5 sec health regen
+  - [17] Banishing Wasp → Moonlight Wasp
+  - [19] Dragon: Damage: 1.00 → 2.00 for driver, 5 sec health regen
+- Added new vehicles:
+  - [20] Undead Ghost (Tier 7)
+  - [21] Divine Banshee (Tier 8)
+  - [22] Incursion Banshee (Tier 9)
+  - [23] Carrier Falcon (Tier 3)
+  - [24] ONI Rockethog (Tier 6)
+- Added new vehicle weapons:
+  - [137] Rocket Hog Weapon + Scatterbound Heatwave
+  - [138] Wasp Weapon + M41 Tracker
+  - [139] Rocket Hog Weapon + Volatile Skewer
+- Adjusted [5] Upgraded Walking Ability Boost:
+  - Movement Speed: 1.20 → 1.10
+  - Jump Height: 1.25 → 1.15
+  - Sprint Speed, Top Speed Scalar: 0.90 → 1.00
+- Increased damage of [55] Brute Carbine: 0.30 → 0.35
+- Adjusted [15] Overloaded Pulse Carbine:
+  - Weapon Damage: 1.70 → 3.00
+  - VFX: VIP → Infected Beta
+- Assigned shot cloned projectiles to the team of the unit that shot them.
 
+### 0.22.1
 
+- Adjusted [22] Incursion Banshee damage: 1.00 → 1.50.
+- Removed secondary rockets fire from [17] Moonlight Wasp.
+
+### 0.22.2
+
+- Added custom vehicle health communication via Overshield to the driver of a vehicle that has the custom health regeneration loop.
 
 
 
@@ -943,3 +995,15 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
 - Made the Weapons Radial unlock at level 2 as the lowest purchaseable weapon is now back to tier 2.
 - Added Home Base Core health display in the Spawn Radial on the Home Base option so there is some useful information there instead of nothing.
 - Disabled custom bot spawn at random zone as it was causing bots to not spawn.
+
+### 0.6.2
+
+- Added new vehicles:
+  - [20] Undead Ghost (Tier 7)
+  - [21] Divine Banshee (Tier 8)
+  - [22] Incursion Banshee (Tier 9)
+  - [23] Carrier Falcon (Tier 3)
+  - [24] ONI Rockethog (Tier 6)
+- Renamed [17] Banishing Wasp → Moonlight Wasp
+- Fixed Core Health display in Spawn Selection radial to be more accurate.
+- Made players automatically choose their Home Base spawn location On Gameplay Start.
