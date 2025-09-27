@@ -322,6 +322,10 @@ Current state: Mode working fully, with some notable missing features:
 
 - Updated warzone-sandbox to 0.22.2.
 
+### 0.10.19
+
+- Updated warzone-sandbox to 0.22.3.
+
 
 
 
@@ -770,6 +774,10 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 ### 0.22.2
 
 - Added custom vehicle health communication via Overshield to the driver of a vehicle that has the custom health regeneration loop.
+
+### 0.22.3
+
+- Replaced custom vehicle health communication to be in the Prompt Widget; alternates to show vehicle health for 3 seconds and Points/Level for 1 second.
 
 
 
