@@ -34,10 +34,11 @@
 
 ## Vehicles
 
-| **Level**  |  **1**   |   **2**   |   **3**    | **4** |         **5**          |    **6**    |  **7**  |    **8**     |     **9**      |
-| :--------: | :------: | :-------: | :--------: | :---: | :--------------------: | :---------: | :-----: | :----------: | :------------: |
-| **Points** |  **1**   |   **2**   |   **3**    | **4** |         **5**          |    **6**    |  **7**  |    **8**     |     **9**      |
-|            | Mongoose | Razorback | Mid Ghost  | Ghost | Extermination Gungoose | Mid Banshee |  Wasp   |    Wraith    |    Scorpion    |
-|            |          |           |  Gungoose  |       |     Plasma Warthog     |             | Banshee | Phantom Wasp | Banishing Wasp |
-|            |          |           |  Warthog   |       |   Fusion Rocket Hog    |             |         |              |     Dragon     |
-|            |          |           | Rocket Hog |       |                        |             |         |              |                |
+| **Level**  |  **1**   |   **2**   |     **3**      | **4** |         **5**          |     **6**     |    **7**     |     **8**      |       **9**       |
+| :--------: | :------: | :-------: | :------------: | :---: | :--------------------: | :-----------: | :----------: | :------------: | :---------------: |
+| **Points** |  **1**   |   **2**   |     **3**      | **4** |         **5**          |     **6**     |    **7**     |     **8**      |       **9**       |
+|            | Mongoose | Razorback |   Mid Ghost    | Ghost | Extermination Gungoose |  Mid Banshee  |     Wasp     |     Wraith     |     Scorpion      |
+|            |          |           |    Gungoose    |       |     Plasma Warthog     | ONI Rockethog |   Banshee    |  Phantom Wasp  |  Moonlight Wasp   |
+|            |          |           |    Warthog     |       |    Fusion Rockethog    |               | Undead Ghost | Divine Banshee |      Dragon       |
+|            |          |           |   Rockethog    |       |                        |               |              |                | Incursion Banshee |
+|            |          |           | Carrier Falcon |       |                        |               |              |                |                   |
