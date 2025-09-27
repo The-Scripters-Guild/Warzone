@@ -202,8 +202,8 @@ The configurations that make up each of the custom weapons.
 ## [15] Overloaded Pulse Carbine
 - Weapon Type: Pulse Carbine + Unbound Plasma Pistol
 - Trait Set: 15
-  - Weapon Damage: 1.70
-- VFX: VIP (33)
+  - Weapon Damage: 3.00
+- VFX: Infected Beta (27)
 - Config: Combo
 - Ammo Adjustment: None
   - 100%
@@ -715,7 +715,7 @@ The configurations that make up each of the custom weapons.
 ## [55] Brute Carbine
 - Weapon Type: Vestige Carbine + Stalker Rifle Ultra
 - Trait Set: 55
-  - Weapon Damage: 0.30
+  - Weapon Damage: 0.35
 - Config: Combo
 - Ammo Adjustment: -76
   - 20+40
