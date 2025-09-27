@@ -1158,3 +1158,21 @@ The configurations that make up each of the custom weapons.
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
+
+## [137] Rocket Hog Weapon + Scatterbound Heatwave
+- Weapon Type: Rocket Hog Weapon + Pursuit Hydra
+- Point Cost: -
+- Level: -
+- Notes: Used as a custom vehicle weapon; not intended for players.
+
+## [138] Wasp Weapon + M41 Tracker
+- Weapon Type: Wasp Weapon + M41 Tracker
+- Point Cost: -
+- Level: -
+- Notes: Used as a custom vehicle weapon; not intended for players.
+
+## [139] Rocket Hog Weapon + Volatile Skewer
+- Weapon Type: Rocket Hog Weapon + Volatile Skewer
+- Point Cost: -
+- Level: -
+- Notes: Used as a custom vehicle weapon; not intended for players.

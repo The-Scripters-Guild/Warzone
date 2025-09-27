@@ -105,7 +105,7 @@ Vehicle configuration reference.
 - Level: 5
 - Notes: Uses a custom vehicle weapon: [135] Wasp Weapon + Scatterbound Heatwave.
 
-## [14] Fusion Rocket Hog
+## [14] Fusion Rockethog
 - Vehicle Type: Rockethog
 - Object Variable: Rockethog
 - REQ Tier: 5
@@ -152,3 +152,46 @@ Vehicle configuration reference.
 - REQ Tier: 9
 - Level: 9
 - Notes: Uses a custom vehicle weapon: [136] Wasp Weapon + Pursuit Hydra.
+
+## [20] Undead Ghost
+- Vehicle Type: Ghost
+- Object Variable: Ghost
+- Vehicle Weapon Damage: 0.95 (Driver)
+- Health Regeneration: 1% every 1 second
+- REQ Tier: 7
+- Level: 7
+- Notes: Uses a custom vehicle weapon: [133] Rocket Hog Weapon + Ravager Rebound.
+
+## [21] Divine Banshee
+- Vehicle Type: Banshee
+- Object Variable: Banshee
+- Vehicle Weapon Damage: 1.40 (Driver)
+- Health Regeneration: 1% every 5 seconds
+- REQ Tier: 8
+- Level: 8
+- Notes: Uses a custom vehicle weapon: [137] Rocket Hog Weapon + Scatterbound Heatwave. Has the secondary bomb disabled.
+
+## [22] Incursion Banshee
+- Vehicle Type: Banshee
+- Object Variable: Banshee
+- Vehicle Weapon Damage: 1.50 (Driver)
+- Health Regeneration: 1% every 5 seconds
+- REQ Tier: 9
+- Level: 9
+- Notes: Uses a custom vehicle weapon: [138] Wasp Weapon + M41 Tracker. Has the secondary bomb disabled.
+
+## [23] Carrier Falcon
+- Vehicle Type: Falcon
+- Object Variable: Falcon
+- REQ Tier: 3
+- Level: 3
+- Notes: Has no side gunner seats; meant for player transport.
+
+## [24] ONI Rockethog
+- Vehicle Type: Rockethog
+- Object Variable: Rockethog
+- Vehicle Weapon Damage: 0.15 (Gunner)
+- Health Regeneration: 1% every 5 seconds
+- REQ Tier: 6
+- Level: 6
+- Notes: Uses a custom vehicle weapon: [139] Rocket Hog Weapon + Volatile Skewer.
