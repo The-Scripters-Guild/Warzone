@@ -5,6 +5,6 @@ Recreating the Halo 5 Warzone mode in Halo Infinite.
 
 This community-based project aims to recreate the beloved 12v12 PvPvE mode in Halo Infinite's Forge, using the tool to its limits.
 
-Team: [Okom](https://x.com/_Okom), [Implied Skill](https://x.com/impliedskill), [Captain Punch](https://x.com/ScriptersGuild), [TostEZ28](https://www.youtube.com/@TostEZ28), [Hamish](https://x.com/hamish_k_thefox), [Precellence](https://x.com/Precellence)
+Team: [Okom](https://x.com/_Okom), [Implied Skill](https://x.com/impliedskill), [Captain Punch](https://x.com/ScriptersGuild), [TostEZ28](https://www.youtube.com/@TostEZ28), [Hamish](https://x.com/hamish_k_thefox), SilvervioletX98, [Unusual Hiccup](https://x.com/Jared28690513), [JoValiant](https://x.com/TheJoValiant), [Precellence](https://x.com/Precellence)
 
 Read more about [The Scripter's Guild](https://wiki.thescriptersguild.com/main/community/the-scripters-guild).
