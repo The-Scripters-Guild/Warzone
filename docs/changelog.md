@@ -326,6 +326,102 @@ Current state: Mode working fully, with some notable missing features:
 
 - Updated warzone-sandbox to 0.22.3.
 
+### 0.10.20
+
+- Updated warzone-sandbox to 0.22.4.
+- Adjusted starting music to play for longer.
+- Adjusted end fade time of boss music to be longer.
+
+### 0.10.21
+
+- Updated warzone-sandbox to 0.22.5.
+- Updated warzone-radial to 0.6.4.
+
+### 0.10.22
+
+- Updated warzone-sandbox to 0.22.6.
+- Increased passive and active personal point gain:
+  - Passive point gain: Every 43.5 s → 35.1 s (0.023 → 0.0285). Level increase 0.00 → 1.00.
+  - Active point gain: Player Kill 0.10 → 0.12. AI kill 0.08 → 0.10
+
+### 0.11.0
+
+- Updated warzone-sandbox to 0.22.7.
+- Added a docker nav marker on the left side of the screen displaying the Level.
+- Added docked nav marker spacer feature.
+  - Intentionally did not include spacer removal feature for the "AI remaining" and "Enemy Destroying the Core" nav markers cause it's too complicated. When these nav markers are on screen, the "Level" nav marker on the left of the screen will shift more to the left.
+- Decreased passive personal point gain: Every 35.1 s → 40.0 s (0.0285 → 0.025).
+
+### 0.11.1
+
+- Updated warzone-sandbox to 0.22.8.
+- Changed boss elimination message in the killfeed from "Enemy/Your Team Eliminated A Boss" → "Player Eliminated the Boss" where "Player" is the player who killed the boss. The player name has the team's color so it's also gets across which team killed the boss.
+- Added extra UI messaging for notifying about destroying the enemy core or defending your core when they're exposed.
+
+### 0.12.0
+
+- Added zone team assignment, tempDisabledSpawns, spawn interruption, and station team assignment logic to mode code from on-level.
+- Added station object list creation logic to mode code from on-level.
+
+### 0.12.1
+
+- Adjusted AI:
+  - [15] Brute Minor
+    - Direct Damage Resistance: 4.30 → **2.50**
+
+- Adjusted zoneRefresh event nav marker temporary position from Z:-10000 to Z:10000 so players are less likely to see the nav marker flash on their screen as it's above their view instead of under.
+- Adjusted AI encounter Nav Marker distance visibility from 170 → 250 m.
+- Made the "Select Loadout" Nav Marker on item stations be only visible to the players on the team that own the zone or Home Base.
+- Added 0.80 point gain for all players after the Home Base AI has been cleared.
+- Added extra announcer audio after Home Base has been cleared.
+- Added forceful kill of Home Base AI after 30 s from Gameplay Start to ensure the game progression doesn't halt.
+
+### 0.12.2
+
+- Adjusted weapon despawn time of the AI loot drops from 120 s to 40 s to reduce chances of reaching dropped item limits.
+- Removed extra 1.0 point gain for all players after a level increase.
+- Increased Level 9 total point threshold from 1000 → 1100.
+- Added informative docked Nav Marker to players 4 s after death messaging to use the Custom Input to open the menu as some people aren't noticing the Prompt Widget on the left.
+
+### 0.12.3
+
+- Decreased Level 2 total point threshold from 50 → 25.
+- Adjusted point grant from capturing zones to only happen for the players who contribute to capturing the zone for the first time.
+- Increased point grant from capturing zones from 0.50 to 1.00.
+- Disabled spawning on front Home Base spawns until the Home Base is captured.
+- Removed Bot Backfill code from the mode.
+
+### 0.13.0
+
+- Updated warzone-sandbox to 0.23.1.
+- Updated warzone-radial to 0.7.2.
+- Fixed inaccurate Level Nav Marker decimal when approacing Level 9.
+- Adjusted Hunter Equipment loot drop from [12] Allied Monitor + [1] Drop Wall → **[14] Headshot Shielding + [1] Drop Wall**
+
+### 0.13.1
+
+- Updated warzone-sandbox to 0.23.2
+
+### 0.13.2
+
+- Updated warzone-sandbox to 0.24.0
+- Updated warzone-radial to 0.7.4
+
+### 0.13.3
+
+- Updated warzone-sandbox to 0.25.0
+- Updated warzone-radial to 0.8.0
+- Removed boss loot drops as they were not being utilized enough in gameplay and we are short on available mode file size budget.
+
+### 0.13.5
+
+- Updated warzone-sandbox to 0.25.1
+- Updated warzone-radial to 0.8.1
+- 0.13.4 is an inappropriate string in Halo Infinite
+
+### 0.13.6
+
+- Added AI Spawners to the mode scripts
 
 
 
@@ -779,15 +875,213 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
 
 - Replaced custom vehicle health communication to be in the Prompt Widget; alternates to show vehicle health for 3 seconds and Points/Level for 1 second.
 
+### 0.22.4
 
+- Added on-level weapons and grenades to the mode prefab.
+- Changed setWeaponTypes event to run from "roundInit" instead of "gameInit" as the weapon types need to be re-applied each round as some of them come from object variables whose objects are deleted each round.
+- Removed "Set Objective Banner For Player" from resetVars_unit event as it's causing a thread freeze.
+- Added "Set Object Spawn Order", -1 to resetVars_unit event.
+- Removed custom vehicle health regeneration events.
+- Added excess mode object deletion.
 
+### 0.22.5
 
+- Added new vehicles:
+  - [25] ONI Wasp (Tier 7)
+  - [26] Kig-Yar Warthog (Tier 3)
+- Added new weapons:
+  - [140] Rocket Hog Weapon + Pinpoint Needler (vehicle weapon)
 
+- Added vehicleShotCadence variable to change the shot delay between custom vehicle weapon shots.
 
+### 0.22.6
 
+- Adjusted vehicles:
+  - [23] Carrier Falcon
+    - Health Adjustment: 100% → **60%**
+  - [26] Kig-Yar Warthog
+    - Shot Cadence: 0.0666 s → **0.00 s**
 
+### 0.22.7
 
+- Added a hook for the docked nav arker spacer feature from Warzone 0.11.0 in the docked powerup nav marker logic.
+- Adjusted custom powerup docked nav marker Docking Order to start descending from 20 instead of 128 so they appear in the middle left of the screen with the new spacers feature.
 
+### 0.22.8
+
+- Adjusted weapons:
+  - [1] Marksman Sidekick
+    - Weapon Damage: 0.66 → **0.71**
+  - [10] ONI Commando
+    - Weapon Damage: 0.45 → **0.40**
+  - [61] Arcane Sentinel Beam:
+    - Ammo: 80+80 → **80+160**
+
+### 0.22.9
+
+- Adjusted weapons:
+  - [13] Valkyrie
+    - Ammo: 4+10 → **4+4**
+  - [43] Banish Of Balaho
+    - Ammo: 10+0 → **14+0**
+  - [45] Kig-Yar Carbine
+    - Weapon Damage: 1.00 → **2.80**
+  - [47] Scorpion Tail
+    - Ammo: 4% (6 shots) → **6% (9 shots)**
+
+### 0.23.0
+
+- Added new weapons:
+  - [143] Kinetic Coil (Tier 1)
+  - [144] Hardlight Coil (Tier 2)
+  - [145] Plasma Coil (Tier 3)
+  - [146] Shock Coil (Tier 4)
+
+- Added forceful weapon switching if a vehicle enter attempt fails when purchasing a vehicle; holding turrets and Fusion Coils prevents entering a vehicle.
+- Made vehicles and weapons be spawned from the mode instead of requiring on-level objects.
+
+### 0.23.1
+
+- Added new weapons:
+  - [56] Poisoned Pulse Carbine (Tier 3)
+  - [57] Assault Rifle Delta (Tier 3)
+  - [58] ONI Battle Rifle (Tier 2)
+
+- Adjusted weapons:
+  - [6] ONI Battle Rifle
+    - Name: ONI Battle Rifle → **The Ace**
+    - Ammo: 14+70 → **14+84**
+  - [29] ONI Turret
+    - Weapon Type: M247 HMG + Striker Sidekick → **M247 HMG + Impact Commando**
+    - Weapon Damage: 0.30 → **0.34**
+  - [30] Doom Of Reach
+    - Weapon Type: M247 HMG + MA40 Longshot → **M247 HMG + Striker Sidekick**
+    - Weapon Damage: 1.20 → **0.40**
+  - [43] Banish Of Balaho
+    - Shot Velocity: 3000 → **2000**
+
+### 0.23.2
+
+- Added new vehicles:
+  - [27] Husky (Tier 6)
+  - [28] Cougar (Tier 2)
+  - [29] Recon Falcon (Tier 4)
+
+- Added new weapons:
+  - [141] Sentinel Beam + Convergence Bulldog
+    - Notes: Used for detecting vehicle honk, not intended for players.
+
+- Adjusted weapons:
+  - [136] Wasp Weapon + Pursuit Hydra
+    - Weapon Type: Wasp Weapon + Pursuit Hydra → **Rockethog Weapon + MA40 Longshot**
+
+### 0.24.0
+
+- Added new vehicles:
+  - [30] Breech-Load Razorback (Tier 4)
+  - [31] Impulse Rockethog (Tier 8)
+  - [32] Chopper (Tier 4)
+  - [33] Hyperius Chopper (Tier 6)
+  - [34] Chieftain Chopper (Tier 6)
+  - [35] Escharum Chopper (Tier 8)
+  - [36] Kig-Yar Ghost (Tier 5)
+  - [37] Spec Ops Warthog (Tier 7)
+
+- Adjusted vehicles:
+  - [17] Moonlight Wasp
+    - Weapon Damage: 2.00 → **1.00**
+  - [19] Dragon
+    - Shot Velocity: 200 → **300**
+
+- Added new weapons:
+  - [141] Rockethog Weapon + Riven Mangler (Vehicle weapon)
+  - [142] Rockethog Weapon + Striker Sidekick (Vehicle weapon)
+
+- Adjusted weapons:
+  - [13] Valkyrie
+    - Ammo: 4+4 → **4+6**
+  - [36] Demon
+    - Movement Speed: 1.00 → **1.20**
+  - [37] Spike Of Thav 'Sebarim
+    - Ammo: 10+10 → **10+30** (+50)
+  - [41] A Go At
+    - Rocket Jump velocity increase and scalar inversion fix
+  - [141] Sentinel Beam + Convergence Bulldog
+    - [141] → **[146]**
+    - Weapon Type: Sentinel Beam + Convergence Bulldog → **Plasma Cannon (object)**
+  - [143] Kinetic Coil
+    - [143] → **[147]**
+  - [144] Hardlight Coil
+    - [144] → **[148]**
+  - [145] Plasma Coil
+    - [145] → **[149]**
+  - [146] Shock Coil
+    - [146] → **[150]**
+
+- Increased projectile kill credit detection radius from 20 → **25** units.
+- Overhauled the vehicle honk detection script to be more controlled.
+  - Partially fixed [19] Dragon projectile kill credit not working due to 0.00 damage trait, but if the player gets instantly killed by the Shock Coil instead of the custom damage that comes afterwards, kill credit is still not awarded.
+  - Fixed the [28] Cougar not being able to splatter anyone. Was caused by 0.00 damage trait.
+- Fixed [28] Cougar speed boost on honk not working with multiple players.
+- Reduced vehicle spawn queue delay from 3 → **2 s**.
+- Fixed weaponGrantActive boolean being left TRUE when granting a Fusion Coil to a player.
+
+### 0.25.0
+
+- Adjusted vehicles:
+  - [17] Moonlight Wasp
+    - Weapon Damage: 1.00 → **0.80**
+  - [19] Dragon (Paralyzing Falcon)
+    - Shot Cadence: 2.00 → **3.50**
+  - [23] Carrier Faclon (Dragon)
+    - Brought back side turrets
+    - Health Adjustment: 60% → **100%**
+    - Weapon Type: None → **[141] Rockethog Weapon + Riven Mangler**
+    - Shot Cadence: 1.00 → **0.03**
+  - [29] Recon Falcon
+    - Weapon Damage: 0.70 → **1.20**
+    - Weapon Type: [136] Rockethog Weapon + MA40 Longhsot → **Rockethog Weapon + BR75 Breacher**
+    - Health Adjustment: 100% → **60%**
+  - [36] Kig-Yar Ghost (Famished Ghost) 
+    - Weapon Type: [140] Rockethog Weapon + Pinpoint Needler → **[137] Rockethog Weapon + Scatterbound Heatwave**
+    - Weapon Damage: 1.00 → **0.60**
+    - Shot Cadence: 0.10 → **0.30**
+  - [37] Spec Ops Warthog
+    - Weapon Type: [142] Rockethog Weapon + Striker Sidekick → **[132] Rockethog Weapon + Rapidfire Pulse Carbine**
+    - Shot Cadence: 0.05 → **0.30**
+    - Weapon Damage: 0.50 → **3.00**
+
+- Removed weapons:
+  - [142] Rockethog Weapon + Striker Sidekick
+
+- Added weapons:
+  - [59] Burst-Fire Bandit (Tier 4)
+  - [60] SPNKr x (Tier 8)
+
+- Adjusted weapons:
+  - [36] Demon (The Demon)
+    - Movement Speed: 1.20 → **1.25**
+  - [37] Spike of Thav 'Sebarim
+    - Ammo: 10+30 → **10+20**
+    - Shot Velocity: 400 → **300**
+    - Added feature to track the shot projectile while zoomed.
+  - [38] Hunters Right Hand
+    - Weapon Type: Fuel Rod SPNKr + Striker Sidekick → **Fuel Rod SPNKr + Impact Commando**
+  - [1] Marksman Sidekick
+    - Weapon Type: Mk50 Sidekick + Impact Commando → **Mk50 Sidekick + MA40 Longshot**
+    - Weapon Damage: 0.71 → **1.50**
+    - Ammo: 40+60 → **25+75**
+  - [136] Rockethog Weapon + MA40 Longshot → **Rockethog Weapon + BR75 Breacher**
+
+- Added a hidden feature for the [3] Dexterity Ability Boost that increases the tracking scalar of the [37] Spike Of Thav 'Sebarim from 0.08 to 0.20, making the shots track more accurately.
+
+### 0.25.1
+
+Removed weapons:
+- [57] Assault Rifle Delta (Tier 3)
+
+Added weapons:
+- [57] Bassus Artifact (Tier 8)
 
 ## tsg warzone-radial module
 
@@ -1015,3 +1309,176 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
 - Renamed [17] Banishing Wasp → Moonlight Wasp
 - Fixed Core Health display in Spawn Selection radial to be more accurate.
 - Made players automatically choose their Home Base spawn location On Gameplay Start.
+
+### 0.6.3
+
+- Removed redundant global variable set in the equipment variant radial logic.
+- Removed menu re-enabling bug workaround as it's unnecessary with the object-scoped menus.
+
+### 0.6.4
+
+- Added new vehicles:
+  - [25] ONI Wasp (Tier 7)
+  - [26] Kig-Yar Warthog (Tier 3)
+
+- Adjusted weapons:
+  - [74] Pursuit Hydra
+    - Tier 5 → **4**
+
+### 0.6.5
+
+- Fixed the player's loadout weapons not populating the primary weapon correctly in the radial menus if the previous primary had been dropped and a weapon had been bought in its place.
+- Fixed the player's loadout weapons not populating correctly in the radial menus if the player switched team while alive.
+
+### 0.6.6
+
+- Adjusted weapons:
+  - [10] ONI Commando
+    - Tier: 3 → **2**
+  - [118] Vestige Carbine
+    - Tier: 4 → **3**
+
+- Fixed issue in "Points" display in the "Your Items" radial where right before changing to the next whole number, the decimal would show "0.10", when the last value should be "0.9".
+- Adjusted descriptions and titles of the "Points" and "Level" display items in the "Your Items" radial be more descriptive.
+- Updated radialRefresh event to be more generalized.
+
+### 0.6.7
+
+- Fixed bots who join the game before Gameplay Start not being able to spawn.
+- Added feature for bots to choose spawns that players on their team have selected so they appear to spawn around the map more naturally rather than only in the Home Base.
+
+### 0.6.8
+
+- Adjusted station activation event to gather the station's Spawn Order in a different way that works with new itemStation prefabs where the object Spawn Order is set via scripting and not via object property setting.
+
+### 0.6.9
+
+- Moved "hasOpenedRadial" boolean from the beginning of "radial1_main" event to the logMenu event so it's set to True when opening any radial and only after the "Show Menu To Player" node has fired before logMenu, so it should more accurately determine when a menu has been opened.
+- Added loop to attempt opening the menu automatically 4 s after dead or join in progress as the one attempt to open it wasn't always working.
+- Fixed replacing your secondary weapon with a turret dropping it on the ground while alive. Did not account for purchasing two weapons while dead and having the secondary weapon be a turret.
+- Added informative docked Nav Marker to players 4 s after death messaging to use the Custom Input to open the menu as some people aren't noticing the Prompt Widget on the left.
+
+### 0.7.0
+
+- Added new weapons:
+  - [143] Kinetic Coil (Tier 1)
+  - [144] Hardlight Coil (Tier 2)
+  - [145] Plasma Coil (Tier 3)
+  - [146] Shock Coil (Tier 4)
+  - Note: These are located in the Equipment menu, but still replace a weapon.
+
+- Made entire menu pages disabled if the player can't access any of the items within the menu yet.
+
+### 0.7.1
+
+- Added new weapons:
+  - [56] Poisoned Pulse Carbine (Tier 3)
+  - [57] Assault Rifle Delta (Tier 3)
+  - [58] ONI Battle Rifle (Tier 2)
+
+- Adjusted weapons:
+  - [6] The Ace
+    - Tier: 5 → **6**
+  - [111] Sentinel Beam
+    - Tier: 4 → **3**
+
+- Excluded bots from purchasing the [13] Valkyrie as its abundance was causing issues in Warzone Ultra games.
+
+### 0.7.2
+
+- Added new vehicles:
+  - [27] Husky (Tier 6)
+  - [28] Cougar (Tier 2)
+  - [29] Recon Falcon (Tier 4)
+
+- Adjusted vehicles:
+  - [19] Dragon
+    - Weapon Type: [136] Wasp Weapon + Pursuit Hydra → **[141] Sentinel Beam + Convergence Bulldog**
+    - Tier: 9 → **8**
+    - Made the vehicle shoot Shock Coils.
+
+### 0.7.3
+
+- Added support for a debug mode that makes spawning and vehicle purchasing possible without a Warzone map setup. Use the boolean "debug" as TRUE to enable.
+
+### 0.7.4
+
+- Added new vehicles:
+  - [30] Breech-Load Razorback (Tier 4)
+  - [31] Impulse Rockethog (Tier 8)
+  - [32] Chopper (Tier 4)
+  - [33] Hyperius Chopper (Tier 6)
+  - [34] Chieftain Chopper (Tier 6)
+  - [35] Escharum Chopper (Tier 8)
+  - [36] Kig-Yar Ghost (Tier 5)
+  - [37] Spec Ops Warthog (Tier 7)
+
+- Adjusted vehicles:
+  - [27] Husky
+    - Name: Husky → **Cougar**
+  - [28] Cougar
+    - Name: Cougar → **Scout Warthog**
+
+- Added continuous menu closing after player has died to stop a menu from staying open if it was opened right as a player had died.
+- Fixed players getting stuck dead in a "Respawning Next" message.
+  - Happened if a bot left the match within one second after getting killed due to their spawn value not being set yet, and then the invalid value freezing the spawn queue. Bot spawn value is now instantly set after dying.
+- Adjusted blindness and movement freeze effect length from 1 → **3 s** when attempting to spawn in a vehicle while dead to somewhat account for wait times in the vehicle spawn queue.
+- Moved Gungoose variants to the Mongoose category in the vehicle radial.
+- Moved [28] Scout Warthog to the Razorback category in the vehicle radial.
+
+### 0.8.0
+
+- Adjusted vehicles:
+  - [1] Banshee
+    - Point Cost: 7 → **6**
+  - [9] Wasp
+    - Point Cost: 7 → **6**
+  - [11] Mid Banshee
+    - Point Cost: 6 → **5**
+  - [16] Phantom Wasp
+    - Point Cost: 8 → **7**
+  - [19] Dragon
+    - Name: Dragon → **Paralyzing Falcon**
+  - [23] Carrier Faclon
+    - Name: Carrier Faclon → **Dragon**
+    - Point Cost: 3 → **9**
+  - [25] ONI Wasp
+    - Point Cost: 7 → **6**
+  - [30] Breech-Load Razorback
+    - Point Cost: 4 → **3**
+  - [36] Kig-Yar Ghost
+    - Name: Kig-Yar Ghost → **Famished Ghost**
+
+- Removed weapons:
+  - [142] Rockethog Weapon + Striker Sidekick
+
+- Added weapons:
+  - [59] Burst-Fire Bandit (Tier 4)
+  - [60] SPNKr x (Tier 8)
+
+- Adjusted weapons:
+  - [1] Marksman Sidekick
+    - Level: 2 → **4**
+  - [3] Hardlight Assault Rifle
+    - Level: 3 → **2**
+  - [24] Focus Beam
+    - Point Cost: 5 → **4**
+  - [64] Calcine Disruptor
+    - Point Cost: 6 → **5**
+  - [36] Demon
+    - Name: Demon → The Demon
+  - [92] Bandit Evo
+    - Level: 9 → **8**
+  - [112] Shock Rifle
+    - Point Cost: 5 → **4**
+
+### 0.8.1
+
+- Removed weapons:
+  - [57] Assault Rifle Delta (Tier 3)
+
+- Added weapons:
+  - [57] Bassus Artifact (Tier 8)
+
+- Fixed players getting stuck dead in a "Respawning Next" message.
+  - Happened if a bot left the match within 7 seconds of joining the match due to their spawn value not being set yet, and then the invalid value freezing the spawn queue. Joined bot is now checked for validity 7 seconds after joining before placing in spawn queue or not.
