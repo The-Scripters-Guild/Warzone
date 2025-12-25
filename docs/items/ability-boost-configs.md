@@ -89,7 +89,7 @@ The configurations that make up each of the ability boosts.
   - Clamber Speed: 1.17
   - Melee Recovery Speed: 1.40
 - Level: 4
-- Notes: -
+- Notes: Changes the projectile tracking scalar of the [37] Spike Of Thav 'Sebarim from 0.08 to 0.20, making the shots track more accurately.
 
 ## [4] Grenadier
 - Trait Set: grenadier

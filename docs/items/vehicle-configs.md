@@ -132,7 +132,7 @@ Vehicle configuration reference.
   - Shot Velocity: 300
   - Projectile Config: 4
   - Projectile: Shock Coil
-- Shot Cadence: 2.00
+- Shot Cadence: 3.50
 - Point Cost: 8
 - Level: 8
 - Notes: Shoots Shock Coils, which can also teamkill and shock friendly vehicles in addition to enemies.
@@ -161,7 +161,7 @@ Vehicle configuration reference.
 
 ## [23] Dragon
 - Vehicle Type: Falcon
-- Shot Cadence: 2.00
+- Shot Cadence: 0.03
 - Point Cost: 9
 - Level: 9
 - Notes: Uses a custom vehicle weapon: [141] Rockethog Weapon + Riven Mangler.

@@ -29,13 +29,13 @@ The configurations that make up each of the custom weapons.
 -->
 
 ## [1] Marksman Sidekick
-- Weapon Type: Mk50 Sidekick +  Impact Commando
+- Weapon Type: Mk50 Sidekick +  MA40 Longshot
 - Trait Set: 1
-  - Weapon Damage: 0.71
+  - Weapon Damage: 1.50
 - Config: Combo
-- Ammo: 40+60 (-50)
+- Ammo: 25+75
 - Point Cost: 0
-- Level: 2
+- Level: 4
 - Notes: -
 
 ## [2] Key Of Speed
@@ -59,7 +59,7 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo: 80+80
 - Point Cost: 0
-- Level: 3
+- Level: 2
 - Notes: -
 
 ## [4] Hardlight Avenger
@@ -281,8 +281,8 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 0.30
 - Config: Combo
 - Ammo: 40+120
-- Point Cost: 5
-- Level: 5
+- Point Cost: 4
+- Level: 4
 - Notes: -
 
 ## [25] The Final Token
@@ -427,13 +427,13 @@ The configurations that make up each of the custom weapons.
 - Level: 5
 - Notes: The traits and VFX only apply when zoomed and not airborne.
 
-## [36] Demon
+## [36] The Demon
 - Weapon Type: Infected Energy Sword + MA40 Longshot
 - Trait Set: 36
   - VFX - Active Camouflage
     - Intensity Scalar: 1.00
     - Interpolation Scalar: 1.00
-  - Movement Speed: 1.20
+  - Movement Speed: 1.25
   - Sprint Speed
     - Top Speed Scalar: 1.13
     - Time To Top Speed Scalar: 0.90
@@ -449,16 +449,16 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 0.01
 - Config: Projectile
   - Shot Count: 1
-  - Shot Velocity: 400
+  - Shot Velocity: 300
   - Projectile Config: 1
   - Projectile: Spike Grenade
-- Ammo: 10+30 (+50)
+- Ammo: 10+20 (+25)
 - Point Cost: 5
 - Level: 5
-- Notes: -
+- Notes: Projectiles will track to the aim position when zoomed.
 
 ## [38] Hunters Right Hand
-- Weapon Type: Fuel Rod SPNKr + Striker Sidekick
+- Weapon Type: Fuel Rod SPNKr + Impact Commando
 - Trait Set: 38
   - Weapon Damage: 0.01
 - Config: Projectile
@@ -466,7 +466,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 350
   - Projectile Config: 2
   - Projectile: Banished Hunter Shot
-- Ammo: 10+0 (-13)
+- Ammo: 10+0 (-5)
 - Point Cost: 4
 - Level: 4
 - Notes: -
@@ -700,23 +700,25 @@ The configurations that make up each of the custom weapons.
 - Level: 2
 - Notes: A worse BR75, but can be obtained much earlier at the cost of points.
 
-## [59] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [59] Burst-Fire Bandit
+- Weapon Type: M392 Bandit + BR75 Breacher
 - Trait Set: 59
-- Config: Default
-- Ammo: None
-- Point Cost: -
-- Level: -
-- Notes: -
+  - Weapon Damage: 1.40
+- Config: Combo
+- Ammo: 30+120 (+17)
+- Point Cost: 4
+- Level: 4
+- Notes: Is capable of a 2-burst kill, but has a very high recoil and immediate bullet spread, making it very difficult to land a perfect kill.
 
-## [60] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [60] SPNKr x
+- Weapon Type: Fuel Rod SPNKr + M41 Tracker
 - Trait Set: 60
-- Config: Default
-- Ammo: None
-- Point Cost: -
-- Level: -
-- Notes: -
+  - Weapon Damage: 0.80
+- Config: Combo
+- Ammo: 6+6
+- Point Cost: 8
+- Level: 8
+- Notes: A counterpart to the SPNKr Prime/SPNKr Ex, and can be seen as a high-tier Hydra. 6 tracking rockets in a magazine. Tracker rockets are faster than normal rockets. Must get a direct hit on a player for a one-shot kill; you can't kill yourself if you shoot at your own feet. Can be used to snipe individual people with plenty of tracker rockets to have fun with, or to shoot vehicles with a rain of tracker rockets.
 
 ## [61] Arcane Sentinel Beam
 - Weapon Type: Arcane Sentinel Beam
@@ -739,8 +741,8 @@ The configurations that make up each of the custom weapons.
 ## [64] Calcine Disruptor
 - Weapon Type: Calcine Disruptor
 - Ammo: 7+14
-- Point Cost: 6
-- Level: 6
+- Point Cost: 5
+- Level: 5
 
 ## [65] Convergence Bulldog
 - Weapon Type: Convergence Bulldog
@@ -903,7 +905,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Bandit Evo
 - Ammo: 15+45
 - Point Cost: 0
-- Level: 9
+- Level: 8
 
 ## [93] CQS48 Bulldog
 - Weapon Type: CQS48 Bulldog
@@ -1022,8 +1024,8 @@ The configurations that make up each of the custom weapons.
 ## [112] Shock Rifle
 - Weapon Type: Shock Rifle
 - Ammo: 12+24
-- Point Cost: 5
-- Level: 5
+- Point Cost: 4
+- Level: 4
 
 ## [113] Skewer
 - Weapon Type: Skewer
@@ -1159,8 +1161,8 @@ The configurations that make up each of the custom weapons.
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [136] Rockethog Weapon + MA40 Longshot
-- Weapon Type: Rockethog Weapon + MA40 Longshot
+## [136] Rockethog Weapon + BR75 Breacher
+- Weapon Type: Rockethog Weapon + BR75 Breacher
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
@@ -1195,11 +1197,10 @@ The configurations that make up each of the custom weapons.
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [142] Rockethog Weapon + Striker Sidekick
-- Weapon Type: Rockethog Weapon + Striker Sidekick
+## [142] Unallocated
+- Weapon Type: BR75 + Elite Bloodblade
 - Point Cost: -
 - Level: -
-- Notes: Used as a custom vehicle weapon; not intended for players.
 
 ## [143] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
