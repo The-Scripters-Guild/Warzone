@@ -22,8 +22,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: #
   - Projectile Config: #
   - Projectile: Hunter
-- Ammo Adjustment: None/##
-  - #+#
+- Ammo: #+# (+#)
 - Point Cost: #
 - Level: #
 - Notes: -
@@ -32,10 +31,9 @@ The configurations that make up each of the custom weapons.
 ## [1] Marksman Sidekick
 - Weapon Type: Mk50 Sidekick +  Impact Commando
 - Trait Set: 1
-  - Weapon Damage: 0.66
+  - Weapon Damage: 0.71
 - Config: Combo
-- Ammo Adjustment: -50
-  - 40+60
+- Ammo: 40+60 (-50)
 - Point Cost: 0
 - Level: 2
 - Notes: -
@@ -46,8 +44,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 1.61
   - Movement Speed: 1.20
 - Config: Combo
-- Ammo Adjustment: None
-  - 30+90
+- Ammo: 30+90
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -60,8 +57,7 @@ The configurations that make up each of the custom weapons.
     - Empty Reload Scalar: 0.75
     - Tactical Reload Scalar: 0.75
 - Config: Combo
-- Ammo Adjustment: None
-  - 80+80
+- Ammo: 80+80
 - Point Cost: 0
 - Level: 3
 - Notes: -
@@ -71,8 +67,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 4
   - Weapon Damage: 0.76
 - Config: Combo
-- Ammo Adjustment: 33.5
-  - 80+160
+- Ammo: 80+160 (+33.5)
 - Point Cost: 0
 - Level: 6
 - Notes: -
@@ -85,8 +80,7 @@ The configurations that make up each of the custom weapons.
     - Empty Reload Scalar: 0.75
     - Tactical Reload Scalar: 0.75
 - Config: Combo
-- Ammo Adjustment: None
-  - 80+80
+- Ammo: 80+80
 - Point Cost: 0
 - Level: 8
 - Notes: -
@@ -96,8 +90,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 6
   - Weapon Damage: 0.60
 - Config: Combo
-- Ammo Adjustment: 34
-  - 14+70
+- Ammo: 14+70 (+34)
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -107,8 +100,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 7
   - Weapon Damage: 2.19
 - Config: Combo
-- Ammo Adjustment: None
-  - 25+75
+- Ammo: 25+75
 - Point Cost: 4
 - Level: 4
 - Notes: -
@@ -118,8 +110,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 8
   - Weapon Damage: 1.70
 - Config: Combo
-- Ammo Adjustment: +6
-  - 30+100
+- Ammo: 30+100 (+6)
 - Point Cost: 7
 - Level: 7
 - Notes: -
@@ -132,8 +123,7 @@ The configurations that make up each of the custom weapons.
     - Empty Reload Scalar: 0.75
     - Tactical Reload Scalar: 0.75
 - Config: Combo
-- Ammo Adjustment: None
-  - 80+80
+- Ammo: 80+80
 - Point Cost: 0
 - Level: 4
 - Notes: -
@@ -141,12 +131,11 @@ The configurations that make up each of the custom weapons.
 ## [10] ONI Commando
 - Weapon Type: VK78 Commando Rifle + Striker Sidekick
 - Trait Set: 10
-  - Weapon Damage: 0.45
+  - Weapon Damage: 0.40
 - Config: Combo
-- Ammo Adjustment: 34
-  - 14+70
-- Point Cost: 3
-- Level: 3
+- Ammo: 14+70 (+34)
+- Point Cost: 2
+- Level: 2
 - Notes: -
   
 ## [11] Rush Bulldog
@@ -154,8 +143,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 11
   - Weapon Damage: 1.15
 - Config: Combo
-- Ammo Adjustment: -50
-  - 30+60
+- Ammo: 30+60 (-50)
 - Point Cost: 4
 - Level: 4
 - Notes: -
@@ -166,8 +154,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 2.33
 - VFX: Infected Beta (25)
 - Config: Combo
-- Ammo Adjustment: None
-  - 7+7
+- Ammo: 7+7
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -182,8 +169,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 3000
   - Projectile Config: 1
   - Projectile: Banished Hunter Shot
-- Ammo Adjustment: 30
-  - 4+10
+- Ammo: 4+10 (+30)
 - Point Cost: 9
 - Level: 9
 - Notes: -
@@ -193,8 +179,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 14
   - Weapon Damage: 1.90
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
+- Ammo: 100%
 - Point Cost: 4
 - Level: 4
 - Notes: -
@@ -205,8 +190,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 3.00
 - VFX: Infected Beta (27)
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
+- Ammo: 100%
 - Point Cost: 7
 - Level: 7
 - Notes: -
@@ -216,8 +200,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 16
   - Weapon Damage: 0.40
 - Config: Combo
-- Ammo Adjustment: -40
-  - 40%
+- Ammo: 40% (-40)
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -227,8 +210,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 17
   - Weapon Damage: 1.20
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
+- Ammo: 100%
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -238,8 +220,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 18
   - Weapon Damage: 1.20
 - Config: Combo
-- Ammo Adjustment: -85
-  - 85%
+- Ammo: 85% (-85)
 - Point Cost: 4
 - Level: 4
 - Notes: -
@@ -248,8 +229,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Ravager + Elite Bloodblade
 - Trait Set: 19
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
+- Ammo: 100%
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -260,8 +240,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 1.61
 - VFX: Infected Beta (21)
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
+- Ammo: 100%
 - Point Cost: 7
 - Level: 7
 - Notes: -
@@ -271,8 +250,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 21
   - Weapon damage: 1.89
 - Config: Combo
-- Ammo Adjustment: -45
-  - 12+20
+- Ammo: 12+20 (-45)
 - Point Cost: 5
 - Level: 5
 - Notes: Landing 4 shots on target causes a supercombine which will eventually kill a Spartan with normal health and shield.
@@ -282,8 +260,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 22
   - Weapon damage: 1.40
 - Config: Combo
-- Ammo Adjustment: 50
-  - 2+8
+- Ammo: 2+8 (+50)
 - Point Cost: 5
 - Level: 5
 - Notes: Secondary fire shoots two charged Ravager shots at once.
@@ -293,8 +270,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 23
     - Weapon Damage: 2.70
 - Config: Combo
-- Ammo Adjustment: -33.5
-    - 30+30
+- Ammo: 30+30 (-33.5)
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -304,8 +280,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 24
   - Weapon Damage: 0.30
 - Config: Combo
-- Ammo Adjustment: None
-  - 40+120
+- Ammo: 40+120
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -316,8 +291,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 0.70
 - VFX: Infected Beta (24)
 - Config: Combo
-- Ammo Adjustment: 50
-  - 14+84
+- Ammo: 14+84 (+50)
 - Point Cost: 7
 - Level: 7
 - Notes: -
@@ -326,8 +300,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Cindershot + M41 Tracker
 - Trait Set: 26
 - Config: Combo
-- Ammo Adjustment: -35
-  - 6+0
+- Ammo: 6+0 (-35)
 - Point Cost: 6
 - Level: 6
 - Notes: -
@@ -343,8 +316,7 @@ The configurations that make up each of the custom weapons.
     - Tactical Reload Scalar: 3.00
 - VFX: VIP (31)
 - Config: Combo
-- Ammo Adjustment: -50
-  - 6+0
+- Ammo: 6+0 (-50)
 - Point Cost: 6
 - Level: 6
 - Notes: -
@@ -354,8 +326,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 28
   - Weapon Damage: 0.38
 - Config: Combo
-- Ammo Adjustment: 20
-  - 40+160
+- Ammo: 40+160 (+20)
 - Point Cost: 4
 - Game State 4
 - Notes: -
@@ -366,8 +337,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 0.30
   - Movement Speed With Turret: 1.20
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
+- Ammo: 100%
 - Point Cost: 4
 - Level: 4
 - Notes: -
@@ -383,8 +353,7 @@ The configurations that make up each of the custom weapons.
     - Explosive Damage Scalar: 0.476190476
 - VFX: Infected Alpha (11)
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
+- Ammo: 100%
 - Point Cost: 7
 - Level: 7
 - Notes: -  
@@ -396,8 +365,7 @@ The configurations that make up each of the custom weapons.
   - Movement Speed With Turret: 1.60
   - Jump Height: 1.13
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
+- Ammo: 100%
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -409,8 +377,7 @@ The configurations that make up each of the custom weapons.
     - Movement Speed: 1.10
 - VFX: Infected Beta (23)
 - Config: Combo
-- Ammo Adjustment: None
-    - Unlimited
+- Ammo: Unlimited
 - Point Cost: 6
 - Level: 6
 - Notes: Has unlimited Duelist Energy Sword melees and fast movement speed, but can't lunge. Has the fastest movement speed in the sandbox.
@@ -421,8 +388,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 1.30
   - Movement Speed With Turret: 1.20
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
+- Ammo: 100%
 - Point Cost: 6
 - Level: 6
 - Notes: -
@@ -440,8 +406,7 @@ The configurations that make up each of the custom weapons.
     - Intensity Scalar: 1.00
     - Interpolation Scalar: 0.20
 - Config: Combo
-- Ammo Adjustment: -75
-  - 75%
+- Ammo: 75% (-75)
 - Point Cost: 7
 - Level: 7
 - Notes: The second trait set only applies while zoomed.
@@ -457,8 +422,7 @@ The configurations that make up each of the custom weapons.
   - VFX - Overshield
 - VFX (while zoomed): VIP (32)
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
+- Ammo: 100%
 - Point Cost: 5
 - Level: 5
 - Notes: The traits and VFX only apply when zoomed and not airborne.
@@ -473,8 +437,7 @@ The configurations that make up each of the custom weapons.
     - Top Speed Scalar: 1.13
     - Time To Top Speed Scalar: 0.90
 - Config: Combo
-- Ammo Adjustment: None
-  - 100%
+- Ammo: 100%
 - Point Cost: 7
 - Level: 7
 - Notes: Makes audible noise that alerts the enemy team to a wielder's presence in close range.
@@ -488,8 +451,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 400
   - Projectile Config: 1
   - Projectile: Spike Grenade
-- Ammo Adjustment: None
-  - 10+10
+- Ammo: 10+10
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -503,8 +465,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 350
   - Projectile Config: 2
   - Projectile: Banished Hunter Shot
-- Ammo Adjustment: -13
-  - 10+0
+- Ammo: 10+0 (-13)
 - Point Cost: 4
 - Level: 4
 - Notes: -
@@ -518,8 +479,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 100
   - Projectile Config: 3
   - Projectile: Rocket Hog Shot
-- Ammo Adjustment: 70
-  -  2+6
+- Ammo: 2+6 (+70)
 - Point Cost: 6
 - Level: 6
 - Notes: -
@@ -534,8 +494,7 @@ The configurations that make up each of the custom weapons.
     - Shot Velocity: 115
     - Projectile Config: 3
     - Projectile: M41 SPNKr Rocket
-- Ammo Adjustment: 34
-    - 2+4
+- Ammo: 2+4 (+34)
 - Point Cost: 8
 - Level: 8
 - Notes: -
@@ -550,8 +509,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 120
   - Projectile Config: 1
   - Projectile: Rocket Hog Shot
-- Ammo Adjustment: 25
-  - 10+20
+- Ammo: 10+20 (+25)
 - Point Cost: 3
 - Level: 3
 - Notes: -
@@ -561,8 +519,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 42
   - Weapon Damage: 0.38
 - Config: Combo
-- Ammo Adjustment: -70
-  - 40+100
+- Ammo: 40+100 (-70)
 - Point Cost: 2
 - Level: 2
 - Notes: -
@@ -576,8 +533,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 3000
   - Projectile Config: 1
   - Projectile: Volatile Skewer Shot
-- Ammo Adjustment: -12
-  - 10+0
+- Ammo: 10+0 (-12)
 - Point Cost: 9
 - Level: 9
 - Notes: -
@@ -591,8 +547,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 300
   - Projectile Config: 2
   - Projectile: Rocket Hog Shot
-- Ammo Adjustment: -10
-  - 20+0
+- Ammo: 20+0 (-10)
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -601,8 +556,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Vestige Carbine + Pinpoint Needler
 - Trait Set: 45
 - Config: Combo
-- Ammo Adjustment: 23
-  - 30+50
+- Ammo: 30+50 (+23)
 - Point Cost: 2
 - Level: 2
 - Notes: Requires 8 needles to land on target to supercombine and kill a Spartan; individual needles do little damage.
@@ -613,8 +567,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 2.84
 - VFX: VIP (36)
 - Config: Combo
-- Ammo Adjustment: 24
-  - 4+8
+- Ammo: 4+8 (+24)
 - Point Cost: 7
 - Level: 7
 - Notes: -
@@ -624,8 +577,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 47
 - VFX: Infected Alpha (13)
 - Config: Default
-- Ammo Adjustment: -3.50
-  - 04% (6 shots)
+- Ammo: 4% (6 shots) (-3.50)
 - Point Cost: 9
 - Level: 9
 - Notes: -
@@ -639,8 +591,7 @@ The configurations that make up each of the custom weapons.
     - Tactical Reload Scalar: 3.00
 - VFX: VIP (34)
 - Config: Combo
-- Ammo Adjustment: -70
-  - 6+6
+- Ammo: 6+6 (-70)
 - Point Cost: 7
 - Level: 7
 - Notes: Damage output based off of secondary fire strength; primary fire is pretty useless.
@@ -650,8 +601,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 49
 - VFX: Infected Beta (22)
 - Config: Combo
-- Ammo Adjustment: None
-    - 6+12
+- Ammo: 6+12
 - Point Cost: 8
 - Level: 8
 - Notes: Damage output based off of secondary fire strength; primary fire is not as effective.
@@ -662,8 +612,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 3.00
 - VFX: Infected Beta (26)
 - Config: Combo
-- Ammo Adjustment: -10.50
-  - 10% (16 shots)
+- Ammo: 10% (16 shots) (-10.50)
 - Point Cost: 8
 - Level: 8
 - Notes: Cindershot projectiles track enemies within red-reticle range. Ability to zoom while stationary.
@@ -673,8 +622,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 51
   - Weapon Damage: 0.50
 - Config: Combo
-- Ammo Adjustment: -50
-  - 14+28
+- Ammo: 14+28 (-50)
 - Point Cost: 2
 - Level: 2
 - Notes: Secondary fire is the only effictive method of using the weapon.
@@ -687,8 +635,7 @@ The configurations that make up each of the custom weapons.
     - Empty Reload Scalar: 1.20
     - Tactical Reload Scalar: 1.20
 - Config: Combo
-- Ammo Adjustment: None
-  - 14+14
+- Ammo: 14+14
 - Point Cost: 5
 - Level: 5
 - Notes: 4 Shot perfect. Long red reticle range.
@@ -697,8 +644,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: MA5K Avenger + Pinpoint Needler
 - Trait Set: 53
 - Config: Combo
-- Ammo Adjustment: 100
-  - 30+90
+- Ammo: 30+90 (+100)
 - Point Cost: 6
 - Level: 6
 - Notes: Shoots needles really fast causing the supercombine really quick. Must be used close range due to the needler tracking range being short.
@@ -706,8 +652,8 @@ The configurations that make up each of the custom weapons.
 ## [54] Duelist Plasma Pistol
 - Weapon Type: Original Plasma Pistol + Diminisher of Hope
 - Trait Set: 54
-- Config: Default
-- Ammo Adjustment: None
+- Config: Combo
+- Ammo: 100%
 - Point Cost: 2
 - Level: 2
 - Notes: Can't EMP vehicles. Has better charge shot tracking than normal Plasma Pistol. Has no zoom, but a matching red-reticle range to the normal Plasma Pistol. Is basically the Plasma Pistol from Halo Infinite's multiplayer launch without a zoom.
@@ -717,8 +663,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 55
   - Weapon Damage: 0.35
 - Config: Combo
-- Ammo Adjustment: -76
-  - 20+40
+- Ammo: 20+40 (-76)
 - Point Cost: 2
 - Level: 2
 - Notes: Good for landing consistent shots at long range.
@@ -727,7 +672,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: BR75 + Elite Bloodblade
 - Trait Set: 56
 - Config: Default
-- Ammo Adjustment: None
+- Ammo: None
 - Point Cost: -
 - Level: -
 - Notes: -
@@ -736,7 +681,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: BR75 + Elite Bloodblade
 - Trait Set: 57
 - Config: Default
-- Ammo Adjustment: None
+- Ammo: None
 - Point Cost: -
 - Level: -
 - Notes: -
@@ -745,7 +690,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: BR75 + Elite Bloodblade
 - Trait Set: 58
 - Config: Default
-- Ammo Adjustment: None
+- Ammo: None
 - Point Cost: -
 - Level: -
 - Notes: -
@@ -754,7 +699,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: BR75 + Elite Bloodblade
 - Trait Set: 59
 - Config: Default
-- Ammo Adjustment: None
+- Ammo: None
 - Point Cost: -
 - Level: -
 - Notes: -
@@ -763,131 +708,153 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: BR75 + Elite Bloodblade
 - Trait Set: 60
 - Config: Default
-- Ammo Adjustment: None
+- Ammo: None
 - Point Cost: -
 - Level: -
 - Notes: -
 
 ## [61] Arcane Sentinel Beam
 - Weapon Type: Arcane Sentinel Beam
+- Ammo: 80+160 (+33.34)
 - Point Cost: 6
 - Level: 6
 
 ## [62] BR75 Breacher
 - Weapon Type: BR75 Breacher
+- Ammo: 30+90
 - Point Cost: 5
 - Level: 5
 
 ## [63] Backdraft Cindershot
 - Weapon Type: Backdraft Cindershot
+- Ammo: 6+6
 - Point Cost: 3
 - Level: 3
 
 ## [64] Calcine Disruptor
 - Weapon Type: Calcine Disruptor
+- Ammo: 7+14
 - Point Cost: 6
 - Level: 6
 
 ## [65] Convergence Bulldog
 - Weapon Type: Convergence Bulldog
+- Ammo: 12+12
 - Point Cost: 6
 - Level: 6
 
 ## [66] Diminisher of Hope
 - Weapon Type: Diminisher of Hope
+- Ammo: 100%
 - Point Cost: 7
 - Level: 7
 
 ## [67] Duelist Energy Sword
 - Weapon Type: Duelist Energy Sword
+- Ammo: 100%
 - Point Cost: 6
 - Level: 6
 
 ## [68] Elite Bloodblade
 - Weapon Type: Elite Bloodblade
-- Ammo Adjustment: -40
-  - 40%
+- Ammo: 40% (-40)
 - Point Cost: 3
 - Level: 3
 - Notes: Deals twice more damage to vehicles than normal Energy Sword.
 
 ## [69] Impact Commando
 - Weapon Type: Impact Commando
+- Ammo: 40+120
 - Point Cost: 5
 - Level: 5
 
 ## [70] M41 Tracker
 - Weapon Type: M41 Tracker
+- Ammo: 2+2
 - Point Cost: 6
 - Level: 6
 
 ## [71] MA40 Longshot
 - Weapon Type: MA40 Longshot
+- Ammo: 25+75
 - Point Cost: 2
 - Level: 2
 
 ## [72] Pinpoint Needler
 - Weapon Type: Pinpoint Needler
+- Ammo: 30+30
 - Point Cost: 5
 - Level: 5
 
 ## [73] Purging Shock Rifle
 - Weapon Type: Purging Shock Rifle
+- Ammo: 15+30
 - Point Cost: 5
 - Level: 5
 
 ## [74] Pursuit Hydra
 - Weapon Type: Pursuit Hydra
+- Ammo: 6+6
 - Point Cost: 4
 - Level: 4
 
 ## [75] Rapidfire Pulse Carbine
 - Weapon Type: Rapidfire Pulse Carbine
+- Ammo: 100%
 - Point Cost: 4
 - Level: 4
 
 ## [76] Ravager Rebound
 - Weapon Type: Ravager Rebound
+- Ammo: 100%
 - Point Cost: 5
 - Level: 5
 
 ## [77] Riven Mangler
 - Weapon Type: Riven Mangler
+- Ammo: 8+16
 - Point Cost: 4
 - Level: 4
 
 ## [78] Rushdown Hammer
 - Weapon Type: Rushdown Hammer
+- Ammo: 100%
 - Point Cost: 8
 - Level: 8
 
 ## [79] S7 Flexfire Sniper
 - Weapon Type: S7 Flexfire Sniper
+- Ammo: 10+10
 - Point Cost: 6
 - Level: 6
 
 ## [80] Scatterbound Heatwave
 - Weapon Type: Scatterbound Heatwave
+- Ammo: 8+8
 - Point Cost: 4
 - Level: 4
 
 ## [81] Stalker Rifle Ultra
 - Weapon Type: Stalker Rifle Ultra
+- Ammo: 100%
 - Point Cost: 7
 - Level: 7
 
 ## [82] Striker Sidekick
 - Weapon Type: Striker Sidekick
+- Ammo: 14+42
 - Point Cost: 6
 - Level: 6
 
 ## [83] Unbound Plasma Pistol
 - Weapon Type: Unbound Plasma Pistol
+- Ammo: 100%
 - Point Cost: 6
 - Level: 6
 
 ## [84] Volatile Skewer
 - Weapon Type: Volatile Skewer
+- Ammo: 1+3
 - Point Cost: 6
 - Level: 6
 
@@ -923,143 +890,171 @@ The configurations that make up each of the custom weapons.
 
 ## [91] BR75
 - Weapon Type: BR75
+- Ammo: 36+108
 - Point Cost: 0
 - Level: 7
 
 ## [92] Bandit Evo
 - Weapon Type: Bandit Evo
+- Ammo: 15+45
 - Point Cost: 0
 - Level: 9
 
 ## [93] CQS48 Bulldog
 - Weapon Type: CQS48 Bulldog
+- Ammo: 7+7
 - Point Cost: 3
 - Level: 3
 
 ## [94] Cindershot
 - Weapon Type: Cindershot
+- Ammo: 6+6
 - Point Cost: 4
 - Level: 4
 
 ## [95] Disruptor
 - Weapon Type: Disruptor
+- Ammo: 12+36
 - Point Cost: 3
 - Level: 3
 
 ## [96] Energy Sword
 - Weapon Type: Energy Sword
+- Ammo: 100%
 - Point Cost: 4
 - Level: 4
 
 ## [97] Gravity Hammer
 - Weapon Type: Gravity Hammer
+- Ammo: 100%
 - Point Cost: 6
 - Level: 6
 
 ## [98] Heatwave
 - Weapon Type: Heatwave
+- Ammo: 8+8
 - Point Cost: 3
 - Level: 3
 
 ## [99] M392 Bandit
 - Weapon Type: M392 Bandit
+- Ammo: 15+30
 - Point Cost: 0
 - Level: 5
 
 ## [100] M41 SPNKr
 - Weapon Type: M41 SPNKr
+- Ammo: 2+2
 - Point Cost: 5
 - Level: 5
 
 ## [101] MA40 Assault Rifle
 - Weapon Type: MA40 Assault Rifle
+- Ammo: 36+108
 - Point Cost: 0
 - Level: 1
 
 ## [102] MA5K Avenger
 - Weapon Type: MA5K Avenger
+- Ammo: 60+180
 - Point Cost: 0
 - Level: 5
 
 ## [103] MLRS-2 Hydra
 - Weapon Type: MLRS-2 Hydra
+- Ammo: 6+12
 - Point Cost: 3
 - Level: 3
 
 ## [104] Mangler
 - Weapon Type: Mangler
+- Ammo: 8+16
 - Point Cost: 3
 - Level: 3
 
 ## [105] Mk50 Sidekick
 - Weapon Type: Mk50 Sidekick
+- Ammo: 12+36
 - Point Cost: 0
 - Level: 1
 
 ## [106] Needler
 - Weapon Type: Needler
+- Ammo: 26+52
 - Point Cost: 1
 - Level: 1
 
 ## [107] Plasma Pistol
 - Weapon Type: Plasma Pistol
+- Ammo: 100%
 - Point Cost: 2
 - Level: 2
 
 ## [108] Pulse Carbine
 - Weapon Type: Pulse Carbine
+- Ammo: 100%
 - Point Cost: 2
 - Level: 2
 
 ## [109] Ravager
 - Weapon Type: Ravager
+- Ammo: 100%
 - Point Cost: 4
 - Level: 4
 
 ## [110] S7 Sniper Rifle
 - Weapon Type: S7 Sniper Rifle
+- Ammo: 4+4
 - Point Cost: 6
 - Level: 6
 
 ## [111] Sentinel Beam
 - Weapon Type: Sentinel Beam
+- Ammo: 250+250
 - Point Cost: 4
 - Level: 4
 
 ## [112] Shock Rifle
 - Weapon Type: Shock Rifle
+- Ammo: 12+24
 - Point Cost: 5
 - Level: 5
 
 ## [113] Skewer
 - Weapon Type: Skewer
+- Ammo: 1+3
 - Point Cost: 5
 - Level: 5
 
 ## [114] Stalker Rifle
 - Weapon Type: Stalker Rifle
+- Ammo: 100%
 - Point Cost: 5
 - Level: 5
 
 ## [115] VK78 Commando
 - Weapon Type: VK78 Commando
+- Ammo: 20+60
 - Point Cost: 0
 - Level: 3
 
 ## [116] Fuel Rod SPNKr
 - Weapon Type: Fuel Rod SPNKr
+- Ammo: 6+6
 - Point Cost: 6
 - Level: 6
 
 ## [117] Mutilator
 - Weapon Type: Mutilator
+- Ammo: 2+6
 - Point Cost: 4
 - Level: 4
 
 ## [118] Vestige Carbine
 - Weapon Type: Vestige Carbine
-- Point Cost: 4
-- Level: 4
+- Ammo: 20+60
+- Point Cost: 3
+- Level: 3
 
 ## [119] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
@@ -1073,31 +1068,37 @@ The configurations that make up each of the custom weapons.
 
 ## [121] M247 HMG
 - Weapon Type: M247 HMG
+- Ammo: 100%
 - Point Cost: 3
 - Level: 3
 
 ## [122] Scrap Cannon
 - Weapon Type: Scrap Cannon
+- Ammo: 100%
 - Point Cost: 3
 - Level: 3
 
 ## [123] Plasma Cannon
 - Weapon Type: Plasma Cannon
+- Ammo: 100%
 - Point Cost: 5
 - Level: 5
 
 ## [124] Infected Energy Sword
 - Weapon Type: Infected Energy Sword
+- Ammo: 100%
 - Point Cost: -
 - Level: -
 
 ## [125] Sandwich
 - Weapon Type: Sandwich
+- Ammo: Unlimited
 - Point Cost: -
 - Level: -
 
 ## [126] Brute Scrap Cannon
 - Weapon Type: Brute Scrap Cannon
+- Ammo: 100%
 - Point Cost: -
 - Level: -
 
