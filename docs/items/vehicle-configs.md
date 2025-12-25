@@ -6,6 +6,8 @@ Vehicle configuration reference.
 ## [#] Vehicle Name
 - Vehicle Type: Vehicle Type
 - Object Variable: Variable Name
+- Vehicle Weapon Damage: # (Driver)
+- Shot Cadence: #
 - Point Cost: #
 - Level: #
 - Notes: -
@@ -192,6 +194,7 @@ Vehicle configuration reference.
 ## [25] ONI Wasp
 - Vehicle Type: Wasp
 - Object Variable: Wasp
+- Shot Cadence: 0.15
 - Point Cost: 7
 - Level: 7
 - Notes: Uses a custom vehicle weapon: [129] Rocket Hog Weapon.
@@ -199,6 +202,7 @@ Vehicle configuration reference.
 ## [26] Kig-Yar Warthog
 - Vehicle Type: Warthog
 - Object Variable: Warthog
+- Shot Cadence: 0.0666
 - Point Cost: 3
 - Level: 3
 - Notes: Uses a custom vehicle weapon: [140] Rocket Hog Weapon + Pinpoint Needler.
