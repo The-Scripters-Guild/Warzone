@@ -1184,3 +1184,37 @@ The configurations that make up each of the custom weapons.
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
+
+## [141] Unallocated
+- Weapon Type: BR75 + Elite Bloodblade
+- Point Cost: -
+- Level: -
+
+## [142] Unallocated
+- Weapon Type: BR75 + Elite Bloodblade
+- Point Cost: -
+- Level: -
+
+## [143] Kinetic Coil
+- Weapon Type: - (Object Reference)
+- Point Cost: 1
+- Level: 1
+- Notes: -
+
+## [143] Kinetic Coil
+- Weapon Type: - (Object Reference)
+- Point Cost: 1
+- Level: 2
+- Notes: -
+
+## [143] Kinetic Coil
+- Weapon Type: - (Object Reference)
+- Point Cost: 1
+- Level: 3
+- Notes: -
+
+## [143] Kinetic Coil
+- Weapon Type: - (Object Reference)
+- Point Cost: 1
+- Level: 4
+- Notes: -
