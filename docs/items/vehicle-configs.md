@@ -197,6 +197,7 @@ Vehicle configuration reference.
 
 ## [28] Cougar
 - Vehicle Type: Warthog
+- Shot Cadence: 1.70 s
 - Point Cost: 2
 - Level: 2
 - Notes: Warthog with no turret. Has a boost on honk.
@@ -206,4 +207,60 @@ Vehicle configuration reference.
 - Shot Cadence: 0.02 s
 - Point Cost: 4
 - Level: 4
-- Notes: Uses a custom vehicle weapon: [136] Rockethog Weapon + MA40 Longshot
+- Notes: Uses a custom vehicle weapon: [136] Rockethog Weapon + MA40 Longshot. Has no side gunner seats.
+
+## [30] Breech-Load Razorback
+- Vehicle Type: Razorback
+- Shot Cadence: 0.10 s
+- Point Cost: 4
+- Level: 4
+- Notes: Razorback that holds two Blast Coils in the back that respawn 3 seconds after destruction. Driver can detach and explode the coils via honk.
+
+## [31] Impulse Rockethog
+- Vehicle Type: Gauss Hog
+- Point Cost: 8
+- Level: 8
+- Notes: The unreleased Gauss Hog. Doesn't have a trail for the Gauss cannon shot.
+
+## [32] Chopper
+- Vehicle Type: Chopper
+- Point Cost: 4
+- Level: 4
+- Notes: -
+
+## [33] Hyperius Chopper
+- Vehicle Type: Chopper
+- Vehicle Weapon Damage: 0.50 (Driver)
+- Shot Cadence: 0.24 s
+- Point Cost: 6
+- Level: 6
+- Notes: Uses a custom vehicle weapon: [129] Rocket Hog Weapon.
+
+## [34] Chieftain Chopper
+- Vehicle Type: Chieftain Chopper
+- Point Cost: 6
+- Level: 6
+- Notes: -
+
+## [35] Escharum Chopper
+- Vehicle Type: Chieftain Chopper
+- Vehicle Weapon Damage: 0.80 (Driver)
+- Shot Cadence: 0.11 s
+- Point Cost: 8
+- Level: 8
+- Notes: Uses a custom vehicle weapon: [141] Rocket Hog Weapon + Riven Mangler.
+
+## [36] Kig-Yar Ghost
+- Vehicle Type: Ghost
+- Shot Cadence: 0.10 s
+- Point Cost: 5
+- Level: 5
+- Notes: Uses a custom vehicle weapon: [140] Rocket Hog Weapon + Pinpoint Needler.
+
+## [37] Spec Ops Warthog
+- Vehicle Type: Warthog
+- Vehicle Weapon Damage: 0.50 (Gunner)
+- Shot Cadence: 0.05 s
+- Point Cost: 7
+- Level: 7
+- Notes: Has a boost on honk.
