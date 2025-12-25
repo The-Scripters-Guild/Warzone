@@ -2,43 +2,45 @@
 
 ## Weapons
 
-| **Level**  |  **1**  |         **2**         |        **3**         |          **4**          |         **5**          |         **6**          |          **7**           |        **8**         |      **9**       |
-| :--------: | :-----: | :-------------------: | :------------------: | :---------------------: | :--------------------: | :--------------------: | :----------------------: | :------------------: | :--------------: |
-| **Points** |  **1**  |         **2**         |        **3**         |          **4**          |         **5**          |         **6**          |          **7**           |        **8**         |      **9**       |
-|            | Needler |   ONI Assault Rifle   |     ONI Commando     |       ONI Bandit        |      Key Of Speed      |    Striker Sidekick    |      Scions Vision       | Exterminating Frenzy | Banish Of Balaho |
-|            |         |     MA40 Longshot     |    CQS48 Bulldog     | Rapidfire Pulse Carbine |    ONI Battle Rifle    |  Cure Of The Haunted   |        Headhunter        |    Volcanic Oasis    |  Scorpion Tail   |
-|            |         |     Pulse Carbine     |       A Go At        |      Rush Bulldog       |      Siege Bandit      |      Rain Of War       |     The Final Token      |   Rushdown Hammer    |     Valkyrie     |
-|            |         |   Tactical Carbine    |     MLRS-2 Hydra     |      Riven Mangler      |     Valor Of Dinh      |      M41 Tracker       |      Rage Of Iratus      |      Gamma Shot      |                  |
-|            |         |     Plasma Pistol     | Backdraft Cindershot | Hardlight Plasma Pistol |       M41 SPNKr        |     Fuel Rod SPNKr     |   Stalker Rifle Ultra    |                      |                  |
-|            |         | Duelist Plasma Pistol |       Heatwave       |         Ravager         |     Tripple Threat     |    Spartan Sandwich    |      Doom Of Reach       |                      |                  |
-|            |         |     Seeking Hydra     |       Mangler        |       Cindershot        |      Shock Rifle       |    S7 Sniper Rifle     |   Sentry Of Writh Kul    |                      |                  |
-|            |         |     Brute Carbine     |      Disruptor       |        Mutilator        |  Purging Shock Rifle   |   S7 Flexfire Sniper   |    Diminsher of Hope     |                      |                  |
-|            |         |                       |       M247 HMG       |  Scatterbound Heatwave  |    Pinpoint Needler    |  Arcane Sentinel Beam  | Overloaded Pulse Carbine |                      |                  |
-|            |         |                       |     Scrap Cannon     |   Eayn Stalker Rifle    |       Pulse Wave       |    Phantom Assassin    |          Demon           |                      |                  |
-|            |         |                       |   Elite Bloodblade   |      Energy Sword       |     Zealot Ravager     |     Gravity Hammer     |     Light Of Doisac      |                      |                  |
-|            |         |                       |                      |      Sentinel Beam      |    Ravager Rebound     |   Calcine Disruptor    |                          |                      |                  |
-|            |         |                       |                      |   Hunters Right Hand    |    Blinding Payload    |      Scout Skewer      |                          |                      |                  |
-|            |         |                       |                      |       ONI Avenger       |     Stalker Rifle      |    Volatile Skewer     |                          |                      |                  |
-|            |         |                       |                      |     Vestige Carbine     |    Spire Of Barroth    |  Duelist Energy Sword  |                          |                      |                  |
-|            |         |                       |                      |       ONI Turret        |         Skewer         | Guardian Of Sanghelios |                          |                      |                  |
-|            |         |                       |                      |                         |      Thunderstorm      |  Convergence Bulldog   |                          |                      |                  |
-|            |         |                       |                      |                         |    Rogue Juggernaut    | Unbound Plasma Pistol  |                          |                      |                  |
-|            |         |                       |                      |                         |       Focus Beam       |                        |                          |                      |                  |
-|            |         |                       |                      |                         | Spike Of Thav 'Sebarim |                        |                          |                      |                  |
-|            |         |                       |                      |                         |      The Champion      |                        |                          |                      |                  |
-|            |         |                       |                      |                         |     Plasma Cannon      |                        |                          |                      |                  |
-|            |         |                       |                      |                         |     Pursuit Hydra      |                        |                          |                      |                  |
-|            |         |                       |                      |                         |     BR75 Breacher      |                        |                          |                      |                  |
-|            |         |                       |                      |                         |    Impact Commando     |                        |                          |                      |                  |
-|            |         |                       |                      |                         |    Decaying Charge     |                        |                          |                      |                  |
+| **Level**  | **1** |         **2**         |         **3**          |          **4**          |         **5**          |         **6**          |          **7**           |        **8**         |      **9**       |
+| :--------: | :---: | :-------------------: | :--------------------: | :---------------------: | :--------------------: | :--------------------: | :----------------------: | :------------------: | :--------------: |
+| **Points** | **1** |         **2**         |         **3**          |          **4**          |         **5**          |         **6**          |          **7**           |        **8**         |      **9**       |
+|            |       |     ONI Commando      |        A Go At         |       ONI Bandit        |      Key Of Speed      |        The Ace         |      Scions Vision       | Exterminating Frenzy |     Valkyrie     |
+|            |       |   ONI Assault Rifle   | Poisoned Pulse Carbine |      Rush Bulldog       |     Valor Of Dinh      |    Phantom Assassin    | Overloaded Pulse Carbine |    Volcanic Oasis    | Banish Of Balaho |
+|            |       |    Kig-Yar Carbine    |  Backdraft Cindershot  | Hardlight Plasma Pistol |       Pulse Wave       |      Scout Skewer      |      Rage Of Iratus      |      Gamma Shot      |  Scorpion Tail   |
+|            |       |     Seeking Hydra     |    Elite Bloodblade    |   Eayn Stalker Rifle    |    Spire Of Barroth    |    Spartan Sandwich    |     The Final Token      |   Bassus Artifact    |                  |
+|            |       | Duelist Plasma Pistol |     CQS48 Bulldog      |       Focus Beam        |     Zealot Ravager     | Guardian Of Sanghelios |      Doom Of Reach       |       SPNKr x        |                  |
+|            |       |     Brute Carbine     |       Disruptor        |       ONI Avenger       |    Decaying Charge     |      Rain Of War       |   Sentry Of Writh Kul    |   Rushdown Hammer    |                  |
+|            |       |   ONI Battle Rifle    |        Heatwave        |       ONI Turret        |    Blinding Payload    |  Cure Of The Haunted   |        The Demon         |                      |                  |
+|            |       |     MA40 Longshot     |      MLRS-2 Hydra      |   Hunters Right Hand    |     Tripple Threat     |  Arcane Sentinel Beam  |     Light Of Doisac      |                      |                  |
+|            |       |        Needler        |        Mangler         |    Burst-Fire Bandit    |      The Champion      |  Convergence Bulldog   |        Headhunter        |                      |                  |
+|            |       |     Plasma Pistol     |     Sentinel Beam      |      Pursuit Hydra      |    Rogue Juggernaut    |  Duelist Energy Sword  |    Diminisher of Hope    |                      |                  |
+|            |       |     Pulse Carbine     |    Vestige Carbine     | Rapidfire Pulse Carbine | Spike Of Thav 'Sebarim |      M41 Tracker       |   Stalker Rifle Ultra    |                      |                  |
+|            |       |                       |        M247 HMG        |      Riven Mangler      |      Thunderstorm      |   S7 Flexfire Sniper   |                          |                      |                  |
+|            |       |                       |      Scrap Cannon      |  Scatterbound Heatwave  |      Siege Bandit      |    Striker Sidekick    |                          |                      |                  |
+|            |       |                       |                        |       Cindershot        |     BR75 Breacher      | Unbound Plasma Pistol  |                          |                      |                  |
+|            |       |                       |                        |      Energy Sword       |   Calcine Disruptor    |    Volatile Skewer     |                          |                      |                  |
+|            |       |                       |                        |         Ravager         |    Impact Commando     |     Gravity Hammer     |                          |                      |                  |
+|            |       |                       |                        |       Shock Rifle       |    Pinpoint Needler    |    S7 Sniper Rifle     |                          |                      |                  |
+|            |       |                       |                        |        Mutilator        |  Purging Shock Rifle   |     Fuel Rod SPNKr     |                          |                      |                  |
+|            |       |                       |                        |                         |    Ravager Rebound     |                        |                          |                      |                  |
+|            |       |                       |                        |                         |       M41 SPNKr        |                        |                          |                      |                  |
+|            |       |                       |                        |                         |         Skewer         |                        |                          |                      |                  |
+|            |       |                       |                        |                         |     Stalker Rifle      |                        |                          |                      |                  |
+|            |       |                       |                        |                         |     Plasma Cannon      |                        |                          |                      |                  |
 
 ## Vehicles
 
-| **Level**  |  **1**   |   **2**   |     **3**      | **4** |         **5**          |     **6**     |    **7**     |     **8**      |       **9**       |
-| :--------: | :------: | :-------: | :------------: | :---: | :--------------------: | :-----------: | :----------: | :------------: | :---------------: |
-| **Points** |  **1**   |   **2**   |     **3**      | **4** |         **5**          |     **6**     |    **7**     |     **8**      |       **9**       |
-|            | Mongoose | Razorback |   Mid Ghost    | Ghost | Extermination Gungoose |  Mid Banshee  |     Wasp     |     Wraith     |     Scorpion      |
-|            |          |           |    Gungoose    |       |     Plasma Warthog     | ONI Rockethog |   Banshee    |  Phantom Wasp  |  Moonlight Wasp   |
-|            |          |           |    Warthog     |       |    Fusion Rockethog    |               | Undead Ghost | Divine Banshee |      Dragon       |
-|            |          |           |   Rockethog    |       |                        |               |              |                | Incursion Banshee |
-|            |          |           | Carrier Falcon |       |                        |               |              |                |                   |
+| **Level**  |  **1**   |     **2**     |         **3**         |    **4**     |         **5**          |       **6**       |      **7**       |       **8**       |       **9**       |
+| :--------: | :------: | :-----------: | :-------------------: | :----------: | :--------------------: | :---------------: | :--------------: | :---------------: | :---------------: |
+| **Points** |  **1**   |     **2**     |         **3**         |    **4**     |         **5**          |       **6**       |      **7**       |       **8**       |       **9**       |
+|            | Mongoose |   Razorback   |       Mid Ghost       |    Ghost     | Extermination Gungoose |      Banshee      | Spec Ops Warthog |      Wraith       |     Scorpion      |
+|            |          | Scout Warthog |       Gungoose        | Recon Falcon |     Plasma Warthog     |   ONI Rockethog   |   Phantom Wasp   | Paralyzing Falcon |  Moonlight Wasp   |
+|            |          |               |        Warthog        |   Chopper    |    Fusion Rockethog    |       Wasp        |   Undead Ghost   |  Divine Banshee   |      Dragon       |
+|            |          |               |       Rockethog       |              |     Famished Ghost     |      Falcon       |                  | Impulse Rockethog | Incursion Banshee |
+|            |          |               |    Kig-Yar Warthog    |              |      Mid Banshee       |   ONI Rockethog   |                  | Escharum Chopper  |                   |
+|            |          |               | Breech-Load Razorback |              |                        |     ONI Wasp      |                  |                   |                   |
+|            |          |               |                       |              |                        |      Cougar       |                  |                   |                   |
+|            |          |               |                       |              |                        | Chieftain Chopper |                  |                   |                   |
+|            |          |               |                       |              |                        | Hyperius Chopper  |                  |                   |                   |
+

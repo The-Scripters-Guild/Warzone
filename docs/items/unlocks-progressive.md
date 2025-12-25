@@ -2,10 +2,10 @@
 
 ## Weapons
 
-| **Level** |       **1**        |       **2**       |          **3**          |       **4**        |    **5**     |       **6**       | **7** |         **8**          |   **9**    |
-| :-------: | :----------------: | :---------------: | :---------------------: | :----------------: | :----------: | :---------------: | :---: | :--------------------: | :--------: |
-|           | MA40 Assault Rifle | Marksman Sidekick | Hardlight Assault Rifle | Hardlight Commando | MA5K Avenger | Hardlight Avenger | BR75  | Hardlight Battle Rifle | Bandit Evo |
-|           |   Mk50 Sidekick    |                   |      VK78 Commando      |                    | M392 Bandit  |                   |       |                        |            |
+| **Level** |       **1**        |          **2**          |     **3**     |       **4**        |    **5**     |       **6**       | **7** |         **8**          | **9** |
+| :-------: | :----------------: | :---------------------: | :-----------: | :----------------: | :----------: | :---------------: | :---: | :--------------------: | :---: |
+|           |   Mk50 Sidekick    | Hardlight Assault Rifle | VK78 Commando | Marksman Sidekick  | MA5K Avenger | Hardlight Avenger | BR75  |       Bandit Evo       |       |
+|           | MA40 Assault Rifle |                         |               | Hardlight Commando | M392 Bandit  |                   |       | Hardlight Battle Rifle |       |
 
 ## Ability Boosts
 
