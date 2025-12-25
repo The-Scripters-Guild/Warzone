@@ -179,7 +179,7 @@ Documentation of all the custom AI variants used for the Warzone mode. Only the 
 - Secondary Weapon Type: - (delete)
 - Trait Set: BruteMinor
   - Damage Resistance
-    - Direct Damage Scalar: 4.30
+    - Direct Damage Scalar: 2.50
     - Grenade Damage Scalar: 2.57
     - Explosive Damage Scalar: 2.57
 - Notes: Will die in 3 Hydra direct rockets and 1 Rocket Launcher Rocket.
