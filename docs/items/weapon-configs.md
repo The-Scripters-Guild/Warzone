@@ -669,32 +669,35 @@ The configurations that make up each of the custom weapons.
 - Level: 2
 - Notes: Good for landing consistent shots at long range.
 
-## [56] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [56] Poisoned Pulse Carbine
+- Weapon Type: Pulse Carbine + Pinpoint Needler
 - Trait Set: 56
-- Config: Default
-- Ammo: None
-- Point Cost: -
-- Level: -
-- Notes: -
+  - Weapon Damage: 0.50
+- Config: Combo
+- Ammo: 100%
+- Point Cost: 3
+- Level: 3
+- Notes: Requires two supercombines to kill.
 
-## [57] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [57] Assault Rifle Delta
+- Weapon Type: MA40 Assault Rifle + Diminisher of Hope
 - Trait Set: 57
+  - Weapon Damage: 1.35
 - Config: Default
-- Ammo: None
-- Point Cost: -
-- Level: -
-- Notes: -
+- Ammo: 36+180 (+33.5)
+- Point Cost: 3
+- Level: 3
+- Notes: An Assault Rifle with no zoom, but higher damage.
 
 ## [58] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+- Weapon Type: BR75 + Impact Commando
 - Trait Set: 58
+  - Weapon Damage: 0.50
 - Config: Default
-- Ammo: None
-- Point Cost: -
-- Level: -
-- Notes: -
+- Ammo: 40+80 (-60)
+- Point Cost: 2
+- Level: 2
+- Notes: A worse BR75, but can be obtained much earlier at the cost of points.
 
 ## [59] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
