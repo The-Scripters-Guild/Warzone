@@ -680,15 +680,19 @@ The configurations that make up each of the custom weapons.
 - Level: 3
 - Notes: Requires two supercombines to kill.
 
-## [57] Assault Rifle Delta
-- Weapon Type: MA40 Assault Rifle + Diminisher of Hope
+## [57] Bassus Artifact
+- Weapon Type: Gravity Hammer + S7 Flexfire Sniper
 - Trait Set: 57
-  - Weapon Damage: 1.35
-- Config: Default
-- Ammo: 36+180 (+33.5)
-- Point Cost: 3
-- Level: 3
-- Notes: An Assault Rifle with no zoom, but higher damage.
+  - Movement Speed: 1.20
+  - Jump Height: 1.20
+  - Damage Resistance
+    - Direct Damage Scalar: 1.50
+    - Grenade Damage Scalar: 0.476190476
+    - Explosive Damage Scalar: 0.476190476
+  - Melee Recovery Speed: 3.00
+  - Melee Impulse: 1.50
+- Point Cost: 8
+- Notes: Can zoom in. Has a long lunge when zoomed in.
 
 ## [58] Unallocated
 - Weapon Type: BR75 + Impact Commando
