@@ -85,14 +85,14 @@ The configurations that make up each of the custom weapons.
 - Level: 8
 - Notes: -
 
-## [6] ONI Battle Rifle
+## [6] The Ace
 - Weapon Type: BR75 + Striker Sidekick
 - Trait Set: 6
   - Weapon Damage: 0.60
 - Config: Combo
-- Ammo: 14+70 (+34)
-- Point Cost: 5
-- Level: 5
+- Ammo: 14+84 (+50)
+- Point Cost: 6
+- Level: 6
 - Notes: -
 
 ## [7] ONI Bandit
@@ -332,9 +332,9 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [29] ONI Turret
-- Weapon Type: M247 HMG + Striker Sidekick
+- Weapon Type: M247 HMG + Impact Commando
 - Trait Set: 29
-  - Weapon Damage: 0.30
+  - Weapon Damage: 0.34
   - Movement Speed With Turret: 1.20
 - Config: Combo
 - Ammo: 100%
@@ -343,9 +343,9 @@ The configurations that make up each of the custom weapons.
 - Notes: -
   
 ## [30] Doom Of Reach
-- Weapon Type: M247 HMG + MA40 Longshot
+- Weapon Type: M247 HMG + Striker Sidekick
 - Trait Set: 30
-  - Weapon Damage: 1.20
+  - Weapon Damage: 0.40
   - Movement Speed With Turret: 1.47
   - Damage Resistance
     - Direct Damage Scalar: 2.10
@@ -530,7 +530,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 3.00
 - Config: Projectile
   - Shot Count: 1
-  - Shot Velocity: 3000
+  - Shot Velocity: 2000
   - Projectile Config: 1
   - Projectile: Volatile Skewer Shot
 - Ammo: 10+0 (-12)
@@ -1015,8 +1015,8 @@ The configurations that make up each of the custom weapons.
 ## [111] Sentinel Beam
 - Weapon Type: Sentinel Beam
 - Ammo: 250+250
-- Point Cost: 4
-- Level: 4
+- Point Cost: 3
+- Level: 3
 
 ## [112] Shock Rifle
 - Weapon Type: Shock Rifle
