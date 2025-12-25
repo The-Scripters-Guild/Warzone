@@ -169,7 +169,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 3000
   - Projectile Config: 1
   - Projectile: Banished Hunter Shot
-- Ammo: 4+4
+- Ammo: 4+6 (+10)
 - Point Cost: 9
 - Level: 9
 - Notes: -
@@ -433,6 +433,7 @@ The configurations that make up each of the custom weapons.
   - VFX - Active Camouflage
     - Intensity Scalar: 1.00
     - Interpolation Scalar: 1.00
+  - Movement Speed: 1.20
   - Sprint Speed
     - Top Speed Scalar: 1.13
     - Time To Top Speed Scalar: 0.90
@@ -451,7 +452,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 400
   - Projectile Config: 1
   - Projectile: Spike Grenade
-- Ammo: 10+10
+- Ammo: 10+30 (+50)
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -1188,36 +1189,58 @@ The configurations that make up each of the custom weapons.
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [141] Sentinel Beam + Convergence Bulldog
-- Weapon Type: Sentinel Beam + Convergence Bulldog
+## [141] Rockethog Weapon + Riven Mangler
+- Weapon Type: Rockethog Weapon + Riven Mangler
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [142] Unallocated
+## [142] Rockethog Weapon + Striker Sidekick
+- Weapon Type: Rockethog Weapon + Striker Sidekick
+- Point Cost: -
+- Level: -
+- Notes: Used as a custom vehicle weapon; not intended for players.
+
+## [143] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
 - Point Cost: -
 - Level: -
 
-## [143] Kinetic Coil
+## [144] Unallocated
+- Weapon Type: BR75 + Elite Bloodblade
+- Point Cost: -
+- Level: -
+
+## [145] Unallocated
+- Weapon Type: BR75 + Elite Bloodblade
+- Point Cost: -
+- Level: -
+
+## [146] Plasma Cannon (Object)
+- Weapon Type: - (Object Reference)
+- Point Cost: -
+- Level: -
+- Notes: Used as a custom vehicle weapon to enable honk detection; not intended for players.
+
+## [147] Kinetic Coil (Object)
 - Weapon Type: - (Object Reference)
 - Point Cost: 1
 - Level: 1
 - Notes: -
 
-## [143] Kinetic Coil
+## [148] Kinetic Coil (Object)
 - Weapon Type: - (Object Reference)
 - Point Cost: 1
 - Level: 2
 - Notes: -
 
-## [143] Kinetic Coil
+## [149] Kinetic Coil (Object)
 - Weapon Type: - (Object Reference)
 - Point Cost: 1
 - Level: 3
 - Notes: -
 
-## [143] Kinetic Coil
+## [150] Kinetic Coil (Object)
 - Weapon Type: - (Object Reference)
 - Point Cost: 1
 - Level: 4
