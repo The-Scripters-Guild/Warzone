@@ -328,7 +328,7 @@ The configurations that make up each of the custom weapons.
 - Config: Combo
 - Ammo: 40+160 (+20)
 - Point Cost: 4
-- Game State 4
+- Level: 4
 - Notes: -
 
 ## [29] ONI Turret
@@ -694,7 +694,7 @@ The configurations that make up each of the custom weapons.
 - Point Cost: 8
 - Notes: Can zoom in. Has a long lunge when zoomed in.
 
-## [58] Unallocated
+## [58] ONI Battle Rifle
 - Weapon Type: BR75 + Impact Commando
 - Trait Set: 58
   - Weapon Damage: 0.50
@@ -959,7 +959,7 @@ The configurations that make up each of the custom weapons.
 - Point Cost: 5
 - Level: 5
 
-## [101] MA40 Assault Rifle
+## [101] MA40 AR
 - Weapon Type: MA40 Assault Rifle
 - Ammo: 36+108
 - Point Cost: 0
@@ -992,8 +992,8 @@ The configurations that make up each of the custom weapons.
 ## [106] Needler
 - Weapon Type: Needler
 - Ammo: 26+52
-- Point Cost: 1
-- Level: 1
+- Point Cost: 2
+- Level: 2
 
 ## [107] Plasma Pistol
 - Weapon Type: Plasma Pistol
