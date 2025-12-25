@@ -1158,8 +1158,8 @@ The configurations that make up each of the custom weapons.
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [136] Wasp Weapon + Pursuit Hydra
-- Weapon Type: Wasp Weapon + Pursuit Hydra
+## [136] Rockethog Weapon + MA40 Longshot
+- Weapon Type: Rockethog Weapon + MA40 Longshot
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
@@ -1188,10 +1188,11 @@ The configurations that make up each of the custom weapons.
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [141] Unallocated
-- Weapon Type: BR75 + Elite Bloodblade
+## [141] Sentinel Beam + Convergence Bulldog
+- Weapon Type: Sentinel Beam + Convergence Bulldog
 - Point Cost: -
 - Level: -
+- Notes: Used as a custom vehicle weapon; not intended for players.
 
 ## [142] Unallocated
 - Weapon Type: BR75 + Elite Bloodblade
