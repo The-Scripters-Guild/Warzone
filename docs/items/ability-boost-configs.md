@@ -131,7 +131,7 @@ The configurations that make up each of the ability boosts.
 - Notes: Removes outline and name from player; 50% passive camo that takes a second to reactivate if the player starts running or fires their weapon. Driving a vehicle with the Ability Boost active causes the vehicle to go invisible; excluded vehicles: Falcon, Wraith, Scorpion.
 
 ## [8] Frag Grenade Specialist
-- Level: 5
+- Level: 3
 - Notes: Sets the player's Frag Grenade count to 4 and removes all other Grenades.
 
 ## [9] Spike Grenade Specialist
