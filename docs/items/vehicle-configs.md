@@ -100,7 +100,6 @@ Vehicle configuration reference.
 - Vehicle Type: Mongoose
 - Object Variable: Mongoose
 - Vehicle Weapon Damage: 1.50 (Driver)
-- Health Regeneration: 1% every 5 seconds
 - Point Cost: 5
 - Level: 5
 - Notes: Uses a custom vehicle weapon: [135] Wasp Weapon + Scatterbound Heatwave.
@@ -123,7 +122,6 @@ Vehicle configuration reference.
 - Vehicle Type: Wasp
 - Object Variable: Wasp
 - Vehicle Weapon Damage: 1.50 (Driver)
-- Health Regeneration: 1% every 5 seconds
 - Point Cost: 8
 - Level: 8
 - Notes: Uses a custom vehicle weapon: [132] Rocket Hog Weapon + Rapidfire Pulse Carbine.
@@ -132,7 +130,6 @@ Vehicle configuration reference.
 - Vehicle Type: Wasp
 - Object Variable: Wasp
 - Vehicle Weapon Damage: 2.00 (Driver)
-- Health Regeneration: 1% every 5 seconds
 - Point Cost: 9
 - Level: 9
 - Notes: Uses a custom vehicle weapon: [131] Rocket Hog Weapon + Backdraft Cindershot. Has the secondary rockets disabled.
@@ -148,7 +145,6 @@ Vehicle configuration reference.
 - Vehicle Type: Falcon
 - Object Variable: Falcon
 - Vehicle Weapon Damage: 2.00 (Driver)
-- Health Regeneration: 1% every 5 seconds
 - Point Cost: 9
 - Level: 9
 - Notes: Uses a custom vehicle weapon: [136] Wasp Weapon + Pursuit Hydra.
@@ -166,7 +162,6 @@ Vehicle configuration reference.
 - Vehicle Type: Banshee
 - Object Variable: Banshee
 - Vehicle Weapon Damage: 1.40 (Driver)
-- Health Regeneration: 1% every 5 seconds
 - Point Cost: 8
 - Level: 8
 - Notes: Uses a custom vehicle weapon: [137] Rocket Hog Weapon + Scatterbound Heatwave. Has the secondary bomb disabled.
@@ -175,7 +170,6 @@ Vehicle configuration reference.
 - Vehicle Type: Banshee
 - Object Variable: Banshee
 - Vehicle Weapon Damage: 1.50 (Driver)
-- Health Regeneration: 1% every 5 seconds
 - Point Cost: 9
 - Level: 9
 - Notes: Uses a custom vehicle weapon: [138] Wasp Weapon + M41 Tracker. Has the secondary bomb disabled.
@@ -191,7 +185,6 @@ Vehicle configuration reference.
 - Vehicle Type: Rockethog
 - Object Variable: Rockethog
 - Vehicle Weapon Damage: 0.15 (Gunner)
-- Health Regeneration: 1% every 5 seconds
 - Point Cost: 6
 - Level: 6
 - Notes: Uses a custom vehicle weapon: [139] Rocket Hog Weapon + Volatile Skewer.
