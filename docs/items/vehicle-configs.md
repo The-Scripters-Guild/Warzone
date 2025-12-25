@@ -115,7 +115,7 @@ Vehicle configuration reference.
 
 ## [17] Moonlight Wasp
 - Vehicle Type: Wasp
-- Vehicle Weapon Damage: 2.00 (Driver)
+- Vehicle Weapon Damage: 1.00 (Driver)
 - Point Cost: 9
 - Level: 9
 - Notes: Uses a custom vehicle weapon: [131] Rocket Hog Weapon + Backdraft Cindershot. Has the secondary rockets disabled.
@@ -130,7 +130,7 @@ Vehicle configuration reference.
 - Vehicle Type: Falcon
 - Config: Projectile
   - Shot Count: 1
-  - Shot Velocity: 200
+  - Shot Velocity: 300
   - Projectile Config: 4
   - Projectile: Shock Coil
 - Shot Cadence: 2.00
@@ -188,14 +188,14 @@ Vehicle configuration reference.
 - Level: 3
 - Notes: Uses a custom vehicle weapon: [140] Rocket Hog Weapon + Pinpoint Needler.
 
-## [27] Husky
+## [27] Cougar
 - Vehicle Type: Mongoose
 - Vehicle Weapon Damage: 1.50 (Driver)
 - Point Cost: 6
 - Level: 6
 - Notes: Uses a custom vehicle weapon: [130] Wasp Weapon. Shoots three Wasp rockets at once.
 
-## [28] Cougar
+## [28] Scout Warthog
 - Vehicle Type: Warthog
 - Shot Cadence: 1.70 s
 - Point Cost: 2
