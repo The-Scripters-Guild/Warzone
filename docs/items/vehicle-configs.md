@@ -7,7 +7,8 @@ Vehicle configuration reference.
 - Vehicle Type: Vehicle Type
 - Object Variable: Variable Name
 - Vehicle Weapon Damage: # (Driver)
-- Shot Cadence: #
+- Health Adjustment: #%
+- Shot Cadence: # s
 - Point Cost: #
 - Level: #
 - Notes: -
@@ -179,6 +180,7 @@ Vehicle configuration reference.
 ## [23] Carrier Falcon
 - Vehicle Type: Falcon
 - Object Variable: Falcon
+- Health Adjustment: 60%
 - Point Cost: 3
 - Level: 3
 - Notes: Has no side gunner seats; meant for player transport.
@@ -194,7 +196,7 @@ Vehicle configuration reference.
 ## [25] ONI Wasp
 - Vehicle Type: Wasp
 - Object Variable: Wasp
-- Shot Cadence: 0.15
+- Shot Cadence: 0.15 s
 - Point Cost: 7
 - Level: 7
 - Notes: Uses a custom vehicle weapon: [129] Rocket Hog Weapon.
@@ -202,7 +204,7 @@ Vehicle configuration reference.
 ## [26] Kig-Yar Warthog
 - Vehicle Type: Warthog
 - Object Variable: Warthog
-- Shot Cadence: 0.0666
+- Shot Cadence: 0.00 s
 - Point Cost: 3
 - Level: 3
 - Notes: Uses a custom vehicle weapon: [140] Rocket Hog Weapon + Pinpoint Needler.
