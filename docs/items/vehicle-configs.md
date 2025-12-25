@@ -5,9 +5,8 @@ Vehicle configuration reference.
 <!--
 ## [#] Vehicle Name
 - Vehicle Type: Vehicle Type
-- Object Variable: Variable Name
-- Vehicle Weapon Damage: # (Driver)
 - Health Adjustment: #%
+- Vehicle Weapon Damage: # (Driver)
 - Shot Cadence: # s
 - Point Cost: #
 - Level: #
@@ -16,8 +15,8 @@ Vehicle configuration reference.
 
 ## [1] Banshee
 - Vehicle Type: Banshee
-- Point Cost: 7
-- Level: 7
+- Point Cost: 6
+- Level: 6
 - Notes: -
 
 ## [2] Ghost
@@ -64,8 +63,8 @@ Vehicle configuration reference.
 
 ## [9] Wasp
 - Vehicle Type: Wasp
-- Point Cost: 7
-- Level: 7
+- Point Cost: 6
+- Level: 6
 - Notes: -
 
 ## [10] Wraith
@@ -76,8 +75,8 @@ Vehicle configuration reference.
 
 ## [11] Mid Banshee
 - Vehicle Type: Banshee (Cloned)
-- Point Cost: 6
-- Level: 6
+- Point Cost: 5
+- Level: 5
 - Notes: The vehicle is a hidden Vehicle Type that can only be created by cloning the base Vehicle Type.
 
 ## [12] Mid Ghost
@@ -109,13 +108,13 @@ Vehicle configuration reference.
 ## [16] Phantom Wasp
 - Vehicle Type: Wasp
 - Vehicle Weapon Damage: 1.50 (Driver)
-- Point Cost: 8
-- Level: 8
+- Point Cost: 7
+- Level: 7
 - Notes: Uses a custom vehicle weapon: [132] Rocket Hog Weapon + Rapidfire Pulse Carbine.
 
 ## [17] Moonlight Wasp
 - Vehicle Type: Wasp
-- Vehicle Weapon Damage: 1.00 (Driver)
+- Vehicle Weapon Damage: 0.80 (Driver)
 - Point Cost: 9
 - Level: 9
 - Notes: Uses a custom vehicle weapon: [131] Rocket Hog Weapon + Backdraft Cindershot. Has the secondary rockets disabled.
@@ -126,7 +125,7 @@ Vehicle configuration reference.
 - Level: 6
 - Notes: -
 
-## [19] Dragon
+## [19] Paralyzing Falcon
 - Vehicle Type: Falcon
 - Config: Projectile
   - Shot Count: 1
@@ -160,12 +159,12 @@ Vehicle configuration reference.
 - Level: 9
 - Notes: Uses a custom vehicle weapon: [138] Wasp Weapon + M41 Tracker. Has the secondary bomb disabled.
 
-## [23] Carrier Falcon
+## [23] Dragon
 - Vehicle Type: Falcon
-- Health Adjustment: 60%
-- Point Cost: 3
-- Level: 3
-- Notes: Has no side gunner seats; meant for player transport.
+- Shot Cadence: 2.00
+- Point Cost: 9
+- Level: 9
+- Notes: Uses a custom vehicle weapon: [141] Rockethog Weapon + Riven Mangler.
 
 ## [24] ONI Rockethog
 - Vehicle Type: Rockethog
@@ -177,8 +176,8 @@ Vehicle configuration reference.
 ## [25] ONI Wasp
 - Vehicle Type: Wasp
 - Shot Cadence: 0.15 s
-- Point Cost: 7
-- Level: 7
+- Point Cost: 6
+- Level: 6
 - Notes: Uses a custom vehicle weapon: [129] Rocket Hog Weapon.
 
 ## [26] Kig-Yar Warthog
@@ -204,16 +203,18 @@ Vehicle configuration reference.
 
 ## [29] Recon Falcon
 - Vehicle Type: Falcon
+- Health Adjustment: 60%
+- Vehicle Weapon Damage: 1.20 (Driver)
 - Shot Cadence: 0.02 s
 - Point Cost: 4
 - Level: 4
-- Notes: Uses a custom vehicle weapon: [136] Rockethog Weapon + MA40 Longshot. Has no side gunner seats.
+- Notes: Uses a custom vehicle weapon: [136] Rockethog Weapon + BR75 Breacher. Has no side gunner seats.
 
 ## [30] Breech-Load Razorback
 - Vehicle Type: Razorback
 - Shot Cadence: 0.10 s
-- Point Cost: 4
-- Level: 4
+- Point Cost: 3
+- Level: 3
 - Notes: Razorback that holds two Blast Coils in the back that respawn 3 seconds after destruction. Driver can detach and explode the coils via honk.
 
 ## [31] Impulse Rockethog
@@ -250,17 +251,18 @@ Vehicle configuration reference.
 - Level: 8
 - Notes: Uses a custom vehicle weapon: [141] Rocket Hog Weapon + Riven Mangler.
 
-## [36] Kig-Yar Ghost
+## [36] Famished Ghost
 - Vehicle Type: Ghost
-- Shot Cadence: 0.10 s
+- Vehicle Weapon Damage: 0.60 (Driver)
+- Shot Cadence: 0.30 s
 - Point Cost: 5
 - Level: 5
-- Notes: Uses a custom vehicle weapon: [140] Rocket Hog Weapon + Pinpoint Needler.
+- Notes: Uses a custom vehicle weapon: [137] Rockethog Weapon + Scatterbound Heatwave.
 
 ## [37] Spec Ops Warthog
 - Vehicle Type: Warthog
-- Vehicle Weapon Damage: 0.50 (Gunner)
-- Shot Cadence: 0.05 s
+- Vehicle Weapon Damage: 3.00 (Gunner)
+- Shot Cadence: 0.30 s
 - Point Cost: 7
 - Level: 7
-- Notes: Has a boost on honk.
+- Notes: Uses a custom vehicle weapon: [132] Rockethog Weapon + Rapidfire Pulse Carbine. Has a boost on honk.
