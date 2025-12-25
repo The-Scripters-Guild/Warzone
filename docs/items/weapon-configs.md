@@ -169,7 +169,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 3000
   - Projectile Config: 1
   - Projectile: Banished Hunter Shot
-- Ammo: 4+10 (+30)
+- Ammo: 4+4
 - Point Cost: 9
 - Level: 9
 - Notes: -
@@ -555,6 +555,7 @@ The configurations that make up each of the custom weapons.
 ## [45] Kig-Yar Carbine
 - Weapon Type: Vestige Carbine + Pinpoint Needler
 - Trait Set: 45
+  - Weapon Damage: 2.80
 - Config: Combo
 - Ammo: 30+50 (+23)
 - Point Cost: 2
@@ -577,7 +578,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 47
 - VFX: Infected Alpha (13)
 - Config: Default
-- Ammo: 4% (6 shots) (-3.50)
+- Ammo: 6% (9 shots) (-5.50)
 - Point Cost: 9
 - Level: 9
 - Notes: -
