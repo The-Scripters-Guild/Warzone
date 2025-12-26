@@ -691,6 +691,7 @@ The configurations that make up each of the custom weapons.
     - Explosive Damage Scalar: 0.476190476
   - Melee Recovery Speed: 3.00
   - Melee Impulse: 1.50
+- VFX: Infected Alpha (15)
 - Point Cost: 8
 - Notes: Can zoom in. Has a long lunge when zoomed in.
 
@@ -719,6 +720,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 60
   - Weapon Damage: 0.80
 - Config: Combo
+- VFX: Infected Beta (28)
 - Ammo: 6+6
 - Point Cost: 8
 - Level: 8
