@@ -423,6 +423,11 @@ Current state: Mode working fully, with some notable missing features:
 
 - Added AI Spawners to the mode scripts
 
+### 0.13.7
+
+- Updated warzone-sandbox to 0.25.2
+- Fixed "Objective Start, Good Luck!" Audio playing during the intro cameras of maps where the gameplay doesn't start from the Home Bases.
+
 
 
 
@@ -1082,6 +1087,14 @@ Removed weapons:
 
 Added weapons:
 - [57] Bassus Artifact (Tier 8)
+
+### 0.25.2
+
+- Adjusted weapons:
+  - [57] Bassus Artifact
+    - VFX: Infected Alpha (15)
+  - [60] SPNKr x
+    - VFX: Infected Beta (28)
 
 ## tsg warzone-radial module
 
