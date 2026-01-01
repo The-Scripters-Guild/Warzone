@@ -160,21 +160,25 @@ The configurations that make up each of the equipment, including custom powerups
 - Level: 1
 - Notes: Vampirism only comes from dealing damage to enemy health, not shield.
 
-## [12] Allied Monitor
+## [12] Strong Arm
 - Equipment Type: Custom Equipment B
-- Trait Set: alliedMonitor
-  - Third Person Gameplay: TRUE
+- Trait Set: strongArm
+  - Melee Damage: 1.15
+  - Melee Recovery Speed: 2.00
 - Custom Charge Count: 1
 - Default Charge Count: 1
 - Duration: 45 s
-- VFX: VIP
+- VFX: Infected Beta
 - Point Cost: 2
 - Level: 1
-- Notes: Puts the player's view in third person, allowing for a wider angle of the battlefield.
+- Notes: Increased melee damage and faster melee recovery speed.
 
 ## [13] Speed Boost
 - Equipment Type: Custom Equipment C
 - Trait Sets: speedboost1 & speedboost2 & speedboost3 & speedboost4
+  - Reload Speed
+    - Empty Reload Scalar: 1.15
+    - Tactical Reload Scalar: 1.15
   - Movement Speed: 1.16
   - Sprint Speed
     - Top Speed Scalar: 1.13
@@ -197,7 +201,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Custom Charge Count: 1
 - Default Charge Count: 1
 - Duration: 60 s
-- VFX: Infected Beta
+- VFX: VIP
 - Point Cost: 3
 - Level: 1
 - Notes: Makes headshots to unshielded players act like bodyshots. Weapons that can kill an unshielded player in one hit to the head will now require more shots to the head to kill.

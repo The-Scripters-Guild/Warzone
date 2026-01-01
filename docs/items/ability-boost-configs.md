@@ -81,7 +81,7 @@ The configurations that make up each of the ability boosts.
 - Notes: Inner Ring is a general extension of the range and Extended Range is how far enemies will be shown on the outside ring of the radar when they're not within the range of the Inner Ring.
 
 ## [3] Dexterity
-- Trait Set: expertMarksman
+- Trait Set: dexterity
   - Reload Speed
     - Empty Reload Scalar: 1.17
     - Tactical Reload Scalar: 1.17

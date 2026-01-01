@@ -1235,20 +1235,20 @@ The configurations that make up each of the custom weapons.
 - Level: 1
 - Notes: -
 
-## [148] Kinetic Coil (Object)
+## [148] Hardlight Coil (Object)
 - Weapon Type: - (Object Reference)
 - Point Cost: 1
-- Level: 2
+- Level: 1
 - Notes: -
 
-## [149] Kinetic Coil (Object)
+## [149] Plasma Coil (Object)
 - Weapon Type: - (Object Reference)
 - Point Cost: 1
-- Level: 3
+- Level: 1
 - Notes: -
 
-## [150] Kinetic Coil (Object)
+## [150] Shock Coil (Object)
 - Weapon Type: - (Object Reference)
 - Point Cost: 1
-- Level: 4
+- Level: 1
 - Notes: -
