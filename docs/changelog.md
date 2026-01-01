@@ -428,6 +428,11 @@ Current state: Mode working fully, with some notable missing features:
 - Updated warzone-sandbox to 0.25.2
 - Fixed "Objective Start, Good Luck!" Audio playing during the intro cameras of maps where the gameplay doesn't start from the Home Bases.
 
+### 0.13.8
+
+- Updated warzone-sandbox to 0.26.0
+- Updated warzone-radial to 0.8.2
+- Fixed Grunt Ultra not dropping a [38] Hunters Right Hand on death.
 
 
 
@@ -1096,6 +1101,50 @@ Added weapons:
   - [60] SPNKr x
     - VFX: Infected Beta (28)
 
+### 0.26.0
+
+- Removed vehicles
+  - [30] Breech-Load Razorback (Tier 3)
+
+- Added new Vehicles:
+  - [30] Scout Razorback (Tier 3)
+  - [38] Grenade Launcher Mongoose (Tier 4)
+
+- Adjusted Vehicles:
+  - [16] Phantom Wasp
+    - Vehicle Weapon Damage: 1.50 → **1.70**
+  - [17] Moonlight Wasp
+    - Vehicle Weapon Damage: 0.80 → **1.00**
+  - [25] ONI Wasp
+    - Vehicle Weapon Damage: 0.35 → **0.45**
+  - [27] Cougar
+    - Vehicle Weapon Damage: 1.50 → **2.00**
+  - [37] Spec Ops Warthog
+    - Vehicle Weapon Damage: 3.00 → **2.00**
+    - Weapon Type: [132] Rockethog Weapon + Rapidfire Pulse Carbine → **Warthog Weapon**
+
+- Removed Equipment
+  - [12] Allied Monitor (Tier 2)
+
+- Added new Equipment
+  - [12] Strong Arm (Tier 2)
+
+- Adjusted Equipment
+  - [13] Speed Boost
+    - Added faster reload trait
+  - [14] Headshot Shielding
+    - VFX: Infected Beta → **VIP**
+
+
+
+
+
+
+
+
+
+
+
 ## tsg warzone-radial module
 
 Changelog for the tsg warzone-radial module used for the radial menu logic.
@@ -1495,3 +1544,32 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
 
 - Fixed players getting stuck dead in a "Respawning Next" message.
   - Happened if a bot left the match within 7 seconds of joining the match due to their spawn value not being set yet, and then the invalid value freezing the spawn queue. Joined bot is now checked for validity 7 seconds after joining before placing in spawn queue or not.
+
+### 0.8.2
+
+- Removed vehicles
+  - [30] Breech-Load Razorback (Tier 3)
+
+- Added new Vehicles:
+  - [30] Scout Razorback (Tier 3)
+  - [38] Grenade Launcher Mongoose (Tier 4)
+
+- Adjusted Vehicles:
+  - [1] Banshee
+    - Tier: 6 → **7**
+  - [10] Wraith
+    - Tier: 8 → **7**
+  - [11] Mid Banshee
+    - Tier: 5 → **6**
+  - [16] Phantom Wasp
+    - Tier: 7 → **8**
+  - [25] ONI Wasp
+    - Tier: 6 → **7**
+
+- Removed Equipment
+  - [12] Allied Monitor (Tier 2)
+
+- Added new Equipment
+  - [12] Strong Arm (Tier 2)
+
+- Made all Fusion Coils unlock at level 1
