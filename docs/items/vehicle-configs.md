@@ -15,8 +15,8 @@ Vehicle configuration reference.
 
 ## [1] Banshee
 - Vehicle Type: Banshee
-- Point Cost: 6
-- Level: 6
+- Point Cost: 7
+- Level: 7
 - Notes: -
 
 ## [2] Ghost
@@ -69,14 +69,14 @@ Vehicle configuration reference.
 
 ## [10] Wraith
 - Vehicle Type: Wraith
-- Point Cost: 8
-- Level: 8
+- Point Cost: 7
+- Level: 7
 - Notes: -
 
 ## [11] Mid Banshee
 - Vehicle Type: Banshee (Cloned)
-- Point Cost: 5
-- Level: 5
+- Point Cost: 6
+- Level: 6
 - Notes: The vehicle is a hidden Vehicle Type that can only be created by cloning the base Vehicle Type.
 
 ## [12] Mid Ghost
@@ -107,14 +107,13 @@ Vehicle configuration reference.
 
 ## [16] Phantom Wasp
 - Vehicle Type: Wasp
-- Vehicle Weapon Damage: 1.50 (Driver)
-- Point Cost: 7
-- Level: 7
+- Vehicle Weapon Damage: 1.70 (Driver)
+- Point Cost: 8
+- Level: 8
 - Notes: Uses a custom vehicle weapon: [132] Rocket Hog Weapon + Rapidfire Pulse Carbine.
 
 ## [17] Moonlight Wasp
 - Vehicle Type: Wasp
-- Vehicle Weapon Damage: 0.80 (Driver)
 - Point Cost: 9
 - Level: 9
 - Notes: Uses a custom vehicle weapon: [131] Rocket Hog Weapon + Backdraft Cindershot. Has the secondary rockets disabled.
@@ -161,6 +160,7 @@ Vehicle configuration reference.
 
 ## [23] Dragon
 - Vehicle Type: Falcon
+- Vehicle Weapon Damage: 0.80 (Driver)
 - Shot Cadence: 0.03
 - Point Cost: 9
 - Level: 9
@@ -175,9 +175,10 @@ Vehicle configuration reference.
 
 ## [25] ONI Wasp
 - Vehicle Type: Wasp
+- Vehicle Weapon Damage: 0.45 (Gunner)
 - Shot Cadence: 0.15 s
-- Point Cost: 6
-- Level: 6
+- Point Cost: 7
+- Level: 7
 - Notes: Uses a custom vehicle weapon: [129] Rocket Hog Weapon.
 
 ## [26] Kig-Yar Warthog
@@ -210,12 +211,12 @@ Vehicle configuration reference.
 - Level: 4
 - Notes: Uses a custom vehicle weapon: [136] Rockethog Weapon + BR75 Breacher. Has no side gunner seats.
 
-## [30] Breech-Load Razorback
+## [30] Scout Razorback
 - Vehicle Type: Razorback
-- Shot Cadence: 0.10 s
+- Shot Cadence: 1.20 s
 - Point Cost: 3
 - Level: 3
-- Notes: Razorback that holds two Blast Coils in the back that respawn 3 seconds after destruction. Driver can detach and explode the coils via honk.
+- Notes: Has a boost on honk.
 
 ## [31] Impulse Rockethog
 - Vehicle Type: Gauss Hog
@@ -261,8 +262,13 @@ Vehicle configuration reference.
 
 ## [37] Spec Ops Warthog
 - Vehicle Type: Warthog
-- Vehicle Weapon Damage: 3.00 (Gunner)
-- Shot Cadence: 0.30 s
+- Vehicle Weapon Damage: 2.00 (Gunner)
 - Point Cost: 7
 - Level: 7
-- Notes: Uses a custom vehicle weapon: [132] Rockethog Weapon + Rapidfire Pulse Carbine. Has a boost on honk.
+- Notes: Has a boost on honk.
+
+## [38] Grenade Launcher Mongoose
+- Vehicle Type: Mongoose
+- Point Cost: 4
+- Level: 4
+- Notes: Has a separately operated Falcon Grenade Launcher turret attached to the back.
