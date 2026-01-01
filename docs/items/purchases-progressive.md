@@ -31,16 +31,14 @@
 
 ## Vehicles
 
-| **Level**  |  **1**   |     **2**     |         **3**         |    **4**     |         **5**          |       **6**       |      **7**       |       **8**       |       **9**       |
-| :--------: | :------: | :-----------: | :-------------------: | :----------: | :--------------------: | :---------------: | :--------------: | :---------------: | :---------------: |
-| **Points** |  **1**   |     **2**     |         **3**         |    **4**     |         **5**          |       **6**       |      **7**       |       **8**       |       **9**       |
-|            | Mongoose |   Razorback   |       Mid Ghost       |    Ghost     | Extermination Gungoose |      Banshee      | Spec Ops Warthog |      Wraith       |     Scorpion      |
-|            |          | Scout Warthog |       Gungoose        | Recon Falcon |     Plasma Warthog     |   ONI Rockethog   |   Phantom Wasp   | Paralyzing Falcon |  Moonlight Wasp   |
-|            |          |               |        Warthog        |   Chopper    |    Fusion Rockethog    |       Wasp        |   Undead Ghost   |  Divine Banshee   |      Dragon       |
-|            |          |               |       Rockethog       |              |     Famished Ghost     |      Falcon       |                  | Impulse Rockethog | Incursion Banshee |
-|            |          |               |    Kig-Yar Warthog    |              |      Mid Banshee       |   ONI Rockethog   |                  | Escharum Chopper  |                   |
-|            |          |               | Breech-Load Razorback |              |                        |     ONI Wasp      |                  |                   |                   |
-|            |          |               |                       |              |                        |      Cougar       |                  |                   |                   |
-|            |          |               |                       |              |                        | Chieftain Chopper |                  |                   |                   |
-|            |          |               |                       |              |                        | Hyperius Chopper  |                  |                   |                   |
-
+| **Level**  |  **1**   |     **2**     |      **3**      |           **4**           |         **5**          |       **6**       |      **7**       |       **8**       |       **9**       |
+| :--------: | :------: | :-----------: | :-------------: | :-----------------------: | :--------------------: | :---------------: | :--------------: | :---------------: | :---------------: |
+| **Points** |  **1**   |     **2**     |      **3**      |           **4**           |         **5**          |       **6**       |      **7**       |       **8**       |       **9**       |
+|            | Mongoose |   Razorback   |    Mid Ghost    |           Ghost           | Extermination Gungoose |    Mid Banshee    | Spec Ops Warthog | Paralyzing Falcon |     Scorpion      |
+|            |          | Scout Warthog |    Gungoose     |       Recon Falcon        |     Plasma Warthog     |   ONI Rockethog   |     ONI Wasp     |  Divine Banshee   |  Moonlight Wasp   |
+|            |          |               |     Warthog     |          Chopper          |    Fusion Rockethog    |       Wasp        |   Undead Ghost   | Impulse Rockethog |      Dragon       |
+|            |          |               |    Rockethog    | Grenade Launcher Mongoose |     Famished Ghost     |      Falcon       |     Banshee      | Escharum Chopper  | Incursion Banshee |
+|            |          |               | Kig-Yar Warthog |                           |                        |   ONI Rockethog   |      Wraith      |   Phantom Wasp    |                   |
+|            |          |               | Scout Razorback |                           |                        |      Cougar       |                  |                   |                   |
+|            |          |               |                 |                           |                        | Chieftain Chopper |                  |                   |                   |
+|            |          |               |                 |                           |                        | Hyperius Chopper  |                  |                   |                   |
