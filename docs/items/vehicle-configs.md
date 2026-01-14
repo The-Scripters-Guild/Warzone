@@ -6,7 +6,7 @@ Vehicle configuration reference.
 ## [#] Vehicle Name
 - Vehicle Type: Vehicle Type
 - Health Adjustment: #%
-- Vehicle Weapon Damage: # (Driver)
+- Weapon Damage: # (Driver)
 - Shot Cadence: # s
 - Point Cost: #
 - Level: #
@@ -88,35 +88,45 @@ Vehicle configuration reference.
 
 ## [13] Extermination Gungoose
 - Vehicle Type: Mongoose
-- Vehicle Weapon Damage: 1.50 (Driver)
+- Weapon Type: [135] Wasp Weapon + Scatterbound Heatwave (Driver)
+- Weapon Damage: 1.50 (Driver)
 - Point Cost: 5
 - Level: 5
-- Notes: Uses a custom vehicle weapon: [135] Wasp Weapon + Scatterbound Heatwave.
+- Notes: Uses a custom vehicle weapon.
 
 ## [14] Fusion Rockethog
 - Vehicle Type: Rockethog
+- Weapon Type: [131] Rockethog Weapon + Backdraft Cindershot (Gunner)
 - Point Cost: 5
 - Level: 5
-- Notes: Uses a custom vehicle weapon: [131] Rocket Hog Weapon + Backdraft Cindershot.
+- Notes: Uses a custom vehicle weapon.
 
 ## [15] Plasma Warthog
 - Vehicle Type: Warthog
+- Weapon Type: [134] Rockethog Weapon + Unbound Plasma Pistol (Gunner)
 - Point Cost: 5
 - Level: 5
-- Notes: Uses a custom vehicle weapon: [134] Rocket Hog Weapon + Unbound Plasma Pistol.
+- Notes: Uses a custom vehicle weapon.
 
 ## [16] Phantom Wasp
 - Vehicle Type: Wasp
-- Vehicle Weapon Damage: 1.70 (Driver)
+- Weapon Type: [146] Plasma Cannon (Driver)
+- Config: Projectile
+  - Shot Count: 1
+  - Shot Velocity: 500
+  - Projectile Config: 5
+  - Projectile: Banished Hunter shot
+- Shot Cadence: 0.30
 - Point Cost: 8
 - Level: 8
-- Notes: Uses a custom vehicle weapon: [132] Rocket Hog Weapon + Rapidfire Pulse Carbine.
+- Notes: Shoots Banished Hunter shots. Has the secondary rockets disabled.
 
 ## [17] Moonlight Wasp
 - Vehicle Type: Wasp
+- Weapon Type: [131] Rockethog Weapon + Backdraft Cindershot (Driver)
 - Point Cost: 9
 - Level: 9
-- Notes: Uses a custom vehicle weapon: [131] Rocket Hog Weapon + Backdraft Cindershot. Has the secondary rockets disabled.
+- Notes: Uses a custom vehicle weapon. Has the secondary rockets disabled.
 
 ## [18] Falcon
 - Vehicle Type: Falcon
@@ -126,6 +136,7 @@ Vehicle configuration reference.
 
 ## [19] Paralyzing Falcon
 - Vehicle Type: Falcon
+- Weapon Type: [146] Plasma Cannon (Driver)
 - Config: Projectile
   - Shot Count: 1
   - Shot Velocity: 300
@@ -138,65 +149,73 @@ Vehicle configuration reference.
 
 ## [20] Undead Ghost
 - Vehicle Type: Ghost
-- Vehicle Weapon Damage: 0.95 (Driver)
+- Weapon Type: [136] Rockethog Weapon + Ravager Rebound (Driver)
+- Weapon Damage: 0.95 (Driver)
 - Health Regeneration: 1% every 1 second
 - Point Cost: 7
 - Level: 7
-- Notes: Uses a custom vehicle weapon: [133] Rocket Hog Weapon + Ravager Rebound.
+- Notes: Uses a custom vehicle weapon.
 
 ## [21] Divine Banshee
 - Vehicle Type: Banshee
-- Vehicle Weapon Damage: 1.40 (Driver)
+- Weapon Type: [137] Rockethog Weapon + Scatterbound Heatwave (Driver)
+- Weapon Damage: 1.40 (Driver)
 - Point Cost: 8
 - Level: 8
-- Notes: Uses a custom vehicle weapon: [137] Rocket Hog Weapon + Scatterbound Heatwave. Has the secondary bomb disabled.
+- Notes: Uses a custom vehicle weapon. Has the secondary bomb disabled.
 
 ## [22] Incursion Banshee
 - Vehicle Type: Banshee
-- Vehicle Weapon Damage: 1.50 (Driver)
+- Weapon Type: [138] Wasp Weapon + M41 Tracker (Driver)
+- Weapon Damage: 1.50 (Driver)
 - Point Cost: 9
 - Level: 9
-- Notes: Uses a custom vehicle weapon: [138] Wasp Weapon + M41 Tracker. Has the secondary bomb disabled.
+- Notes: Uses a custom vehicle weapon. Has the secondary bomb disabled.
 
 ## [23] Dragon
 - Vehicle Type: Falcon
-- Vehicle Weapon Damage: 0.80 (Driver)
-- Shot Cadence: 0.03
+- Weapon Type: [141] Wasp Weapon + Ravager Rebound (Driver)
+- Weapon Damage: 0.01 (Driver)
 - Point Cost: 9
 - Level: 9
-- Notes: Uses a custom vehicle weapon: [141] Rockethog Weapon + Riven Mangler.
+- Notes: Uses a custom vehicle weapon.
 
 ## [24] ONI Rockethog
 - Vehicle Type: Rockethog
-- Vehicle Weapon Damage: 0.15 (Gunner)
+- Weapon Type: [139] Rockethog Weapon + Volatile Skewer (Gunner)
+- Weapon Damage: 0.15 (Gunner)
 - Point Cost: 6
 - Level: 6
-- Notes: Uses a custom vehicle weapon: [139] Rocket Hog Weapon + Volatile Skewer.
+- Notes: Uses a custom vehicle weapon.
 
 ## [25] ONI Wasp
 - Vehicle Type: Wasp
-- Vehicle Weapon Damage: 0.45 (Gunner)
+- Weapon Type: [129] Rockethog Weapon (Gunner)
+- Weapon Damage: 0.45 (Gunner)
 - Shot Cadence: 0.15 s
 - Point Cost: 7
 - Level: 7
-- Notes: Uses a custom vehicle weapon: [129] Rocket Hog Weapon.
+- Notes: Uses a custom vehicle weapon. Has the secondary rockets disabled.
 
 ## [26] Kig-Yar Warthog
 - Vehicle Type: Warthog
+- Weapon Type: [140] Rockethog Weapon + Pinpoint Needler (Gunner)
 - Shot Cadence: 0.00 s
 - Point Cost: 3
 - Level: 3
-- Notes: Uses a custom vehicle weapon: [140] Rocket Hog Weapon + Pinpoint Needler.
+- Notes: Uses a custom vehicle weapon.
 
 ## [27] Cougar
 - Vehicle Type: Mongoose
-- Vehicle Weapon Damage: 1.50 (Driver)
+- Weapon Type: [130] Wasp Weapon (Driver)
+- Weapon Damage: 1.50 (Driver)
 - Point Cost: 6
 - Level: 6
-- Notes: Uses a custom vehicle weapon: [130] Wasp Weapon. Shoots three Wasp rockets at once.
+- Notes: Uses a custom vehicle weapon. Shoots three Wasp rockets at once.
 
 ## [28] Scout Warthog
 - Vehicle Type: Warthog
+- Weapon Type: [146] Plasma Cannon (Driver)
 - Shot Cadence: 1.70 s
 - Point Cost: 2
 - Level: 2
@@ -204,15 +223,17 @@ Vehicle configuration reference.
 
 ## [29] Recon Falcon
 - Vehicle Type: Falcon
+- Weapon Type: [133] Rockethog Weapon + Riven Mangler (Driver)
+- Weapon Damage: 1.20 (Driver)
+- Shot Cadence: 0.03 s
 - Health Adjustment: 60%
-- Vehicle Weapon Damage: 1.20 (Driver)
-- Shot Cadence: 0.02 s
 - Point Cost: 4
 - Level: 4
-- Notes: Uses a custom vehicle weapon: [136] Rockethog Weapon + BR75 Breacher. Has no side gunner seats.
+- Notes: Uses a custom vehicle weapon. Has no side gunner seats.
 
 ## [30] Scout Razorback
 - Vehicle Type: Razorback
+- Weapon Type: [146] Plasma Cannon (Driver)
 - Shot Cadence: 1.20 s
 - Point Cost: 3
 - Level: 3
@@ -232,11 +253,12 @@ Vehicle configuration reference.
 
 ## [33] Hyperius Chopper
 - Vehicle Type: Chopper
-- Vehicle Weapon Damage: 0.50 (Driver)
+- Weapon Type: [129] Rockethog Weapon (Driver)
+- Weapon Damage: 0.50 (Driver)
 - Shot Cadence: 0.24 s
 - Point Cost: 6
 - Level: 6
-- Notes: Uses a custom vehicle weapon: [129] Rocket Hog Weapon.
+- Notes: Uses a custom vehicle weapon.
 
 ## [34] Chieftain Chopper
 - Vehicle Type: Chieftain Chopper
@@ -246,29 +268,26 @@ Vehicle configuration reference.
 
 ## [35] Escharum Chopper
 - Vehicle Type: Chieftain Chopper
-- Vehicle Weapon Damage: 0.80 (Driver)
+- Weapon Type: [141] Rockethog Weapon + Riven Mangler (Driver)
+- Weapon Damage: 0.80 (Driver)
 - Shot Cadence: 0.11 s
 - Point Cost: 8
 - Level: 8
-- Notes: Uses a custom vehicle weapon: [141] Rocket Hog Weapon + Riven Mangler.
+- Notes: Uses a custom vehicle weapon.
 
 ## [36] Famished Ghost
 - Vehicle Type: Ghost
-- Vehicle Weapon Damage: 0.60 (Driver)
+- Weapon Type: [137] Rockethog Weapon + Scatterbound Heatwave (Driver)
+- Weapon Damage: 0.60 (Driver)
 - Shot Cadence: 0.30 s
 - Point Cost: 5
 - Level: 5
-- Notes: Uses a custom vehicle weapon: [137] Rockethog Weapon + Scatterbound Heatwave.
+- Notes: Uses a custom vehicle weapon.
 
 ## [37] Spec Ops Warthog
 - Vehicle Type: Warthog
-- Vehicle Weapon Damage: 2.00 (Gunner)
+- Weapon Type: [146] Plasma Cannon (Driver)
+- Weapon Damage: 2.00 (Gunner)
 - Point Cost: 7
 - Level: 7
 - Notes: Has a boost on honk.
-
-## [38] Grenade Launcher Mongoose
-- Vehicle Type: Mongoose
-- Point Cost: 4
-- Level: 4
-- Notes: Has a separately operated Falcon Grenade Launcher turret attached to the back.
