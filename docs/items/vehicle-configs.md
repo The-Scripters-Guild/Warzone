@@ -75,7 +75,7 @@ Vehicle configuration reference.
 
 ## [11] Alpha Banshee
 - Vehicle Type: Banshee (Cloned)
-- Weapon Damage: 2.30 (Driver)
+- Weapon Damage: 2.50 (Driver)
 - Point Cost: 9
 - Level: 9
 - Notes: The vehicle is a hidden Vehicle Type that can only be created by cloning the base Vehicle Type. The bomb fires faster and has a larger explosion radius.
@@ -117,7 +117,7 @@ Vehicle configuration reference.
   - Shot Velocity: 500
   - Projectile Config: 5
   - Projectile: Banished Hunter shot
-- Shot Cadence: 0.30
+- Shot Cadence: 0.45
 - Point Cost: 8
 - Level: 8
 - Notes: Shoots Banished Hunter shots. Has the secondary rockets disabled.
@@ -151,8 +151,7 @@ Vehicle configuration reference.
 ## [20] Undead Ghost
 - Vehicle Type: Ghost
 - Weapon Type: [136] Rockethog Weapon + Ravager Rebound (Driver)
-- Weapon Damage: 0.95 (Driver)
-- Health Regeneration: 1% every 1 second
+- Shot Cadence: 0.50 s
 - Point Cost: 7
 - Level: 7
 - Notes: Uses a custom vehicle weapon.
@@ -176,6 +175,7 @@ Vehicle configuration reference.
 - Vehicle Type: Falcon
 - Weapon Type: [141] Wasp Weapon + Ravager Rebound (Driver)
 - Weapon Damage: 0.01 (Driver)
+- Shot Cadence: 0.40 s
 - Point Cost: 9
 - Level: 9
 - Notes: Uses a custom vehicle weapon.
@@ -279,9 +279,9 @@ Vehicle configuration reference.
 - Vehicle Type: Ghost
 - Weapon Type: [137] Rockethog Weapon + Scatterbound Heatwave (Driver)
 - Weapon Damage: 0.60 (Driver)
-- Shot Cadence: 0.30 s
-- Point Cost: 5
-- Level: 5
+- Shot Cadence: 0.40 s
+- Point Cost: 6
+- Level: 6
 - Notes: Uses a custom vehicle weapon.
 
 ## [37] Spec Ops Warthog
