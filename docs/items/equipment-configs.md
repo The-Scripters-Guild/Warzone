@@ -167,7 +167,7 @@ The configurations that make up each of the equipment, including custom powerups
   - Melee Recovery Speed: 2.00
 - Custom Charge Count: 1
 - Default Charge Count: 1
-- Duration: 45 s
+- Duration: 60 s
 - VFX: Infected Beta
 - Point Cost: 2
 - Level: 1

@@ -170,8 +170,8 @@ The configurations that make up each of the custom weapons.
   - Projectile Config: 1
   - Projectile: Banished Hunter Shot
 - Ammo: 4+6 (+10)
-- Point Cost: 9
-- Level: 9
+- Point Cost: 8
+- Level: 8
 - Notes: -
   
 ## [14] Hardlight Plasma Pistol
@@ -564,12 +564,12 @@ The configurations that make up each of the custom weapons.
 - Notes: Requires 8 needles to land on target to supercombine and kill a Spartan; individual needles do little damage.
   
 ## [46] Light Of Doisac
-- Weapon Type: S7 Sniper Rifle + Riven Mangler
+- Weapon Type: S7 Sniper Rifle + Stalker Rifle Ultra
 - Trait Set: 46
-  - Weapon Damage: 2.84
+  - Weapon Damage: 2.40
 - VFX: VIP (36)
 - Config: Combo
-- Ammo: 4+8 (+24)
+- Ammo: 4+16 (+60)
 - Point Cost: 7
 - Level: 7
 - Notes: -
@@ -746,7 +746,7 @@ The configurations that make up each of the custom weapons.
 
 ## [64] Calcine Disruptor
 - Weapon Type: Calcine Disruptor
-- Ammo: 7+14
+- Ammo: 7+25 (+27)
 - Point Cost: 5
 - Level: 5
 
@@ -838,8 +838,8 @@ The configurations that make up each of the custom weapons.
 ## [79] S7 Flexfire Sniper
 - Weapon Type: S7 Flexfire Sniper
 - Ammo: 10+10
-- Point Cost: 6
-- Level: 6
+- Point Cost: 5
+- Level: 5
 
 ## [80] Scatterbound Heatwave
 - Weapon Type: Scatterbound Heatwave
@@ -1018,8 +1018,8 @@ The configurations that make up each of the custom weapons.
 ## [110] S7 Sniper Rifle
 - Weapon Type: S7 Sniper Rifle
 - Ammo: 4+4
-- Point Cost: 6
-- Level: 6
+- Point Cost: 5
+- Level: 5
 
 ## [111] Sentinel Beam
 - Weapon Type: Sentinel Beam
@@ -1125,8 +1125,8 @@ The configurations that make up each of the custom weapons.
 - Point Cost: -
 - Level: -
 
-## [129] Rocket Hog Weapon
-- Weapon Type: Rocket Hog Weapon
+## [129] Rockethog Weapon
+- Weapon Type: Rockethog Weapon
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
@@ -1137,26 +1137,26 @@ The configurations that make up each of the custom weapons.
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [131] Rocket Hog Weapon + Backdraft Cindershot
-- Weapon Type: Rocket Hog Weapon + Backdraft Cindershot
+## [131] Rockethog Weapon + Backdraft Cindershot
+- Weapon Type: Rockethog Weapon + Backdraft Cindershot
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [132] Rocket Hog Weapon + Rapidfire Pulse Carbine
-- Weapon Type: Rocket Hog Weapon + Rapidfire Pulse Carbine
+## [132] Rockethog Weapon + Stalker Rifle Ultra
+- Weapon Type: Rockethog Weapon + Stalker Rifle Ultra
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [133] Rocket Hog Weapon + Ravager Rebound
-- Weapon Type: Rocket Hog Weapon + Ravager Rebound
+## [133] Rockethog Weapon + Riven Mangler
+- Weapon Type: Rockethog Weapon + Riven Mangler
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [134] Rocket Hog Weapon + Unbound Plasma Pistol
-- Weapon Type: Rocket Hog Weapon + Unbound Plasma Pistol
+## [134] Rockethog Weapon + Unbound Plasma Pistol
+- Weapon Type: Rockethog Weapon + Unbound Plasma Pistol
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
@@ -1167,14 +1167,14 @@ The configurations that make up each of the custom weapons.
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [136] Rockethog Weapon + BR75 Breacher
-- Weapon Type: Rockethog Weapon + BR75 Breacher
+## [136] Rockethog Weapon + Ravager Rebound
+- Weapon Type: Rockethog Weapon + Ravager Rebound
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [137] Rocket Hog Weapon + Scatterbound Heatwave
-- Weapon Type: Rocket Hog Weapon + Scatterbound Heatwave
+## [137] Rockethog Weapon + Scatterbound Heatwave
+- Weapon Type: Rockethog Weapon + Scatterbound Heatwave
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
@@ -1185,20 +1185,20 @@ The configurations that make up each of the custom weapons.
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [139] Rocket Hog Weapon + Volatile Skewer
-- Weapon Type: Rocket Hog Weapon + Volatile Skewer
+## [139] Rockethog Weapon + Volatile Skewer
+- Weapon Type: Rockethog Weapon + Volatile Skewer
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [140] Rocket Hog Weapon + Pinpoint Needler
-- Weapon Type: Rocket Hog Weapon + Pinpoint Needler
+## [140] Rockethog Weapon + Pinpoint Needler
+- Weapon Type: Rockethog Weapon + Pinpoint Needler
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
 
-## [141] Rockethog Weapon + Riven Mangler
-- Weapon Type: Rockethog Weapon + Riven Mangler
+## [141] Wasp Weapon + Ravager Rebound
+- Weapon Type: Wasp Weapon + Ravager Rebound
 - Point Cost: -
 - Level: -
 - Notes: Used as a custom vehicle weapon; not intended for players.
