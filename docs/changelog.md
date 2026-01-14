@@ -1490,6 +1490,7 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
   - [146] Shock Coil (Tier 4)
   - Note: These are located in the Equipment menu, but still replace a weapon.
 
+- Fixed falsely populated slots in weapon radial if a radial with more populated slots was opened previously.
 - Made entire menu pages disabled if the player can't access any of the items within the menu yet.
 
 ### 0.7.1
