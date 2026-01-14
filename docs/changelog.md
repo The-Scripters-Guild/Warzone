@@ -446,6 +446,13 @@ Current state: Mode working fully, with some notable missing features:
 - Updated warzone-sandbox to 0.26.2
 - Updated warzone-radial to 0.8.4
 
+### 0.13.11
+
+- Updated warzone-sandbox to 0.26.3
+- Updated warzone-radial to 0.8.5
+- Made Gravity Hammers do 0.3x damage to the core
+- Added 0.50 s delay to item station team assignment after zone capture to try and fix issue where station teams sometimes don't get assigned after zone capture
+
 
 
 
@@ -1197,6 +1204,29 @@ Adjusted weapons:
 - [138] Wasp Weapon + M41 Tracker
   - Weapon Type: Wasp Weapon + M41 Tracker → **Rockethog Weapon + Rapidfire Pulse Carbine**
 
+### 0.26.3
+
+[Adjusted vehicles](https://github.com/The-Scripters-Guild/Warzone/commit/2f9657db4badabba447483e57bdb87909c8c8b5d):
+- [11] Alpha Banshee
+  - Weapon Damage: 2.30 → **2.50**
+- [16] Phantom Wasp
+  - Shot Cadence: 0.30 → **0.45 s**
+- [20] Undead Ghost
+  - Weapon Damage: 0.95 → **None**
+  - Shot Cadence: None → **0.50 s**
+- [23] Dragon
+  - Shot Cadence: None → **0.40 s**
+- [36] Famished Ghost
+  - Weapon Damage: 0.60 → **0.50**
+
+[Adjusted weapons](https://github.com/The-Scripters-Guild/Warzone/commit/ceadba73c428ba8c1476626c1b5d62ffb76a111a):
+- [37] Spike Of Thav 'Sebarim (Orb Launcher)
+  - Projectile: Spike Grenade → **Banished Hunter Shot**
+  - Ammo: 10+20 → **10+30**
+- [46] Light Of Doisac
+  - Ammo: 4+16 → **4+20**
+
+- Adjusted weaponDespawnTime from 40 → **30 s**
 
 
 
@@ -1643,18 +1673,43 @@ Removed vehicles:
 
 Adjusted weapons:
 - [13] Valkyrie
-  - Tier 9 → **8**
+  - Tier: 9 → **8**
 - [79] S7 Flexfire Sniper
-  - Tier 6 → **5**
+  - Tier: 6 → **5**
 - [110] S7 Sniper Rifle
-  - Tier 6 → **5**
+  - Tier: 6 → **5**
 
 ### 0.8.4
 
 Adjusted vehicles:
 - [11] Mid Banshee
-  - Tier 6 → **9**
+  - Tier: 6 → **9**
   - Name: Mid Banshee → **Alpha Banshee**
 - [22] Incursion Banshee
-  - Tier 9 → **6**
+  - Tier: 9 → **6**
   - Name: Incursion Banshee → **Mid Banshee**
+
+### 0.8.5
+[Adjusted vehicles](https://github.com/The-Scripters-Guild/Warzone/commit/2f9657db4badabba447483e57bdb87909c8c8b5d):
+- [36] Famished Ghost
+  - Tier 5 → **6**
+
+[Adjusted weapons](https://github.com/The-Scripters-Guild/Warzone/commit/ceadba73c428ba8c1476626c1b5d62ffb76a111a):
+- [92] Bandit Evo
+  - Level: 8 → **7**
+- [37] Spike Of Thav 'Sebarim
+  - Name: Spike Of Thav 'Sebarim → **Orb Launcher**
+
+[Adjusted equipment](https://github.com/The-Scripters-Guild/Warzone/commit/9d8b56af338a992068c51069ce9c176a8f6a5b66):
+- [4] Repulsor
+  - Point Cost: 2 → **1**
+- [11] Health Steal
+  - Point Cost: 5 → **4**
+- [15] Legendary Drop Wall
+  - Point Cost: 3 → **2**
+- [17] Legendary Threat Sensor
+  - Point Cost: 3 → **2**
+- [18] Legendary Thruster
+  - Point Cost: 3 → **2**
+
+- Made vehicle weapons be operable right after spawning in the vehicle from the death screen
