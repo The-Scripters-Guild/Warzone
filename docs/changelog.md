@@ -434,6 +434,18 @@ Current state: Mode working fully, with some notable missing features:
 - Updated warzone-radial to 0.8.2
 - Fixed Grunt Ultra not dropping a [38] Hunters Right Hand on death.
 
+### 0.13.9
+
+- Updated warzone-sandbox to 0.26.1
+- Updated warzone-radial to 0.8.3
+- Made players start with 9 points if Warzone Ultra toggle is on.
+- Adjusted damage taken multiplier for the Home Base core from 0.15 → **0.18** which means that players need to do ~83% of the previous damage to the core to fully destroy it compared to the previous health.
+
+### 0.13.10
+
+- Updated warzone-sandbox to 0.26.2
+- Updated warzone-radial to 0.8.4
+
 
 
 
@@ -1135,6 +1147,55 @@ Added weapons:
   - [14] Headshot Shielding
     - VFX: Infected Beta → **VIP**
 
+### 0.26.1
+
+Removed vehicles:
+- [38] Grenade Launcher Mongoose (Tier 4)
+
+Adjusted vehicles:
+- [16] Phantom Wasp
+  - Overhaul to shoot Banished Hunter shots
+- [23] Dragon
+  - Weapon Type: Rockethog Weapon + Riven Mangler → **Wasp Weapon + Ravager Rebound**
+  - Weapon Damage: 0.80 → **0.01**
+  - Shot Cadence: 0.03 → **None**
+- [29] Recon Falcon
+  - Weapon Type: Rockethog Weapon + BR75 Breacher → **Rockethog Weapon + Riven Mangler**
+  - Weapon Damage: 1.20 → **0.20**
+  - Shot Cadence: 0.02 → **0.03**
+
+Adjusted weapons:
+- [46] Light Of Doisac
+  - Weapon Type: S7 Sniper Rifle + Riven Mangler → **S7 Sniper Rifle + Stalker Rifle Ultra**
+  - Weapon Damage: 2.84 → **2.40**
+  - Ammo: 4+8 → **4+16**
+- [64] Calcine Disruptor
+  - Ammo 7+14 → **7+25**
+- [132] Rockethog Weapon + Rapidfire Pulse Carbine
+  - Weapon Type: Rockethog Weapon + Rapidfire Pulse Carbine → **Rockethog Weapon + Stalker Rifle Ultra**
+- [133] Rockethog Weapon + Ravager Rebound
+  - Weapon Type: Rockethog Weapon + Ravager Rebound → **Rockethog Weapon + Riven Mangler**
+- [136] Rockethog Weapon + BR75 Breacher
+  - Weapon Type: Rockethog Weapon + BR75 Breacher → **Rockethog Weapon + Ravager Rebound**
+- [141] Rockethog Weapon + Riven Mangler
+  - Weapon Type: Rockethog Weapon + Riven Mangler → **Wasp Weapon + Ravager Rebound**
+
+Adjusted equipment:
+- [12] Strong Arm
+  - Duration: 45 → **60 s**
+
+### 0.26.2
+
+Adjusted vehicles:
+- [11] Mid Banshee (Alpha Banshee)
+  - Weapon Damage: None → **2.30**
+- [22] Incursion Banshee (Mid Banshee)
+  - Weapon Type: Wasp Weapon + M41 Tracker → **Rockethog Weapon + Rapidfire Pulse Carbine**
+  - Weapon Damage: 1.50 → **None**
+
+Adjusted weapons:
+- [138] Wasp Weapon + M41 Tracker
+  - Weapon Type: Wasp Weapon + M41 Tracker → **Rockethog Weapon + Rapidfire Pulse Carbine**
 
 
 
@@ -1573,3 +1634,26 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
   - [12] Strong Arm (Tier 2)
 
 - Made all Fusion Coils unlock at level 1
+
+### 0.8.3
+
+Removed vehicles:
+- [38] Grenade Launcher Mongoose (Tier 4)
+
+Adjusted weapons:
+- [13] Valkyrie
+  - Tier 9 → **8**
+- [79] S7 Flexfire Sniper
+  - Tier 6 → **5**
+- [110] S7 Sniper Rifle
+  - Tier 6 → **5**
+
+### 0.8.4
+
+Adjusted vehicles:
+- [11] Mid Banshee
+  - Tier 6 → **9**
+  - Name: Mid Banshee → **Alpha Banshee**
+- [22] Incursion Banshee
+  - Tier 9 → **6**
+  - Name: Incursion Banshee → **Mid Banshee**
