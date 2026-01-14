@@ -73,11 +73,12 @@ Vehicle configuration reference.
 - Level: 7
 - Notes: -
 
-## [11] Mid Banshee
+## [11] Alpha Banshee
 - Vehicle Type: Banshee (Cloned)
-- Point Cost: 6
-- Level: 6
-- Notes: The vehicle is a hidden Vehicle Type that can only be created by cloning the base Vehicle Type.
+- Weapon Damage: 2.30 (Driver)
+- Point Cost: 9
+- Level: 9
+- Notes: The vehicle is a hidden Vehicle Type that can only be created by cloning the base Vehicle Type. The bomb fires faster and has a larger explosion radius.
 
 ## [12] Mid Ghost
 - Vehicle Type: Ghost (Cloned)
@@ -110,7 +111,7 @@ Vehicle configuration reference.
 
 ## [16] Phantom Wasp
 - Vehicle Type: Wasp
-- Weapon Type: [146] Plasma Cannon (Driver)
+- Weapon Type: [146] Plasma Cannon (Driver) (Null Weapon)
 - Config: Projectile
   - Shot Count: 1
   - Shot Velocity: 500
@@ -136,7 +137,7 @@ Vehicle configuration reference.
 
 ## [19] Paralyzing Falcon
 - Vehicle Type: Falcon
-- Weapon Type: [146] Plasma Cannon (Driver)
+- Weapon Type: [146] Plasma Cannon (Driver) (Null Weapon)
 - Config: Projectile
   - Shot Count: 1
   - Shot Velocity: 300
@@ -164,12 +165,11 @@ Vehicle configuration reference.
 - Level: 8
 - Notes: Uses a custom vehicle weapon. Has the secondary bomb disabled.
 
-## [22] Incursion Banshee
+## [22] Mid Banshee
 - Vehicle Type: Banshee
-- Weapon Type: [138] Wasp Weapon + M41 Tracker (Driver)
-- Weapon Damage: 1.50 (Driver)
-- Point Cost: 9
-- Level: 9
+- Weapon Type: Rockethog Weapon + Rapidfire Pulse Carbine (Driver)
+- Point Cost: 6
+- Level: 6
 - Notes: Uses a custom vehicle weapon. Has the secondary bomb disabled.
 
 ## [23] Dragon
@@ -182,7 +182,7 @@ Vehicle configuration reference.
 
 ## [24] ONI Rockethog
 - Vehicle Type: Rockethog
-- Weapon Type: [139] Rockethog Weapon + Volatile Skewer (Gunner)
+- Weapon Type: Rockethog Weapon + Volatile Skewer (Gunner)
 - Weapon Damage: 0.15 (Gunner)
 - Point Cost: 6
 - Level: 6
@@ -190,7 +190,7 @@ Vehicle configuration reference.
 
 ## [25] ONI Wasp
 - Vehicle Type: Wasp
-- Weapon Type: [129] Rockethog Weapon (Gunner)
+- Weapon Type: Rockethog Weapon (Gunner)
 - Weapon Damage: 0.45 (Gunner)
 - Shot Cadence: 0.15 s
 - Point Cost: 7
@@ -199,7 +199,7 @@ Vehicle configuration reference.
 
 ## [26] Kig-Yar Warthog
 - Vehicle Type: Warthog
-- Weapon Type: [140] Rockethog Weapon + Pinpoint Needler (Gunner)
+- Weapon Type: Rockethog Weapon + Pinpoint Needler (Gunner)
 - Shot Cadence: 0.00 s
 - Point Cost: 3
 - Level: 3
@@ -207,7 +207,7 @@ Vehicle configuration reference.
 
 ## [27] Cougar
 - Vehicle Type: Mongoose
-- Weapon Type: [130] Wasp Weapon (Driver)
+- Weapon Type: Wasp Weapon (Driver)
 - Weapon Damage: 1.50 (Driver)
 - Point Cost: 6
 - Level: 6
@@ -215,7 +215,7 @@ Vehicle configuration reference.
 
 ## [28] Scout Warthog
 - Vehicle Type: Warthog
-- Weapon Type: [146] Plasma Cannon (Driver)
+- Weapon Type: Plasma Cannon (Driver) (Null Weapon)
 - Shot Cadence: 1.70 s
 - Point Cost: 2
 - Level: 2
@@ -223,7 +223,7 @@ Vehicle configuration reference.
 
 ## [29] Recon Falcon
 - Vehicle Type: Falcon
-- Weapon Type: [133] Rockethog Weapon + Riven Mangler (Driver)
+- Weapon Type: Rockethog Weapon + Riven Mangler (Driver)
 - Weapon Damage: 1.20 (Driver)
 - Shot Cadence: 0.03 s
 - Health Adjustment: 60%
@@ -233,7 +233,7 @@ Vehicle configuration reference.
 
 ## [30] Scout Razorback
 - Vehicle Type: Razorback
-- Weapon Type: [146] Plasma Cannon (Driver)
+- Weapon Type: Plasma Cannon (Driver) (Null Weapon)
 - Shot Cadence: 1.20 s
 - Point Cost: 3
 - Level: 3
@@ -253,7 +253,7 @@ Vehicle configuration reference.
 
 ## [33] Hyperius Chopper
 - Vehicle Type: Chopper
-- Weapon Type: [129] Rockethog Weapon (Driver)
+- Weapon Type: Rockethog Weapon (Driver)
 - Weapon Damage: 0.50 (Driver)
 - Shot Cadence: 0.24 s
 - Point Cost: 6
@@ -286,7 +286,7 @@ Vehicle configuration reference.
 
 ## [37] Spec Ops Warthog
 - Vehicle Type: Warthog
-- Weapon Type: [146] Plasma Cannon (Driver)
+- Weapon Type: [146] Plasma Cannon (Driver) (Null Weapon)
 - Weapon Damage: 2.00 (Gunner)
 - Point Cost: 7
 - Level: 7
