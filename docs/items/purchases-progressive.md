@@ -39,8 +39,9 @@
 |            | Mongoose |   Razorback   |    Mid Ghost    |           Ghost           | Extermination Gungoose |    Mid Banshee    | Spec Ops Warthog | Paralyzing Falcon |    Scorpion    |
 |            |          | Scout Warthog |    Gungoose     |       Recon Falcon        |     Plasma Warthog     |   ONI Rockethog   |     ONI Wasp     |  Divine Banshee   | Moonlight Wasp |
 |            |          |               |     Warthog     |          Chopper          |    Fusion Rockethog    |       Wasp        |   Undead Ghost   | Impulse Rockethog |     Dragon     |
-|            |          |               |    Rockethog    | Grenade Launcher Mongoose |     Famished Ghost     |      Falcon       |     Banshee      | Escharum Chopper  | Alpha Banshee  |
+|            |          |               |    Rockethog    | Grenade Launcher Mongoose |                        |      Falcon       |     Banshee      | Escharum Chopper  | Alpha Banshee  |
 |            |          |               | Kig-Yar Warthog |                           |                        |   ONI Rockethog   |      Wraith      |   Phantom Wasp    |                |
 |            |          |               | Scout Razorback |                           |                        |      Cougar       |                  |                   |                |
 |            |          |               |                 |                           |                        | Chieftain Chopper |                  |                   |                |
 |            |          |               |                 |                           |                        | Hyperius Chopper  |                  |                   |                |
+|            |          |               |                 |                           |                        |  Famished Ghost   |                  |                   |                |

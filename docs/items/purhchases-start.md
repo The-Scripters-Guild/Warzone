@@ -2,18 +2,18 @@
 
 ## Equipment
 
-| **Points** |     **1**     |    **2**    |          **3**          | **4** | **5** | **6** | **7** | **8** | **9** |
-| :--------: | :-----------: | :---------: | :---------------------: | :---: | :---: | :---: | :---: | :---: | :---: |
-|            |   Drop Wall   |  Repulsor   |      Repair Field       |       |       |       |       |       |       |
-|            |   Thruster    | Grappleshot |   Legendary Thruster    |       |       |       |       |       |       |
-|            | Threat Sensor |             |  Legendary Grappleshot  |       |       |       |       |       |       |
-|            | Shroud Screen |             | Legendary Threat Sensor |       |       |       |       |       |       |
-|            |               |             |   Legendary Drop Wall   |       |       |       |       |       |       |
+| **Points** |     **1**     |          **2**          |         **3**         | **4** | **5** | **6** | **7** | **8** | **9** |
+| :--------: | :-----------: | :---------------------: | :-------------------: | :---: | :---: | :---: | :---: | :---: | :---: |
+|            |   Drop Wall   |       Grappleshot       |     Repair Field      |       |       |       |       |       |       |
+|            |   Thruster    |   Legendary Thruster    | Legendary Grappleshot |       |       |       |       |       |       |
+|            | Threat Sensor | Legendary Threat Sensor |                       |       |       |       |       |       |       |
+|            | Shroud Screen |   Legendary Drop Wall   |                       |       |       |       |       |       |       |
+|            |   Repulsor    |                         |                       |       |       |       |       |       |       |
 
 ## Power Equipment
 
-| **Points** | **1** |        **2**         |       **3**        |       **4**       |    **5**     | **6** | **7** | **8** | **9** |
-| :--------: | :---: | :------------------: | :----------------: | :---------------: | :----------: | :---: | :---: | :---: | :---: |
-|            |       |     Speed Boost      | Headshot Shielding | Active Camouflage | Health Steal |       |       |       |       |
-|            |       |      Strong Arm      |     Overshield     |                   |              |       |       |       |       |
-|            |       | Quantum Translocator |                    |                   |              |       |       |       |       |
+| **Points** | **1** |        **2**         |       **3**        |       **4**       | **5** | **6** | **7** | **8** | **9** |
+| :--------: | :---: | :------------------: | :----------------: | :---------------: | :---: | :---: | :---: | :---: | :---: |
+|            |       |     Speed Boost      | Headshot Shielding | Active Camouflage |       |       |       |       |       |
+|            |       |      Strong Arm      |     Overshield     |   Health Steal    |       |       |       |       |       |
+|            |       | Quantum Translocator |                    |                   |       |       |       |       |       |
