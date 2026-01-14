@@ -91,7 +91,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Equipment Type: Repulsor
 - Custom Charge Count: 4
 - Default Charge Count: 3
-- Point Cost: 2
+- Point Cost: 1
 - Level: 1
 - Notes: -
 
@@ -156,7 +156,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Default Charge Count: 1
 - Duration: 60 s
 - VFX: Infected Alpha
-- Point Cost: 5
+- Point Cost: 1
 - Level: 1
 - Notes: Vampirism only comes from dealing damage to enemy health, not shield.
 
@@ -210,7 +210,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Equipment Type: 
 - Custom Charge Count: 1
 - Default Charge Count: 1
-- Point Cost: 3
+- Point Cost: 2
 - Level: 1
 - Notes: -
 
@@ -226,7 +226,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Equipment Type: 
 - Custom Charge Count: 2
 - Default Charge Count: 2
-- Point Cost: 3
+- Point Cost: 2
 - Level: 1
 - Notes: -
 
@@ -234,6 +234,6 @@ The configurations that make up each of the equipment, including custom powerups
 - Equipment Type: 
 - Custom Charge Count: 3
 - Default Charge Count: 3
-- Point Cost: 3
+- Point Cost: 2
 - Level: 1
 - Notes: -
