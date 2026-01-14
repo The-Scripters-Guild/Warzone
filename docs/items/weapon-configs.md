@@ -443,7 +443,7 @@ The configurations that make up each of the custom weapons.
 - Level: 7
 - Notes: Makes audible noise that alerts the enemy team to a wielder's presence in close range.
 
-## [37] Spike Of Thav 'Sebarim
+## [37] Orb Launcher
 - Weapon Type: Cindershot + S7 Flexfire Sniper
 - Trait Set: 37
   - Weapon Damage: 0.01
@@ -451,8 +451,8 @@ The configurations that make up each of the custom weapons.
   - Shot Count: 1
   - Shot Velocity: 300
   - Projectile Config: 1
-  - Projectile: Spike Grenade
-- Ammo: 10+20 (+25)
+  - Projectile: Banished Hunter Shot
+- Ammo: 10+30 (+50)
 - Point Cost: 5
 - Level: 5
 - Notes: Projectiles will track to the aim position when zoomed.
@@ -569,7 +569,7 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 2.40
 - VFX: VIP (36)
 - Config: Combo
-- Ammo: 4+16 (+60)
+- Ammo: 4+20 (+80)
 - Point Cost: 7
 - Level: 7
 - Notes: -
@@ -911,7 +911,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: Bandit Evo
 - Ammo: 15+45
 - Point Cost: 0
-- Level: 8
+- Level: 7
 
 ## [93] CQS48 Bulldog
 - Weapon Type: CQS48 Bulldog
