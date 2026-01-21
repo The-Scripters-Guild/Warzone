@@ -453,6 +453,11 @@ Current state: Mode working fully, with some notable missing features:
 - Made Gravity Hammers do 0.3x damage to the core
 - Added 0.50 s delay to item station team assignment after zone capture to try and fix issue where station teams sometimes don't get assigned after zone capture
 
+### 0.13.12
+
+- Updated warzone-sandbox to 0.26.4
+- Updated warzone-radial to 0.8.6
+- Fixed observer players being forced on Eagle or Cobra team and not being able to move. Observers now stay stay as observers.
 
 
 
@@ -1228,6 +1233,25 @@ Adjusted weapons:
 
 - Adjusted weaponDespawnTime from 40 → **30 s**
 
+### 0.26.4
+
+[Adjusted vehicles](https://github.com/The-Scripters-Guild/Warzone/commit/40b50ea0f2d261a73d9cad9064bc78666630b63f):
+- [16] Phantom Wasp
+  - Shot Cadence: 0.45 → **0.30 s**
+- [27] Cougar
+  - Weapon Type: Wasp Weapon → **Rockethog Weapon + Backdraft Cindershot**
+  - Weapon Damage: 1.50 → **None**
+- [36] Famished Ghost
+  - Weapon Damage: 0.50 → **0.40**
+
+[Adjusted weapons](https://github.com/The-Scripters-Guild/Warzone/commit/049d253def4c2225ab4c0c9904261147c8cb57cc):
+- [16] Pulse Wave
+  - Ammo: 40% → **60%**
+- [35] Rogue Juggernaut
+  - Made traits and VFX also apply when airborned while zoomed
+
+- Adjusted weaponDespawnTime from 30 → **40 s** because the despawn time was too short for players trying to get back to their dropped weapons.
+- Adjusted debug Nav Markers to activate On Custom Input Hold and only show tick rate debug.
 
 
 
@@ -1713,3 +1737,15 @@ Adjusted vehicles:
   - Point Cost: 3 → **2**
 
 - Made vehicle weapons be operable right after spawning in the vehicle from the death screen
+
+### 0.8.6
+
+[Adjusted vehicles](https://github.com/The-Scripters-Guild/Warzone/commit/40b50ea0f2d261a73d9cad9064bc78666630b63f):
+- [27] Cougar
+  - Name: Cougar → **Petrifying Gungoose**
+- [36] Famished Ghost
+  - Tier: 6 → **5**
+
+[Adjusted equipment](https://github.com/The-Scripters-Guild/Warzone/commit/049d253def4c2225ab4c0c9904261147c8cb57cc):
+- [12] Strong Arm
+  - Name: Strong Arm → **Melee Boost**
