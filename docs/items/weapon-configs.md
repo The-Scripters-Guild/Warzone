@@ -200,7 +200,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 16
   - Weapon Damage: 0.40
 - Config: Combo
-- Ammo: 40% (-40)
+- Ammo: 60% (-60)
 - Point Cost: 5
 - Level: 5
 - Notes: -
@@ -425,7 +425,7 @@ The configurations that make up each of the custom weapons.
 - Ammo: 100%
 - Point Cost: 5
 - Level: 5
-- Notes: The traits and VFX only apply when zoomed and not airborne.
+- Notes: The traits and VFX only apply when zoomed.
 
 ## [36] The Demon
 - Weapon Type: Infected Energy Sword + MA40 Longshot

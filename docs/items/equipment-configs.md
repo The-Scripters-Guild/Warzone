@@ -160,7 +160,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Level: 1
 - Notes: Vampirism only comes from dealing damage to enemy health, not shield.
 
-## [12] Strong Arm
+## [12] Melee Boost
 - Equipment Type: Custom Equipment B
 - Trait Set: strongArm
   - Melee Damage: 1.15
