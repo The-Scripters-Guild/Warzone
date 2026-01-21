@@ -15,5 +15,5 @@
 | **Points** | **1** |        **2**         |       **3**        |       **4**       | **5** | **6** | **7** | **8** | **9** |
 | :--------: | :---: | :------------------: | :----------------: | :---------------: | :---: | :---: | :---: | :---: | :---: |
 |            |       |     Speed Boost      | Headshot Shielding | Active Camouflage |       |       |       |       |       |
-|            |       |      Strong Arm      |     Overshield     |   Health Steal    |       |       |       |       |       |
+|            |       |     Melee Boost      |     Overshield     |   Health Steal    |       |       |       |       |       |
 |            |       | Quantum Translocator |                    |                   |       |       |       |       |       |
