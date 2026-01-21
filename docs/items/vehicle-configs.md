@@ -117,7 +117,7 @@ Vehicle configuration reference.
   - Shot Velocity: 500
   - Projectile Config: 5
   - Projectile: Banished Hunter shot
-- Shot Cadence: 0.45
+- Shot Cadence: 0.30
 - Point Cost: 8
 - Level: 8
 - Notes: Shoots Banished Hunter shots. Has the secondary rockets disabled.
@@ -205,13 +205,12 @@ Vehicle configuration reference.
 - Level: 3
 - Notes: Uses a custom vehicle weapon.
 
-## [27] Cougar
+## [27] Petrifying Gungoose
 - Vehicle Type: Mongoose
-- Weapon Type: Wasp Weapon (Driver)
-- Weapon Damage: 1.50 (Driver)
+- Weapon Type: Rockethog Weapon + Backdraft Cindershot (Driver)
 - Point Cost: 6
 - Level: 6
-- Notes: Uses a custom vehicle weapon. Shoots three Wasp rockets at once.
+- Notes: Uses a custom vehicle weapon.
 
 ## [28] Scout Warthog
 - Vehicle Type: Warthog
@@ -278,10 +277,10 @@ Vehicle configuration reference.
 ## [36] Famished Ghost
 - Vehicle Type: Ghost
 - Weapon Type: [137] Rockethog Weapon + Scatterbound Heatwave (Driver)
-- Weapon Damage: 0.60 (Driver)
+- Weapon Damage: 0.40 (Driver)
 - Shot Cadence: 0.40 s
-- Point Cost: 6
-- Level: 6
+- Point Cost: 5
+- Level: 5
 - Notes: Uses a custom vehicle weapon.
 
 ## [37] Spec Ops Warthog
