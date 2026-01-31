@@ -150,8 +150,8 @@ Vehicle configuration reference.
 
 ## [20] Undead Ghost
 - Vehicle Type: Ghost
-- Weapon Type: [136] Rockethog Weapon + Ravager Rebound (Driver)
-- Shot Cadence: 0.50 s
+- Weapon Type: [141] Wasp Weapon + Ravager Rebound (Driver)
+- Shot Cadence: 1.50 s
 - Point Cost: 7
 - Level: 7
 - Notes: Uses a custom vehicle weapon.
@@ -277,7 +277,7 @@ Vehicle configuration reference.
 ## [36] Famished Ghost
 - Vehicle Type: Ghost
 - Weapon Type: [137] Rockethog Weapon + Scatterbound Heatwave (Driver)
-- Weapon Damage: 0.40 (Driver)
+- Weapon Damage: 0.30 (Driver)
 - Shot Cadence: 0.40 s
 - Point Cost: 5
 - Level: 5
