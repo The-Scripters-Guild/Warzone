@@ -459,6 +459,29 @@ Current state: Mode working fully, with some notable missing features:
 - Updated warzone-radial to 0.8.6
 - Fixed observer players being forced on Eagle or Cobra team and not being able to move. Observers now stay stay as observers.
 
+### 0.14.0
+
+- Updated warzone-sandbox to 0.26.5
+- Updated warzone-radial to 0.8.7
+- Removed 0.50 s delay from item station team assignment after zone capture as the root cause was found to be related to no players present in zone on capture.
+- Adjusted Gravity Hammer damage scalar towards core from 0.33 → 0.70 as they were doing too little damage.
+- Adjusted Core exposing logic to detect captured zone's team from a stored Team Variable "zoneControllingTeam" instead of pulling the first player's team who contributed to the capture and was inside the zone. MUST ALSO PUT SET "zoneControllingTeam" ON MAP SCRIPTS @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+- Removed bottom Sentry Boss spawn from core destuction cycle which was causing global performance loss.
+- Adjusted 50% core health audio to be more of an attention-grabbing warning rather than something that sounds like the core is going to blow up.
+- Added loud alert sound to core destruction.
+- Made it possible to escape the enemy base while in a vehicle.
+- Removed declaration for "Custom: Open Menu" Nav Marker.
+  - SKIP BARRIER CODE UPDATE ON LEVEL @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  - @@@@@@@@@@ HOME BASE ESCAPE BOUNDARY
+
+### 0.14.1
+
+- Updated warzone-sandbox to 0.26.6
+- Updated warzone-radial to 0.8.8
+
+
+
+
 
 
 
@@ -1037,7 +1060,7 @@ Changelog for the tsg warzone-sandbox library used for the sandbox scripting log
   - [36] Demon
     - Movement Speed: 1.00 → **1.20**
   - [37] Spike Of Thav 'Sebarim
-    - Ammo: 10+10 → **10+30** (+50)
+    - Ammo: 10+10 → **10+30**
   - [41] A Go At
     - Rocket Jump velocity increase and scalar inversion fix
   - [141] Sentinel Beam + Convergence Bulldog
@@ -1252,6 +1275,41 @@ Adjusted weapons:
 
 - Adjusted weaponDespawnTime from 30 → **40 s** because the despawn time was too short for players trying to get back to their dropped weapons.
 - Adjusted debug Nav Markers to activate On Custom Input Hold and only show tick rate debug.
+
+
+### 0.26.5
+
+[Adjusted vehicles](https://github.com/The-Scripters-Guild/Warzone/commit/bb3e0f9a91c8266d95d7ba59e02b41bf9ac33798):
+- [20] Undead Ghost
+  - Weapon Type: Rockethog Weapon + Ravager Rebound → **Wasp Weapon + Ravager Rebound**
+  - Shot Cadence: 0.50 → **1.50 s**
+- [36] Famished Ghost
+  - Weapon Damage: 0.40 → **0.30**
+
+### 0.26.6
+
+[Adjusted weapons](https://github.com/The-Scripters-Guild/Warzone/commit/c7988ba8338b0ce7779c07cb6d3cfa15d45e58a6):
+- [10] ONI Commando
+  - Weapon Damage: 0.40 → **0.45**
+  - Reload Speed: None → **3.00**
+- [17] Spire Of Barroth
+  - Weapon Type: Stalker Rifle + Riven Mangler → **Stalker Rifle + S7 Flexfire Sniper**
+  - Weapon Damage: 1.20 → **0.65**
+- [37] Orb Launcher
+  - Projectile Tracking Scalar: 0.08 → **0.20**
+- [46] Light Of Doisac
+  - Weapon Type: S7 Sniper Rifle + Stalker Rifle Ultra → **S7 Sniper Rifle + Purging Shock Rifle**
+  - Weapon Damage: 2.40 → **2.00**
+  - Ammo: Ammo: 4+20 → **15+45**
+- [58] ONI Battle Rifle
+  - Weapon Damage: 0.50 → **0.60**
+
+[Adjusted ability boosts](https://github.com/The-Scripters-Guild/Warzone/commit/cea03b3a9a6539275d04f33fb2f0e5af5d9cd094):
+- [3] Dexterity
+  - Projectile Tracking Scalar: 0.20 → **0.30**
+
+- Fixed missing part of code that was causing weapons 51–60 to not be assigned their traits.
+
 
 
 
@@ -1749,3 +1807,19 @@ Adjusted vehicles:
 [Adjusted equipment](https://github.com/The-Scripters-Guild/Warzone/commit/049d253def4c2225ab4c0c9904261147c8cb57cc):
 - [12] Strong Arm
   - Name: Strong Arm → **Melee Boost**
+
+### 0.8.7
+
+[Adjusted weapons](https://github.com/The-Scripters-Guild/Warzone/commit/044951066b38d54f379048da0eb9078002c953a7):
+- [21] Decaying Charge
+  - Tier: 5 → **4**
+
+- Removed "Custom: Open Menu" Nav Marker that showed up when a player died cause it hindered with the observer experience and was not that useful for players anyways.
+
+### 0.8.8
+
+[Adjusted weapons](https://github.com/The-Scripters-Guild/Warzone/commit/c7988ba8338b0ce7779c07cb6d3cfa15d45e58a6):
+- [17] Spire Of Barroth
+  - Tier: 5 → **6**
+- [46] Light Of Doisac
+  - Tier: 7 → **6**
