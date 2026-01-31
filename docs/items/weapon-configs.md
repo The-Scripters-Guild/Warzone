@@ -251,8 +251,8 @@ The configurations that make up each of the custom weapons.
   - Weapon damage: 1.89
 - Config: Combo
 - Ammo: 12+20 (-45)
-- Point Cost: 5
-- Level: 5
+- Point Cost: 4
+- Level: 4
 - Notes: Landing 4 shots on target causes a supercombine which will eventually kill a Spartan with normal health and shield.
 
 ## [22] Blinding Payload
@@ -683,6 +683,7 @@ The configurations that make up each of the custom weapons.
 ## [57] Bassus Artifact
 - Weapon Type: Gravity Hammer + S7 Flexfire Sniper
 - Trait Set: 57
+  - Melee Damage: 2.00
   - Movement Speed: 1.20
   - Jump Height: 1.20
   - Damage Resistance
