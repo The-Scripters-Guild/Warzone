@@ -131,7 +131,10 @@ The configurations that make up each of the custom weapons.
 ## [10] ONI Commando
 - Weapon Type: VK78 Commando Rifle + Striker Sidekick
 - Trait Set: 10
-  - Weapon Damage: 0.40
+  - Weapon Damage: 0.45
+  - Reload Speed
+    - Empty Reload Scalar: 3.00
+    - Tactical Reload Scalar: 3.00
 - Config: Combo
 - Ammo: 14+70 (+34)
 - Point Cost: 2
@@ -206,14 +209,14 @@ The configurations that make up each of the custom weapons.
 - Notes: -
   
 ## [17] Spire Of Barroth
-- Weapon Type: Stalker Rifle + Riven Mangler
+- Weapon Type: Stalker Rifle + S7 Flexfire Sniper
 - Trait Set: 17
-  - Weapon Damage: 1.20
+  - Weapon Damage: 0.65
 - Config: Combo
 - Ammo: 100%
 - Point Cost: 5
 - Level: 5
-- Notes: -
+- Notes: Has massive a headshot prioritization radius.
   
 ## [18] Eayn Stalker Rifle
 - Weapon Type: Stalker Rifle + Striker Sidekick
@@ -452,6 +455,7 @@ The configurations that make up each of the custom weapons.
   - Shot Velocity: 300
   - Projectile Config: 1
   - Projectile: Banished Hunter Shot
+  - Projectile Tracking Scalar: 0.20
 - Ammo: 10+30 (+50)
 - Point Cost: 5
 - Level: 5
@@ -564,14 +568,14 @@ The configurations that make up each of the custom weapons.
 - Notes: Requires 8 needles to land on target to supercombine and kill a Spartan; individual needles do little damage.
   
 ## [46] Light Of Doisac
-- Weapon Type: S7 Sniper Rifle + Stalker Rifle Ultra
+- Weapon Type: S7 Sniper Rifle + Purging Shock Rifle
 - Trait Set: 46
-  - Weapon Damage: 2.40
+  - Weapon Damage: 2.00
 - VFX: VIP (36)
 - Config: Combo
-- Ammo: 4+20 (+80)
-- Point Cost: 7
-- Level: 7
+- Ammo: 15+45 (+17)
+- Point Cost: 6
+- Level: 6
 - Notes: -
 
 ## [47] Scorpion Tail
@@ -699,7 +703,7 @@ The configurations that make up each of the custom weapons.
 ## [58] ONI Battle Rifle
 - Weapon Type: BR75 + Impact Commando
 - Trait Set: 58
-  - Weapon Damage: 0.50
+  - Weapon Damage: 0.60
 - Config: Default
 - Ammo: 40+80 (-60)
 - Point Cost: 2
