@@ -465,14 +465,12 @@ Current state: Mode working fully, with some notable missing features:
 - Updated warzone-radial to 0.8.7
 - Removed 0.50 s delay from item station team assignment after zone capture as the root cause was found to be related to no players present in zone on capture.
 - Adjusted Gravity Hammer damage scalar towards core from 0.33 → 0.70 as they were doing too little damage.
-- Adjusted Core exposing logic to detect captured zone's team from a stored Team Variable "zoneControllingTeam" instead of pulling the first player's team who contributed to the capture and was inside the zone. MUST ALSO PUT SET "zoneControllingTeam" ON MAP SCRIPTS @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+- Adjusted Core exposing logic to detect captured zone's team from a stored Team Variable "zoneControllingTeam" instead of pulling the first player's team who contributed to the capture and was inside the zone.
 - Removed bottom Sentry Boss spawn from core destuction cycle which was causing global performance loss.
 - Adjusted 50% core health audio to be more of an attention-grabbing warning rather than something that sounds like the core is going to blow up.
 - Added loud alert sound to core destruction.
 - Made it possible to escape the enemy base while in a vehicle.
 - Removed declaration for "Custom: Open Menu" Nav Marker.
-  - SKIP BARRIER CODE UPDATE ON LEVEL @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-  - @@@@@@@@@@ HOME BASE ESCAPE BOUNDARY
 
 ### 0.14.1
 
