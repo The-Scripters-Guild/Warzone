@@ -452,14 +452,13 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 0.01
 - Config: Projectile
   - Shot Count: 1
-  - Shot Velocity: 300
+  - Shot Velocity: 450
   - Projectile Config: 1
   - Projectile: Banished Hunter Shot
-  - Projectile Tracking Scalar: 0.20
 - Ammo: 10+30 (+50)
 - Point Cost: 5
 - Level: 5
-- Notes: Projectiles will track to the aim position when zoomed.
+- Notes: -
 
 ## [38] Hunters Right Hand
 - Weapon Type: Fuel Rod SPNKr + Impact Commando
@@ -570,7 +569,7 @@ The configurations that make up each of the custom weapons.
 ## [46] Light Of Doisac
 - Weapon Type: S7 Sniper Rifle + Purging Shock Rifle
 - Trait Set: 46
-  - Weapon Damage: 2.00
+  - Weapon Damage: 1.60
 - VFX: VIP (36)
 - Config: Combo
 - Ammo: 15+45 (+17)
