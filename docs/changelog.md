@@ -477,7 +477,11 @@ Current state: Mode working fully, with some notable missing features:
 - Updated warzone-sandbox to 0.26.6
 - Updated warzone-radial to 0.8.8
 
+### 0.14.2
 
+- Updated warzone-sandbox to 0.26.7
+- Adjusted core nav marker distance parameters from 500 → 1000 meters so it's always visible when exposed.
+- Increased passive personal point gain: Every 40.0 s → 36.36 s (0.025 → 0.0275) because gaining back points for more items was feeling a bit too slow.
 
 
 
@@ -1307,6 +1311,25 @@ Adjusted weapons:
   - Projectile Tracking Scalar: 0.20 → **0.30**
 
 - Fixed missing part of code that was causing weapons 51–60 to not be assigned their traits.
+
+### 0.26.7
+
+Adjusted weapons:
+- [37] Orb Launcher
+  - Removed custom projectile tracking
+  - Shot Velocity: 300 → **450**
+- [46] Light Of Doisac
+  - Weapon Damage: 2.00 → **1.60**
+
+Adjusted equipment:
+- [3] Repair Field
+  - Custom Charge Count: 1 → **2**
+- [11] Health Steal
+  - Shield Scalar: 0.00 → **0.30**
+
+- Added custom grenade and equipment despawn script with despawn of all grenades and equipment on the map after 8–10 of player or AI death. Excludes grenades and equipment spawned via grantGrenade or grantEquipment.
+
+
 
 
 
