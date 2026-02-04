@@ -81,7 +81,7 @@ The configurations that make up each of the equipment, including custom powerups
 
 ## [3] Repair Field
 - Equipment Type: Repair Field
-- Custom Charge Count: 1
+- Custom Charge Count: 2
 - Default Charge Count: 1
 - Point Cost: 3
 - Level: 1
@@ -150,7 +150,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Equipment Type: Custom Equipment A
 - Trait Set: healthSteal
   - Vampirism
-    - Shield Scalar: 0.00
+    - Shield Scalar: 0.30
     - Health Scalar: 0.90
 - Custom Charge Count: 1
 - Default Charge Count: 1
