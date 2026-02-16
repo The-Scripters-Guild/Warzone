@@ -289,12 +289,12 @@ The configurations that make up each of the custom weapons.
 - Notes: -
 
 ## [25] The Final Token
-- Weapon Type: Sentinel Beam + Striker Sidekick
+- Weapon Type: Sentinel Beam + Rushdown Hammer
 - Trait Set: 25
-  - Weapon Damage: 0.70
+  - Weapon Damage: 1.70
 - VFX: Infected Beta (24)
 - Config: Combo
-- Ammo: 14+84 (+50)
+- Ammo: 250+500 (+35.5)
 - Point Cost: 7
 - Level: 7
 - Notes: -
@@ -596,7 +596,7 @@ The configurations that make up each of the custom weapons.
     - Tactical Reload Scalar: 3.00
 - VFX: VIP (34)
 - Config: Combo
-- Ammo: 6+6 (-70)
+- Ammo: 6+4 (-60)
 - Point Cost: 7
 - Level: 7
 - Notes: Damage output based off of secondary fire strength; primary fire is pretty useless.
