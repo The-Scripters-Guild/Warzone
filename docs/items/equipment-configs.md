@@ -150,7 +150,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Equipment Type: Custom Equipment A
 - Trait Set: healthSteal
   - Vampirism
-    - Shield Scalar: 0.30
+    - Shield Scalar: 0.15
     - Health Scalar: 0.90
 - Custom Charge Count: 1
 - Default Charge Count: 1
@@ -158,7 +158,7 @@ The configurations that make up each of the equipment, including custom powerups
 - VFX: Infected Alpha
 - Point Cost: 1
 - Level: 1
-- Notes: Vampirism only comes from dealing damage to enemy health, not shield.
+- Notes: -
 
 ## [12] Melee Boost
 - Equipment Type: Custom Equipment B
