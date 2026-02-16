@@ -483,6 +483,64 @@ Current state: Mode working fully, with some notable missing features:
 - Adjusted core nav marker distance parameters from 500 → 1000 meters so it's always visible when exposed.
 - Increased passive personal point gain: Every 40.0 s → 36.36 s (0.025 → 0.0275) because gaining back points for more items was feeling a bit too slow.
 
+### 0.15.0
+
+- Updated warzone-sandbox to 0.26.8
+- Adjusted active point gain sources to incentivize objective play:
+  - Player kill: 0.12 → **0.125**, Assist 50%
+  - AI kill: 0.10 → Curated per AI type, Assist 75%
+    - Grunt Conscript, Yellow: **0.025**
+    - Jackal Freebooter: **0.025**
+    - Jackal Raider: **0.025**
+    - Marine Assault: **0.025**
+    - Grunt Ultra: **0.05**
+    - Elite Mercenary: **0.10**
+    - Brute Minor: **0.10**
+    - Elite Ultra: **0.20**
+    - Brute Warrior: **0.20**
+    - Brute Chieftain: **0.20**
+    - Hunter: **0.25**
+    - Elite Warlord: **0.30**
+    - Brute Chieftain Turret: **0.30**
+    - Brute Warlord: **0.30**
+    - Boss Arthoc: **0.50**
+    - Hunter, Banished: **0.50**
+    - Brute Berserker, Chosen: **0.50**
+    - Boss Bipbap: **0.50**
+    - Boss Ordo 'Mal: **0.50**
+    - Boss Hyperius: **0.50**
+    - Boss Myriad: **0.75**
+    - Boss Thav 'Sebarim: **1.00**
+    - Boss Chak 'Lok: **1.50**
+    - Boss Escharum: **1.50**
+    - Boss Harbinger: **1.50**
+    - Boss Adjutant Resolution, Gold: **1.50**
+  - Home Base Capture: 0.80 → **1.00**
+  - Zone Capture: 0.00 → **1.00**
+- Increased passive personal point gain: 1 point Every 36.36 → **35 s** (0.0275 → 0.02857) to round the interval.
+- Decreased Warzone Ultra progression multiplier from 4 → **3** due to the increase in point gain from other sources.
+
+### 0.15.1
+
+- Updated warzone-sandbox to 0.26.9
+- - Updated warzone-radial to 0.9.0
+- Changed death screen "Open Menu" prompt message to say "Menu: X" where X is a timer displaying how long until a forced respawn.
+  - Some players reported not being able to open the menu when dead, so a forced respawn was implemented
+- Adjusted Gravity Hammer damage to core from 0.70x → 0.45x
+
+### 0.15.2
+
+- Updated warzone-radial to 0.9.3
+- Fixed Brute Scrap Cannon not deleting on drop as it was referencing the old number value 116 for it, which was now the Fuel Rod sPNKR.
+- Removed +1.0 point grant to all players who captured the Home Base at the start.
+
+### 1.0.0
+
+- Updated warzone-sandbox to 1.0.0
+- Updated warzone-radial to 1.0.0
+- Kept tick rate debug enabled.
+
+
 
 
 
@@ -1327,13 +1385,31 @@ Adjusted equipment:
 - [11] Health Steal
   - Shield Scalar: 0.00 → **0.30**
 
-- Added custom grenade and equipment despawn script with despawn of all grenades and equipment on the map after 8–10 of player or AI death. Excludes grenades and equipment spawned via grantGrenade or grantEquipment.
+- Added custom grenade and equipment cleanup script with despawn of all grenades and equipment on the map after 8–10 of player or AI death. Excludes grenades and equipment spawned via grantGrenade or grantEquipment.
 
+### 0.26.8
 
+- Adjusted custom grenade and equipment cleanup script to not cause tick rate drop issues.
 
+### 0.26.9
 
+[Adjusted weapons](https://github.com/The-Scripters-Guild/Warzone/commit/450b29d28a40366e6f62a7308a0a4bef9f094361):
+- [25] The Final Token
+  - Weapon Type: Sentinel Beam + Striker Sidekick → **Sentinel Beam + Rushdown Hammer**
+  - Weapon Damage: 0.70 → **1.70**
+  - Ammo: 14+84 → **250+500**
+- [48] Headhunter
+  - Ammo: 6+6 → **6+4**
 
+[Adjusted equipment](https://github.com/The-Scripters-Guild/Warzone/commit/543c6a68ff35757ee6ccecf6b0f29306365b3b9d):
+- [11] Health Steal
+  - Shield Scalar: 0.30 → **0.15**
 
+- Removed custom grenade cleanup script as it was still resulting in tick rate drop issues.
+
+### 1.0.0
+
+- Disabled tick rate debug.
 
 
 
@@ -1844,3 +1920,28 @@ Adjusted vehicles:
   - Tier: 5 → **6**
 - [46] Light Of Doisac
   - Tier: 7 → **6**
+
+### 0.9.0
+
+- Added 45 s forced respawn timer for everyone.
+
+### 0.9.1
+
+- Updated 45 s respawn timer to look for if a player is in the list of all players instead of if the player is a valid object.
+- Removed excess debug code.
+- Has debug prints on for 45 s respawn loop cancelling.
+
+### 0.9.2
+
+- Adjusted debug prints to focus on when players become invalid objects in the death loop.
+
+### 0.9.3
+
+- Added a "Get Is Dead" to the aimForceClose and crouchForceClose events to prevent them from being active when a player is dead. This was causing occasional, unprompted menu closing when a player was dead due to their corpse despawning, and the aimForceClose event firing and closing the menu.
+- Fixed one duplicated aimForceClose event not being named crouchForceClose.
+- Removed checkValidLoop function that was a counter to the menu closing issue, but was now unnecessary.
+- Removed debug prints.
+
+### 1.0.0
+
+- Changed version number.
