@@ -540,6 +540,11 @@ Current state: Mode working fully, with some notable missing features:
 - Updated warzone-radial to 1.0.0
 - Kept tick rate debug enabled.
 
+### 1.0.2
+
+- Added 4 bots on Eagle and Cobra teams in the mode settings to add more players to games by default as we were seeing too many dead lobbies.
+- 1.0.1 is an invalid term in Halo Infinite
+
 
 
 
