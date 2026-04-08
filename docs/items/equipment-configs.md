@@ -150,7 +150,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Equipment Type: Custom Equipment A
 - Trait Set: healthSteal
   - Vampirism
-    - Shield Scalar: 0.15
+    - Shield Scalar: 0.22
     - Health Scalar: 0.90
 - Custom Charge Count: 1
 - Default Charge Count: 1
