@@ -664,7 +664,7 @@ The configurations that make up each of the custom weapons.
 ## [55] Brute Carbine
 - Weapon Type: Vestige Carbine + Stalker Rifle Ultra
 - Trait Set: 55
-  - Weapon Damage: 0.35
+  - Weapon Damage: 0.40
 - Config: Combo
 - Ammo: 20+40 (-76)
 - Point Cost: 2
