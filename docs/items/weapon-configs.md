@@ -95,7 +95,7 @@ The configurations that make up each of the custom weapons.
 - Level: 6
 - Notes: -
 
-## [7] ONI Bandit
+## [7] Marksman Bandit
 - Weapon Type: M392 Bandit + MA40 Longshot
 - Trait Set: 7
   - Weapon Damage: 2.19
@@ -661,15 +661,15 @@ The configurations that make up each of the custom weapons.
 - Level: 2
 - Notes: Can't EMP vehicles. Has better charge shot tracking than normal Plasma Pistol. Has no zoom, but a matching red-reticle range to the normal Plasma Pistol. Is basically the Plasma Pistol from Halo Infinite's multiplayer launch without a zoom.
 
-## [55] Brute Carbine
-- Weapon Type: Vestige Carbine + Stalker Rifle Ultra
+## [55] Tactical Carbine
+- Weapon Type: Vestige Carbine + Striker Sidekick
 - Trait Set: 55
-  - Weapon Damage: 0.40
+  - Weapon Damage: 0.35
 - Config: Combo
-- Ammo: 20+40 (-76)
+- Ammo: 14+84 (+50)
 - Point Cost: 2
 - Level: 2
-- Notes: Good for landing consistent shots at long range.
+- Notes: Capable of long range effectiveness.
 
 ## [56] Poisoned Pulse Carbine
 - Weapon Type: Pulse Carbine + Pinpoint Needler
@@ -707,15 +707,15 @@ The configurations that make up each of the custom weapons.
 - Level: 2
 - Notes: A worse BR75, but can be obtained much earlier at the cost of points.
 
-## [59] Burst-Fire Bandit
-- Weapon Type: M392 Bandit + BR75 Breacher
+## [59] ONI Bandit
+- Weapon Type: M392 Bandit + Impact Commando
 - Trait Set: 59
-  - Weapon Damage: 1.40
+  - Weapon Damage: 1.20
 - Config: Combo
-- Ammo: 30+120 (+17)
-- Point Cost: 4
-- Level: 4
-- Notes: Is capable of a 2-burst kill, but has a very high recoil and immediate bullet spread, making it very difficult to land a perfect kill.
+- Ammo: 40+30 (-35)
+- Point Cost: 2
+- Level: 2
+- Notes: -
 
 ## [60] SPNKr x
 - Weapon Type: Fuel Rod SPNKr + M41 Tracker
