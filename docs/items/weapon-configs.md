@@ -194,8 +194,8 @@ The configurations that make up each of the custom weapons.
 - VFX: Infected Beta (27)
 - Config: Combo
 - Ammo: 100%
-- Point Cost: 7
-- Level: 7
+- Point Cost: 6
+- Level: 6
 - Notes: -
   
 ## [16] Pulse Wave
@@ -283,7 +283,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 24
   - Weapon Damage: 0.30
 - Config: Combo
-- Ammo: 40+120
+- Ammo: 40+200 (+40)
 - Point Cost: 4
 - Level: 4
 - Notes: -
@@ -338,7 +338,7 @@ The configurations that make up each of the custom weapons.
 - Weapon Type: M247 HMG + Impact Commando
 - Trait Set: 29
   - Weapon Damage: 0.34
-  - Movement Speed With Turret: 1.20
+  - Movement Speed With Turret: 1.10
 - Config: Combo
 - Ammo: 100%
 - Point Cost: 4
@@ -417,7 +417,6 @@ The configurations that make up each of the custom weapons.
 ## [35] Rogue Juggernaut
 - Weapon Type: Infected Energy Sword + Unbound Plasma Pistol
 - Trait Set (while zoomed): 35
-  - Movement Speed: 0.40
   - Damage Resistance
     - Direct Damage Scalar: 2.10
     - Grenade Damage Scalar: 0.476190476
