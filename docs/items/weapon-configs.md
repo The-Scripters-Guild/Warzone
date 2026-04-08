@@ -337,7 +337,7 @@ The configurations that make up each of the custom weapons.
 ## [29] ONI Turret
 - Weapon Type: M247 HMG + Impact Commando
 - Trait Set: 29
-  - Weapon Damage: 0.34
+  - Weapon Damage: 0.40
   - Movement Speed With Turret: 1.10
 - Config: Combo
 - Ammo: 100%
