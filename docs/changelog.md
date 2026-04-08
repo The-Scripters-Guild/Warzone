@@ -36,14 +36,14 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.5.1
 
-- Updated warzone-sandbox to 0.11.3.
+- Updated sandbox-warzone to 0.11.3.
 - Added a check to prevent Marine spawn in a zone if the amount of players on the opposite team of the captured zone is greater than the amount of players of the zone's team are present within the zone boundary. This prevents Marines from constantly spawning in the zone, which made the capturing process very difficult.
 - Added debug player index number display to custom soft kill docked nav marker to try and understand an issue where the death loop persists for players when someone joins in progress.
 - Added debug print to killfeed upon zone capture showing the number of zones each team has captured to try and understand an issue where the core would get exposed in a situation where a team does not control all three zones.
 
 ### 0.5.2
 
-- Updated warzone-sandbox to 0.11.4.
+- Updated sandbox-warzone to 0.11.4.
 - Grunt Ultra damage adjusted from 1.00 to 0.01, as they are shooting a custom projectile weapon and shouldn't deal other damage than what the projectile does.
 - Updated custom soft kill feature to use Generic Zones instead of Area Monitors; reduced node count and improved ease of use.
 
@@ -53,7 +53,7 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.5.4
 
-- Updated warzone-sandbox to 0.11.5.
+- Updated sandbox-warzone to 0.11.5.
 - Added audio for damaging the core, and contesting and capturing zones. Added explosion effects to destroying the core.
 
 ### 0.5.5
@@ -62,30 +62,30 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.6.0
 
-- Updated warzone-sandbox to 0.11.6.
+- Updated sandbox-warzone to 0.11.6.
 - Attempted fix at custom soft kill player join in progress issue.
 - Excluded players joining in progress from any player execution scripts that need to track only valid players.
 
 ### 0.6.1
 
-- Updated warzone-sandbox to 0.14.0.
+- Updated sandbox-warzone to 0.14.0.
 - Renamed DummyObject events to be more readable.
 
 ### 0.6.2
 
-- Updated warzone-sandbox to 0.14.1.
+- Updated sandbox-warzone to 0.14.1.
 - Fixed custom soft kill player join in progress issue.
 
 ### 0.6.3
 
-- Updated warzone-sandbox to 0.14.2.
+- Updated sandbox-warzone to 0.14.2.
 - Fixed an issue that made the tick rate drop to 15 due to a continuous event looping too large of a list.
 - Changed base mode to Arena to utilize a 60 tick dedicated server.
 - Fixed an issue where players would be frozen at Gameplay Start due to a large event loop running.
 
 ### 0.6.4
 
-- Updated warzone-sandbox to 0.14.3.
+- Updated sandbox-warzone to 0.14.3.
 - Added Marines spawning in base when the core is exposed.
 - Fixed non-human AI stragglers in Armory or Fortress not dying if it was captured when they were still alive.
 - Removed zone capture number debug.
@@ -93,12 +93,12 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.6.5
 
-- Updated warzone-sandbox to 0.14.5.
+- Updated sandbox-warzone to 0.14.5.
 - Updated core mode to BTB, 30 tick.
 
 ### 0.6.6
 
-- Updated warzone-sandbox to 0.14.6.
+- Updated sandbox-warzone to 0.14.6.
 
 ### 0.6.7
 
@@ -109,11 +109,11 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.6.8
 
-- Updated warzone-sandbox to 0.14.7
+- Updated sandbox-warzone to 0.14.7
 
 ### 0.6.9
 
-- Updated warzone-sandbox to 0.14.8
+- Updated sandbox-warzone to 0.14.8
 - Added two new AI: [25] Boss Chak 'Lok & [26] Boss Hyperius
 - Added new AI Encounter: [12] Elite Encounter, Mythic.
 - Adjusted AI: [16] Brute Berserker, Chosen.
@@ -131,17 +131,17 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.7.0
 
-- Updated warzone-sandbox to 0.15.1
+- Updated sandbox-warzone to 0.15.1
 - Adapted new weapon grant at position variables.
 - Made any dropped Brute Scrap Cannon turn into a [31] The Champion. Escharum drops the weapon.
 
 ### 0.7.1
 
-- Updated warzone-sandbox to 0.15.2
+- Updated sandbox-warzone to 0.15.2
 
 ### 0.7.2
 
-- Updated warzone-sandbox to 0.15.3
+- Updated sandbox-warzone to 0.15.3
 - Replaced AI [18] Brute Sniper, Heavy with [18] Brute Chieftain Turret.
 - Replaced AI [22] Boss Tremonius with [22] Hunter, Banished.
 - Replaced weapon of AI [12] Boss Thav 'Sebarim from [37] Spike Off Thav 'Sebarim with [16] Pulse Wave.
@@ -150,16 +150,16 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.7.3
 
-- Updated warzone-sandbox to 0.16.0
+- Updated sandbox-warzone to 0.16.0
 
 ### 0.7.4
 
-- Updated warzone-sandbox to 0.16.1
+- Updated sandbox-warzone to 0.16.1
 - Made Boss AI drop predetermined loot on death.
 
 ### 0.8.0
 
-- Updated warzone-sandbox to 0.17.0
+- Updated sandbox-warzone to 0.17.0
 - Changed respawn delay from 8 s to Instant.
   - To support spawn selection logic and custom respawn delay via script.
 - Changed base mode to BTB, 30 tick rate.
@@ -167,7 +167,7 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.9.0
 
-- Updated warzone-sandbox to 0.20.0
+- Updated sandbox-warzone to 0.20.0
 - Updated AI spawn overrides to have the AI active from the beginning.
 - Accounted for +10 change in weapon config values in the loadout ammo grant near REQ stations.
 - Removed "custom soft kill" code, and replaced related objects on-level with Soft Kill volumes.
@@ -188,7 +188,7 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.9.3
 
-- Updated warzone-sandbox to 0.21.0
+- Updated sandbox-warzone to 0.21.0
 - Increased passive Point grant amount every second: 0.02 → 0.023.
 
 ### 0.9.4
@@ -197,7 +197,7 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.9.5
 
-- Updated warzone-sandbox to 0.21.1
+- Updated sandbox-warzone to 0.21.1
 - Changed AI inactivity before Gameplay Start to being deaf and blind as they were still moving in similar ways after Gameplay Start.
 
 ### 0.9.6
@@ -213,7 +213,7 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.10.0
 
-- Updated warzone-sandbox to 0.21.3
+- Updated sandbox-warzone to 0.21.3
 - Added failsafes to coreDestruction event that kill two first AI so the Sentry Bosses (explosion) can spawn, and used For N Iterations function to hopefully not cause a thread freeze if something in the AI spawning process fails, so the game at least ends.
 - Adjusted wait time between spawning an AI and assigning the AI's squad to the closest Move Zone from 2 → 5 seconds in an effort to fix the Eagle Armory AI sometimes getting assigned to the Move Zone under Eagle Armory.
 - Adjusted setClosestSpawnPoint to look through all spawn points instead of just Team 8 ones as some spawn points designated for AI are on Neutral team.
@@ -238,7 +238,7 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.10.1
 
-- Updated warzone-sandbox to 0.21.4
+- Updated sandbox-warzone to 0.21.4
 - Adjusted custom starting music to start after Gameplay Start as othewise it overlaps with the built-in starting music. The built-in mode music needs to stay in the mode to reduce custom scripted music logic.
 
 ### 0.10.2
@@ -253,7 +253,7 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.10.5
 
-- Updated warzone-sandbox to 0.21.5
+- Updated sandbox-warzone to 0.21.5
 - Replaced custom weapon types that are given to bosses to be the ones pulled from the weaponTypes list instead of custom weapon type combinations so they update correctly with changes.
 - Added "Level: x" display to Objective Banner to provide more communication on what the global Level is.
 - 0.10.4 is an invalid string in Halo Infinite.
@@ -277,7 +277,7 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.10.10
 
-- Updated warzone-sandbox to 0.21.6.
+- Updated sandbox-warzone to 0.21.6.
 
 ### 0.10.11
 
@@ -287,25 +287,25 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.10.12
 
-- Updated warzone-sandbox to 0.21.7.
+- Updated sandbox-warzone to 0.21.7.
 - Made nav markers displaying remining AI in a zone to correctly update for players in vehicles.
 
 
 ### 0.10.13
 
-- Updated warzone-sandbox to 0.21.8.
+- Updated sandbox-warzone to 0.21.8.
 - Optimized remaining AI nav marker in zone logic.
 - Optimized allowMarineSpawn logic for detecting players in a zone.
 
 ### 0.10.14
 
-- Updated warzone-sandbox to 0.21.9.
-- Updated warzone-radial to 0.6.1.
+- Updated sandbox-warzone to 0.21.9.
+- Updated radial-warzone to 0.6.1.
 
 ### 0.10.15
 
-- Updated warzone-sandbox to 0.22.0.
-- Updated warzone-radial to 0.6.2.
+- Updated sandbox-warzone to 0.22.0.
+- Updated radial-warzone to 0.6.2.
 - Decreased Hunter grenade resistance from 4.00 to 2.00 so they need 3 Frag Grenades to kill.
 
 ### 0.10.16
@@ -314,39 +314,39 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.10.17
 
-- Updated warzone-sandbox to 0.22.1.
+- Updated sandbox-warzone to 0.22.1.
 - Added feature to force players on teams other than Eagle or Cobra to be put on either team at random.
 - Fixed players being able to damage their own core with cloned projectiles.
 
 ### 0.10.18
 
-- Updated warzone-sandbox to 0.22.2.
+- Updated sandbox-warzone to 0.22.2.
 
 ### 0.10.19
 
-- Updated warzone-sandbox to 0.22.3.
+- Updated sandbox-warzone to 0.22.3.
 
 ### 0.10.20
 
-- Updated warzone-sandbox to 0.22.4.
+- Updated sandbox-warzone to 0.22.4.
 - Adjusted starting music to play for longer.
 - Adjusted end fade time of boss music to be longer.
 
 ### 0.10.21
 
-- Updated warzone-sandbox to 0.22.5.
-- Updated warzone-radial to 0.6.4.
+- Updated sandbox-warzone to 0.22.5.
+- Updated radial-warzone to 0.6.4.
 
 ### 0.10.22
 
-- Updated warzone-sandbox to 0.22.6.
+- Updated sandbox-warzone to 0.22.6.
 - Increased passive and active personal point gain:
   - Passive point gain: Every 43.5 s → 35.1 s (0.023 → 0.0285). Level increase 0.00 → 1.00.
   - Active point gain: Player Kill 0.10 → 0.12. AI kill 0.08 → 0.10
 
 ### 0.11.0
 
-- Updated warzone-sandbox to 0.22.7.
+- Updated sandbox-warzone to 0.22.7.
 - Added a docker nav marker on the left side of the screen displaying the Level.
 - Added docked nav marker spacer feature.
   - Intentionally did not include spacer removal feature for the "AI remaining" and "Enemy Destroying the Core" nav markers cause it's too complicated. When these nav markers are on screen, the "Level" nav marker on the left of the screen will shift more to the left.
@@ -354,7 +354,7 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.11.1
 
-- Updated warzone-sandbox to 0.22.8.
+- Updated sandbox-warzone to 0.22.8.
 - Changed boss elimination message in the killfeed from "Enemy/Your Team Eliminated A Boss" → "Player Eliminated the Boss" where "Player" is the player who killed the boss. The player name has the team's color so it's also gets across which team killed the boss.
 - Added extra UI messaging for notifying about destroying the enemy core or defending your core when they're exposed.
 
@@ -393,30 +393,30 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.13.0
 
-- Updated warzone-sandbox to 0.23.1.
-- Updated warzone-radial to 0.7.2.
+- Updated sandbox-warzone to 0.23.1.
+- Updated radial-warzone to 0.7.2.
 - Fixed inaccurate Level Nav Marker decimal when approacing Level 9.
 - Adjusted Hunter Equipment loot drop from [12] Allied Monitor + [1] Drop Wall → **[14] Headshot Shielding + [1] Drop Wall**
 
 ### 0.13.1
 
-- Updated warzone-sandbox to 0.23.2
+- Updated sandbox-warzone to 0.23.2
 
 ### 0.13.2
 
-- Updated warzone-sandbox to 0.24.0
-- Updated warzone-radial to 0.7.4
+- Updated sandbox-warzone to 0.24.0
+- Updated radial-warzone to 0.7.4
 
 ### 0.13.3
 
-- Updated warzone-sandbox to 0.25.0
-- Updated warzone-radial to 0.8.0
+- Updated sandbox-warzone to 0.25.0
+- Updated radial-warzone to 0.8.0
 - Removed boss loot drops as they were not being utilized enough in gameplay and we are short on available mode file size budget.
 
 ### 0.13.5
 
-- Updated warzone-sandbox to 0.25.1
-- Updated warzone-radial to 0.8.1
+- Updated sandbox-warzone to 0.25.1
+- Updated radial-warzone to 0.8.1
 - 0.13.4 is an inappropriate string in Halo Infinite
 
 ### 0.13.6
@@ -425,44 +425,44 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.13.7
 
-- Updated warzone-sandbox to 0.25.2
+- Updated sandbox-warzone to 0.25.2
 - Fixed "Objective Start, Good Luck!" Audio playing during the intro cameras of maps where the gameplay doesn't start from the Home Bases.
 
 ### 0.13.8
 
-- Updated warzone-sandbox to 0.26.0
-- Updated warzone-radial to 0.8.2
+- Updated sandbox-warzone to 0.26.0
+- Updated radial-warzone to 0.8.2
 - Fixed Grunt Ultra not dropping a [38] Hunters Right Hand on death.
 
 ### 0.13.9
 
-- Updated warzone-sandbox to 0.26.1
-- Updated warzone-radial to 0.8.3
+- Updated sandbox-warzone to 0.26.1
+- Updated radial-warzone to 0.8.3
 - Made players start with 9 points if Warzone Ultra toggle is on.
 - Adjusted damage taken multiplier for the Home Base core from 0.15 → **0.18** which means that players need to do ~83% of the previous damage to the core to fully destroy it compared to the previous health.
 
 ### 0.13.10
 
-- Updated warzone-sandbox to 0.26.2
-- Updated warzone-radial to 0.8.4
+- Updated sandbox-warzone to 0.26.2
+- Updated radial-warzone to 0.8.4
 
 ### 0.13.11
 
-- Updated warzone-sandbox to 0.26.3
-- Updated warzone-radial to 0.8.5
+- Updated sandbox-warzone to 0.26.3
+- Updated radial-warzone to 0.8.5
 - Made Gravity Hammers do 0.3x damage to the core
 - Added 0.50 s delay to item station team assignment after zone capture to try and fix issue where station teams sometimes don't get assigned after zone capture
 
 ### 0.13.12
 
-- Updated warzone-sandbox to 0.26.4
-- Updated warzone-radial to 0.8.6
+- Updated sandbox-warzone to 0.26.4
+- Updated radial-warzone to 0.8.6
 - Fixed observer players being forced on Eagle or Cobra team and not being able to move. Observers now stay stay as observers.
 
 ### 0.14.0
 
-- Updated warzone-sandbox to 0.26.5
-- Updated warzone-radial to 0.8.7
+- Updated sandbox-warzone to 0.26.5
+- Updated radial-warzone to 0.8.7
 - Removed 0.50 s delay from item station team assignment after zone capture as the root cause was found to be related to no players present in zone on capture.
 - Adjusted Gravity Hammer damage scalar towards core from 0.33 → 0.70 as they were doing too little damage.
 - Adjusted Core exposing logic to detect captured zone's team from a stored Team Variable "zoneControllingTeam" instead of pulling the first player's team who contributed to the capture and was inside the zone.
@@ -474,18 +474,18 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.14.1
 
-- Updated warzone-sandbox to 0.26.6
-- Updated warzone-radial to 0.8.8
+- Updated sandbox-warzone to 0.26.6
+- Updated radial-warzone to 0.8.8
 
 ### 0.14.2
 
-- Updated warzone-sandbox to 0.26.7
+- Updated sandbox-warzone to 0.26.7
 - Adjusted core nav marker distance parameters from 500 → 1000 meters so it's always visible when exposed.
 - Increased passive personal point gain: Every 40.0 s → 36.36 s (0.025 → 0.0275) because gaining back points for more items was feeling a bit too slow.
 
 ### 0.15.0
 
-- Updated warzone-sandbox to 0.26.8
+- Updated sandbox-warzone to 0.26.8
 - Adjusted active point gain sources to incentivize objective play:
   - Player kill: 0.12 → **0.125**, Assist 50%
   - AI kill: 0.10 → Curated per AI type, Assist 75%
@@ -522,22 +522,22 @@ Current state: Mode working fully, with some notable missing features:
 
 ### 0.15.1
 
-- Updated warzone-sandbox to 0.26.9
-- - Updated warzone-radial to 0.9.0
+- Updated sandbox-warzone to 0.26.9
+- - Updated radial-warzone to 0.9.0
 - Changed death screen "Open Menu" prompt message to say "Menu: X" where X is a timer displaying how long until a forced respawn.
   - Some players reported not being able to open the menu when dead, so a forced respawn was implemented
 - Adjusted Gravity Hammer damage to core from 0.70x → 0.45x
 
 ### 0.15.2
 
-- Updated warzone-radial to 0.9.3
+- Updated radial-warzone to 0.9.3
 - Fixed Brute Scrap Cannon not deleting on drop as it was referencing the old number value 116 for it, which was now the Fuel Rod sPNKR.
 - Removed +1.0 point grant to all players who captured the Home Base at the start.
 
 ### 1.0.0
 
-- Updated warzone-sandbox to 1.0.0
-- Updated warzone-radial to 1.0.0
+- Updated sandbox-warzone to 1.0.0
+- Updated radial-warzone to 1.0.0
 - Kept tick rate debug enabled.
 
 ### 1.0.2
@@ -545,6 +545,45 @@ Current state: Mode working fully, with some notable missing features:
 - Added 4 bots on Eagle and Cobra teams in the mode settings to add more players to games by default as we were seeing too many dead lobbies.
 - 1.0.1 is an invalid term in Halo Infinite
 
+### 1.0.3
+
+- Updated sandbox-warzone to 1.1.0
+- Adjusted Boss Thav 'Sebarim weapon damage with the Pulse Wave from 0.80 → 0.60 as the boss was killing players and vehicles too fast and abruptly.
+
+### 1.0.5 
+
+- Updated sandbox-warzone to 1.2.0
+- Updated radial-warzone to 1.1.0
+- Fixed vehicle exit boundary from enemy base sometimes sending players to another vehicle instead of their driven one
+- Made minimum points at any time be 0, so points can't go in the negatives
+- 1.0.4 is a profane term in Halo Infinite
+
+### 1.0.6
+
+- Updated sandbox-warzone to 1.4.0
+- Adjusted wait time of automatic closest AI Move Zone assignment from 5 s → 1 s after AI is spawned to potentially fix AI assigning to the wrong Move Zone after walking around during 5 s after they spawned
+
+### 1.0.7
+
+- Updated sandbox-warzone to 1.5.0
+- Updated radial-warzone to 1.2.0
+- Added deletion for Backup Spawn Points at round start as they are useless and can only lead to issues if they are somehow used
+- Removed tick rate debug
+
+### 1.0.8
+
+- Updated sandbox-warzone to 1.6.0
+
+### 1.0.9
+
+- Updated sandbox-warzone to 1.7.0
+- Added "warzone" boolean
+- Updated "Defend Your Core/Destroy Enemy Core" splash message to have a blue background
+- Removed Objective Banner messages so they don't interfere negatively with the Observer view:
+  - Defend Your Core
+  - Destroy Enemy Core
+  - New Boss Incoming
+- Made all players' menus close if game ends with core explosion. Only then, because can't close menus when the round is already over.
 
 
 
@@ -553,9 +592,9 @@ Current state: Mode working fully, with some notable missing features:
 
 
 
-## tsg warzone-sandbox library
+## tsg sandbox-warzone library
 
-Changelog for the tsg warzone-sandbox library used for the sandbox scripting logic.
+Changelog for the tsg sandbox-warzone library used for the sandbox scripting logic.
 
 ### 0.8.1
 
@@ -1416,28 +1455,91 @@ Adjusted equipment:
 
 - Disabled tick rate debug.
 
+### 1.1.0
+
+- Adjusted weapons:
+  - [24] Focus Beam
+    - Ammo: 40+120 → **40+200** (+40)
+  - [35] Rogue Juggernaut
+    - Movement Speed: 0.40 → **1.00** (while zoomed)
+
+- Adjusted equipment:
+  - [16] Legendary Grappleshot
+    - Custom Charge Count: 4 → **5**
+    - Weapon Damage: 3.00 (while grappling)
+    - Grenade Damage Scalar: 0.60 (while grappling)
+    - Explosive Damage Scalar: 0.60 (while grappling)
+
+### 1.2.0
+
+- Adjusted weapons:
+  - [36] The Demon
+    - Movement Speed: 1.25 → **1.00**
+    - Sprint Speed
+      - Top Speed Scalar: 1.13 → **1.25**
+
+### 1.3.0
+
+- Adjusted weapons:
+  - [55] Brute Carbine
+    - Weapon Damage: 0.35 → **0.40**
+
+### 1.4.0
+
+- Adjusted weapons:
+  - [29] ONI Turret
+    - Weapon Damage: 0.34 → **0.40**
+
+### 1.5.0
+
+- Adjusted weapons:
+  - [55] Brute Carbine (Tactical Carbine)
+    - Weapon Type: Vestige Carbine + Stalker Rifle Ultra → **Vestige Carbine + Striker Sidekick**
+    - Weapon Damage: 0.40 → **0.35**
+    - Ammo: 20+40 (-76) → **14+84** (+50)
+  - [59] Burst-Fire Bandit (ONI Bandit)
+    - Weapon Type: M392 Bandit + BR75 Breacher → **M392 Bandit + Impact Commando**
+    - Weapon Damage: 1.40 → **1.20**
+    - Ammo: 30+120 (+17) → **40+30** (-35)
+
+### 1.6.0
+
+- Adjusted Weapons:
+  - [36] The Demon
+    - Sprint Speeed
+      - Top Speed Scalar: 1.25 → **1.30**
+- Adjusted Equipment:
+  - [11] Health Steal
+    - Shield Scalar: 0.15 → **0.22**
+
+### 1.7.0
+
+- Made players invisible and deathless if they are in the vehicle spawn queue. Only present if "warzone" boolean is TRUE.
 
 
 
 
-## tsg warzone-radial module
 
-Changelog for the tsg warzone-radial module used for the radial menu logic.
+
+
+## tsg radial-warzone module
+
+Changelog for the tsg radial-warzone module used for the radial menu logic.
 
 ### 0.1.1
 
 - Initial build.
-- warzone-sandbox 0.18.1 compatible.
-- Weapon, Equipment, Ability Boost & Vehicle names and points transferred from warzone-sandbox to warzone-radial.
+- sandbox-warzone 0.18.1 compatible.
+- Weapon, Equipment, Ability Boost & Vehicle names and points transferred from sandbox-warzone to radial-warzone.
 
 ### 0.1.2
 
-- warzone-sandbox 0.18.2 compatible.
+- sandbox-warzone 0.18.2 compatible.
 - Added Purchase Weapon: [52] Siege Bandit.
 
 ### 0.1.4
 
-- warzone-sandbox 0.18.3 compatible.
+- sandbox-warzone 0.18.3 compatible.
 - Added Purchase Weapon: [53] Cure Of The Haunted.
 - Note: 0.1.3 is an illegal string in Halo Infinite.
 
@@ -1448,7 +1550,7 @@ Changelog for the tsg warzone-radial module used for the radial menu logic.
 
 ### 0.2.0
 
-- warzone-sandbox 0.19.1 compatible.
+- sandbox-warzone 0.19.1 compatible.
 - Major optimization update for item variant menus to make them use the same menu.
 - Added logic for vehicle spawn locations.
 - Added logic for detemining when a REQ station can be accessed.
@@ -1950,3 +2052,22 @@ Adjusted vehicles:
 ### 1.0.0
 
 - Changed version number.
+
+### 1.1.0
+
+- Adjusted weapons
+  - [15] Overloaded Pulse Carbine
+    - Tier: 7 → **6**
+
+### 1.2.0
+
+- Adjusted weapons:
+  - [55] Brute Carbine
+    - Name: Brute Carbine → **Tactical Carbine**
+  - [59] Burst-Fire Bandit
+    - Name: Burst-Fire Bandit → **ONI Bandit**
+    - Tier: 4 → 2
+  - [7] ONI Bandit
+    - Name: ONI Bandit → **Marksman Bandit**
+
+- Reordered Assault Rifle radial to have the ONI Assault Rifle first
