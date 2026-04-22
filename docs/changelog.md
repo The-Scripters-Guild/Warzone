@@ -585,6 +585,11 @@ Current state: Mode working fully, with some notable missing features:
   - New Boss Incoming
 - Made all players' menus close if game ends with core explosion. Only then, because can't close menus when the round is already over.
 
+### 1.0.10
+
+- Updated sandbox-warzone to 1.8.0
+
+
 
 
 
@@ -1514,7 +1519,20 @@ Adjusted equipment:
 
 ### 1.7.0
 
-- Made players invisible and deathless if they are in the vehicle spawn queue. Only present if "warzone" boolean is TRUE.
+- Made players invisible and deathless if they are in the vehicle spawn queue, and show them a splash message about the vehicle queue. Only present if "warzone" boolean is TRUE.
+
+### 1.8.0
+
+- Adjusted Vehicles:
+  - [11] Alpha Banshee
+    - Weapon Damage: 2.50 → **2.94**
+- Updated vehicle queue checking delay from 0.30 → **1.00** s as it was triggering every time a vehicle was purchased in Warzone.
+
+
+
+
+
+
 
 
 
@@ -2071,3 +2089,23 @@ Adjusted vehicles:
     - Name: ONI Bandit → **Marksman Bandit**
 
 - Reordered Assault Rifle radial to have the ONI Assault Rifle first
+
+### 1.3.0
+
+- Adjusted Ability Boosts:
+  - [1] Auto Medic
+    - Level: 4 → **5**
+  - [2] Upgraded Sensor
+    - Level: 5 → **6**
+  - [5] Upgraded Walking
+    - Level: 4 → **5**
+  - [6] Upgraded Sprinting
+    - Level: 4 → **5**
+  - [7] Spy
+    - Level: 5 → **8**
+  - [9] Spike Grenade Specialist
+    - Level: 3 → **4**
+
+- Adjusted Vehicles
+  - [31] Impulse Rockethog
+    - Tier: 8 → **6**
