@@ -240,8 +240,8 @@ Vehicle configuration reference.
 
 ## [31] Impulse Rockethog
 - Vehicle Type: Gauss Hog
-- Point Cost: 8
-- Level: 8
+- Point Cost: 6
+- Level: 6
 - Notes: The unreleased Gauss Hog. Doesn't have a trail for the Gauss cannon shot.
 
 ## [32] Chopper

@@ -65,7 +65,7 @@ The configurations that make up each of the ability boosts.
   - Shield Recharge
     - Recharge Delay Scalar: -0.30 (5.0 s -> 3.5 s to begin recharging = 30.0% faster)
     - Recharge Rate Scalar: 0.42 (2.0 s -> 1.40845070423 s to charge fully = 29.5% faster)
-- Level: 4
+- Level: 5
 - Notes: Explanation on how to adjust the scalars: https://discord.com/channels/220766496635224065/1275401201973854238/1275437779370639420
 
 ## [2] Upgraded Sensor
@@ -77,7 +77,7 @@ The configurations that make up each of the ability boosts.
     - Inner Ring Scalar: 1.666
     - Extended Range Scalar: 1.10
     - Vehicle Range Scalar: 1.00
-- Level: 5
+- Level: 6
 - Notes: Inner Ring is a general extension of the range and Extended Range is how far enemies will be shown on the outside ring of the radar when they're not within the range of the Inner Ring.
 
 ## [3] Dexterity
@@ -109,7 +109,7 @@ The configurations that make up each of the ability boosts.
   - Slide Speed
     - Slide Speed Scalar: 0.85
     - Slide Duration Scalar: 1.00
-- Level: 4
+- Level: 5
 - Notes: -
 
 ## [6] Upgraded Sprinting
@@ -120,14 +120,14 @@ The configurations that make up each of the ability boosts.
   - Slide Speed
     - Slide Speed Scalar: 1.10
     - Slide Duration Scalar: 1.00
-- Level: 4
+- Level: 5
 - Notes: -
 
 ## [7] Spy
 - Trait: VFX - Active Camouflage
   - Intensity Scalar: 0.50
   - Interpolation Scalar: 1.00
-- Level: 5
+- Level: 8
 - Notes: Removes outline and name from player; 50% passive camo that takes a second to reactivate if the player starts running or fires their weapon. Driving a vehicle with the Ability Boost active causes the vehicle to go invisible; excluded vehicles: Falcon, Wraith, Scorpion.
 
 ## [8] Frag Grenade Specialist
@@ -135,7 +135,7 @@ The configurations that make up each of the ability boosts.
 - Notes: Sets the player's Frag Grenade count to 4 and removes all other Grenades.
 
 ## [9] Spike Grenade Specialist
-- Level: 3
+- Level: 4
 - Notes: Sets the player's Frag Grenade count to 2, Spike Grenade count to 3 and removes all other Grenades.
 
 ## [10] Plasma Grenade Specialist

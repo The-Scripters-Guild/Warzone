@@ -167,11 +167,7 @@ The configurations that make up each of the custom weapons.
 - Trait Set: 13
   - Weapon Damage: 1.61
 - VFX: Infected Alpha (12)
-- Config: Projectile
-  - Shot Count: 1
-  - Shot Velocity: 3000
-  - Projectile Config: 1
-  - Projectile: Banished Hunter Shot
+- Config: Combo
 - Ammo: 4+6 (+10)
 - Point Cost: 8
 - Level: 8
