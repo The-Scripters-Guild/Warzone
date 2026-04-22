@@ -9,10 +9,8 @@
 
 ## Ability Boosts
 
-| **Level** | **1** | **2** |          **3**           |           **4**           |      **5**      |           **6**           | **7** | **8** | **9** |
-| :-------: | :---: | :---: | :----------------------: | :-----------------------: | :-------------: | :-----------------------: | :---: | :---: | :---: |
-|           |       |       |        Grenadier         |        Auto Medic         | Upgraded Sensor | Dynamo Grenade Specialist |       |       |       |
-|           |       |       | Frag Grenade Specialist  |     Upgraded Walking      |       Spy       |                           |       |       |       |
-|           |       |       | Spike Grenade Specialist |    Upgraded Sprinting     |                 |                           |       |       |       |
-|           |       |       |                          | Plasma Grenade Specialist |                 |                           |       |       |       |
-|           |       |       |                          |         Dexterity         |                 |                           |       |       |       |
+| **Level** | **1** | **2** |          **3**          |           **4**           |       **5**        |           **6**           | **7** | **8** | **9** |
+| :-------: | :---: | :---: | :---------------------: | :-----------------------: | :----------------: | :-----------------------: | :---: | :---: | :---: |
+|           |       |       |        Grenadier        | Spike Grenade Specialist  |     Auto Medic     | Dynamo Grenade Specialist |       |  Spy  |       |
+|           |       |       | Frag Grenade Specialist | Plasma Grenade Specialist |  Upgraded Walking  |      Upgraded Sensor      |       |       |       |
+|           |       |       |                         |         Dexterity         | Upgraded Sprinting |                           |       |       |       |
