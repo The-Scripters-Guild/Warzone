@@ -75,7 +75,7 @@ Vehicle configuration reference.
 
 ## [11] Alpha Banshee
 - Vehicle Type: Banshee (Cloned)
-- Weapon Damage: 2.50 (Driver)
+- Weapon Damage: 2.94 (Driver)
 - Point Cost: 9
 - Level: 9
 - Notes: The vehicle is a hidden Vehicle Type that can only be created by cloning the base Vehicle Type. The bomb fires faster and has a larger explosion radius.
