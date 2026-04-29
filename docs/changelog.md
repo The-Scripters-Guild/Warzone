@@ -589,6 +589,10 @@ Current state: Mode working fully, with some notable missing features:
 
 - Updated sandbox-warzone to 1.8.0
 
+### 1.0.11
+
+- Updated sandbox-warzone to 1.9.0
+
 
 
 
@@ -1528,7 +1532,10 @@ Adjusted equipment:
     - Weapon Damage: 2.50 → **2.94**
 - Updated vehicle queue checking delay from 0.30 → **1.00** s as it was triggering every time a vehicle was purchased in Warzone.
 
+### 1.9.0
 
+- Adjusted initial created weapon despawn time from 5 → 10 seconds, and adjusted the weapon despawn loop checking frequency from 0.50 → 0.10 seconds to prevent rare cases where a weapon would despawn sooner than expected right after creating it if the player dropped it on the ground within 0.50 seconds of creation
+- Enabled tick rate debug display
 
 
 
@@ -2109,3 +2116,13 @@ Adjusted vehicles:
 - Adjusted Vehicles
   - [31] Impulse Rockethog
     - Tier: 8 → **6**
+
+### 1.4.0
+
+- Adjusted Weapons:
+  - [41] A Go At
+    - Tier: 3 → **2**
+  - [56] Poisoned Pulse Carbine
+    - Tier: 3 → **2**
+  - [95] Disruptor
+    - Tier: 3 → **2**
