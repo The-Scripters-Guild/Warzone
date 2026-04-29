@@ -508,8 +508,8 @@ The configurations that make up each of the custom weapons.
   - Projectile Config: 1
   - Projectile: Rocket Hog Shot
 - Ammo: 10+20 (+25)
-- Point Cost: 3
-- Level: 3
+- Point Cost: 2
+- Level: 2
 - Notes: -
 
 ## [42] ONI Assault Rifle
@@ -673,8 +673,8 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 0.50
 - Config: Combo
 - Ammo: 100%
-- Point Cost: 3
-- Level: 3
+- Point Cost: 2
+- Level: 2
 - Notes: Requires two supercombines to kill.
 
 ## [57] Bassus Artifact
@@ -926,8 +926,8 @@ The configurations that make up each of the custom weapons.
 ## [95] Disruptor
 - Weapon Type: Disruptor
 - Ammo: 12+36
-- Point Cost: 3
-- Level: 3
+- Point Cost: 2
+- Level: 2
 
 ## [96] Energy Sword
 - Weapon Type: Energy Sword
