@@ -593,6 +593,20 @@ Current state: Mode working fully, with some notable missing features:
 
 - Updated sandbox-warzone to 1.9.0
 
+### 1.0.12
+
+- Added tracking for what zone values are captured by each team.
+
+### 1.0.13
+
+- Updated sandbox-warzone to 1.9.1
+- Added unique announcer voicelines to Ultra variant at the start of the match to let players know the match not normal Warzone
+
+### 1.0.14
+
+- Updated sandbox-warzone to 1.10.0
+
+
 
 
 
@@ -1537,8 +1551,19 @@ Adjusted equipment:
 - Adjusted initial created weapon despawn time from 5 → 10 seconds, and adjusted the weapon despawn loop checking frequency from 0.50 → 0.10 seconds to prevent rare cases where a weapon would despawn sooner than expected right after creating it if the player dropped it on the ground within 0.50 seconds of creation
 - Enabled tick rate debug display
 
+### 1.9.1
 
+- Added tracking for dropped weapons in a list
 
+### 1.10.0
+
+- Adjusted weapons:
+  - [29] ONI Turret
+    - Weapon Damage: 0.40 → **0.45**
+  - [80] Scatterbound Heatwave
+    - Ammo: 8+8 → **8+12**
+
+- Integrated equipment dropping feature when purchasing new equipment: Your previous equipment—excluding Legendary equipment—will drop on the ground when purchasing a new equipment. This allows players to stack equipment easier when they have the spare points.
 
 
 
@@ -2126,3 +2151,17 @@ Adjusted vehicles:
     - Tier: 3 → **2**
   - [95] Disruptor
     - Tier: 3 → **2**
+
+### 1.5.0
+
+- Adjusted Weapons:
+  - [8] Scions Vision
+    - Tier: 7 → **6**
+
+- Added player death tracking solution that checks if the player is dead rather than relying on events like "On Player Killed". Accounts for deaths that don't trigger "On Player Killed" such as a fake death from player resetting while being in a dead vehicle.
+- Added feature to distinguish fake death from real death, and added necessary scripts to ensure fake death doesn't cause issues.
+- Added tracking for what zone values are captured by each team, and based on that determining whether the player is allowed to spawn there at the moment of spawn. This prevents accidental or malicious spawning at enemy captured zones.
+
+### 1.6.0
+
+- Added temporary 2-second displacement of weapons near spawn points that a player is queued to spawn on right before the player spawns to prevent involuntary pickup of the dropped weapons when the Warzone weapon grant process happens on player spawn, which may delete all weapons at one point, and allow for involuntary pickup of weapons at that point
