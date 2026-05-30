@@ -111,8 +111,8 @@ The configurations that make up each of the custom weapons.
   - Weapon Damage: 1.70
 - Config: Combo
 - Ammo: 30+100 (+6)
-- Point Cost: 7
-- Level: 7
+- Point Cost: 6
+- Level: 6
 - Notes: -
 
 ## [9] Hardlight Commando
@@ -333,7 +333,7 @@ The configurations that make up each of the custom weapons.
 ## [29] ONI Turret
 - Weapon Type: M247 HMG + Impact Commando
 - Trait Set: 29
-  - Weapon Damage: 0.40
+  - Weapon Damage: 0.45
   - Movement Speed With Turret: 1.10
 - Config: Combo
 - Ammo: 100%
@@ -841,7 +841,7 @@ The configurations that make up each of the custom weapons.
 
 ## [80] Scatterbound Heatwave
 - Weapon Type: Scatterbound Heatwave
-- Ammo: 8+8
+- Ammo: 8+12 (+25)
 - Point Cost: 4
 - Level: 4
 
