@@ -606,6 +606,11 @@ Current state: Mode working fully, with some notable missing features:
 
 - Updated sandbox-warzone to 1.10.0
 
+### 1.0.15
+
+- Updated sandbox-warzone to 1.11.0
+- Added checking for the "drop equipment" message in the prompt widget loop to override the points message
+
 
 
 
@@ -1565,6 +1570,37 @@ Adjusted equipment:
 
 - Integrated equipment dropping feature when purchasing new equipment: Your previous equipment—excluding Legendary equipment—will drop on the ground when purchasing a new equipment. This allows players to stack equipment easier when they have the spare points.
 
+### 1.11.0
+
+- Adjusted equipment:
+  - [11] Health Steal
+    - Shield Scalar: 0.22 → **0.00 (none)**
+    - Health Scalar: 0.90 → **0.80**
+    - Duration: 60 s → **45 s**
+    - VFX: Infected Alpha → **Infected Beta**
+  - [12] Melee Boost (Doomfruit)
+    - Melee Damage: 1.15 → **1.00 (none)**
+    - Melee Recovery Speed: 2.00 → **1.00 (none)**
+    - **Direct Damage Scalar: 2.10**
+    - **Grenade Damage Scalar: 0.476**
+    - **Explosive Damage Scalar: 0.476**
+    - VFX: Infected Beta → **Infected Alpha**
+  - [14] Headshot Shielding
+    - Duration: 60 s → **45 s**
+  - [17] Legendary Threat Sensor
+    - Custom Charge Count: 2 → **3**
+  - [18] Legendary Thruster
+    - Custom Charge Count: 3 → **5**
+
+- Adjusted ability boosts:
+  - [4] Grenadier
+    - Grenade Damage Scalar: 0.91 → **0.85**
+  - Grenade Damage: 1.10 → **1.18**
+  - Grenade Detonation Radius: 1.52 → **1.80**
+
+- Added ability to drop held equipment by holding the custom input while crouched. Legendary equipment can't be dropped.
+
+
 
 
 
@@ -2165,3 +2201,16 @@ Adjusted vehicles:
 ### 1.6.0
 
 - Added temporary 2-second displacement of weapons near spawn points that a player is queued to spawn on right before the player spawns to prevent involuntary pickup of the dropped weapons when the Warzone weapon grant process happens on player spawn, which may delete all weapons at one point, and allow for involuntary pickup of weapons at that point
+
+### 1.7.0
+
+- Adjusted equipment:
+  - [9] Overshield
+    - Point Cost: 3 → **4**
+  - [11] Health Steal
+    - Point Cost: 4 → **3**
+  - [12] Melee Boost (Doomfruit)
+    - Equipment name: Melee Boost → **Doomfruit**
+    - Point Cost: 2 → **4**
+  - [14] Headshot Shielding
+    - Point Cost: 3 → **2**
