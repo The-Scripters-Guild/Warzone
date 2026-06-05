@@ -89,18 +89,16 @@ The configurations that make up each of the ability boosts.
   - Clamber Speed: 1.17
   - Melee Recovery Speed: 1.40
 - Level: 4
-- Notes: Changes the projectile tracking scalar of the [37] Orb Launcher from 0.20 to 0.30, making the shots track more accurately.
+- Notes: -
 
 ## [4] Grenadier
 - Trait Set: grenadier
   - Damage Resistance
-    - Direct Damage Scalar: 1.00
-    - Grenade Damage Scalar: 0.91
-    - Explosive Damage Scalar: 1.00
-  - Grenade Damage: 1.10
-  - Grenade Detonation Radius: 1.52
+    - Grenade Damage Scalar: 0.85
+  - Grenade Damage: 1.18
+  - Grenade Detonation Radius: 1.80
 - Level: 3
-- Notes: -
+- Notes: Grenades deal more damage and have a larger explosion radius. User takes less damage from grenade explosions.
 
 ## [5] Upgraded Walking
 - Trait Set: upgradedWalking

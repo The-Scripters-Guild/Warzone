@@ -133,7 +133,7 @@ The configurations that make up each of the equipment, including custom powerups
 - Custom Charge Count: 1
 - Default Charge Count: 1
 - Duration: 50 s
-- Point Cost: 3
+- Point Cost: 4
 - Level: 1
 - Notes: -
 
@@ -150,28 +150,29 @@ The configurations that make up each of the equipment, including custom powerups
 - Equipment Type: Custom Equipment A
 - Trait Set: healthSteal
   - Vampirism
-    - Shield Scalar: 0.22
-    - Health Scalar: 0.90
+    - Health Scalar: 0.80
+- Custom Charge Count: 1
+- Default Charge Count: 1
+- Duration: 45 s
+- VFX: Infected Beta
+- Point Cost: 3
+- Level: 1
+- Notes: -
+
+## [12] Doomfruit
+- Equipment Type: Custom Equipment B
+- Trait Set: doomfruit
+  - Damage Resistance
+    - Direct Damage Scalar: 2.10
+    - Grenade Damage Scalar: 0.476
+    - Explosive Damage Scalar: 0.476
 - Custom Charge Count: 1
 - Default Charge Count: 1
 - Duration: 60 s
 - VFX: Infected Alpha
-- Point Cost: 1
+- Point Cost: 4
 - Level: 1
-- Notes: -
-
-## [12] Melee Boost
-- Equipment Type: Custom Equipment B
-- Trait Set: strongArm
-  - Melee Damage: 1.15
-  - Melee Recovery Speed: 2.00
-- Custom Charge Count: 1
-- Default Charge Count: 1
-- Duration: 60 s
-- VFX: Infected Beta
-- Point Cost: 2
-- Level: 1
-- Notes: Increased melee damage and faster melee recovery speed.
+- Notes: Increased damage resistance of all sources. Same scalar as Doom Of Reach and Rogue Juggernaut
 
 ## [13] Speed Boost
 - Equipment Type: Custom Equipment C
@@ -200,9 +201,9 @@ The configurations that make up each of the equipment, including custom powerups
   - Headshot Protection: TRUE
 - Custom Charge Count: 1
 - Default Charge Count: 1
-- Duration: 60 s
+- Duration: 45 s
 - VFX: VIP
-- Point Cost: 3
+- Point Cost: 2
 - Level: 1
 - Notes: Makes headshots to unshielded players act like bodyshots. Weapons that can kill an unshielded player in one hit to the head will now require more shots to the head to kill.
 
@@ -230,7 +231,7 @@ The configurations that make up each of the equipment, including custom powerups
 
 ## [17] Legendary Threat Sensor
 - Equipment Type: 
-- Custom Charge Count: 2
+- Custom Charge Count: 3
 - Default Charge Count: 2
 - Point Cost: 2
 - Level: 1
@@ -238,7 +239,7 @@ The configurations that make up each of the equipment, including custom powerups
 
 ## [18] Legendary Thruster
 - Equipment Type: 
-- Custom Charge Count: 3
+- Custom Charge Count: 5
 - Default Charge Count: 3
 - Point Cost: 2
 - Level: 1

@@ -348,8 +348,8 @@ The configurations that make up each of the custom weapons.
   - Movement Speed With Turret: 1.47
   - Damage Resistance
     - Direct Damage Scalar: 2.10
-    - Grenade Damage Scalar: 0.476190476
-    - Explosive Damage Scalar: 0.476190476
+    - Grenade Damage Scalar: 0.476
+    - Explosive Damage Scalar: 0.476
 - VFX: Infected Alpha (11)
 - Config: Combo
 - Ammo: 100%
@@ -415,9 +415,9 @@ The configurations that make up each of the custom weapons.
 - Trait Set (while zoomed): 35
   - Damage Resistance
     - Direct Damage Scalar: 2.10
-    - Grenade Damage Scalar: 0.476190476
-    - Explosive Damage Scalar: 0.476190476
-  - VFX - Overshield
+    - Grenade Damage Scalar: 0.476
+    - Explosive Damage Scalar: 0.476
+  - VFX - Overshield: TRUE
 - VFX (while zoomed): VIP (32)
 - Config: Combo
 - Ammo: 100%
