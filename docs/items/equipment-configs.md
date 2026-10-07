@@ -225,7 +225,7 @@ The configurations that make up each of the equipment, including custom powerups
     - Direct Damage Scalar: 1.00
     - Grenade Damage Scalar: 0.60
     - Explosive Damage Scalar: 0.60
-- Point Cost: 3
+- Point Cost: 4
 - Level: 1
 - Notes: -
 
