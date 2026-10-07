@@ -627,6 +627,9 @@ Current state: Mode working fully, with some notable missing features:
 
 - Updated sandbox-warzone to 1.13.1
 
+### 1.1.1
+
+- Removed skipBarrier event that was used for escaping the enemy Home Base while the doors were closed, since a method using one-way blockers was found that invalidates the script function requirement.
 
 
 
@@ -2296,4 +2299,16 @@ Disabled debug print about weapon displacement from spawn points
 
 ### 1.8.1
 
-- Forgot what was changed; something small
+- Excluded weapons held by players from the logic that temporarily moves weapons under the map that are near spawn points that a player is spawning on.
+
+### 1.8.2
+
+- Adjusted forced respawn timer from 45 → 30 s
+- Added local debug prints in front of the screen when pressing the custom input to open a radial menu, and when the main radial manu opens. This in place to narrow down issues where players can't open the menu.
+
+### 1.9.0
+
+- Adjusted equipment:
+  - [16] Legendary Grappleshot
+    - Point Cost: 3 → **4**
+- Removed local debug prints
