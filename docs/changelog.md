@@ -631,6 +631,10 @@ Current state: Mode working fully, with some notable missing features:
 
 - Removed skipBarrier event that was used for escaping the enemy Home Base while the doors were closed, since a method using one-way blockers was found that invalidates the script function requirement.
 
+### 1.1.2
+
+- Updated sandbox-warzone to 1.14.0
+
 
 
 
@@ -1670,7 +1674,13 @@ Adjusted equipment:
   - [16] Legendary Grappleshot
     - Charge Count: 5 → **3**
 
+### 1.14.0
 
+- Adjusted equipment
+  - [16] Legendary Grappleshot
+    - Charge Count: 3 → **5**
+    - Weapon Damage: 2.20 → **0.85**
+- Added back custom vehicle health regeneration loop for the [11] Alpha Banshee and [17] Moonlight Wasp.
 
 
 
