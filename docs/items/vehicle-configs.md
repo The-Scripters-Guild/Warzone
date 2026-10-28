@@ -78,7 +78,7 @@ Vehicle configuration reference.
 - Weapon Damage: 2.94 (Driver)
 - Point Cost: 9
 - Level: 9
-- Notes: The vehicle is a hidden Vehicle Type that can only be created by cloning the base Vehicle Type. The bomb fires faster and has a larger explosion radius.
+- Notes: The vehicle is a hidden Vehicle Type that can only be created by cloning the base Vehicle Type. The bomb fires faster and has a larger explosion radius. Regenerates 1% health every second via script.
 
 ## [12] Mid Ghost
 - Vehicle Type: Ghost (Cloned)
@@ -127,7 +127,7 @@ Vehicle configuration reference.
 - Weapon Type: [131] Rockethog Weapon + Backdraft Cindershot (Driver)
 - Point Cost: 9
 - Level: 9
-- Notes: Uses a custom vehicle weapon. Has the secondary rockets disabled.
+- Notes: Uses a custom vehicle weapon. Has the secondary rockets disabled. Regenerates 1% health every second via script.
 
 ## [18] Falcon
 - Vehicle Type: Falcon
