@@ -217,10 +217,10 @@ The configurations that make up each of the equipment, including custom powerups
 
 ## [16] Legendary Grappleshot
 - Equipment Type: 
-- Custom Charge Count: 3
+- Custom Charge Count: 5
 - Default Charge Count: 2
 - Trait Set: legendaryGrappleMelee (while grappling)
-  - Weapon Damage: 0.80
+  - Weapon Damage: 0.85
   - Damage Resistance
     - Direct Damage Scalar: 1.00
     - Grenade Damage Scalar: 0.60
